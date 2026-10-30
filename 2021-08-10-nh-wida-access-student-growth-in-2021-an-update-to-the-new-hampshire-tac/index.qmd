@@ -1,0 +1,147 @@
+---
+pagetitle: 'WIDA-ACCESS Student Growth in 2021: An Update to the New Hampshire TAC'
+description: >-
+  WIDA-ACCESS Student Growth in 2021: An Update to the New Hampshire TAC — New Hampshire Department of Education, August 10, 2021. Image-based copy of the
+  original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">WIDA-ACCESS Student Growth in 2021
+An Update to the New Hampshire TAC
+ Damian Betebenner
+ Center for Assessment
+
+ New Hampshire TAC
+ August 10th, 2021</div>
+```
+
+::: notes
+```{=html}
+Scott
+```
+:::
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Background
+• The Center for Assessment has calculated student growth percentiles and
+ student growth targets for WIDA-ACCESS in New Hampshire since 2018.
+• Due to small numbers of students taking WIDA-ACCESS in middle and high
+ school grades, analyses performed have been both cohort and baseline
+ referenced.
+• Baseline SGP growth norms were based upon multi-state WIDA-ACCESS data.
+• New Hampshire accountability uses student growth targets to determine
+ whether students are on track to reach English Language Proficiency (WIDA-
+ ACCESS Level 4.5) within 5 years.
+• The Center for Assessment currently works with 8 states on calculating growth
+ for WIDA-ACCESS assessments.
+ New Hampshire WIDA-ACCESS Growth 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth Calculations in 2020
+• Unlike New Hampshire’s state summative SAS assessment, WIDA-
+ ACCESS was administered in late winter 2020 before the onset of the
+ COVID-19 pandemic.
+• States received accountability waivers due to the suspension of state
+ summative testing. Accountability waivers applied to ELP results as
+ well.
+• Growth analyses were conducted as usual in August 2020.
+
+ New Hampshire WIDA-ACCESS Growth 3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth Calculations in 2021
+• WIDA-ACCESS administration occurred in later winter 2021.
+• Due to the pandemic, states received accountability waivers for 2020-2021.
+• New Hampshire intends to go forward with the calculation of growth as it
+ normally would.
+• Because the administration of WIDA-ACCESS has been without interruption
+ across years and no evidence has thus far emerged of testing anomalies in
+ 2021 Methods of analysis will be consistent with previous years.
+• However, due to the pandemic, New Hampshire may want to consider
+ supplemental analyses with their data beyond normal accountability metrics.
+
+ New Hampshire WIDA-ACCESS Growth 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Baseline SGP growth norms
+• There are numerous indications that student learning was impeded due to
+ numerous factors associated with the pandemic including:
+ • Remote education for some or all of the previous year.
+ • Socio-emotional, financial, or physical impacts due to the pandemic on students,
+ families, and schools.
+• One benefit of baseline growth norms is that the immediately allow the state
+ to see to what extent student learning has slowed over the last year.
+• Historical (i.e., 2020 median SGPs) will be close to 50. Decreases observed in
+ 2021 will, in general, be an indication on how much learning has slowed
+ leading to achievement decreases.
+• These decreases will, in turn, lead to higher targets.
+ New Hampshire WIDA-ACCESS Growth 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">WIDA-ACCESS Results for 2020/2021
+GRADE Median Achievement Level Median SGP Baseline Growth
+K 1.8/1.8 ---/---
+1 3.0/2.9 40.5/46.0
+2 3.4/3.2 68.0/33.0
+3 3.6/3.5 62.0/29.0
+4 4.1/3.9 66.0/36.0
+5 3.9/3.7 60.0/34.5
+6 3.3/3.1 51.0/34.0
+7 3.25/3.2 50.0/39.0
+8 3.3/3.2 47.0/41.5
+9 3.2/3.4 62.0/39.5
+10 3.4/3.3 55.5/50.0
+11 3.3/3.3 43.0/51.5
+12 3.3/3.2 54.0/45.5
+
+ New Hampshire WIDA-ACCESS Growth 6</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary of Results
+• Initial SGP growth analyses of WIDA-ACCESS data indicates larger
+ impacts for elementary grade students, moderate impacts for middle
+ school students, and minor to no impact for high school students.
+• These results are consistent with what has been observed in other
+ states.
+• Though not analyzed here, presentation at NCSA by WIDA suggest
+ drops in achievement are driven by scores on the speaking portion of
+ the test.
+
+ New Hampshire WIDA-ACCESS Growth 7</div>
+```
+
+## About this copy {.archive-about}
+
+*WIDA-ACCESS Student Growth in 2021: An Update to the New Hampshire TAC* — New Hampshire Department of Education, August 10, 2021.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2021-08-10-nh-wida-access-student-growth-in-2021-an-update-to-the-new-hampshire-tac/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-08-10-nh-wida-access-student-growth-in-2021-an-update-to-the-new-hampshire-tac.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-08-10-nh-wida-access-student-growth-in-2021-an-update-to-the-new-hampshire-tac.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

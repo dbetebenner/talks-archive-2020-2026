@@ -1,0 +1,724 @@
+---
+pagetitle: COVID-19 Impact & Recovery
+description: COVID-19 Impact & Recovery — Hawaii Department of Education, December 1, 2022. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Impact &amp; Recovery
+December 2022 Update
+Damian Betebenner &amp; Adam VanIwaarden — Center for Assessment
+
+Hawaii DOE
+December 1st, 2022</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Background
+Introductory Concepts and Terminology</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Pandemic
+• The COVID-19 Pandemic led to, arguably, the largest educational disruption in
+ the history of the United States.
+• Two-and-a-half years into the pandemic and the impacts of the pandemic are still
+ being felt.
+• The pandemic impacted students academically, emotionally, physically, and
+ financially.
+• In this overview, we focus address three things:
+ • Academic Impact: What is it and what was happened to students in Hawaii?
+ • Academic Recovery: What is it and what is happening to students in Hawaii
+ currently?
+ • Now What?: How can impact and recovery data be leveraged to help
+ students going forward? ROI and other evidence-based investigations of
+ what is working.</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">What is Academic Impact?
+• The pandemic and all the ensuing disruptions functioned/
+ functions as an “academic headwind”, impeding (in general)
+ the academic progress of students.
+• Headwinds impede progress in two ways:
+ ▪ They slow one’s rate of progress (speedometer)
+ ▪ And by slowing one’s rate of progress, less distance is traveled (odometer).
+• In education, these two impediments manifest as:
+ ▪ Decrease in student growth (i.e., decrease in velocity = deceleration).
+ ▪ Decrease in student attainment.
+
+ 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Learning acceleration/deceleration
+• Summarization of assessment data (either for diagnostic or
+ accountability purposes) emphasizes two types of data results: Status
+ (i.e., student attainment) and Growth (i.e., student academic progress)
+• With the pandemic, the emphasis has changed to look at the
+ academic impact
+• Impact is synonymous with declaration
+• Recovery is synonymous with acceleration
+ ▪ Deceleration, by definition, is the change in velocity (i.e., a decrease in growth)
+ ▪ Acceleration, by definition, is the change in velocity (i.e., increase in growth
+▪ To understand whether and the extent to which recovery is occurring,
+ one must understand the magnitude of impact.
+
+ 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Assessment Data
+• We investigated the impacts of the pandemic across two time frames:
+ • Impact: Spring 2020 through Summer 2021
+ • Recovery: Fall 2021 through Summer 2022
+• To investigate the impact, we utilized two primary sources of data
+ • State summative assessment data (Smarter Balanced)
+ • Impact: SBA Spring 2019 to Spring 2021 (Smarter Balanced
+ testing canceled in 2020)
+ • Recovery: Smarter Balanced Spring 2021 to Spring 2022
+ • State English Language Proficiency Data (ACCESS)
+ • Impact: ACCESS Winter 2020 to Winter 2021
+ • Recovery: ACCESS Winter 2021 to Winter 2022
+ 6</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Assessment Data
+• We investigated academic impact by using two complementary
+ analyses:
+ • Change in attainment (odometer): Equi-percentile scale score
+ change (all grades)
+ • Change in growth (speedometer): Baseline referenced student
+ growth percentile change (grades for which growth is calculated)
+
+ 7</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Impact
+From Spring 2020 to Summer 2021
+Smarter Balanced: Spring 2019 and Spring 2021 Assessments
+ACCESS: Winter 2020 and Winter 2021 Assessments</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Status Impact
+Black Line: 2019 (pre-covid) scaled-score
+distribution.
+Red line: 2021 scaled-score distribution.
+The impact of the pandemic on student
+achievement (decrease) is illustrated as the area
+between the black line (top) and the red line
+(bottom)
+X-axis: Grade 7 percentile rank
+The horizontal distance between the curves at
+the proficiency cut level (horizontal dashed blue
+line) illustrates the decrease in the percent
+proficient.
+A dotted red line indicates the distribution of
+scores, including missing students derived
+through multiple imputations.</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Status Impact
+Red line: 2021-2019 scaled-score distribution
+difference.
+The impact of the pandemic (difference in the
+distributions) on student achievement
+(decrease) is indicated by the red line.
+X-axis: Grade 7 percentile rank
+Average impact z = -0.18 standard units.
+A dotted red line indicates the distribution of
+scores, including missing students derived
+through multiple imputations.
+Larger impact for high-achieving students than
+lower-achieving students.</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth Impact
+Black Line: (pre-covid) conditional scaled-score
+distribution — Grade 7/2019 conditioned on Grade
+5/2017
+Red line: conditional scaled-score distribution — Grade
+7/2021 conditioned on Grade 5/2019
+The impact of the pandemic on student achievement
+(decrease) is illustrated as the area between the black
+line (top) and red line (bottom)
+X-axis: Grade 5 Scaled Score
+Fixing a level on the x-axis, the vertical distance between
+the curves is the average decrease in scale score
+associated with the pandemic for a student at that 5th
+grade level
+A dotted red line indicates the distribution of scores
+including missing students derived through multiple
+imputation.</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth Impact
+Red line: SGP Difference Grade 7/2021 - Grade
+5/2019 conditional scaled score distribution
+X-axis: Grade 5 Scaled Score
+Median SGP 2019 Grade 7: 50
+Median SGP 2021 Grade 7: 30
+Top quintile students median SGP dropped
+from 50 to 19, whereas bottom quintile
+students dropped from 51 to 46.</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary
+We summarize the academic impact both
+overall and by achievement quintile
+For Grade 7 mathematics, the overall
+academic impact for students was large (z
+decrease = -0.18 and median SGP decrease
+= -20)
+Academic impact was not uniform across
+students. For this grade/content area,
+higher-achieving students were more
+severely impacted than lower-achieving
+students.</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overall Impact
+• ELA
+ • Decreases in the percent proficient ranged from upper single digits in lower grades to
+ lower single digits in higher grades.
+ • Median (baseline) SGPs ranged from mid-30s (lower grades) to lower 40s (higher
+ grades)
+ • Impacts were categorized as moderate to large
+• Mathematics
+ • Decreases in percent proficient were in the lower teens
+ • Median (baseline) SGPs ranged from the mid-teens to the upper 20s.
+ • Impacts were categorized as large to severe
+• Moderate, large, and severe impacts likely require multiple years of above-average (pre-
+ pandemic) growth to recover to where students would have been had the pandemic not
+ occurred.</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA ELA and Mathematics
+Hawaii 2019 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
+Deterioration Recovery
+−40 −25 −15 −5 5 20 Growth Change
+
+−0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
+
+ Modest
+ Calculations suppressed
+ Severe Large Moderate to Improvement
+ None due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+
+ All Students Moderate Moderate Large Moderate Moderate Moderate Severe Large Severe Large Large Large
+
+ Economically Disadvantaged Moderate Moderate Moderate Moderate Moderate Moderate Severe Large Severe Large Moderate Large
+
+ Non−Economically Disadvantaged Moderate Modest to None Large Moderate Moderate Moderate Large Large Severe Severe Large Large
+
+ Special Education Moderate Modest to None Moderate Modest to None Modest to None Modest to None Large Moderate Moderate Moderate Modest to None Modest to None
+
+ Asian Moderate Modest to None Moderate Large Moderate Moderate Large Large Severe Severe Severe Severe
+
+ White Moderate Moderate Large Large Moderate Moderate Large Moderate Severe Large Large Large
+
+ Hispanic Moderate Moderate Large Moderate Moderate Moderate Large Large Large Severe Large Severe
+
+ Native Hawaiian Moderate Moderate Moderate Moderate Moderate Modest to None Severe Large Severe Large Moderate Large
+
+ ELL Moderate Improvement Moderate Moderate Moderate Moderate Large Moderate Large Large Moderate Large
+
+ Female Moderate Moderate Large Moderate Moderate Moderate Severe Large Severe Severe Large Large
+
+ Male Large Moderate Moderate Moderate Moderate Moderate Severe Large Severe Large Moderate Large</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ELA And Mathematics
+Hawaii 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
+Deterioration Recovery
+−40 −25 −15 −5 5 20 Growth Change
+ NOTE: Quintiles for each student
+−0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change subgroup are based upon quintile
+ Modest
+ Calculations suppressed
+ cuts defined for All Students.
+ Severe Large Moderate to Improvement
+ None due to small group N (&lt; 50) Box width indicates group proportion.
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Economically Disadvantaged
+
+ Non−Economically Disadvantaged
+
+ Special Education
+
+ Asian
+
+ White
+
+ Hispanic
+
+ Native Hawaiian
+
+ ELL
+
+ Female
+
+ Male</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery
+From Fall 2021 to Summer 2022
+Smarter Balanced: Spring 2021 and Spring 2022 Assessments
+ACCESS: Winter 2021 and Winter 2022 Assessments</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Phase
+• During the 2021-2022 academic year, schooling returned to normal for most students.
+• The hope was that a return to normal would lead to recovery of the academic losses
+ incurred by students.
+• Because learning slowed during the initial phase of the pandemic, to make up for
+ those losses, learning must accelerate to rates above normal in order to catch up for
+ those losses.
+• Data from two sources was utilized to examine whether recovery is occurring:
+ • Smarter Balanced data from 2021 and 2022
+ • WIDA-ACCESS data from 2021 and 2022
+• We try to distinguish between: Recovery, Stabilization, Continued Deterioration</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Four Academic
+“Recovery”
+Scenarios with
+SBA: V-, U-, L-, and
+No-recovery</div>
+```
+
+## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Baseline SGP: What is Recovery?
+• Given the negative pandemic impacts, any recovery implies learning
+ acceleration.
+• However, not all acceleration can be considered recovery
+• Acceleration versus 2021 versus acceleration versus 2019
+ 99
+ 90
+ 80
+ V-Shaped Recovery (&gt; 60)
+ 70
+ 60 U-Shaped Recovery (50 to 60)
+
+ Median 2021 Baseline SGP 50 Median 2022 Baseline SGP
+ L-Shaped “Recovery” (40 to 50)
+ 40
+ Note: Any median SGP above 30
+ 30 30
+ Downward Spiral (&lt; 40) in 2022 would be considered
+ 20 acceleration. But only values
+ 10
+ above 50 would be sufficient to
+ begin catching students up to
+ 1
+ where they would have been
+ absent the pandemic.</div>
+```
+
+## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Status Recovery
+Black Line: 2021 (covid) scaled-score
+distribution.
+Red line: 2022 scaled-score distribution.
+The recovery from the pandemic on
+student achievement (increase) is
+illustrated as the area between the black
+line (bottom) and the red line (top)
+X-axis: Grade 5 percentile rank
+The horizontal distance between the curves
+at the proficiency cut level (horizontal
+dashed blue line) illustrates the increase in
+percent proficient.</div>
+```
+
+## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Status Recovery
+Red line: 2022 - 2021 scaled-score
+distribution difference.
+The recovery from the pandemic
+(difference in the distributions) on
+student achievement (increase) is
+indicated by the red line.
+X-axis: Grade 5 percentile rank
+Average impact z = +0.23 standard
+units.
+Larger recovery for high achieving
+students than lower achieving students.</div>
+```
+
+## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth Recovery
+Black Line: (pre-covid) conditional scaled-score
+distribution — Grade 5/2019 conditioned on
+Grade 4/2018
+Red line: conditional scaled-score distribution
+— Grade 5/2022 conditioned on Grade 4/2021
+The recovery from the pandemic on student
+achievement (increase) is illustrated as the area
+between the black line (bottom) and the red
+line (top)
+X-axis: Grade 4 Scaled Score
+Fixing a level on the x-axis, the vertical distance
+between the curves is the average increase in
+scale score associated with the recovery for a
+student at that 5th-grade level.</div>
+```
+
+## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth Recovery
+Red line: SGP Difference Grade
+5/2022 - Grade 4/2021
+conditional scaled score
+distribution
+X-axis: Grade 4 Scaled Score
+Median SGP 2019 Grade 5: 50
+Median SGP 2022 Grade 5: 65
+The largest acceleration in
+growth was seen for quintiles 1
+to 4, with median SGPs ranging
+from 65 to 69.</div>
+```
+
+## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary
+We summarize the academic recovery both
+overall and by achievement quintile
+For Grade 5 mathematics, the overall
+academic recovery for students was large (z
+increase = 0.23 and median SGP increase
+(over 2019) = +15)
+Academic recovery was fairly uniform across
+students.</div>
+```
+
+## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA ELA Grade 8
+ Hawaii 2021 to 2022 COVID⌧19 Academic Recovery Special Education Students
+ Growth: Grade 6 2019 to Grade 8 2022 Status: Grade 8 2021 to Grade 8 2022 Summary
+ 2021 Grade 6 Scaled Score Decile Cuts
+ 2021 Grade 8 Scaled Score
+ Observed
+ 10 20 30 40 50 60 70 80 90
+ All Students
+ Academic Impact: Overall and by Quintile
+
+ 2022 Grade 8 Scaled Score Decile Cuts
+
+ Grade 8 Scaled/Standardized Score and Achievement Level Cuts
+ Special Education Students
+ 10 20 30 40 50 60 70 80 90
+ 2200 2400 2500 2700
+ 2700
+ 2018 to 2019 Mean Conditional Status
+ 90 2700
+ 2021 Percentiles (Observed)
+ Overall
+ 2021 to 2022 Mean Conditional Status (Observed) 1 2022 Percentiles (Observed)
+ 2021 to 2022 Growth Impact 80 2021 to 2022 Status Impact Deterioration
+ 2021 and 2022 Mean Scaled Scores
+ 70
+ 0.5 Q1 Q2 Q3 Q4 Q5
+ 2600 60 2600
+ Deterioration Deterioration Deterioration Small N Small N
+
+ 2022 Grade 8 Scaled Score
+ 50 0
+
+ 40
+
+ −0.5
+ 30
+ 2500 2500
+ Participation
+ 20
+ −1
+ −1.13
+ −1.22
+ Total Status Growth
+ 10
+ 2400 2400
+ −1.5 2021 1,251 1,251 (100.0%) 1,153 (92.2%)
+
+ 2022 1,221 1,221 (100.0%) 957 (78.4%)
+ −2
+
+ −2.5
+ 2300 2300 2021: 8.1% Proficient
+
+ −3
+ 2022: 8.0% Proficient
+ Growth/Status Change Legend
+ 2200 2200 −3.5
+ 10 20 30 40 50 60 70 80 90
+ 2200 2300 2400 2500 2700 −30 −7 10 30
+ 0 10 20 30 40 50 60 70 80 90 100
+ 2021 Grade 6 Scaled Score with Achievement Level Cuts Grade 8 Overall and Subgroup Percentile Ranks
+ −0.55 −0.07 0.1 0.2
+
+ Deterioration Stabilization Recovery
+ 2019 &amp; 2022 Grade 8 Median SGPs by Quintile 2021 &amp; 2022 Grade 8 Mean Scaled (Standardized) Scores by Quintile
+ Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+ 2019 Grade 8 Students 42.0 46.0 43.5 48.5 63.0 44.0 2021 Grade 8 Students 2400 (−1.13) 2504 (−1.13) 2568 (−1.13) 2627 (−1.13) 2691 (−1.13) 2448 (−1.13)
+ 2022 Grade 8 Students 34.5 33.0 34.0 39.0 68.0 34.0 2022 Grade 8 Students 2389 (−1.22) 2498 (−1.22) 2561 (−1.22) 2623 (−1.22) 2690 (−1.22) 2438 (−1.22) Calculations suppressed
+ Academic Impact (Observed) −7.5 −13.0 −9.5 −9.5 5.0 −10.0 Change (Observed) −10 (−0.10) −6 (−0.06) −8 (−0.07) −4 (−0.03) −1 (−0.01) −10 (−0.09)
+ Count Observed 2019 777 255 96 18 7 1,153 Count Observed 2021 665 250 87 28 12 1,042
+ due to small group N (&lt; 50)
+ Count Observed 2022 662 202 59 29 5 957 Count Observed 2022 809 247 104 46 15 1,221
+
+ 2022 to 2021 Scaled/Standardized Score Difference
+ 35 35
+ 2022 to 2021 SGP Difference (Observed) 2022 to 2021 Grade 8 Status Change (Observed)
+ 30 30 0.30
+ 2022 to 2021 Conditional Status Difference (Observed) −0.51: Correlation SGP and Status Percentile Change
+
+ Conditional Status/Growth Change
+ 25 0.55: Correlation SGP and Conditional Status Difference 25 0.25
+
+ 20 20 0.20
+
+ 15 15 0.15
+
+ 10 10 0.10
+
+2021 to 2022
+ 5 5 0.05
+
+ 0 0 0.00
+
+ −5 −5 −0.05
+
+ −10 −10 −0.10 −0.09
+
+ −15 −15 −0.15
+
+ −20 −20 −0.20
+
+ −25 −25 −0.25
+ −30 −30 −0.30
+ −35 −35
+ 10 20 30 40 50 60 70 80 90 2200 2400 2500 2700
+
+ 2200 2300 2400 2500 2700 0 10 20 30 40 50 60 70 80 90 100
+
+ 2021 Grade 6 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2021 Norm)</div>
+```
+
+## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overall Recovery
+• Analysis of 2022 Smarter Balanced and ACCESS data indicates many
+ trends in Hawaii to be happy about.
+• In both ELA and mathematics, learning acceleration was at least at the
+ level of stabilization and, in many cases, could be considered genuine
+ recovery.
+• Compared to a dozen other states where the Center conducted these
+ analyses, Hawaii comes out as the best in terms of pandemic recovery.
+• Results from the 2023 data will be critical to assess whether these
+ exemplary rates of learning (beyond what the state experience pre-
+ COVID) are being maintained.</div>
+```
+
+## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Academic Impact/Recovery Across 6 States
+
+Impact &amp; Recovery
+ 20
+ Mathematics
+ HI4 ELA
+ 15 HI6
+ HI5
+
+Hawaii showed large impacts 10
+ HI8
+ HI7
+
+ Recovery
+ HI4
+
+and recovery 5
+ HI3
+ HI5
+ HI6
+ HI8
+
+ HI7
+
+Hawaii’s academic recovery 0 HI3
+
+ Academic Recovery
+results are the best I have seen −5
+
+nationally −10
+
+ −15
+
+A critical “test” of this recovery −20
+
+will be the 2023 results. If rates −25
+
+ Deterioration
+of learning in 2023 extend those −30
+
+of 2022, then Hawaii will have −35
+come out of the pandemic −40
+better than before it started
+ −40 −35 −30 −25 −20 −15 −10 −5 0 5 10 15 20
+ Large Impact Academic Impact Improvement</div>
+```
+
+## {.archive-slide background-image="slides/35.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Now What
+Leveraging Assessment Data to Help Students Overcome COVID-19 Academic Impacts</div>
+```
+
+## {.archive-slide background-image="slides/36.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Exemplar Schools: Impact &amp; Recovery
+• Original discussions about examining ROI were redirected to examine Return on
+ Activities:
+ • Identify outlier schools in terms of impact/recovery.
+ • Investigate whether activities (or lack thereof) could potentially be responsible
+ for the school’s outlier status.
+ • For schools with plausible activities leading to exemplary recovery, investigate
+ links to relevant investment/funding.
+• Step 1 is to find these outlier schools.
+• We investigated schools along two dimensions:
+ • Academic Impact (2019 to 2021 decrease in student learning)
+ • Academic Recovery (2021 to 2022 increase in student learning relative to pre-
+ pandemic 2018-2019 learning)</div>
+```
+
+## {.archive-slide background-image="slides/37.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/38.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/39.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/40.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Exemplar Schools: Impact &amp; Recovery
+• As can be seen, Hawaii and its schools experienced a largely positive 2021-2022
+• We’ve created Excel spreadsheets with the identified schools to help to sort
+ through the many potential criteria to use to select exemplar schools
+• As we discussed in Portsmouth, there was some concern that of low motivation
+ leading to poor results. To examine we filtered on students with very low to very
+ high and very high to very low growth.
+ • Filtering out these students led to non-appreciable changes to the impact-
+ recovery examinations of schools.</div>
+```
+
+## {.archive-slide background-image="slides/41.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Questions</div>
+```
+
+## About this copy {.archive-about}
+
+*COVID-19 Impact & Recovery* — Hawaii Department of Education, December 1, 2022.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2022-12-01-hi-covid-19-impact-and-recovery-2/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2022-12-01-hi-covid-19-impact-and-recovery-2.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2022-12-01-hi-covid-19-impact-and-recovery-2.key)
+- [All talks](https://dbetebenner.github.io/talks/)

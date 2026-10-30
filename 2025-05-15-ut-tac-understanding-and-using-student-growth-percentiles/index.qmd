@@ -1,0 +1,468 @@
+---
+pagetitle: Understanding and Using Student Growth Percentiles
+description: Understanding and Using Student Growth Percentiles — Utah Technical Advisory Committee, May 15, 2025. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Understanding and Using Student Growth
+ Percentiles
+Damian Betebenner and Scott Marion
+The National Center for the Improvement of Educational Assessment
+
+Presentation to the Utah Technical Advisory Committee
+May 19, 2025
+ This work is licensed under a
+ Creative Commons Attribution 4.0
+ International License.</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Background
+• The Utah Assessment and Accountability Directors
+ (assessment and accountability specialists in Utah school
+ districts) sent a request to USBE to have the state switch from
+ a cohort-referenced to a baseline-referenced SGP model.
+• We want to consider the opportunities and tradeoffs
+ associated with their request.
+
+ Utah Growth Model Discussion (5/19/25) 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">According to UAAD….
+• The Advantages of a Baseline-Referenced Model Are:
+ ▪ Immediate Results: Growth calculations can be performed
+ immediately following assessments, allowing data to inform
+ instructional and programmatic decisions promptly…
+ ▪ Stable and Consistent Comparison: Schools will have stable
+ reference points across years, allowing clearer longitudinal
+ analysis…
+ ▪ Enhanced Utility for Planning: Immediate availability of actionable
+ data supports timely and strategic school improvement efforts...
+• We will examine these and other claims.
+
+ Utah Growth Model Discussion (5/19/25) 3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth Percentile Basics
+
+ Utah Growth Model Discussion (5/19/25) 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth Percentiles
+• SGPs describe the relative location of a
+ student’s current score compared to
+ the current scores of students with
+ similar score histories.
+• The location in this reference group of
+ “academic peers” is expressed as a
+ percentile rank. For example, a student
+ earning an SGP of 80 performed as well
+ as or better than 80 percent of her Norm- and Criterion-Referenced Student
+ academic peers. Growth (2009)
+ D. Betebenner
+ Utah Growth Model Discussion (5/19/25) 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Graphic Representative of SGPs
+
+ Utah Growth Model Discussion (5/19/25) 6</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SGPs and Key Questions from Castellano &amp; Ho
+1. What primary interpretation is best supported?
+ ▪ Growth description—SGPs describe the relative performance of students by
+ comparing their current scores to those of a set of students with similar scores
+ on prior grade-level tests. The SGP metric expresses this relative status in
+ terms of percentile ranks.
+ ▪ Growth projection—The SGP model is easily extended to describe the growth
+ necessary for students to reach important milestones (e.g., proficient, CCR).
+2. What is the statistical foundation of the model?
+ ▪ SGPs are calculated using quantile regression, which is a non-parametric
+ regression approach that can better fit non-linear data, especially for high and
+ low performers.
+3. What are the required data features?
+ ▪ SGPs require at least 5,000 students per grade/content area, which is
+ not a problem with any state. At least one prior score is required, but
+ two prior scores improves the accuracy substantially.
+ Utah Growth Model Discussion (5/19/25) 7</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SGPs and Key Questions from Castellano &amp; Ho
+4. What kinds of group-level interpretations are best supported?
+ ▪ SGPs are easily aggregated at the subgroup, school, district, and state levels using
+ medians or means. Medians describe the typical growth at the aggregate level,
+ while means describe the average growth.
+5. Does the model set standards for expected or adequate growth?
+ ▪ The 50th percentile is implicitly defined as typical growth, but some type of
+ standard-setting approach is necessary to define high, typical, low, and any other
+ level of growth (see next slide).
+6. What are the common misinterpretations and unintended
+ consequences?
+ ▪ Student Growth Percentiles are often incorrectly assumed to describe an absolute
+ amount of growth, but they are normative because “growth” is determined with
+ respect to other students in the model with a similar score history.
+ ▪ As intuitive as SGPs seem to be, we often find confusion with things like percent
+ correct.
+ Utah Growth Model Discussion (5/19/25) 8</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Types of SGPs
+• Cohort-referenced SGPs: These are the typical SGPs that are normed
+ within each year such that the median SGP for each grade/content
+ area = 50 at the state level.
+• Adequate Growth Percentiles (AGPs) represent the growth students
+ must make (in a percentile metric) each year to reach a specific score/
+ achievement target (e.g., proficiency) in a specified amount of time.
+• Baseline-referenced SGPs: Unlike coherent-referenced SGPs, baseline-
+ referenced SGPs evaluate current growth against some baseline group
+ (e.g., student growth between 2018 and 2019). In this case, the entire
+ state can demonstrate higher or lower-than-average growth (e.g.,
+ what is the value of a dollar today in 2018 terms?).
+
+ Utah Growth Model Discussion (5/19/25) 9</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Example of Adequate Growth Representation
+
+ Mathematics
+ Advanced
+ Achievement
+ Catch Up DEMO Mathematics
+ Target Scale Score
+
+ Catch Up
+ Target
+ Growth
+ Proficient Level Percentiles
+
+ Very High 81st − 99th
+
+ High 61st − 80th
+ Part Proficient
+ Typical 40th − 60th
+
+ Low 20th − 39th
+
+ Unsatisfactory Very Low 1st − 19th
+
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7
+ 2021−2022 2022−2023 2023−2024 2024−2025 2025−2026
+
+ Scale Score 314 378 399 396
+ Achievement Level
+Achievement Target
+ Unsatisfactory Unsatisfactory Unsatisfactory
+ Proficient (472)
+ Unsatisfactory
+ Proficient (530)
+ Achievement
+ Growth Percentile 51 29 34
+ Growth Level
+ Growth Target
+ Typical Low Low
+ Catch Up (97) Catch Up (99)
+ Growth
+
+ Utah Growth Model Discussion (5/19/25) 10</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Baseline Referenced SGPs
+• Instead of re-norming growth from year-to-year, it is possible to use growth-
+ norms derived from a previous cohorts of students to calculate students’
+ SGPs.
+ • This approach has been utilized in Utah and more than a dozen other
+ states to investigate COVID-19 impact/recovery (learning deceleration/
+ acceleration).
+ • Adequate growth percentiles can be calculated with respect to baseline
+ growth norms.
+ • Mean/Median SGPs can deviate from 50.
+• Baseline SGPs can be calculated correcting for measurement error (SIMEX &amp;
+ ranked SIMEX measurement error correction).
+• Baseline SGPs can be calculated using previous “super-cohorts” of students.
+ Utah Growth Model Discussion (5/19/25) 11</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Baseline Referenced SGPs: Benefits
+• Not a “zero sum game”. All students can demonstrate high
+ growth.
+• Allows for the detection of learning/growth acceleration
+ and deceleration.
+• Allows for the calculation of SGPs using preliminary data
+ (don’t have to wait for entire cohort of data to be available).
+• Unlike cohort-referenced SGPs, growth targets are NOT
+ updated as new growth norms become available because
+ growth norms remain fixed across years.
+ Utah Growth Model Discussion (5/19/25) 12</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Baseline Referenced SGPs: Requirements &amp; Detriments
+• The use of baseline growth norms (to calculate baseline
+ referenced SGPs) requires scale equivalence across years.
+ • Scale drift will impact baseline SGP results.
+ • As such, baseline SGPs can be a valuable asset in
+ identifying scale drift (if growth acceleration is too good
+ to be true, it probably is.)
+• Depending upon how far the state goes in communicating
+ details of the methodology, can be more complicated to
+ explain than cohort referenced SGPs.
+ Utah Growth Model Discussion (5/19/25) 13</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Use Cases for Student Growth
+Percentiles
+We can keep or delete
+slides 12-19
+
+ Utah Growth Model Discussion (5/19/25) 14</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Actual and Potential Uses of SGPs in Utah
+1. Accountability: SGPs are the foundation of the “other
+ academic indicator” and the “equity” indicator.
+2. Monitoring: SGPs have been useful in understanding COVID
+ impacts and rates of recovery. They can also be used to
+ monitor local educational programs.
+3. Evaluation: SGPs (or other student growth measures) can
+ support more defensible causal conclusions than changes in
+ proficiency when evaluating programs, curriculum, or
+ strategies.
+4. Warning: Low SGPs are a red flag warning for students,
+ especially for low-achieving students.
+ Utah Growth Model Discussion (5/19/25) 15</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">How Do SGPs Work in Accountability?
+• There are several ways that SGPs and AGPs can be used in
+ accountability.
+• Utah has used both AGPs (SGTs) and SGPs in accountability for
+ many years.
+• In April 2022, the U.S. Department of Education approved
+ Utah’s 2022 addendum, which proposed indexing points for
+ growth based on SGP only, as shown on the following slide.
+
+ Utah Growth Model Discussion (5/19/25) 16</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth Points in Utah
+ Observed Student Met AGP
+ Student SGP
+ &gt; 80 1.00
+ 60-79 .75
+ 40-59 .50
+ 20-39 .25
+ 0-19 0
+The total number of points across all students is divided by the number of tests. This
+proportion is then multiplied by the total possible points for each subject area (for
+growth) to arrive at the growth points for each school.
+This represents about 1/3 of the total accountability weight for 3-8 schools.
+ Utah Growth Model Discussion (5/19/25) 17</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Monitoring
+• SGPs have been used for helping USBE
+ understand the impact and recovery from
+ the COVID pandemic interruptions.
+• The following slide reports the baseline
+ SPGs to document the academic recovery
+ as of 2023.
+
+ Utah Growth Model Discussion (5/19/25) 18</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2023 SGP Results
+• Mean/Median/Count for baseline referenced SGPs in ELA and
+ mathematics are as follows:
+ ELA Mathematics
+ Grade
+ 2019 2023 2019 2023
+
+ 4 49.9/50.0/46,216 48.8/49.0/42,744 49.9/50.0/46,058 50.3/51.0/42,431
+ 5 50.0/50.0/47,228 57.5/61.0/41,889 50.0/50.0/46,938 47.6/48.0/41,408
+ 6 50.1/50.0/46,635 51.8/53.0/42,463 50.0/50.0/46,430 51.1/52.0/41,894
+ 7 50.1/50.0/44,496 52.2/53.0/41,456 50.0/50.0/41,843 53.1/55.0/40,586
+ 8 50.0/50.0/42,582 49.5/49.0/40,717 49.9/50.0/39,418 45.6/43.0/37,637
+ 9 50.0/50.0/40,303 47.1/46.0/39,092 50.0/50.0/37,523 43.7/41.0/36,068
+ 10 50.1/50.0/38,160 51.9/53.0/34,434 50.0/50.0/35,257 45.0/43.0/34,232
+ Utah Growth Model Discussion (5/19/25) 19</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">What We’re Learning From Growth Results
+
+ Rates of learning, on average, are slightly exceeding or at pre-
+ pandemic rates of growth. The SYSTEM has recovered, and then
+ some.
+
+ Student attainment, on average, is still lagging because rates of
+ learning have not accelerated enough to catch students up. In
+ other words, students have not fully “recovered,” but their levels
+ are, in most grades, close to pre-pandemic levels.
+
+ Utah Growth Model Discussion (5/19/25) 20</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth as an Evaluation Metric
+• Using student longitudinal growth measures in evaluation
+ studies avoids several of these pitfalls.
+• Students serve as their own “control group.” If the growth
+ trajectories change noticeably, we can posit that the program
+ or policy had an effect.
+• We recently evaluated a state’s accountability system. One of
+ the key questions was whether being identified for CSI had an
+ effect on the school’s outcomes.
+ ▪ Aggregate measures of student growth are an important outcome
+ and leading indicator.
+ ▪ In other words, increases in proficiency should follow increases in
+ growth.
+ Utah Growth Model Discussion (5/19/25) 21</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Trade-offs
+
+ Utah Growth Model Discussion (5/19/25) 22</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Advantages of Cohort- and Baseline-Referenced SGPS
+Cohort-Referenced Baseline-Referenced
+• Relatively straightforward to • Able to observe all students/
+ calculate, with a long history schools improve (or decline)
+ of doing so. • Helps to monitor trends in
+ performance over time at the
+• Scale agnostic--can state, district, and school levels
+ transition across • Useful for monitoring potential
+ assessments and scale-drift scale drift and the quality of
+• Accuracy improves equating for the tests
+ considerably with multiple
+ prior scores
+ Utah Growth Model Discussion (5/19/25) 23</div>
+```
+
+## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Challenges with Cohort- and Baseline-Referenced SGPS
+Cohort-Referenced Baseline-Referenced
+• Essentially a zero-sum game • The inferences could change
+ each year, in that the depending on what years we
+ select as the baseline
+ average is always 50
+ • If the scale or the test
+• As easy as we thought it undergoes substantial changes,
+ would be to understand, a new baseline will need to be
+ people still struggle to computed, and this could take
+ understand and act on the several years
+ results • May be harder to explain than
+ cohort-referenced SGPs
+ Utah Growth Model Discussion (5/19/25) 24</div>
+```
+
+## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Revisiting the UAAD Claims and Responses
+• Immediate Results:
+ ▪ The baseline results can be produced faster than the cohort-
+ referenced SGPS, especially with preliminary data.
+• Stable and Consistent Comparison:
+ ▪ Yes, as long as the test scale remains stable, baseline-referenced
+ SGPs are useful for monitoring trends
+• Enhanced Utility for Planning:
+ ▪ This assumption is based on the immediate delivery of results.
+ The enhanced utility is still an open question.
+
+ Utah Growth Model Discussion (5/19/25) 25</div>
+```
+
+## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Additional Considerations
+• RISE is a vertically scaled test, so if the goal is to be able to
+ evaluate progress over time, schools and districts can track
+ their average gain scores
+
+ Utah Growth Model Discussion (5/19/25) 26</div>
+```
+
+## About this copy {.archive-about}
+
+*Understanding and Using Student Growth Percentiles* — Utah Technical Advisory Committee, May 15, 2025.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2025-05-15-ut-tac-understanding-and-using-student-growth-percentiles/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2025-05-15-ut-tac-understanding-and-using-student-growth-percentiles.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2025-05-15-ut-tac-understanding-and-using-student-growth-percentiles.key)
+- [All talks](https://dbetebenner.github.io/talks/)

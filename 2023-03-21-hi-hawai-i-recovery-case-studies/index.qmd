@@ -1,0 +1,239 @@
+---
+pagetitle: Hawai’i Recovery Case Studies
+description: Hawai’i Recovery Case Studies — Hawaii Department of Education, March 21, 2023. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Hawai’i Recovery Case Studies
+Drs. Damian Betebenner, Jeri Thompson, Chris Brandt
+
+March 31, 2023
+
+ This work is licensed under a
+ Creative Commons Attribution 4.0
+ International License.</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Agenda
+1. Methodological Decisions
+
+1. Research Questions and Selected Schools
+
+1. Interviewing Process
+
+1. Preliminary Learning
+
+ Hawai'i Recover Case Studies, March 2023 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">1
+Methodological Decisions
+
+ Hawai'i Recover Case Studies, March 2023 3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Exemplar School Identification
+• We investigated schools along two dimensions:
+ • Academic Impact (2019 to 2021 decrease in student learning)
+ • Academic Recovery (2021 to 2022 increase in student learning relative to pre-
+ pandemic 2018-2019 learning)
+• Goal was to identify exemplar schools associated with 3 different performance
+ profiles:
+ • Large Impact/Large Recovery
+ • Minimal Impact/Large Recover
+ • Large Impact/Poor Recovery
+
+ Hawai'i Recover Case Studies, March 2023 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Exemplar School Identification
+• As discussed during the December TAC meeting, impact
+ • Academic Impact (2019 to 2021 decrease in student learning)
+ • Academic Recovery (2021 to 2022 increase in student learning relative to pre-
+ pandemic 2018-2019 learning)
+• Goal was to identify exemplar schools associated with 3 different performance
+ profiles:
+ • Large Impact/Large Recovery
+ • Minimal Impact/Large Recover
+ • Large Impact/Poor Recovery
+
+ Hawai'i Recover Case Studies, March 2023 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2
+Research Questions and
+Selected Schools
+
+ Hawai'i Recover Case Studies, March 2023 6</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Research Questions
+1. To what extent are there differences between the practices (programs, strategies, or
+ structures) implemented or adopted specifically to support student achievement during the
+ COVID-19 pandemic between high impact/high recovery schools, high impact/no recovery
+ schools, and no impact/high recovery schools?
+2. To what extent were practices provided to improve the well-being of students and their
+ families during the COVID-19 pandemic?
+3. To what extent were practices provided to improve the well-being of staff during the
+ COVID-19 pandemic?
+4. What were the contributing factors (leadership, staffing, other resources) that supported
+ which enhanced the implementation of the practices? What were the barriers (leadership,
+ staffing, other resources) to implementing the practices?
+5. To what extent were the practices or supports continued and monitored after students
+ returned to school?
+ Hawai'i Recover Case Studies, March 2023 7</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Selected Schools
+ Elementary Schools Middle Schools
+ Kalihi-waena Elementary School SEEQS - Charter School
+ Waialae Elementary School Molokai Middle School
+ Mililani Ike Elementary School, Mililani Middle School
+ Mauka Lani Elementary School
+ Waiakeawaena Elementary School
+ Lihikai Elementary School
+ Kaumualii Elementary School
+ Holomua Elementary School
+ Kapa'a Elementary School
+ Waipahu Elementary School
+ Combined Schools Intermediate Schools
+ Lanai High &amp; Elementary School Waipahu Intermediate School
+ Lokelani Intermediate School
+
+ Hawai'i Recover Case Studies, March 2023 8</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">School Status
+Elementary Schools Middle Schools
+• 6 Large Impact/Large Recovery • 1 Large Impact/Poor Recovery
+• 3 Minimal Impact/Large Recovery • 1 Minimal Impact/Large Recovery
+• 1 Large Impact/Poor Recovery • 1 Large Impact/Large Recovery
+
+ Intermediate Schools
+Combined School • 1 Large Impact/Large Recovery
+• Large Impact/Large Recovery • 1 Large Impact/Poor Recovery
+
+ Hawai'i Recover Case Studies, March 2023 9</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">3
+Interviewing Process
+
+ Hawai'i Recover Case Studies, March 2023 10</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Method
+● 90-minute open-ended interviews with school principals to
+ examine practices implemented across 3 milestones
+ ○ Spring 2020 shutdown
+ ○ 2020-21
+ ○ 2021-22 school years
+● “Practices” included policies, programs, and strategies implemented to
+ address:
+ ○ Students’ academic achievement
+ ○ Student and family well-being
+ ○ Staff well-being
+
+ Hawai'i Recover Case Studies, March 2023 11</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Method
+● 7 of 16 interviews completed to date
+ ○ X high impact/high recovery
+ ○ X high impact/low recovery
+ ○ X low impact/low recovery
+
+● Qualitative content analysis
+
+ 12</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">4
+Preliminary Learning
+
+ Hawai'i Recover Case Studies, March 2023 13</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Leadership Does Matter!
+1. Distributive leadership works well in “normal” situations, authoritative leadership is
+ necessary during a crisis.
+ a. Everyone was in crisis mode from March 2020-August 2020
+ b. Strong leadership adapted existing / implemented new programs quickly and effectively
+2. Funding was not a benefit or limitation for recovery
+ a. Strong leadership went into the community, school funds, foundations – found the
+ money when needed or paid out of their own pocket for food distribution, providing
+ masks, providing other health services
+ b. Strong leadership focused on the whole school community including parents and staff
+3. Data use for identifying struggling students was flexible
+4. Students this year have substantially more social, emotional and mental health issues
+
+ 14</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">www.nciea.org
+
+ This work is licensed under a
+ Creative Commons Attribution 4.0
+ International License.</div>
+```
+
+## About this copy {.archive-about}
+
+*Hawai’i Recovery Case Studies* — Hawaii Department of Education, March 21, 2023.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2023-03-21-hi-hawai-i-recovery-case-studies/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-03-21-hi-hawai-i-recovery-case-studies.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-03-21-hi-hawai-i-recovery-case-studies.key)
+- [All talks](https://dbetebenner.github.io/talks/)

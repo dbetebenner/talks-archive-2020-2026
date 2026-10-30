@@ -1,0 +1,1448 @@
+---
+pagetitle: 'Student Growth Percentiles: An Overview'
+description: 'Student Growth Percentiles: An Overview — BC Russell, December 5, 2023. Image-based copy of the original slides.'
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Student Growth Percentiles
+Student Growth Percentiles and Accountability
+ References
+
+ Student Growth Percentiles: An Overview
+
+ Damian W. Betebenner &amp; Adam VanIWaarden
+
+ National Center for the Improvement of Educational Assessment
+ Dover, NH
+
+ Chestnut Hill, MA December 5th, 2023
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Student Growth Percentiles About me
+ Student Growth Percentiles and Accountability
+ References
+
+About Me
+
+ Dr. Damian Betebenner, PhD
+ - Senior Associate at the Center for Assessment (NCIEA).
+ - Developed student growth percentiles and percentile growth
+ trajectories to help states and educational associations employ
+ student growth in decision making [Betebenner, 2008,
+ Betebenner, 2009, Betebenner, 2012].
+ - Currently refining and sharing these techniques with more than
+ 25 states in the United States, testing companies (Renaissance
+ Learning), and other countries including Australia.
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Student Growth Percentiles About me
+ Student Growth Percentiles and Accountability
+ References
+
+About Me
+
+ Dr. Damian Betebenner, PhD
+ - Educational Background: PhD in Education Measurement from
+ the University of Colorado, Boulder and a PhD in Mathematics
+ from the University of Wyoming.
+ - Began using R in 1999 to produce high quality graphics and it
+ has been seminal in expanding my work.
+ - I’m more of a &quot;data scientist&quot; than a statistician. SGPs are more
+ of a &quot;data science&quot; approach to examining student academic
+ growth than a &quot;statistician&quot; approach.
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Student Growth Percentiles About me
+ Student Growth Percentiles and Accountability
+ References
+
+History
+ 2004-2007 Assistant Professor Boston College,
+ ERME.
+ 2012 Worked with 5 states on
+ 2005-2007 Began development of the Colorado
+ co-developing SchoolView interactive
+ Growth Model (Student Growth
+ visualizations to help better
+ Percentiles).
+ communicate student growth
+ 2008 Successful application of Colorado
+ percentile results.
+ Growth Model (criterion-referenced
+ 2014 Built SIMEX measurement error
+ component) as part of growth model
+ correction into SGP
+ pilot program.
+ model [Shang et al., 2015]
+ 2009-2010 Began/continued work with
+ 2014 Extended analyses to accommodate
+ approximately two-dozen other states
+ time-dependency allowing for SGP
+ on developing state growth models.
+ modelling of interim assessments.
+ 2010 Worked with states on incorporating
+ 2017 Extended SGP package to better
+ growth into RttT applications and with
+ accommodate assessment
+ successful states on their use
+ transitions.
+ (Massachusetts, Georgia, New York,
+ 2015-present Work with about 20 states in different
+ Rhode Island).
+ capacities to calculate SGPs.
+ 2011 Worked with a number of states on
+ 2020-2023 Utilized SGPs to examine academic
+ incorporating student growth
+ impact and recovery due to the
+ percentiles into the ESEA waiver
+ COVID-19 pandemic.
+ applications and teacher evaluation
+ systems.
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Student Growth Percentiles About me
+ Student Growth Percentiles and Accountability
+ References
+
+About the growth model
+ The Student Growth Percentiles Methodology is a norm- and
+ criterion-referenced growth analysis method [Betebenner, 2009].
+ The norm-referenced component of the model is the student growth
+ percentile which indicates the relative growth a student makes.
+ The criterion-referenced component of the model is the student
+ growth percentile target which indicates the amount of growth
+ required by the student to reach/maintain desirable achievement
+ goals in a specified time frame. For example, catching-up to
+ proficiency within 3 years.
+ The norm- and criterion-referenced components together allow
+ stakeholders to understand what is, what should be, and what is
+ reasonable simultaneously.
+ The goal of the metric was to assist states to move beyond debates
+ over what thermometer is best to discussions of how best to use the
+ thermometer.
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Student Growth Percentiles About me
+ Student Growth Percentiles and Accountability
+ References
+
+Built to maximize sharing
+ A number of analytic tools (for doing calculations) and visualization tools
+ have been developed with the goal to promote maximum sharing.
+ Data isn’t valuable! It’s what one does with data that is potentially
+ valuable!
+ The analytic tools to calculate all the quantities associated with
+ student growth percentiles are open source and freely available to
+ all states [Betebenner et al., 2023]. sgp.io
+ Conduct training sessions at national conferences to help others
+ calculate these quantities on their own.
+ Build enhanced visualization and reporting systems to make data
+ come alive to stakeholders, allow for stakeholder collaboration and
+ sharing, and lead to better stakeholder engagement with data.
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Different Models/Different Questions
+ Student Growth Percentiles
+ It’s all about conversations starting with questions
+ Student Growth Percentiles and Accountability
+ References
+
+Guiding Questions
+ Growth models address specific questions
+ Different growth analysis techniques are good at answering
+ different questions.
+ It is critical to understand these different questions.
+ Different questions lead to different conversations which lead to
+ different uses and outcomes.
+
+ Changing conversations about education
+ Starting with the right questions simplifies development and
+ motivating the proper use of the growth model results.
+ The questions set the table for those conversations.
+ Yen (2007) for an excellent list of questions derived from a
+ survey of parent, teachers and administrators
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Different Models/Different Questions
+ Student Growth Percentiles
+ It’s all about conversations starting with questions
+ Student Growth Percentiles and Accountability
+ References
+
+What are the relevant questions for parents?
+
+ Yen (2007), from a state survey of parents, teachers and administrators,
+ compiled a list of frequently voiced questions/concerns by stakeholder
+ group.
+
+ Parent Questions
+ Did my child make a year’s worth of progress in a year?
+ Is my child growing appropriately toward meeting state
+ standards?
+ Is my child growing as much in Math as Reading?
+ Did my child grow as much this year as last year?
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Different Models/Different Questions
+ Student Growth Percentiles
+ It’s all about conversations starting with questions
+ Student Growth Percentiles and Accountability
+ References
+
+What are the relevant questions for teachers?
+
+ Yen (2007), from a state survey of parents, teachers and administrators,
+ compiled a list of frequently voiced questions/concerns by stakeholder
+ group.
+
+ Teacher Questions
+ Did my students make a year’s worth of progress in a year?
+ Did my students grow appropriately toward meeting state
+ standards?
+ How close are my students to becoming Proficient?
+ Are there students with unusually low growth who need special
+ attention?
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Different Models/Different Questions
+ Student Growth Percentiles
+ It’s all about conversations starting with questions
+ Student Growth Percentiles and Accountability
+ References
+
+What are the relevant questions for administrators?
+ Yen (2007), from a state survey of parents, teachers and administrators,
+ compiled a list of frequently voiced questions/concerns by stakeholder
+ group.
+
+ Administrator Questions
+ Did the students in our district/school make a year’s worth of
+ progress in all content areas?
+ Are our students growing appropriately toward meeting state
+ standards?
+ Does this school/program show as much growth as that one?
+ Can I measure student growth even for students who do not
+ change proficiency categories?
+ Can I pool together results from different grades to draw
+ summary conclusions?
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Different Models/Different Questions
+ Student Growth Percentiles
+ It’s all about conversations starting with questions
+ Student Growth Percentiles and Accountability
+ References
+
+What are the relevant questions for policy makers?
+
+ Policy Maker Questions
+ Can/how should student growth be used in judgments of
+ educator quality?
+ Can/how should student growth be used in judgments of
+ education (e.g., school) quality?
+ Are students on track for career and college readiness?
+ What adjustments for student demographics need to be
+ considered?
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Different Models/Different Questions
+ Student Growth Percentiles
+ It’s all about conversations starting with questions
+ Student Growth Percentiles and Accountability
+ References
+
+Growth &amp; Accountability
+
+ Growth versus Status
+ Enthusiasm for growth in accountability stems from the belief
+ that learning (i.e., growth) and teacher/school quality are more
+ closely related than status (i.e., attainment).
+ Enthusiasm for growth also stems from its potential diagnostic
+ uses.
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Different Models/Different Questions
+ Student Growth Percentiles
+ It’s all about conversations starting with questions
+ Student Growth Percentiles and Accountability
+ References
+
+Growth &amp; Accountability
+
+ Fundamental Premise
+ “Good” schools/teachers sustain learning (i.e., bring about growth in
+ student achievement) in excess of that found at “bad” schools/teach-
+ ers.
+
+ The inherent believability of this premise is at the heart of current
+ enthusiasm to incorporate growth models into accountability
+ systems.
+ Note that current accountability systems (from NCLB through ESSA)
+ invoke the same premise (with achievement substituted for growth).
+ “Good schools/teachers” are commonly referred to as highly
+ effective schools/teachers.
+ It is critical to understand the distinction between growth and
+ effectiveness.
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Different Models/Different Questions
+ Student Growth Percentiles
+ It’s all about conversations starting with questions
+ Student Growth Percentiles and Accountability
+ References
+
+Value-Added &amp; Growth
+ Who or what is responsible for student
+ Often, analyses of student growth attempt to determine the amount
+ of student progress/growth that can be attributed to the school or
+ teacher.
+ Called Value-added analyses, these techniques attempt to estimate
+ the teacher/school contribution to student achievement.
+ Value-added models quantify effectiveness—purporting to measure
+ the impact on achievement that this school or teacher would have,
+ on average, upon similar students assigned to them.
+ These models and their effectiveness claims are controversial for a
+ number of reasons (EPI (2010), NRC/NAE (2010), Braun (2005),
+ Rubin and Stuart (2004)).[Economic Policy Institute, 2010,
+ National Research Council and National Academy of Education, 2010,
+ Braun, 2005, Rubin et al., 2004]
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Different Models/Different Questions
+ Student Growth Percentiles
+ It’s all about conversations starting with questions
+ Student Growth Percentiles and Accountability
+ References
+
+Value-Added &amp; Growth
+
+ Who or what is responsible for student
+ Value-added models are better described as effectiveness models
+ than as growth models.
+ Value-added is an inference – a causal conclusion drawn from the
+ data.
+ Value-added isn’t a type of statistical model or type of assessment.
+ All growth models can be used for value-added purposes but not
+ vice-versa.
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Different Models/Different Questions
+ Student Growth Percentiles
+ It’s all about conversations starting with questions
+ Student Growth Percentiles and Accountability
+ References
+
+Descriptive Accountability
+
+ Accountability system results can have value without making causal
+ inferences about school quality, solely from the results of student
+ achievement measures and demographic characteristics. Treating the
+ results as descriptive information and for identification of schools that
+ require more intensive investigation of organizational and instructional
+ process characteristics are potentially of considerable value. Rather than
+ using the results of the accountability system as the sole determiner of
+ sanctions for schools, they could be used to flag schools that need more
+ intensive investigation to reach sound conclusions about needed
+ improvements or judgments about quality [Linn, 2008, p. 21].
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction Describing Student Growth
+ Student Growth Percentiles Student Growth Percentiles
+ Student Growth Percentiles and Accountability Criterion Referenced Growth
+ References
+
+Describing Student Growth
+
+ The concept of student growth isn’t as difficult to understand and
+ popular perception suggests.
+ Calculations may be complicated but knowing how to calculate
+ student growth is not synonymous with understanding student
+ growth:
+ Thenumber π (pi=3.14159...)is difficult to calculate but is simple to
+ understand conceptually.
+ Height and weight percentiles associated with children are difficult to
+ calculate but are simple to understand conceptually.
+ Computational details are important but often obscure a simple
+ conceptual basis.
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction Describing Student Growth
+ Student Growth Percentiles Student Growth Percentiles
+ Student Growth Percentiles and Accountability Criterion Referenced Growth
+ References
+
+Describing Student Growth
+
+ Measuring student growth, even with a vertical scale, is not a simple
+ task.
+ Some believe a vertical scale simplifies the task of measuring
+ student growth.
+ Even with an interval (or ratio) scale, growth is not easy to interpret.
+ Consider, for example, height.
+ A child might grow 4 inches between ages 3 and 4.
+ 4 inches is a well understood quantity.
+ The 4 inch increase becomes really meaningful only when understood
+ alongside the growth of other 3 to 4 year olds.
+ Student growth percentiles were developed to provide a normative
+ context for describing student growth.
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction Describing Student Growth
+ Student Growth Percentiles Student Growth Percentiles
+ Student Growth Percentiles and Accountability Criterion Referenced Growth
+ References
+
+The Illusion of Vertical Scales
+
+ Personal Bests in 2022 and 2023 for Two High Jumpers
+ World Record: 6 feet, 10 1/4 inches
+ 8
+ Whose high jump changed
+ more? Explain your answer. 7 6 feet, 9 inches
+ Judy
+ 6 feet, 7 inches
+
+ Height (feet)
+ Whose high jump change is 6
+
+ more remarkable? Explain your 5
+
+ answer. 4
+ 4 feet, 0 inches
+ Anna
+
+ Which high jumper improved 3
+ 3 feet, 6 inches
+
+ more? Explain your answer. Spring 2022 Spring 2023
+
+ Track Season
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">200
+ 800
+ 400
+ 600 co
+ 20
+ 22 600 re
+ 400
+ S S
+ le
+ ca le ca
+ S
+ 800
+ 200
+ S re 23
+ 20
+ co</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">200
+ 800
+ 400
+ 600 co
+ 20
+ 22 600 re
+ 400
+ S S
+ le
+ ca le ca
+ S
+ 800
+ 200
+ S re 23
+ 20
+ co</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">200
+ 800
+ 400
+ 600 co
+ 20
+ 22 600 re
+ 400
+ S S
+ le
+ ca le ca
+ S
+ 800
+ 200
+ S re 23
+ 20
+ co</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">800
+ co
+ re
+ th
+ 600
+ S
+ ro
+ w
+ le
+ i le
+ G
+ ca
+ nt
+ er
+ ce S
+ P
+ 23
+ 75
+ th
+ 400
+ 20
+75%
+ 200
+ 800
+ re
+ 600 co
+ S
+ le
+ ca
+ 400 S
+ 22
+ 20
+ 200</div>
+```
+
+## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">s:
+ Peer 6 0 0
+ c =
+ m i re
+ ade Sco
+ Ac cale
+ 2S
+ 202 75% 75th
+ er
+200 P i
+
+ 800
+ ce nt
+ le G
+ wth
+ ro
+ 400
+ 600 co
+ 20
+ 22 600 re
+ 400
+ S le S
+ ca le S ca
+ 800
+ 200
+ S re 20 23
+ co</div>
+```
+
+## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Th
+ e
+ is d 75th
+ s: dat erive perc
+ eer 6 0 0
+ d e
+ acaa and from ntile
+ c P = dem co a cu
+ ic p vers ll the t
+ m i re eer all
+ ade Sco g ro
+ Ac cale
+ ups
+
+ 2S
+ 202 75% 75th
+ er
+200 P i
+
+ 800
+ ce nt
+ le G
+ wth
+ ro
+ 400
+ 600 co
+ 20
+ 22 600 re
+ 400
+ S le S
+ ca le S ca
+ 800
+ 200
+ S re 20 23
+ co</div>
+```
+
+## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">s:
+ eer 4 0 0
+ cPe=
+ Th
+ e
+ m i r is d 75th
+
+ ade Sco
+ dat erive perc
+ d e
+ acaa and from ntile
+ Ac cale dem co a cu
+ ic p vers ll the t
+ 2S eer all
+
+ 202
+ g ro
+ ups
+
+ 75%
+ 75 th
+ er
+200
+ P i
+ nt
+
+ 800
+ ce le G
+ wth
+ ro
+
+ 400
+ 600 co
+ 20
+ 22 600 re
+ 400
+ S S
+ le
+ ca le ca
+ S
+ 800
+ 200
+ S re 23
+ 20
+ co</div>
+```
+
+## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Th
+ is e
+ dade 75
+ a c t a r iv t h
+ a d a ed p
+ emnd f er
+ ic coromce
+ peve natil
+ errs ll e c
+ gralltheut
+ ou
+ ps
+
+ % 7 5 th P
+20 75 er
+ ce
+ 0 nt 0
+ 80
+ il e
+ Gr
+ ow
+ th
+
+ 40
+ 20 0 0
+ 60
+ 22 e
+ Sc or
+ al 60
+ 0 Sc
+ e 0 e
+ Sc 40 al
+ or Sc
+ e 3</div>
+```
+
+## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Th
+ is e
+ dade 75
+ a c t a r iv t h
+ a d a ed p
+ emnd f er
+ ic coro cmen
+ peve atil
+ errs ll e c
+ gralltheut
+ ou
+ ps
+
+ % 75
+ 75 th
+ Pe
+20 r ce
+ 0 nt
+ 0
+ 80
+ il e
+ Gr
+ ow
+ th
+
+ 40
+ 20 0 0
+ 60
+ 22 e
+ Sc or
+ al 60
+ 0 Sc
+ e 0 e
+ Sc 40 al
+ or Sc
+ e 80 23
+ 0
+ 20
+ 0 20</div>
+```
+
+## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Th
+ is e
+ dade 75
+ a c t a r iv t h
+ a d a ed p
+ emnd f er
+ ic coro cmen
+ peve atil
+ errs ll e c
+ gralltheut
+ ou
+ ps
+
+ % 7 5 th P
+20 75 er
+ ce
+ 0 nt 0
+ 80
+ il e
+ Gr
+ ow
+ th
+
+ 40
+ 20 0 0
+ 60
+ 22 e
+ Sc or
+ al 60
+ 0 Sc
+ e 0 e
+ Sc 40 al
+ or Sc
+ e 80 23
+ 0
+ 20
+ 0 20</div>
+```
+
+## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction Describing Student Growth
+ Student Growth Percentiles Student Growth Percentiles
+ Student Growth Percentiles and Accountability Criterion Referenced Growth
+ References
+
+Student Growth Percentiles
+ Should we be surprised with a child’s current achievement given their prior
+ achievement?
+ Given a student’s prior scale scores and the associated conditional
+ density, their current scale score corresponds to a percentile of that
+ conditional distribution.
+ This percentile is the student’s growth percentile.
+ Growth percentiles are closely related to estimating the probability of
+ observing a student’s current achievement taking account of their
+ past achievement:
+
+ Pr(Current Achievement |Past Achievement ).
+ As such, growth percentiles describe the rarity of a student’s current
+ achievement conditional upon their prior achievement.
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction Describing Student Growth
+ Student Growth Percentiles Student Growth Percentiles
+ Student Growth Percentiles and Accountability Criterion Referenced Growth
+ References
+
+Student Growth Percentiles
+
+ Should we be surprised with a child’s current achievement given their
+ prior achievement?
+ Student growth percentiles answer this question.
+ Consider a low achieving student with 90th percentile growth and a
+ high achieving student with 10th percentile growth.
+ The low achieving student grew at a rate exceeding 90 percent of
+ similar students.
+ The high achieving student grew at a rate exceeding just 10 percent of
+ similar students.
+ The low achiever’s growth is more exemplary (probabilistically) than
+ the high achiever’s.
+ Judgments about the adequacy of student growth require external
+ criteria.
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction Describing Student Growth
+ Student Growth Percentiles Student Growth Percentiles
+ Student Growth Percentiles and Accountability Criterion Referenced Growth
+ References
+
+Model for Student Growth Percentiles
+
+ Student growth percentiles are calculated using quantile regression
+ with B-spline smoothing, a generalized additive model.
+ Quantile regression is used to model the complete distribution of the
+ response variable (current achievement)
+ B-spline smoothing is uses to accommodate non-linearity and
+ heteroscedasticity of the data.
+ The model/method is descriptive and all about data fit—it’s a data
+ mining procedure.
+ The model quantifies distance = rate · time probabilistically.
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction Describing Student Growth
+ Student Growth Percentiles Student Growth Percentiles
+ Student Growth Percentiles and Accountability Criterion Referenced Growth
+ References
+
+Model for Student Growth Percentiles
+
+ Conditional Decile Regression Curves Conditional Decile Regression Lines
+ 2006−07 Math: Grade 5 versus 6 2006−07 Math: Grade 5 versus 6
+
+ 1000 Unsatisfactory Partially Prof. 1000 Unsatisfactory Partially Prof.
+ Proficient Proficient
+
+ Partially Prof. Proficient Advanced Partially Prof. Proficient Advanced
+
+ 800 800
+
+ Grade 6 Scale Score Grade 6 Scale Score
+ 600 600
+
+ 400 400
+
+ 200 200
+
+ 200 400 600 800 1000 200 400 600 800 1000
+
+ Grade 5 Scale Score Grade 5 Scale Score
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction Describing Student Growth
+ Student Growth Percentiles Student Growth Percentiles
+ Student Growth Percentiles and Accountability Criterion Referenced Growth
+ References
+
+Establishing growth-standards based upon growth-norms
+
+ The most common adequacy criterion are judging growth toward an
+ achievement goal like proficiency, English Language master (i.e.,
+ growth-to-standard).
+ Results from student growth percentile analyses can be used to
+ calculate percentile growth trajectories for each student.
+ These trajectories indicate what future rates of growth will lead to
+ and are used to make adequacy judgments.
+ This growth-to-standard approach was approved as part of
+ Colorado’s successful application to the Growth Model Pilot
+ Program.
+ Growth-to-standard is most often used for English Language
+ Proficiency testing (e.g., WIDA-ACCESS in Massachusetts)
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/35.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Devyn Mendoza Sample School
+
+How to interpret this student
+growth &amp; achievement report Mathematics
+ Advanced Achievement
+ DEMO Catch Up
+ Target
+ DEMO Mathematics
+ Catch Up Scale Score
+ Scale Score Target
+
+ Growth
+ Proficient Level Percentiles
+
+ DEMO Very High 81st − 99th
+
+ Achievement Part Proficient
+ High 61st − 80th
+
+ Levels Typical 40th − 60th
+
+ Low 20th − 39th
+
+ Unsatisfactory Very Low 1st − 19th
+
+ Student
+ Grade 5 Grade 6 Grade 7 Grade 8 Grade 9
+ Growth 2018−2019 2019−2020 2020−2021 2021−2022 2022−2023
+
+ Percentile Scale Score 493 538 519 570
+ Achievement Level
+ Achievement Target
+ Part Proficient Proficient Part Proficient
+ Proficient (577)
+ Part Proficient
+ Proficient (599)
+ Achievement
+ Growth Percentile 82 15 71
+ Catch Up/Keep Up Growth Level Very High Very Low High
+ Growth
+ Growth Target Catch Up (83) Catch Up (96)
+ Move Up/Stay Up
+ Targets
+
+ Suggested Uses
+ Advanced Reading
+ Move Up Achievement
+ Target
+ DEMO Reading
+ Scale Score
+ Review past growth to assess
+ student academic progress toward Keep Up Growth
+ Proficient Catch Up
+ DEMO achievement goals. Target Target
+ Level Percentiles
+ Develop remediation or enrich− Very High 81st − 99th
+ ment plans based on rate of
+ High 61st − 80th
+ growth needed to reach higher Part Proficient Typical 40th − 60th
+ DEMO achievement levels.
+ Low 20th − 39th
+ Identify the rate of progress
+ needed in order to reach or Unsatisfactory Very Low 1st − 19th
+
+ maintain proficient status
+ Grade 5 Grade 6 Grade 7 Grade 8 Grade 9
+ on the DEMO next year. 2018−2019 2019−2020 2020−2021 2021−2022 2022−2023
+ Scale Score 653 631 617 649
+ Achievement Level
+ Achievement Target
+ Proficient Proficient Part Proficient
+ Proficient (632)
+ Proficient
+ Proficient (642)/Advanced (691)
+ Achievement
+ Growth Percentile 27 10 56
+ Growth Level
+ Growth Target
+ Low Very Low Typical
+ Catch Up (29) Keep Up (25)/Move Up (99)
+ Growth
+
+For more information please visit the Student Growth Percentiles Package (the SGP Package) at www.sgp.io or contact dbetebenner@nciea.org
+Cooperatively developed by the SGP Package &amp; the Center for Assessment, Inc. Distributed by the SGP Package.</div>
+```
+
+## {.archive-slide background-image="slides/36.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Demonstration: 2022−2023 Mathematics
+ Norm &amp; Criterion Referenced Growth &amp; Achievement
+
+ 750
+
+ 700 99
+
+ College Ready
+
+ Percentile Growth Trajectory to College Readiness
+ 650 90
+
+ 95
+ 80
+ 600
+
+ 90
+
+ 85
+ 550
+ 60
+
+Scale Score
+
+ 2022−2023 Achievement Percentile
+ 80
+ 75
+
+ Not College Ready
+ 70 50
+ 500 65
+ 60
+ 55
+ 50
+ 45 40
+ 40
+ 450
+ 35
+ 30
+ 25
+ 20
+ 400
+ 15
+
+ 10 10
+ 20
+
+ 350
+ 5
+
+ 300
+ SGP trajectories for a 3rd grade student starting from the Level 1/Level 2 cut.
+ 1
+
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10</div>
+```
+
+## {.archive-slide background-image="slides/37.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Student Growth Percentiles School Accountability
+ Student Growth Percentiles and Accountability
+ References
+
+Going from Students to Schools
+
+ It’s of interest to examine schools where students demonstrate, on
+ average, extraordinarily high and low student growth.
+ To summarize the student growth percentiles associated with a
+ school (or other grouping) calculate the median of the student
+ growth percentiles.
+ If students were randomly assigned to schools, expect to see a
+ median of 50.
+ Values greatly above or below 50 are of interest in identifying best
+ practices or providing extra support.
+ Examining growth with achievement sheds new light on school
+ performance.
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## {.archive-slide background-image="slides/38.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">DEMONSTRATION School Performance
+ DEMO Growth &amp; Prior Achievement 2022−2023 DEMO Mathematics
+
+2021−2022 Prior Percent at/above Proficient
+ Higher Achievement Higher Achievement School Size
+ 90
+
+ Lower Growth Higher Growth 50 Students
+ 100 Students
+ 80
+ 250 Students
+ 500 Students
+ 70
+
+ 60
+
+ 50
+
+ 40
+
+ 30
+
+Achievement
+ 20
+
+ 10
+ Lower Growth Higher Growth Summary Statistics
+ Correlation: 0.43
+ Lower Achievement Lower Achievement Correlation (N ≥ 10): 0.43
+
+ 0 10 20 30 40 50 60 70 80 90 100
+
+ Growth 2022−2023 Median Student Growth Percentile</div>
+```
+
+## {.archive-slide background-image="slides/39.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">DEMONSTRATION School Performance
+ DEMO Growth &amp; Prior Achievement 2022−2023 DEMO Reading
+
+2021−2022 Prior Percent at/above Proficient
+ Higher Achievement Higher Achievement School Size
+ 90
+
+ Lower Growth Higher Growth 50 Students
+ 100 Students
+ 80
+ 250 Students
+ 500 Students
+ 70
+
+ 60
+
+ 50
+
+ 40
+
+ 30
+
+Achievement
+ 20
+
+ 10
+ Lower Growth Higher Growth Summary Statistics
+ Correlation: 0.39
+ Lower Achievement Lower Achievement Correlation (N ≥ 22): 0.39
+
+ 0 10 20 30 40 50 60 70 80 90 100
+
+ Growth 2022−2023 Median Student Growth Percentile</div>
+```
+
+## {.archive-slide background-image="slides/40.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">DEMONSTRATION School Performance
+ DEMO Growth &amp; Achievement 2022−2023 DEMO Mathematics
+
+ Higher Achievement Higher Achievement School Size
+ 90
+
+2022−2023 Percent at/above Proficient
+ Lower Growth Higher Growth 50 Students
+ 100 Students
+ 80
+ 250 Students
+ 500 Students
+ 70
+
+ 60
+
+ 50
+
+ 40
+
+ 30
+
+Achievement
+ 20
+
+ 10
+ Lower Growth Higher Growth Summary Statistics
+ Correlation: 0.55
+ Lower Achievement Lower Achievement Correlation (N ≥ 10): 0.55
+
+ 0 10 20 30 40 50 60 70 80 90 100
+
+ Growth 2022−2023 Median Student Growth Percentile</div>
+```
+
+## {.archive-slide background-image="slides/41.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">DEMONSTRATION School Performance
+ DEMO Growth &amp; Achievement 2022−2023 DEMO Reading
+
+ Higher Achievement Higher Achievement School Size
+ 90
+
+2022−2023 Percent at/above Proficient
+ Lower Growth Higher Growth 50 Students
+ 100 Students
+ 80
+ 250 Students
+ 500 Students
+ 70
+
+ 60
+
+ 50
+
+ 40
+
+ 30
+
+Achievement
+ 20
+
+ 10
+ Lower Growth Higher Growth Summary Statistics
+ Correlation: 0.52
+ Lower Achievement Lower Achievement Correlation (N ≥ 22): 0.52
+
+ 0 10 20 30 40 50 60 70 80 90 100
+
+ Growth 2022−2023 Median Student Growth Percentile</div>
+```
+
+## {.archive-slide background-image="slides/42.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Introduction
+ Student Growth Percentiles
+ Student Growth Percentiles and Accountability
+ References
+
+References
+ Betebenner, D. W. (2008).
+ Toward a normative understanding of student growth.
+ In Ryan, K. E. and Shepard, L. A., editors, The Future of Test-Based
+ Educational Accountability, pages 155–170. Taylor &amp; Francis, New
+ York.
+ Betebenner, D. W. (2009).
+ Norm- and criterion-referenced student growth.
+ Educational Measurement: Issues and Practice, 28(4):42–51.
+ Betebenner, D. W. (2012).
+ Growth, standards, and accountability.
+ In Cizek, G., editor, Setting Performance Standards: Foundations,
+ Methods, and Innovations, pages 439–450. Routledge, New York.
+ Betebenner, D. W., Iwaarden, A. V., Domingue, B., and Shang, Y.
+ (2023).
+ SGP: Student growth percentiles &amp; percentile growth trajectories.
+ Available online complete with source code from https://sgp.io.
+ Braun, H. I. (2005).
+ Using student progress to evaluate teachers: A primer on
+ value-added models.
+ Technical report, Educational Testing Service, Princeton, New
+ Jersey.
+ Economic Policy Institute (2010).
+ Problems with the use of student test scores to evaluate teachers.
+ Technical report, Washington, D.C.
+ Downloaded August 30th, 2010 from
+ http://epi.3cdn.net/724cd9a1eb91c40ff0_hwm6iij90.pdf.
+ Edley, C. (2006).
+ Educational “Opportunity&quot; is the highest civil rights priority. So what
+ should researchers and lawyers do about it?
+ Retrieved June 22, 2006 from the World Wide Web:
+ http://www.softconference.com/MEDIA/WMP/260407/#43.010.
+ Linn, R. L. (2008).
+ Educational accountability systems.
+ In The Future of Test-Based Educational Accountability, pages 3–24.
+ Taylor &amp; Francis, New York.
+ National Research Council and National Academy of Education
+ (2010).
+ Getting value of out value-added: Report of a workshop.
+ Technical report, Washington, D.C.
+ Commitee on Value-Added Methodology for Instructional
+ Improvement.
+ Rubin, D. B., Stuart, E. A., and Zanutto, E. L. (2004).
+ A potential outcomes view of value-added assessment in education.
+ Journal of Educational and Behavioral Statistics, 29(1):103–116.
+ Shang, Y., VanIwaarden, A., and Betebenner, D. W. (2015).
+ Covariate measurement error correction for student growth
+ percentiles using the simex method.
+ Educational Measurement: Issues and Practice, 34(1):4–14.
+ Yen, W. M. (2007).
+ Vertical scaling and No Child Left Behind.
+ In Dorans, N. J., Pommerich, M., and Holland, P. W., editors, Linking
+ and Aligning Scores and Scales, pages 273–283. Springer, New
+ York.
+
+ Damian W. Betebenner &amp; Adam VanIwaarden Student Growth Percentiles: An Overview</div>
+```
+
+## About this copy {.archive-about}
+
+*Student Growth Percentiles: An Overview* — BC Russell, December 5, 2023.
+
+This is an image-based copy of the original beamer slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2023-12-05-bc-russell-student-growth-percentiles-an-overview/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-12-05-bc-russell-student-growth-percentiles-an-overview.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-12-05-bc-russell-student-growth-percentiles-an-overview.tex)
+- [All talks](https://dbetebenner.github.io/talks/)

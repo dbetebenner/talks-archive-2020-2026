@@ -1,0 +1,12 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*/index.qmd"
+  resources:
+    - index.html
+    - .nojekyll
+
+website:
+  title: "Talks archive, 2020–2026"
+  site-url: https://dbetebenner.github.io/talks-archive-2020-2026

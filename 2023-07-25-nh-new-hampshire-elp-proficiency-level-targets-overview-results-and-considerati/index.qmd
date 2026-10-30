@@ -1,0 +1,168 @@
+---
+pagetitle: 'New Hampshire ELP Proficiency Level Targets: Overview, Results & Considerations'
+description: >-
+  New Hampshire ELP Proficiency Level Targets: Overview, Results & Considerations — New Hampshire Department of Education, July 25, 2023. Image-based copy of
+  the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">New Hampshire ELP Proficiency Level Targets
+Overview, Results &amp; Considerations
+Damian Betebenner &amp; Adam VanIwaarden
+Center for Assessment
+
+July 31st, 2023</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ • The following slides provide tables of WIDA-ACCESS pro ciency level targets for
+ students based upon three criteria:
+
+ • The grade cluster (1-3, 4-7, 8-12) associated with the student’s score (one table per
+ slide)
+
+ • The current year achievement level (1.0-1.9, 2.0-2.9, 3.0-3.9, 4.0-4.5) of the student
+ • The time frame to reach pro ciency based upon number of years enrolled in school.
+ In general: Years to Reach Target = 5 - Years Enrolled in School
+
+ • Table values were derived from individual level SGP based English language
+ pro ciency targets calculated across time frames ranging from 1 to 5 years.
+
+ fi
+ fi
+fi</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Grade 1-3: ELP Pro ciency Level Targets
+ Pro ciency Level Target/min SGT — median SGT — max SGT
+
+ Years to reach Target
+
+ 5 Years 4 Years 3 Years 2 Years 1 Year
+
+ 2.6 2.7 2.8 3.3 4.5
+ 1.0 - 1.9
+ 58–75–83 58–75–89 61–89–93 82–95–99 99–99–99
+
+ 3.3 3.3 3.4 3.7 4.5
+ 2.0-2.9
+ 42—61—75 42—61—82 49—67—86 64—84—96 90—99-99
+
+ 3.9 3.9 3.9 4.0 4.5
+ 3.0-3.9
+ 24—41—70 24—41—73 24—44—73 24—56—87 24—86—89
+
+ 4.2 42 4.2 3.3 4.5
+ 4.0-4.5
+ 10—23—36 10—23—36 10—23—36 10—25—51 10—43—86
+
+ fi
+fi</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Grade 4-7: ELP Pro ciency Level Targets
+ Pro ciency Level Target/min SGT — median SGT — max SGT
+
+ Years to reach Target
+
+ 5 Years 4 Years 3 Years 2 Years 1 Year
+
+ 2.7 2.8 3.0 3.5 4.5
+ 1.0 - 1.9
+ 78—81—88 83—86—91 90—93—97 97—98—99 99—99—99
+
+ 3.3 3.4 3.5 3.8 4.5
+ 2.0-2.9
+ 74—78—84 77—82—86 83—88—93 91—96—99 95—99—99
+
+ 3.8 3.8 3.9 4.1
+ 3.0-3.9 4.551—98—99
+ 51—72—80 51—74—81 51—81—89 51—89—97
+
+ 4.2 4.2 4.2 4.3 4.5
+ 4.0-4.5
+ 22–64—71 22—64—72 22—66—78 22—69—88 22—76—99
+
+ fi
+fi</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Grade 8-12: ELP Pro ciency Level Targets
+ Pro ciency Level Target/min SGT — median SGT — max SGT
+
+ Years to reach Target
+
+ 5 Years 4 Years 3 Years 2 Years 1 Year
+
+ 3.4 3.4 3.4 3.6 4.5
+ 1.0 - 1.9
+ 90—99—99 90—99—99 92—99—99 99—99—99 99—99—99
+
+ 3.8 3.8 3.8 4.0 4.5
+ 2.0-2.9
+ 84—97—99 84—97—99 85—97—99 93—99—99 99—99—99
+
+ 4.1 4.1 4.1 4.2 4.5
+ 3.0-3.9
+ 69—89—99 69—89—99 69—89—99 72—92—99 80—98—99
+
+ 4.4 4.4 4.4 4.4 4.5
+ 4.0-4.5
+ 57—76—96 57—76—96 57—76—96 57—76—96 57—84—96
+
+ fi
+fi</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Considerations
+ • The pro ciency level targets
+ • One shortcoming associated with targets aggregated by prior achievement level, years
+ enrolled in school and grade cluster is that there is substantial heterogeneity within each
+ group.
+
+ • Students in grade cluster 4-8, starting at WIDA pro ciency level of 3.0 to 3.9 have a
+ target of 3.8. Note that this target is inclusive of all students from 3.0 to 3.9
+
+ • For students starting at 3.0 this target will be much more ambitious than for those at
+ 3.9
+
+ • And alternative approach to using these summary targets is to use the individual level
+ targets for students. This is the approach employed by Massachusetts
+
+ fi
+fi</div>
+```
+
+## About this copy {.archive-about}
+
+*New Hampshire ELP Proficiency Level Targets: Overview, Results & Considerations* — New Hampshire Department of Education, July 25, 2023.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2023-07-25-nh-new-hampshire-elp-proficiency-level-targets-overview-results-and-considerati/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-07-25-nh-new-hampshire-elp-proficiency-level-targets-overview-results-and-considerati.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-07-25-nh-new-hampshire-elp-proficiency-level-targets-overview-results-and-considerati.key)
+- [All talks](https://dbetebenner.github.io/talks/)

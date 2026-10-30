@@ -1,0 +1,863 @@
+---
+pagetitle: COVID-19 Impact & Recovery
+description: COVID-19 Impact & Recovery — Rhode Island Technical Advisory Committee, December 8, 2022. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Impact &amp; Recovery
+December 2022 Update
+Damian Betebenner &amp; Adam VanIwaarden — Center for Assessment
+
+Rhode Island TAC
+December 8th, 2022</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Background
+Introductory Concepts and Terminology</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Pandemic
+• The COVID-19 Pandemic led to, arguably, the largest educational disruption in
+ the history of the United States.
+• Two-and-a-half years into the pandemic and the impacts of the pandemic are
+ still being felt.
+• The pandemic impacted students academically, emotionally, physically, and
+ financially.
+• In this overview, we focus address two things:
+ • Academic Impact: What is it and what was happened to students in Rhode
+ Island?
+ • Academic Recovery: What is it and what is happening to students in Rhode
+ Island currently?</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">What is Academic Impact?
+• The pandemic and all the ensuing disruptions functioned/
+ functions as an “academic headwind”, impeding (in general)
+ the academic progress of students.
+• Headwinds impede progress in two ways:
+ ▪ They slow one’s rate of progress (speedometer)
+ ▪ And by slowing one’s rate of progress, less distance is traveled (odometer).
+• In education, these two impediments manifest as:
+ ▪ Decrease in student growth (i.e., decrease in velocity = deceleration).
+ ▪ Decrease in student attainment.
+
+ 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Learning acceleration/deceleration
+• Summarization of assessment data (either for diagnostic or
+ accountability purposes) emphasizes two types of data results: Status
+ (i.e., student attainment) and Growth (i.e., student academic progress)
+• With the pandemic, the emphasis has changed to look at the
+ academic impact
+• Impact is synonymous with declaration
+• Recovery is synonymous with acceleration
+ ▪ Deceleration, by definition, is the change in velocity (i.e., a decrease in growth)
+ ▪ Acceleration, by definition, is the change in velocity (i.e., increase in growth
+▪ To understand whether and the extent to which recovery is occurring,
+ one must understand the magnitude of impact.
+
+ 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Assessment Data
+• We investigated the impacts of the pandemic across two time frames:
+ • Impact: Spring 2020 through Summer 2021
+ • Recovery: Fall 2021 through Summer 2022
+• To investigate the impact, we utilized two primary sources of data
+ • State summative assessment data (RICAS)
+ • Impact: RICAS Spring 2019 to Spring 2021 (RICAS testing
+ canceled in 2020)
+ • Recovery: RICAS Spring 2021 to Spring 2022
+ • State English Language Proficiency Data (ACCESS)
+ • Impact: ACCESS Winter 2020 to Winter 2021
+ • Recovery: ACCESS Winter 2021 to Winter 2022
+ 6</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Assessment Data
+• We investigated academic impact by using two complementary
+ analyses:
+ • Change in attainment (odometer): Equi-percentile scale score
+ change (all grades)
+ • Change in growth (speedometer): Baseline referenced student
+ growth percentile change (grades for which growth is calculated)
+
+ 7</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Impact
+From Spring 2020 to Summer 2021
+RICAS: Spring 2019 and Spring 2021 Assessments
+ACCESS: Winter 2020 and Winter 2021 Assessments</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">RICAS ELA Grade 8
+ Rhode Island 2019 to 2021 COVID⌧19 Academic Impact All Students
+ Growth: Grade 6 2019 to Grade 8 2021 Status: Grade 8 2019 to Grade 8 2021 Summary
+
+ 2019 Grade 6 Scaled Score Decile Cuts 2019 Grade 8 Scaled Score
+ Academic Impact: Overall and by Quintile
+
+ Grade 8 Scaled/Standardized Score and Achievement Level Cuts
+ 10 20 30 40 50 60 70 80 90 425 475 500 525 550
+ 550 550
+ Overall
+
+ Observed + Imputed
+ 2017 to 2019 Mean Conditional Status 2019 Percentiles (Observed)
+ 2019 to 2021 Mean Conditional Status (Observed) 2021 Percentiles (Observed)
+ 2019 to 2021 Mean Conditional Status (+ Imputed)
+ 2
+ 2021 Percentiles (+ Imputed) Moderate
+ 2019 to 2021 Growth Impact 2019 to 2021 Status Impact
+
+ Observed
+
+ 2021 Grade 8 Scaled Score Decile Cuts
+ 1.5
+ 2019 and 2021 Mean Scaled Scores
+ Q1 Q2 Q3 Q4 Q5
+ 525 525
+ Moderate Moderate Moderate Large Large
+
+ 2021 Grade 8 Scaled Score
+ 90 90 1
+
+ 80 80
+ 0.5
+ 500 70 70 500
+ Participation
+ 60 60
+ 0 0.00
+ 50 50
+ −0.14 Total Status Growth
+ 40
+ 40
+ 475 475
+ −0.5 2019 11,007 10,491 (95.3%) 9,538 (86.7%)
+ 30 30
+ 2021 10,952 9,105 (83.1%) 8,440 (77.1%)
+ −1
+ 20 20
+
+ −1.5
+ 450 10 10 450 2019: 36.3% Proficient
+
+ −2
+ 2021: 28.8% Proficient
+ Growth/Status Change Legend
+ 425 425 −2.5
+ 425 450 475 500 525 550 −40 −25 −15 −5 5 20
+ 0 10 20 30 40 50 60 70 80 90 100
+ 2019 Grade 6 Scaled Score with Achievement Level Cuts Grade 8 Overall Percentile Ranks
+ −0.55 −0.4 −0.25 −0.1 0.05 0.2
+
+ Modest
+ Severe Large Moderate to Improvement
+ 2019 &amp; 2021 Grade 8 Median SGPs by Quintile 2019 &amp; 2021 Grade 8 Mean Scaled (Standardized) Scores by Quintile None
+ Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+ 2019 Grade 8 Students 50.0 50.0 49.0 50.0 50.0 50.0 2019 Grade 8 Students 454 (−1.40) 476 (−0.55) 490 ( 0.02) 504 ( 0.56) 524 ( 1.37) 490 (0.00)
+ 2021 Grade 8 Students 39.0 37.0 36.0 34.0 31.0 35.0 2021 Grade 8 Students 450 (−1.55) 473 (−0.66) 488 (−0.06) 501 ( 0.43) 520 ( 1.20) 486 (−0.14) Calculations suppressed
+ Academic Impact (Observed) −11.0 −13.0 −13.0 −16.0 −19.0 −15.0 Change (Observed) −4 (−0.15) −3 (−0.12) −2 (−0.08) −3 (−0.12) −4 (−0.17) −4 (−0.14)
+ Academic Impact (+ Imputed) −9.0 −10.0 −12.5 −15.0 −18.0 −13.0 Change (+ Imputed) −3 (−0.04) −3 ( 0.06) −2 ( 0.15) −3 ( 0.16) −5 ( 0.19) −4 (−0.17)
+ due to small group N (&lt; 50)
+ Count Observed 2019 1,806 1,872 1,939 2,016 1,905 9,538 Count Observed 2019 2,168 2,046 2,166 1,879 2,232 10,491
+ Count Observed 2021 1,654 1,509 1,816 1,605 1,856 8,440 Count Observed 2021 1,851 1,745 2,017 1,747 1,742 9,102
+
+ 2021 to 2019 Scaled/Standardized Score Difference
+ 35 15
+ 2021 to 2019 SGP Difference (Observed) 0.55 2021 to 2019 Grade 8 Status Change (Observed)
+ 30 2021 to 2019 SGP Difference (+ Imputed) 0.50 2021 to 2019 Grade 8 Status Change (+ Imputed)
+ 0.32: Correlation SGP and Status Percentile Change
+
+ Conditional Status/Growth Change
+ 2021 to 2019 Conditional Status Difference (Observed) 0.45
+ 25
+ 0.95: Correlation SGP and Conditional Status Difference 10 0.40
+ 20 0.35
+ 0.30
+ 15 0.25
+ 5 0.20
+ 10
+
+2019 to 2021
+ 0.15
+ 5 0.10
+ 0.05
+ 0 0 0.00
+ −0.05
+ −5 −0.10
+ −0.15 −0.14
+ −10
+ −5 −0.20
+ −15 −0.25
+ −0.30
+ −20 −0.35
+ −10 −0.40
+ −25
+ −0.45
+ −30 −0.50
+ −0.55
+ −35 −15
+ 10 20 30 40 50 60 70 80 90 425 475 500 525 550
+
+ 425 450 475 500 525 550 0 10 20 30 40 50 60 70 80 90 100
+
+ 2019 Grade 6 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2019 Norm)</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Status Impact
+Black Line: 2019 (pre-covid) scaled-score
+distribution.
+Red line: 2021 scaled-score distribution.
+The impact of the pandemic on student
+achievement (decrease) is illustrated as the area
+between the black line (top) and the red line
+(bottom)
+X-axis: Grade 8 percentile rank
+The horizontal distance between the curves at
+the proficiency cut level (horizontal dashed blue
+line) illustrates the decrease in the percent
+proficient.
+A dotted red line indicates the distribution of
+scores, including missing students derived
+through multiple imputations.</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Status Impact
+Red line: 2021-2019 scaled-score distribution
+difference.
+The impact of the pandemic (difference in the
+distributions) on student achievement
+(decrease) is indicated by the red line.
+X-axis: Grade 8 percentile rank
+Average impact z = -0.14 standard units.
+A dotted red line indicates the distribution of
+scores, including missing students derived
+through multiple imputations.
+Larger impact for high-achieving students than
+lower-achieving students.
+Top axis results by 8th grade achievement
+quintile</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth Impact
+Black Line: (pre-covid) conditional scaled-score
+distribution — Grade 7/2019 conditioned on Grade
+5/2017
+Red line: conditional scaled-score distribution — Grade
+8/2021 conditioned on Grade 6/2019
+The impact of the pandemic on student achievement
+(decrease) is illustrated as the area between the black
+line (top) and red line (bottom)
+X-axis: Grade 6 Scaled Score
+Fixing a level on the x-axis, the vertical distance between
+the curves is the average decrease in scale score
+associated with the pandemic for a student at that 5th
+grade level
+A dotted red line indicates the distribution of scores
+including missing students derived through multiple
+imputation.</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth Impact
+Red line: SGP Difference Grade 7/2021 - Grade
+5/2019 conditional scaled score distribution
+X-axis: Grade 5 Scaled Score
+Median SGP 2019 Grade 7: 50
+Median SGP 2021 Grade 7: 35
+Median SGP 2021 Grade 7 (with Imputed): 37
+Top quintile students median SGP dropped
+from 50 to 31, whereas bottom quintile
+students dropped from 50 to 39.</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary
+We summarize the academic impact both
+overall and by achievement quintile
+For Grade 8 mathematics, the overall
+academic impact for students was
+moderate (z decrease = -0.15 and median
+SGP decrease = -13)
+Academic impact was fairly uniform across
+students. For this grade/content area,
+higher-achieving students were slightly
+more severely impacted than lower-
+achieving students.</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">RICAS ELA and Mathematics
+ Rhode Island 2019 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
+ Impact Recovery
+ −40 −25 −15 −5 5 20 Growth Change
+
+ −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
+
+ Modest
+ Calculations suppressed
+ Severe Large Moderate to Improvement
+ None due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+
+ All Students Moderate Moderate Large Moderate Moderate Moderate Large Large Large Severe Large Severe
+
+ Economically Disadvantaged Students Large Moderate Large Moderate Moderate Moderate Severe Severe Large Severe Moderate Large
+
+Non−Economically Disadvantaged Students Large Moderate Large Moderate Moderate Large Large Large Large Severe Large Severe
+
+ African American Students Moderate Moderate Moderate Moderate Modest to None Modest to None Severe Severe Large Large Moderate Severe
+
+ Asian Students Moderate Modest to None Large Moderate Moderate Moderate Large Large Large Severe Moderate Severe
+
+ White Students Moderate Moderate Large Moderate Moderate Large Large Large Large Severe Large Severe
+
+ Hispanic Students Large Moderate Large Large Moderate Moderate Severe Severe Large Severe Moderate Large
+
+ ELL Students Moderate Moderate Large Moderate Modest to None Modest to None Large Large Large Large Moderate Large
+
+ Special Education Students Modest to None Modest to None Moderate Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large
+
+ Non−Special Education Students Large Moderate Large Moderate Moderate Moderate Severe Severe Large Severe Large Severe
+
+ Female Students Large Moderate Large Large Moderate Large Large Large Large Severe Large Severe
+
+ Male Students Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Severe Large Severe</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ELA And Mathematics
+ Rhode Island 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
+ Impact Recovery
+ −40 −25 −15 −5 5 20 Growth Change
+ NOTE: Quintiles for each student
+ −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change subgroup are based upon quintile
+ Modest
+ Calculations suppressed
+ cuts defined for All Students.
+ Severe Large Moderate to Improvement
+ None due to small group N (&lt; 50) Box width indicates group proportion.
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Economically Disadvantaged Students
+
+Non−Economically Disadvantaged Students
+
+ African American Students
+
+ Asian Students
+
+ White Students
+
+ Hispanic Students
+
+ ELL Students
+
+ Special Education Students
+
+ Non−Special Education Students
+
+ Female Students
+
+ Male Students</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">WIDA ACCESS WIDA⌧ACCESS Composite
+WIDA RI 2020 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
+Impact Recovery
+−40 −25 −15 −5 5 20 Growth Change
+
+−0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
+
+ Modest
+ Calculations suppressed
+ Severe Large Moderate to Improvement
+ None due to small group N (&lt; 50)
+
+ WIDA−ACCESS Composite
+ Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+
+ All Students Moderate Moderate Moderate Large Large Large Large Moderate Large Moderate Moderate Modest to None Modest to None
+
+ WIDA⌧ACCESS Composite
+ WIDA RI 2020 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
+ Impact Recovery
+ −40 −25 −15 −5 5 20 Growth Change
+
+ −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
+
+ Modest
+ Calculations suppressed
+ Severe Large Moderate to Improvement
+ None due to small group N (&lt; 50)
+
+ WIDA−ACCESS Composite
+ Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">All Students
+Multi⌧State 2019 to 2021 COVID⌧19 Academic Impact ELA And Mathematics by Grade
+ Growth/Status Change Legend
+−40 −25 −15 −5 5 20
+
+−0.55 −0.4 −0.25 −0.1 0.05 0.2
+
+ Modest
+ Calculations suppressed
+ Severe Large Moderate to Improvement
+ None due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+
+ Rhode Island Moderate Moderate Large Moderate Moderate Moderate Large Large Large Severe Large Severe
+
+ State A Moderate Large Moderate Moderate Modest to None Moderate Moderate Moderate Moderate Moderate Moderate Moderate
+
+ State B Moderate Moderate Large Moderate Moderate Moderate Severe Large Severe Large Large Large
+
+ State C Modest to None Modest to None Moderate Moderate Moderate Modest to None Moderate Moderate Moderate Large Large Moderate
+
+ State D Moderate Moderate Large Large Large Large Moderate Moderate Large Large Large Large
+
+ State E Large Moderate Large Moderate Large Moderate Severe Large Large Severe Large Large
+
+ State F Moderate Moderate Large Large Large Large Severe Severe Severe Severe Large Severe
+
+ State G Moderate Moderate Moderate Moderate Large Moderate
+
+ State H Large Large Large Moderate Large Moderate Large Severe Large Large Moderate Moderate
+
+ State I Moderate Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Large Large
+
+ State J Moderate Moderate Modest to None Moderate Modest to None Moderate Large Large Large Large Large Large</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery
+From Fall 2021 to Summer 2022
+RICAS: Spring 2021 and Spring 2022 Assessments
+ACCESS: Winter 2021 and Winter 2022 Assessments</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Phase
+• During the 2021-2022 academic year, schooling returned to normal for most students.
+• The hope was that a return to normal would lead to recovery of the academic losses
+ incurred by students.
+• Because learning slowed during the initial phase of the pandemic, to make up for
+ those losses, learning must accelerate to rates above normal in order to catch up for
+ those losses.
+• Data from two sources was utilized to examine whether recovery is occurring:
+ • RICAS data from 2021 and 2022
+ • WIDA-ACCESS data from 2021 and 2022
+• We try to distinguish between: Recovery, Stabilization, Continued Deterioration</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Four Academic
+“Recovery”
+Scenarios with
+RICAS: V-, U-, L-,
+and No-recovery</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Baseline SGP: What is Recovery?
+• Given the negative pandemic impacts, any recovery implies learning
+ acceleration.
+• However, not all acceleration can be considered recovery
+• Acceleration versus 2021 versus acceleration versus 2019
+ 99
+ 90
+ 80
+ V-Shaped Recovery (&gt; 60)
+ 70
+ 60 U-Shaped Recovery (50 to 60)
+
+ Median 2021 Baseline SGP 50 Median 2022 Baseline SGP
+ L-Shaped “Recovery” (40 to 50)
+ 40
+ Note: Any median SGP above 30
+ 30 30
+ Downward Spiral (&lt; 40) in 2022 would be considered
+ 20 acceleration. But only values
+ 10
+ above 50 would be sufficient to
+ begin catching students up to
+ 1
+ where they would have been
+ absent the pandemic.</div>
+```
+
+## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Status Recovery
+Black Line: 2021 (covid) scaled-score
+distribution.
+Red line: 2022 scaled-score distribution.
+The recovery from the pandemic on
+student achievement (increase) is
+illustrated as the area between the black
+line (bottom) and the red line (top)
+X-axis: Grade 8 percentile rank
+The horizontal distance between the curves
+at the proficiency cut level (horizontal
+dashed blue line) illustrates the increase in
+percent proficient.</div>
+```
+
+## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Status Recovery
+Red line: 2022 - 2021 scaled-score
+distribution difference.
+The recovery from the pandemic
+(difference in the distributions) on
+student achievement (increase) is
+indicated by the red line.
+X-axis: Grade 8 percentile rank
+Average impact z = +0.18 standard
+units.
+Larger recovery for high achieving
+students than lower achieving students.</div>
+```
+
+## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth Recovery
+Black Line: (pre-covid) conditional scaled-score
+distribution — Grade 8/2019 conditioned on
+Grade 7/2018
+Red line: conditional scaled-score distribution
+— Grade 8/2022 conditioned on Grade 7/2021
+The recovery from the pandemic on student
+achievement (increase) is illustrated as the area
+between the black line (bottom) and the red
+line (top)
+X-axis: Grade 7 Scaled Score
+Fixing a level on the x-axis, the vertical distance
+between the curves is the average increase in
+scale score associated with the recovery for a
+student at that 7th-grade level.</div>
+```
+
+## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth Recovery
+Red line: SGP Difference Grade
+8/2022 - Grade 7/2021
+conditional scaled score
+distribution
+X-axis: Grade 7 Scaled Score
+Median SGP 2019 Grade 8: 50
+Median SGP 2022 Grade 8: 52
+The largest acceleration in
+growth was seen for quintiles 1
+to 4, with median SGPs ranging
+from 65 to 69.</div>
+```
+
+## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary
+We summarize the academic “recovery”
+both overall and by achievement quintile
+The “recovery” is better communicated as
+stabilization.
+For Grade 8 mathematics, the overall
+academic “recovery” for students was
+modest (z increase = 0.18 and median SGP
+increase (over 2019) = +2)
+Academic recovery was fairly uniform across
+students.</div>
+```
+
+## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">RICAS ELA and Mathematics
+Rhode Island 2021 to 2022 COVID⌧19 Academic Recovery Grade &amp; Content Area
+Deterioration Recovery
+−30 −7 10 30 Growth Change
+
+−0.55 −0.07 0.1 0.2 Status Change
+
+ Calculations suppressed
+ Deterioration Stabilization Recovery
+ due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+
+ All Students Stabilization Deterioration Deterioration Deterioration Stabilization Deterioration Recovery Recovery Recovery Recovery Stabilization Stabilization
+
+ Economically Disadvantaged Stabilization Deterioration Deterioration Deterioration Deterioration Deterioration Recovery Recovery Stabilization Recovery Stabilization Stabilization
+
+ Non−Economically Disadvantaged Deterioration Deterioration Deterioration Deterioration Stabilization Deterioration Recovery Recovery Stabilization Recovery Stabilization Stabilization
+
+ African American Stabilization Deterioration Stabilization Deterioration Stabilization Deterioration Recovery Recovery Recovery Recovery Stabilization Deterioration
+
+ Asian Stabilization Deterioration Stabilization Stabilization Stabilization Deterioration Recovery Recovery Recovery Recovery Recovery Stabilization
+
+ White Stabilization Deterioration Deterioration Deterioration Stabilization Deterioration Recovery Recovery Stabilization Recovery Recovery Stabilization
+
+ Hispanic Deterioration Deterioration Deterioration Deterioration Stabilization Deterioration Recovery Recovery Recovery Recovery Stabilization Stabilization
+
+ Multiple Race Stabilization Deterioration Deterioration Deterioration Stabilization Deterioration Recovery Recovery Recovery Stabilization Recovery Stabilization
+
+ ELL Deterioration Deterioration Deterioration Deterioration Stabilization Deterioration Recovery Recovery Recovery Stabilization Deterioration Deterioration
+
+ Special Education Deterioration Deterioration Deterioration Deterioration Stabilization Deterioration Recovery Recovery Recovery Stabilization Deterioration Stabilization
+
+ Female Deterioration Deterioration Deterioration Deterioration Stabilization Deterioration Recovery Recovery Stabilization Stabilization Stabilization Stabilization
+
+ Male Stabilization Deterioration Stabilization Stabilization Stabilization Deterioration Recovery Recovery Recovery Recovery Recovery Stabilization</div>
+```
+
+## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ELA And Mathematics
+Rhode Island 2021 to 2022 COVID⌧19 Academic RecoveryGrade, Content Area &amp; Achievement Quintile
+Deterioration Recovery
+ −30 −7 10 30 Growth Change
+ NOTE: Quintiles for each student
+−0.55 −0.07 0.1 0.2 Status Change subgroup are based upon quintile
+ Calculations suppressed
+ cuts defined for All Students.
+ Deterioration Stabilization Recovery
+ due to small group N (&lt; 50) Box width indicates group proportion.
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Economically Disadvantaged
+
+ Non−Economically Disadvantaged
+
+ African American
+
+ Asian
+
+ White
+
+ Hispanic
+
+ Multiple Race
+
+ ELL
+
+ Special Education
+
+ Female
+
+ Male</div>
+```
+
+## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">WIDA ACCESS WIDA⌧ACCESS Composite
+WIDA RI 2021 to 2022 COVID⌧19 Academic Recovery Grade &amp; Content Area
+Deterioration Recovery
+−30 −7 10 30 Growth Change
+
+−0.55 −0.07 0.1 0.2 Status Change
+
+ Calculations suppressed
+ Deterioration Stabilization Recovery
+ due to small group N (&lt; 50)
+
+ WIDA−ACCESS Composite
+ Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+
+ All Students Stabilization Stabilization Stabilization Deterioration Deterioration Stabilization Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization Stabilization
+
+ WIDA⌧ACCESS Composite
+WIDA RI 2021 to 2022 COVID⌧19 Academic Recovery Grade, Content Area &amp; Achievement Quintile
+Deterioration Recovery
+−30 −7 10 30 Growth Change
+
+−0.55 −0.07 0.1 0.2 Status Change
+
+ Calculations suppressed
+ Deterioration Stabilization Recovery
+ due to small group N (&lt; 50)
+
+ WIDA−ACCESS Composite
+ Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students</div>
+```
+
+## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overall Recovery
+• Analysis of 2022 RICAS and ACCESS data indicates some results that
+ are difficult to reconcile.
+• Results show recovery across most grades in mathematics but
+ stabilization bordering on deterioration in reading.
+• The reason for this discrepancy is not clear but issues with linking in
+ summer 2022 is a cause for concern.</div>
+```
+
+## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Academic Impact/Recovery Across 7 States
+
+Impact &amp; Recovery 20
+ RI4 RI5
+ Mathematics
+ ELA
+
+Rhode Island showed large 15
+
+ RI6 RI7
+impacts in both ELA and Recovery
+ 10
+ RI8
+
+mathematics in 2021 5
+
+ RI3
+ 0
+
+Rhode Island’s academic RI8
+
+ Academic Recovery
+ −5 RI4
+
+recovery results are inconsistent −10
+ RI6
+
+across content area. −15
+ RI5
+ RI7
+
+ RI3
+
+These results were anticipated −20
+
+based upon preliminary status −25
+
+ Deterioration
+data reported in August, 2022 −30
+
+ −35
+
+ −40
+
+ −40 −35 −30 −25 −20 −15 −10 −5 0 5 10 15 20
+ Large Impact Academic Impact Improvement</div>
+```
+
+## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Questions</div>
+```
+
+## About this copy {.archive-about}
+
+*COVID-19 Impact & Recovery* — Rhode Island Technical Advisory Committee, December 8, 2022.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2022-12-08-ri-tac-covid-19-impact-and-recovery/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2022-12-08-ri-tac-covid-19-impact-and-recovery.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2022-12-08-ri-tac-covid-19-impact-and-recovery.key)
+- [All talks](https://dbetebenner.github.io/talks/)

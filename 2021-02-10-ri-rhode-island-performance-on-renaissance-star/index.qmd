@@ -1,0 +1,255 @@
+---
+pagetitle: Rhode Island Performance on Renaissance Star
+description: Rhode Island Performance on Renaissance Star — Rhode Island Department of Education, February 2021. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Rhode Island
+ Performance on
+Renaissance Star
+
+ Dr. Katie McClarty
+
+ February 16, 2021
+
+ 1</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">“To accelerate learning for all children
+Our mission and adults of all ability levels and ethnic
+ and social backgrounds, worldwide.”
+
+ 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Agenda
+ Renaissance Data and Learning Loss
+1
+ National Picture
+2
+ Rhode Island Picture
+3
+ Path to Recovery
+4
+ ©Copyright 2021 Renaissance Learning Inc. All rights reserved.3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Source of Renaissance Data
+
+ 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Definition of Learning Loss
+Comparison to “Typical”
+
+ Learning Loss
+
+ 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">National Learning Loss Picture
+ www.renaissance.com/performing
+
+• Which areas?
+ ― Mathematics
+ ― Late Elementary Grades
+
+• How big were the effects?
+ ― 8-11 weeks average for Math
+ ― 0-3 weeks average for Reading
+
+• Who was most impacted?
+ ― Underrepresented minorities
+ ― High-poverty schools
+ ― Rural and small-town schools
+
+ 6</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Rhode Island Star Testing
+ Who is testing?
+ 20-21 Enrollment Fall 2020 Star Fall 2020 Star Math
+ Reading
+Male 52% 49% 49%
+Female 48% 48% 48%
+
+Asian 3% 4% 4%
+Black 9% 9% 9%
+Hispanic 29% 36% 37%
+White 54% 45% 44%
+
+LEP 11% 16% 16%
+IEP 16% 15% 15%
+
+ 7</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Rhode Island Star Testing
+How are students testing?
+
+• 40% In School
+• 30% Remote
+• 30% Unknown
+
+ 8</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Rhode Island
+ RICAS Projected Percentage of Students Proficient or Above
+ Learning Loss implies lower percentages of students projected to be proficient on RICAS
+
+ 50.0%
+
+ 37.5%
+
+ % Pro cient or above
+ 3.3
+ 7.7 % Fall 2019
+ 25.0%
+ Fall 2020
+
+ 12.5%
+
+ 0.0%
+ Math Reading
+
+ 9
+
+fi</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Rhode Island Learning Loss Picture
+In which areas is learning loss occurring and how much?
+
+ 10</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Rhode Island Star Testing
+Are there differences between students testing in school vs. remotely?
+
+ 11</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Rhode Island Learning Loss
+Who is suffering the most learning loss? Grade 4
+
+ 12</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Rhode Island Learning Loss
+Who is suffering the most learning loss?
+
+• No demographic subgroup avoids learning loss.
+• In general, learning loss varied slightly by demographic subgroup
+• Students listed as having an IEP demonstrated the least learning loss.
+
+ 13</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Path to Recovery
+Possible Scenarios
+
+ 14</div>
+```
+
+::: notes
+```{=html}
+Not sure if you like the recovery names from the paper: V-shaped recovery, U-shaped recovery, L-shaped recovery, Academic downward spiral.
+```
+:::
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Path to Recovery
+Most recent tracking on Learning Loss through February 1st, 2021
+
+• STAR assessments gather and analyze data daily. We are currently 2 months
+ into the winter test window. Fall 2020 to Winter 2021 growth rates have
+ stabilized and are roughly consistent with previous years.
+
+• On average, students are neither falling back further nor catching-up.
+
+ 15</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary
+
+• Based upon Fall 2019 to Fall 2020 STAR assessment data, learning loss occurred for
+ Rhode Island students.
+• The amount of learning loss varied substantially by grade and content area ranging
+ from substantial (&gt; 12 weeks behind) to minor (0 – 3 weeks behind).
+• Within grade and content area, learning loss varied modestly by demographic
+ subgroup.
+• Students taking the exam at home appeared to by slightly advantaged over students
+ taking the test at school. As such, the results presented here should be considered a
+ best-case-scenario for what would be observed had all students tested at school.
+• Most recent growth data from the winter testing window suggests a return to normal
+ rates of student growth (i.e., not catching up nor falling further behind).
+• Validating learning loss findings for all students in Rhode Island should involve
+ triangulation across multiple sources of data including state summative testing, English
+ language proficiency testing and teacher observations.
+
+ 16</div>
+```
+
+## About this copy {.archive-about}
+
+*Rhode Island Performance on Renaissance Star* — Rhode Island Department of Education, February 2021.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2021-02-10-ri-rhode-island-performance-on-renaissance-star/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-02-10-ri-rhode-island-performance-on-renaissance-star.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-02-10-ri-rhode-island-performance-on-renaissance-star.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

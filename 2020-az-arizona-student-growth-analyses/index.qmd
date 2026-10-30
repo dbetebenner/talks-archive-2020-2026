@@ -1,0 +1,413 @@
+---
+pagetitle: Arizona Student Growth Analyses
+description: Arizona Student Growth Analyses — Arizona Department of Education, 2020. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ARIZONA STUDENT GROWTH ANALYSES
+ 2016-2017 &amp; BEYOND
+
+ Damian W Betebenner &amp; Adam VanIwaarden
+ National Center for the Improvement of Educational Assessment
+ Phoenix, Arizona February 1st, 2018</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">TOPICS FOR DISCUSSION
+
+• What is student growth?
+
+• History of student growth in Arizona.
+
+• Analyses associated with the 2016-2017 academic year and
+ beyond.</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Why Student Growth?
+
+If you care about student achievement,
+ then you care about student growth.
+
+• Where you are is a function of
+ where you started and how quickly
+ you’ve travelled since.
+• Student growth and student
+ attainment/achievement are related
+ in this way.
+• Distance=Rate x Time
+• Those who start behind tend to stay
+ behind and those that start ahead
+ tend to stay ahead.
+
+ 3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth: Introductory Concepts
+
+• The concept of student growth isn’t as difficult to understand and
+ popular perception suggests.
+• Calculations may be complicated but knowing how to calculate student
+ growth is not synonymous with understanding student growth:
+ – The number π (pi=3.14159…) is difficult to calculate but is simple to
+ understand conceptually.
+ – Height and weight percentiles associated with children are difficult to
+ calculate but are simple to understand conceptually.
+• Computational details are important but often obscure a simple
+ conceptual basis.
+
+ 4</div>
+```
+
+::: notes
+```{=html}
+See agenda handout
+```
+:::
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth Introductory Concepts
+
+ A Math Story Problem
+
+• Whose high jump changed more?
+ Explain your answer.
+
+• Whose high jump change is more
+ remarkable? Explain your answer.
+
+• Which high jumper improved more?
+ Explain your answer.
+
+ 5</div>
+```
+
+::: notes
+```{=html}
+See agenda handout
+```
+:::
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth: Introductory Concepts
+
+• There are 3 general approaches of calculating student growth:
+ – Growth as an amount of change (i.e., gain).
+ – Growth as a norm/peer referenced quantity.
+ – Growth as a criterion referenced quantity.
+
+ 6</div>
+```
+
+::: notes
+```{=html}
+See agenda handout
+```
+:::
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth: Introductory Concepts
+
+• Growth as an amount of change:
+ – What could be more simple?
+ – Like height or weight just calculate the amount of change.
+ – Requires a vertical scale (which Arizona now has)
+ – Growth = Score Time 2 - Score Time 1
+• Not as simple as it seems:
+ – Comparisons between students often leads to wrong
+ conclusions
+ – Interpreting change requires context.
+
+ 7</div>
+```
+
+::: notes
+```{=html}
+See agenda handout
+```
+:::
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth: Introductory Concepts
+
+ Back to the story problem!
+
+ 8</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth: Introductory Concepts
+
+• Which high jumper improved
+ more:
+ – Judy improved 2 inches.
+ – Anna improved 6 inches.
+ – An inch is an inch!!!
+ – But is an inch really
+ an inch???
+ – 2 inches for an elite
+ jumper is far more
+ remarkable than 6
+ inches for a novice.
+
+ 9</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth: Introductory Concepts
+
+• The same holds true for the vertically scaled tests (e.g., AzMERIT).
+
+ Average Scale Score Change 2016 to 2017
+
+ Top 10% ELA Grade 4 2016 +8.76
+ Bottom 10% ELA Grade 4 2016 +31.5
+ Top 10% Mathematic Grade 4 2016 +16.7
+ Bottom 10% Mathematics Grade 4 2016 +44.5
+
+• Just as an inch isn’t necessarily an inch; a scale score point isn’t necessarily a
+ scale score point.
+
+ 10</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth: Introductory Concepts
+
+•This is analogous to height/weight measures for infants.
+•Growth amounts are tricky to interpret and require context.
+•Peer based comparisons used by growth analyses are a way to acquire that context.
+
+ An infant male toddler is measured at 2 and 3 years of age
+ and is shown to have grown 4 inches. The magnitude of
+ increase—4 inches—is a well understood quantity that any
+ parent can grasp and calculate at home using a simple
+ yardstick. However, parents leaving their pediatrician’s office
+ knowing only how much their child has grown would likely be
+ wanting for more information: Parents are not interested in an
+ absolute magnitude of growth, but instead in a norm-
+ referenced quantity locating that 4 inch increase alongside the
+ height increases of similar children.
+
+ 11</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth: Introductory Concepts
+
+• Peer-based analyses are also called norm-referenced analyses.
+• Like with infant height/weight charts, peers are children/
+ student with similar characteristics.
+• For growth analyses using large scale assessments, peers are
+ students with (at least) the same scale score history on the
+ same tests.
+• Peer based norms are invaluable in providing context for
+ stakeholders to understand student growth.
+• The Arizona SGP Model (i.e., the Colorado Growth Model)
+ creates growth norms for all students using regression (i.e.,
+ peer-based) analyses.
+• These norms allow stakeholders to understand what an
+ ambitious yet reasonable expectation is for each student.
+ 12</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth Percentiles
+
+• Research on the SGP model began in 2007.
+• Based upon work in Colorado, the norm-referenced model
+ was extended to include a criterion-referenced component.
+• Work in other states incorporating the model into state
+ reporting and accountability systems occurred in subsequent
+ years and student growth became more common across
+ state assessment systems.
+• Goal or the model is to create an individual level growth
+ metric that is informative to different stakeholders ranging
+ from parents to policy makers.
+
+ 13</div>
+```
+
+::: notes
+```{=html}
+See agenda handout
+```
+:::
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth Percentiles
+
+• Different growth models answer different questions.
+• Different stakeholder groups ask different questions.
+• Parents are most concerned about how their child is doing.
+• To effectively engage parents and communities in a
+ productive conversation about student learning (i.e. growth),
+ a growth model should describe:
+ • What is? How much are students learning/growing.
+ • What should be? How much would we like students to
+ grow/learn.
+ • What is reasonable? How much is it reasonable to expect
+ students to grow/learn.
+• Most other growth models do not provide a student level
+ metric. They provide a school summary used for
+ accountability purposes. 14</div>
+```
+
+::: notes
+```{=html}
+See agenda handout
+```
+:::
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth Model: Other Options
+
+• Almost all current growth model use large amounts of data to
+ create “norms” against which student growth is judged.
+• Absent large amounts of data (&gt;1,000 grade/content area),
+ professional judgment replaces large-scale data-based norms.
+• Value-tables can be used to monitor progress of students
+ between achievement bands established for year-to-year
+ assessments.
+• Some states (e.g., Alaska) use value-tables, particularly with
+ smaller scale assessments for evaluating student growth for
+ accountability purposes.
+
+ 15</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Accuracy &amp; Precision
+
+• There was a recent report released questioning whether
+ SGPs should be reported at all.
+• The report questioned whether SGPs had enough precision
+ to be useful for stakeholders.
+• Similar to validity, precision (and accuracy) should always be
+ considered in the context of use:
+ • “Precise enough for what purpose”.
+ • “Accurate enough for what purpose.”
+
+ 16</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Accuracy &amp; Precision
+
+ 17</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Accuracy &amp; Precision
+
+• Infrared thermometers are precise enough for the given
+ purpose.
+• Educational assessment is like taking a child’s temperature:
+ • You wouldn’t make a high stakes medical decision based
+ solely on a child’s temperature.
+ • Doctors use multiple pieces of evidence to diagnose and
+ ultimately treat.
+ • A child’s temperature is only useful up to a point. You could
+ measure a child’s temperature to the .0001 degree. But
+ what’s the point????
+ • High reliability/precision in educational assessment is often
+ used (incorrectly) as a justification for a high stakes decision.
+
+ 18</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Conclusions &amp; Recommendations
+
+• Subtraction isn’t a growth model. A growth model requires
+ one consider where a student begins.
+• Norms require large numbers of students. Smaller numbers of
+ students requires professional judgment to decide what is
+ ambitious yet reasonable progress for a student.
+• Precision and accuracy of results must be balanced with utility:
+ Precise and accurate enough for what purpose.
+• Technical characteristics of tests and growth measures derived
+ from them a often misunderstood (even by testing experts).
+• Practical and technical issues become even more apparent
+ when (high) stakes are associated with outcomes.
+
+ 19</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">HISTORY OF STUDENT GROWTH IN ARIZONA
+
+• Initiated by the Arizona Charter School Association and Sarah
+ Polasky in 2009.
+
+• Included the calculation of student growth percentiles and student
+ growth projections (which provide SGTs).
+
+• Used (and not used) in different ways over the last decade.
+
+• Currently implemented as a growth-to-proficiency methodology.</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+## About this copy {.archive-about}
+
+*Arizona Student Growth Analyses* — Arizona Department of Education, 2020.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2020-az-arizona-student-growth-analyses/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2020-az-arizona-student-growth-analyses.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2020-az-arizona-student-growth-analyses.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

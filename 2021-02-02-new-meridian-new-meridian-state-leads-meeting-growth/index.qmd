@@ -1,0 +1,311 @@
+---
+pagetitle: New Meridian State Leads Meeting Growth
+description: New Meridian State Leads Meeting Growth — New Meridian State Leads, February 2, 2021. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Proposed SGP Analyses for 2020-2021
+
+Damian Betebenner &amp; Adam Van Iwaarden
+
+State Leads Meeting
+February 2nd, 2021
+ This work is licensed under a
+ Creative Commons Attribution 4.0
+ International License.</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">A Brief History of Consortium Growth
+• Growth analyses were first conducted for the consortium in
+ Fall 2015 and Spring 2016.
+• In 2015-2016 there were 9 states/organizations a part of the
+ consortium.
+• Growth analyses have been conducted in ELA and
+ Mathematics including several math end-of-course content
+ areas (e.g., Algebra I, Integrated Math)
+• Growth analyses have been conducted each Fall and Spring
+ up until Fall 2019.
+
+ Proposed SGP Analyses for 2020-2021 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">A Brief History of Consortium Growth
+• In calculating growth, we have attempted to give states/
+ organizations the maximum amount of SGP-related data we
+ can derive including:
+ • State/organization and consortium referenced SGPs
+ • State/organizations and consortium referenced measurement error
+ corrected SGPs (SGP SIMEX)
+ • Growth to standard student growth projections/SGP targets (catch-up/
+ keep-up and move-up/stay-up) using both state/organization and
+ consortium norms.
+
+ Proposed SGP Analyses for 2020-2021 3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">A Brief History of Consortium Growth
+• Analyses have not been without challenges
+ • Mode of administration (online versus paper-pencil) effects (beginning 2017).
+ • Changing state membership altering the meaning of a consortium norm
+ (ongoing).
+ • ABO versus Flagship forms (2019)
+ • Pre- and post-equating occurring in the same year for different states/
+ organizations (2019)
+• SGPs are a magnifying glass: If there are issues with the underlying
+ assessments, growth will allow one to see them (i.e., growth can be
+ used to show problems with growth results).
+• We want to help Pearson make the assessments as sound as
+ possible as it will make the growth data derived from the tests as
+ sound as possible.
+ Proposed SGP Analyses for 2020-2021 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recap of 2019-2020 Testing
+ • Fall 2019 testing occurred. Growth was for these data in February 2020.
+ • As we all know, the pandemic began in March 2020.
+ • Except for about 80,000 students in Illinois who tested before the onset
+ of the pandemic, spring 2020 testing didn’t occur and was cancelled.
+ • The Feds gave accountability and testing waivers for the 2019-2020
+ academic year.
+
+ Proposed SGP Analyses for 2020-2021 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Status of 2020-2021 Testing
+ • The pandemic raged on in Fall 2020.
+ • Fall 2020 testing was cancelled.
+ • Currently (as of early February 2021) it appears as though most states
+ intend to try and administer spring 2021 state assessments (there are a
+ few states that have applied for testing waivers).
+ • Regarding 2020-2021 accountability, states have been able to submit
+ addenda or waiver requests to their plans. Thus far, there is no blanket
+ cancellation of accountability.
+ • In what follows we presume that testing occurs in some form in spring
+ 2021
+
+ Proposed SGP Analyses for 2020-2021 6</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Hopes for 2020-2021 Testing
+ • Due to the absence of 2020 data SGPs will be calculated from 2019 to
+ 2021 (skip-year growth) and utilize up to two priors (2018 and 2019).
+ • Our goal is to provide states/organizations with all the growth quantities
+ they have always received (plus some additional stuff)
+ • State/organization and consortium referenced SGPs
+ • State/organizations and consortium referenced measurement error
+ corrected SGPs (SGP SIMEX)
+ • Student growth projections/Growth to standard SGP targets (catch-up/
+ keep-up and move-up/stay-up) using both state/organization and
+ consortium norms. (Growth targets will require using historical sequential-
+ year growth norms in order to perform projections forward from 2021)
+ • We also hope to calculate baseline referenced SGPs using historical skip-
+ year norms. (More on this later)
+ Proposed SGP Analyses for 2020-2021 7</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Challenges to Calculating SGPs in 2021
+• We expect numerous challenges to conduct the analyses as we have laid
+ out.
+ • Secure forms versus remote forms (could yield issues like we saw with P&amp;P versus
+ online)
+ • Different platforms being used to administer the test (PA5 versus PAN)
+ • Participation rates
+ • Motivation effects
+ • Baseline referenced analyses assume that the scale used currently has not drifted from
+ the one from which the baseline coefficient matrices are derived.
+• Challenges impact analyses at different levels:
+ • At the test level: both scaled score comparability within and across years.
+ • Secure vs remote is a within-year comparability issue. Baseline referenced analyses if an
+ across year issue.
+ • Participation rates likely have the largest impact when aggregating results to the group
+ level
+
+ Proposed SGP Analyses for 2020-2021 8</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Challenges to Calculating SGPs in 2021
+
+• We are approaching these issues in two ways:
+ • Issues that we can simulate (e.g., low participation rates) we are running
+ sensitivity analyses and simulations on to examine the potential impact
+ and consider what correctives are available.
+ • Issues that we have difficulty simulating (e.g., secure versus remote
+ forms) we are planning to run analyses immediately after the arrival of
+ the data to understand impact.
+ • We will also have backup plans to conduct analyses depending upon the
+ outcome. For example, secure versus remote administration.
+
+ Proposed SGP Analyses for 2020-2021 9</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Hopes for 2020-2021 Testing (In addition)
+ • The pandemic is a once in a century occurrence that has disrupted education
+ nationwide.
+ • We believe that state summative assessments have the potential to provide
+ significant insight into the impact of the pandemic on student learning (often
+ referred to as Learning Loss)
+ • To assist states/organizations in examining learning loss we intend to additionally
+ calculate baseline referenced SGPs (both state and consortium referenced)
+ • Baseline referencing will utilize 2016, 2017 to 2019 skip-year data (using data
+ from states currently in the consortia or a previous set of states???).
+ • Baseline coefficient matrices are constructed that are subsequently used with
+ 2018, 2019 to 2021 skip-year data.
+ • The mean SGP for the baseline years is 50. Presumably, the pandemic has
+ significantly impacted student learning and we expect mean baseline SGPs to be
+ lower in 2021.
+
+ Proposed SGP Analyses for 2020-2021 10</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Illustration of Learning Loss
+
+ Proposed SGP Analyses for 2020-2021 11</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Illustration of
+Magnitude of
+Learning Loss
+
+ Proposed SGP Analyses for 2020-2021 12</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Using Growth to Monitor Learning Loss
+Precautions associated with learning loss interpretation
+• Use of baseline SGP imply that the 2021 results are on the same scale as the
+ 2019 results. Pearson will work hard to ensure that.
+• Illinois 2020 to 2021 growth results for the 80,000 or so students will help
+ validate learning loss results for 2019 to 2021.
+• Decreased participation rates can cause issues when aggregating to the
+ groups level
+ • Will leave “holes” in the data for many districts and schools.
+ • Holes in the data will have less an impact on growth results than on status results
+ because growth is uncorrelated with prior achievement.
+ • At present, we think learning loss for those districts/schools with “holes” can be
+ estimated using whatever 2021 student growth data is available together with some
+ technique like propensity score matching at the district/school level.
+• Again, this isn’t meant to be used for “big A” accountability
+ Proposed SGP Analyses for 2020-2021 13</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Using Growth to Monitor Learning Loss
+Current efforts
+• Our goal (working with Pearson) is to have all preliminary
+ work on learning loss (e.g., baseline matrix construction)
+ done prior to the arrival of data (preliminary data usually
+ arrives in June).
+• Create learning loss reports for each state in addition to
+ traditional SGP reports.
+• Turn around reports to states/organizastions as fast as
+ possible so that data is actionable for Fall 2021.
+
+ Proposed SGP Analyses for 2020-2021 14</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Using Growth to Monitor Learning Loss
+Future efforts
+• The pandemic’s effects will not disappear after this spring.
+• Ideally, this spring’s assessments will allow us to understand
+ the impact of the pandemic on student learning.
+• This information will be critical to help inform policies
+ designed to ameliorate the impact.
+• Equally (and perhaps even more) critical will be monitoring
+ the recovery of students going forward in 2021-2022, 202—
+ 2023, …
+ Proposed SGP Analyses for 2020-2021 15</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Learning Loss &amp;
+Learning
+Recovery
+
+ Proposed SGP Analyses for 2020-2021 16</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Monitoring Learning Recovery
+• Monitoring recovery from the impact of the pandemic will be
+ critical.
+• State summative assessment data can provide critical insight
+ into ongoing recovery.
+• Widening achievement gaps can occur due to both
+ differential impact with the pandemic as well as differential
+ recovery.
+• Beware the K-shaped recovery where advantaged students
+ predominantly bounce back and disadvantaged students
+ predominantly don’t bounce back.
+ Proposed SGP Analyses for 2020-2021 17</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Questions
+
+ Proposed SGP Analyses for 2020-2021 18</div>
+```
+
+## About this copy {.archive-about}
+
+*New Meridian State Leads Meeting Growth* — New Meridian State Leads, February 2, 2021.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2021-02-02-new-meridian-new-meridian-state-leads-meeting-growth/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-02-02-new-meridian-new-meridian-state-leads-meeting-growth.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-02-02-new-meridian-new-meridian-state-leads-meeting-growth.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

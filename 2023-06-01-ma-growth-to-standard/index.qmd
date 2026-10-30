@@ -1,0 +1,264 @@
+---
+pagetitle: Growth to Standard
+description: Growth to Standard — Massachusetts Department of Education, June 1, 2023. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth to Standard
+Considerations for defining a year’s worth of growth
+Damian Betebenner
+Center for Assessment
+
+June 1st, 2023</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Catch-Up/Keep-Up</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Definitions
+• Each student for whom growth is calculated (i.e., an SGP) is also
+ has a growth target (i.e., SGP_TARGET) calculated.
+ • If the student’s prior achievement is not proficient, then the
+ SGP_TARGET is the growth target to catch-up to proficiency
+ within 3 years or by the end of testing (time frame can be
+ changed depending upon policy)
+ • If the student’s prior achievement is proficient, then the
+ SGP_TARGET is the growth target to keep-up to proficiency
+ for the next 3 years or by the end of testing.</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Definitions
+• The SGP_TARGET:
+ • Isn’t a guarantee that the student reaching the target will catch-up/
+ keep-up.
+ • It’s a one-year installment on a multi-year plan to catch-up/keep-up.
+ • Requires an SGP in order to make a determination of catch-up/keep-up.
+ • Will take on extremely high (above 90) or extremely low values (below
+ 10) for students who are low achievers and high achievers, respectively.
+ • Can be converted to a MCAS scale score if desired.</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Decision Matrix: Catch-Up/Keep-Up
+
+ Prior Achievement SGP ≥ SGPTarget SGP &lt; SGPTarget
+
+ Not Proficient Catching Up Not Catching Up
+
+ Proficient Keeping Up Not Keeping Up</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2019 MCAS Mathematics:
+Catch-Up/Keep-Up
+ Mean Catch-Up/Keep-Up SGP_Target
+ Prior Achievement
+ Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+
+ 80.1 83.6 66.2 74.1 75.1
+ Level 1 (6,982) (7,668) (5,834) (6,244) (8,067)
+ 59.6 60.5 43.3 44.7 40.2
+ Level 2 (25,627) (27,283) (30,721) (28,220) (27,185)
+ 35.6 34.2 27.9 24.3 16.3
+ Level 3 (26,981) (28,374) (28,409) (27,880) (26,609)
+ 17.1 13.6 6.6 3.0 1.5
+ Level 4 (6,392) (4,861) (3,203) (4,572) (5,151)</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2019 MCAS ELA:
+Catch-Up/Keep-Up
+ Mean Catch-Up/Keep-Up SGP_Target
+ Prior Achievement
+ Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+
+ 79.5 82.1 47.7 45.0 44.9
+ Level 1 (3,809) (5,068) (4,209) (6,711) (9,194)
+ 58.0 58.0 27.5 21.0 14.4
+ Level 2 (27,373) (27,373) (26,547) (25,451) (26,505)
+ 37.5 37.5 31.0 25.5 15.7
+ Level 3 (28,622) (28,622) (33,061) (27,632) (26,085)
+ 23.1 23.1 11.4 4.8 1.6
+ Level 4 (6,133) (6,133) (4,387) (7,170) (5,246)</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Catch Up/Keep Up Drawback
+• Though a technically correct approach, I believe using SGP and
+ SGP_TARGET to communicate growth/learning goals suffers from
+ the following problems:
+ • Very high and low targets for low and high achievers,
+ respectively.
+ • Difficult to communicate and comprehend, especially for non-
+ technical stakeholders
+ • Difficulty in communication inhibits stakeholder use of the data
+ • 1 to 99 scale communicates precision that isn’t justified.</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">A Year’s Worth of Learning</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Year’s Worth of Learning
+• Another approach that “coarsens” SGP and SGP_TARGET and
+ utilizes the language of a “year’s worth of learning”.
+• The terms “a year’s worth of learning” is often well received
+ by non-technical stakeholders even though it is not well
+ defined. We propose the following definitions:
+ • At or near a year’s worth of learning: 30 ≤ SGP ≤ 65
+ • Below a year’s worth of learning: SGP &lt; 30
+ • Above a year’s worth of learning: SGP &gt; 65</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Year’s Worth of Learning
+• Based upon these three categories of growth/learning, students
+ are classified in two ways:
+ • Category 1: Growth demonstrated in current year
+ • Category 2: Growth needed/desired in current year
+• Note, the two categories are analogous to SGP and SGP_TARGET
+ except they are expressed in terms of the three “year’s worth of
+ learning” levels instead of the 99 different percentiles.
+• Note: Growth needed is to either catch up or keep up. That
+ distinction is not made explicit.</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Decision Matrix: Year’s Worth of Learning
+
+ Learning Observed
+
+ SGP ≥&lt;SGP
+ 1 Year
+ Target ≈ 1Year SGP &lt; &gt;SGP
+ 1Year
+ Target
+
+ Definitely
+
+ Learning Needed
+ &lt; 1 Year Enough More than
+ more than
+ (but not good) enough
+ enough
+ ≈ 1Year More than
+ Not enough Enough
+ enough
+
+ &gt; 1Year Definitely
+ Not enough Enough
+ not enough</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Year’s Worth of Learning: 2019 MCAS Mathematics
+
+ Count Learning Observed
+ Table Proportion
+ Row Proportion SGP ≥&lt;SGP
+ 1 Year
+ Target ≈ 1Year SGP &lt; &gt;SGP
+ 1Year
+ Target
+
+ 48,819 55,931 54,881
+
+ Learning Needed
+ &lt; 1 Year 0.12 0.14 0.13
+ 0.31 0.35 0.34
+ 54,381 62,073 61,486
+ ≈ 1Year 0.13 0.15 0.15
+ 0.31 0.34 0.35
+ 18,604 20,995 20,745
+ &gt; 1Year 0.04 0.05 0.05
+ 0.31 0.34 0.34</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Year’s Worth of Learning: 2019 MCAS ELA
+
+ Count Learning Observed
+ Table Proportion
+ Row Proportion SGP ≥&lt;SGP
+ 1 Year
+ Target ≈ 1Year SGP &lt; &gt;SGP
+ 1Year
+ Target
+
+ 68,493 78,154 76,426
+
+ Learning Needed
+ &lt; 1 Year 0.17 0.20 0.19
+ 0.31 0.35 0.34
+ 45,846 52,462 51,924
+ ≈ 1Year 0.12 0.13 0.13
+ 0.31 0.35 0.35
+ 7,741 8,644 8,566
+ &gt; 1Year 0.02 0.02 0.02
+ 0.31 0.35 0.34</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Year’s Worth of Learning
+• The qualifiers (not enough, enough, definitely not enough) are
+ rough placeholders.
+• The goal of systemic improvement is to diminish (over time) the
+ percentage of students demonstrating less than a year’s worth of
+ learning and to maximize (especially for the lowest achieving
+ students) the percentage of students demonstrating more than a
+ year’s worth of growth.
+• Note: All of the calculations are done behind the scenes with SGP
+ and SGP_TARGET, but the language used to communicate the
+ results is “year’s worth of learning”.</div>
+```
+
+## About this copy {.archive-about}
+
+*Growth to Standard* — Massachusetts Department of Education, June 1, 2023.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2023-06-01-ma-growth-to-standard/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-06-01-ma-growth-to-standard.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-06-01-ma-growth-to-standard.key)
+- [All talks](https://dbetebenner.github.io/talks/)

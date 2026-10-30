@@ -1,0 +1,90 @@
+---
+pagetitle: Effect Size Figure
+description: Effect Size Figure — Rhode Island Department of Education, February 2021. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">E ect Size -0.6 -0.45 -0.3 -0.15 0.15
+
+ +/- 3 Weeks +/- 3 Weeks
+ 12+ Weeks 8-11 Weeks 4-7 Weeks
+ Behind/ Behind/
+ Behind Behind Behind
+ Ahead Ahead
+
+ Grade 2 Mathematics Reading
+
+ Grade 3 Mathematics Reading
+
+ Grade 4 Mathematics Reading
+
+ Grade 5 Mathematics Reading
+
+ Grade 6 Mathematics Reading
+
+ Grade 7 Mathematics Reading
+
+ Grade 8 Mathematics
+ Reading
+
+ Grade 9 Mathematics
+ Reading
+
+ Grade 10 Mathematics
+ Reading
+
+ Grade 11 Mathematics
+ Reading
+
+ Grade 12 Mathematics
+ Reading
+ff</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">E ect Size -0.6 -0.45 -0.3 -0.15 0.15
+
+ 12+ Weeks 8-11 Weeks 4-7 Weeks -3 weeks behind to 3 weeks
+ Behind Behind Behind ahead
+
+ Overall Mathematics Reading
+
+ LEP Mathematics Reading
+
+ IEP Mathematics Reading
+
+ Female Mathematics Reading
+
+ Male Mathematics Reading
+
+ African American
+ Mathematics Reading
+
+ Asian Mathematics Reading
+
+ Hispanic Mathematics Reading
+
+ White Mathematics Reading
+ff</div>
+```
+
+## About this copy {.archive-about}
+
+*Effect Size Figure* — Rhode Island Department of Education, February 2021.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2021-02-28-ri-effect-size-figure/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-02-28-ri-effect-size-figure.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-02-28-ri-effect-size-figure.key)
+- [All talks](https://dbetebenner.github.io/talks/)

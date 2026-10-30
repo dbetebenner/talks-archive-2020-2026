@@ -1,0 +1,545 @@
+---
+pagetitle: Indiana 2023 Academic Recovery
+description: Indiana 2023 Academic Recovery — Indiana Department of Education, July 3, 2023. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Indiana 2023 Academic Recovery
+Damian Betebenner
+The National Center for the Improvement of Educational Assessment
+
+July 3rd, 2023
+IDOE Weekly Update
+
+ This work is licensed under a
+ Creative Commons Attribution 4.0
+ International License.</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">A Timeline of the Pandemic
+ Pandemic
+ Begins
+
+2019-2020 2019-2020 2020-2021 2021-2022 2022-2023
+
+ Spring 2019 Spring 2020 Spring 2021 Spring 2022 Spring 2023
+ Pre-pandemic (No testing) Academic Impact Academic Recovery Academic Recovery
+
+• Three years on from the onset of the pandemic, concerns regarding the academic
+ impact of the pandemic on students.
+• Thus far, Indiana state assessment data (ILEARN and WIDA-ACCESS) indicate large to
+ severe academic impacts and little recovery (stabilization) through 2022.
+• The release of NAEP data in 2022 (with pre-pandemic comparisons to 2019) has only
+ amplified concerns about the impact of the pandemic on students.
+
+ Pandemic Related Academic Recovery in Indiana 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Academic Impact &amp; Recovery
+• The pandemic and all the ensuing disruptions functioned/
+ functions as an “academic headwind”, impeding (in general) the
+ academic progress of students.
+• This is Academic Impact and shows up in educational
+ assessments as:
+ ▪ Decrease in student growth (i.e. decrease in velocity = deceleration).
+ ▪ Decrease in student attainment.
+• Academic Recovery would show up in education assessments
+ as an increase in student growth (i.e., increase in velocity =
+ acceleration) leading to an increase in student attainment.
+ Pandemic Related Academic Recovery in Indiana 3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Assessment Data
+• As in 2021 and 2022, to investigate academic recovery in 2023 we
+ utilized two primary sources of data
+ • ILEARN state summative assessment data
+ • WIDA-ACCESS state English Language Proficiency Data
+• For attainment comparisons, 2023 data is compared to 2019 data.
+• For growth comparisons, current growth data (2022 to 2023) is
+ compared to pre-pandemic growth data (2018 to 2019).
+
+ Pandemic Related Academic Recovery in Indiana 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Last Year I Mentioned Cautions Going Forward
+• Maintaining scales to pre-pandemic years will increasingly become
+ challenging for states.
+• Two views of returning to “normal”
+ • Is the education system returning to normal?
+ • Are students impacted by the pandemic returning to normal?
+• The education system returning to normal means the education system
+ supports rates of student learning consistent with what was observed pre-
+ pandemic.
+• The education system can return to “normal” without student returning to
+ normal.
+ • To catch-up to where they would have been academically, students must
+ learn at rates exceeding what was observed pre-pandemic.
+
+ Pandemic Related Academic Recovery in Indiana 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Attainment Over Time: Are Students Recovering
+ELA
+
+ Pandemic Related Academic Recovery in Indiana 6</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Attainment Over Time: Are Students Recovering
+Mathematics
+
+ Pandemic Related Academic Recovery in Indiana 7</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth Over Time: Is the system recovering
+ELA
+
+ Pandemic Related Academic Recovery in Indiana 8</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth Over Time: Is the system recovering
+Mathematics
+
+ Pandemic Related Academic Recovery in Indiana 9</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Big Picture
+• As we found last year, the Indiana’s education system has, on
+ average, “recovered” to support rates of learning that it did pre-
+ pandemic. To avoid confusion with “student recovery”, we called
+ this “stabilization”
+• In 2023, the system followed trend with 2022 and demonstrated, on
+ average, rates of growth consistent with what was observed pre-
+ pandemic.
+• Given the academic losses incurred by students from 2019 to 2021,
+ typical progress is not, in general, sufficient for student recovery.
+• Thus, individual students continue to fall below 2019 attainment
+ levels.
+
+ Pandemic Related Academic Recovery in Indiana 10</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Big Picture
+• Averages can mask important heterogeneity.
+• The following illustration dig deeper into how particular
+ demographic subgroups are doing.
+• Note that attainment is a lagging indicator to growth. That is, in
+ order for higher attainment to occur, higher rates of growth (i.e.,
+ learning) must precede it.
+
+ Pandemic Related Academic Recovery in Indiana 11</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2022-2023: Academic Recovery Year 2
+ ILEARN ELA and Mathematics
+ Indiana 2022 to 2023 COVID⌧19 Academic Recovery Grade &amp; Content Area
+ Deterioration Recovery
+ −30 −7 10 30 Growth Change
+
+ −0.38 −0.09 0.12 0.38 Status Change
+
+ Calculations suppressed
+ Deterioration Stabilization Recovery
+ due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+
+ All Students Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+
+ Economically Disadvantaged Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+
+ Non−Economically Disadvantaged Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+
+ African American Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+
+ Asian Stabilization Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+
+ White Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+
+ Hispanic Deterioration Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+
+ ELL Deterioration Stabilization Deterioration Deterioration Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+
+ Special Education Stabilization Stabilization Stabilization Deterioration Stabilization Deterioration Stabilization Stabilization Stabilization Recovery Stabilization Recovery
+
+ Female Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+
+ Male Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+
+ Pandemic Related Academic Impact in Indiana 12</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2022-2023: Academic Recovery Year 2
+ ILEARN ELA and Mathematics
+ Indiana 2022 to 2023 COVID⌧19 Academic Recovery Grade, Content Area &amp; Achievement Quintile
+ Deterioration Recovery
+ −30 −7 10 30 Growth Change
+ NOTE: Quintiles for each student
+ −0.38 −0.09 0.12 0.38 Status Change subgroup are based upon quintile
+ Calculations suppressed
+ cuts defined for All Students.
+ Deterioration Stabilization Recovery
+ due to small group N (&lt; 50) Box width indicates group proportion.
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Economically Disadvantaged
+
+ Non−Economically Disadvantaged
+
+ African American
+
+ Asian
+
+ White
+
+ Hispanic
+
+ ELL
+
+ Special Education
+
+ Female
+
+ Male
+
+ Pandemic Related Academic Recovery in Indiana 13</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2021-2022: Academic Recovery Year 1
+ ILEARN ELA and Mathematics
+ Indiana 2021 to 2022 COVID⌧19 Academic Recovery Grade &amp; Content Area
+ Deterioration Recovery
+ −30 −7 10 30 Growth Change
+
+ −0.38 −0.09 0.12 0.38 Status Change
+
+ Calculations suppressed
+ Deterioration Stabilization Recovery
+ due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+
+ All Students Stabilization Stabilization Deterioration Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization
+
+ Economically Disadvantaged Stabilization Stabilization Deterioration Deterioration Stabilization Deterioration Stabilization Stabilization Stabilization Deterioration Stabilization Deterioration
+
+ Non−Economically Disadvantaged Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization
+
+ African American Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization Recovery Stabilization Stabilization Deterioration Stabilization Deterioration
+
+ Asian Stabilization Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+
+ White Stabilization Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization
+
+ Hispanic Stabilization Stabilization Deterioration Deterioration Stabilization Deterioration Stabilization Stabilization Stabilization Deterioration Stabilization Deterioration
+
+ ELL Stabilization Stabilization Deterioration Deterioration Deterioration Deterioration Stabilization Stabilization Stabilization Stabilization Deterioration Deterioration
+
+ Special Education Stabilization Stabilization Deterioration Deterioration Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+
+ Female Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization
+
+ Male Stabilization Stabilization Deterioration Deterioration Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+
+ Pandemic Related Academic Impact in Indiana 14</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2021-2022: Academic Recovery Year 1
+ ILEARN ELA and Mathematics
+ Indiana 2021 to 2022 COVID⌧19 Academic Recovery Grade, Content Area &amp; Achievement Quintile
+ Deterioration Recovery
+ −30 −7 10 30 Growth Change
+ NOTE: Quintiles for each student
+ −0.38 −0.09 0.12 0.38 Status Change subgroup are based upon quintile
+ Calculations suppressed
+ cuts defined for All Students.
+ Deterioration Stabilization Recovery
+ due to small group N (&lt; 50) Box width indicates group proportion.
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Economically Disadvantaged
+
+ Non−Economically Disadvantaged
+
+ African American
+
+ Asian
+
+ White
+
+ Hispanic
+
+ ELL
+
+ Special Education
+
+ Female
+
+ Male
+
+ Pandemic Related Academic Impact in Indiana 15</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2020-2021: Academic Impact
+ ELA And Mathematics
+ Indiana 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
+ Impact Recovery
+ −40 −25 −15 −5 5 20 Growth Change
+ NOTE: Quintiles for each student
+ −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change subgroup are based upon quintile
+ Modest
+ Calculations suppressed
+ cuts defined for All Students.
+ Severe Large Moderate to Improvement
+ None due to small group N (&lt; 50) Box width indicates group proportion.
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Economically Disadvantaged Students
+
+ Non−Economically Disadvantaged Students
+
+ African American Students
+
+ Asian Students
+
+ White Students
+
+ Hispanic Students
+
+ ELL Students
+
+ Special Education Students
+
+ Female Students
+
+ Male Students
+
+ Pandemic Related Academic Recovery in Indiana 16</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2021-2022: Academic Recovery Year 2
+ WIDA ACCESS WIDA⌧ACCESS Composite
+ WIDA IN 2022 to 2023 COVID⌧19 Academic Recovery Grade &amp; Content Area
+ Deterioration Recovery
+ −30 −7 10 30 Growth Change
+
+ −0.38 −0.09 0.12 0.38 Status Change
+
+ Calculations suppressed
+ Deterioration Stabilization Recovery
+ due to small group N (&lt; 50)
+
+ WIDA−ACCESS Composite
+ Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+
+ All Students Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Deterioration Deterioration Stabilization Deterioration Deterioration Deterioration
+
+ WIDA ACCESS WIDA⌧ACCESS Composite
+ WIDA IN 2022 to 2023 COVID⌧19 Academic Recovery Grade, Content Area &amp; Achievement Quintile
+ Deterioration Recovery
+ −30 −7 10 30 Growth Change
+
+ −0.38 −0.09 0.12 0.38 Status Change
+
+ Calculations suppressed
+ Deterioration Stabilization Recovery
+ due to small group N (&lt; 50)
+
+ WIDA−ACCESS Composite
+ Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Pandemic Related Academic Recovery in Indiana 17</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2021-2022: Academic Recovery Year 1
+ WIDA ACCESS WIDA⌧ACCESS Composite
+ WIDA IN 2021 to 2022 COVID⌧19 Academic Recovery Grade &amp; Content Area
+ Deterioration Recovery
+ −30 −7 10 30 Growth Change
+
+ −0.55 −0.07 0.1 0.2 Status Change
+
+ Calculations suppressed
+ Deterioration Stabilization Recovery
+ due to small group N (&lt; 50)
+
+ WIDA−ACCESS Composite
+ Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+
+ All Students Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Deterioration Deterioration Deterioration Deterioration Deterioration
+
+ WIDA⌧ACCESS Composite
+ WIDA IN 2021 to 2022 COVID⌧19 Academic Recovery Grade, Content Area &amp; Achievement Quintile
+ Deterioration Recovery
+ −30 −7 10 30 Growth Change
+
+ −0.55 −0.07 0.1 0.2 Status Change
+
+ Calculations suppressed
+ Deterioration Stabilization Recovery
+ due to small group N (&lt; 50)
+
+ WIDA−ACCESS Composite
+ Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Pandemic Related Academic Recovery in Indiana 18</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2020-2021: Academic Recovery Year 2
+ WIDA ACCESS WIDA⌧ACCESS Composite
+ WIDA IN 2020 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
+ Impact Recovery
+ −40 −25 −15 −5 5 20 Growth Change
+
+ −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
+
+ Modest
+ Calculations suppressed
+ Severe Large Moderate to Improvement
+ None due to small group N (&lt; 50)
+
+ WIDA−ACCESS Composite
+ Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+
+ All Students Moderate Large Moderate Large Large Moderate Moderate Moderate Moderate Moderate Modest to None Modest to None Improvement
+
+ WIDA⌧ACCESS Composite
+ WIDA IN 2020 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
+ Impact Recovery
+ −40 −25 −15 −5 5 20 Growth Change
+
+ −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
+
+ Modest
+ Calculations suppressed
+ Severe Large Moderate to Improvement
+ None due to small group N (&lt; 50)
+
+ WIDA−ACCESS Composite
+ Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Pandemic Related Academic Recovery in Indiana 19</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary
+• There is a modest improvement in results, overall, from 2021-2022
+ and 2022-2023
+• However, rates of growth for most students are insufficient to catch
+ them up to where they would have been had the pandemic not
+ occurred.
+• In most grades and content areas lower achieving students are
+ demonstrating rates of learning below what was seen pre-pandemic
+ whereas their high achieving counterparts are demonstration rates
+ of learning above what was seen pre-pandemic.
+• This suggest a K-shaped recovery where, on average, low achieving
+ students don’t recover and their higher achieving counterparts do.
+
+ Pandemic Related Academic Impact in Indiana 20</div>
+```
+
+## About this copy {.archive-about}
+
+*Indiana 2023 Academic Recovery* — Indiana Department of Education, July 3, 2023.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2023-07-03-in-indiana-2023-academic-recovery/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-07-03-in-indiana-2023-academic-recovery.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-07-03-in-indiana-2023-academic-recovery.key)
+- [All talks](https://dbetebenner.github.io/talks/)

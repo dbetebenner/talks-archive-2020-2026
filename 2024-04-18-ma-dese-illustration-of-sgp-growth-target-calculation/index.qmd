@@ -1,0 +1,340 @@
+---
+pagetitle: Illustration of SGP Growth Target Calculation
+description: Illustration of SGP Growth Target Calculation — MA DESE Target Illustration, April 2024. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Illustration of SGP Growth Target Calculation
+MCAS 2022 to 2023
+Damian Betebenner &amp; Adam VanIwaarden
+Center for Assessment
+
+April 18th, 2024</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Types of Targets
+• As we’ve discussed, setting growth targets requires two things:
+ 1. An achievement goal (e.g., proficiency/meeting expectations)
+ 2. A time-frame to reach that goal (e.g., 5 years)
+• In the beginning (2005 to 2008) states geared everything toward
+ proficiency.
+• Since 2010, states have considered achievement goals besides proficiency.
+• More recently, states have also begun tailoring the time frame to reach
+ the goal issues such as number of years student has been receiving ELL
+ services or the student’s proximity to the achievement goal.</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Catch-Up/Keep-Up
+• The most prevalent type of growth target is the Catch-Up/Keep-Up
+ Target
+ • Catch-Up: Students who are not currently meeting
+ expectations (level 1 or level 2) are given a trajectory to reach
+ proficient/meeting expectations status over a given time frame
+ (e.g., 5 years)
+ • Keep-Up: Students who are currently meeting expectations
+ (level 3 or level 4) are given a trajectory to maintain proficient/
+ meeting expectations status over a given time frame (e.g., 5
+ years)</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Catch-Up
+ 560
+
+ Level 4
+ 530
+
+ Level 3
+ SGP=88 SGP=69 SGP=58 SGP=54 SGP=65
+
+ 500 SGP=58
+ SGP=69 SGP=54
+ SGP=58
+ SGP=69
+ Level 2 SGP=58
+ 475
+ 470
+
+ Level 1
+
+ 440
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Catch-Up
+• The figure illustrates 5 trajectories for the student with a
+ starting scale score of 475 (θ = − 1.154888), Level 2.
+• Each trajectory is associated with an SGP (I sometime call
+ these percentile trajectories) indicates the annual SGP growth
+ associated with the trajectory.
+• Each trajectory has equal, annual “difficulty” (thus the same
+ SGP)</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Catch-Up
+• The Catch-Up Target for the student is the MINIMUM of the 1, 2, 3, 4, and 5 year SGP
+ trajectories.
+• That is, the target is the ONE trajectory that catches the student up over the next 5 years.
+• Most often, the least is the 5 year target, but not necessarily
+ • In some states the achievement levels are set unevenly in terms of difficulty so more time
+ doesn’t necessarily mean less difficulty to reach.
+• In the example given, the 4 and 5 year trajectories are of equal difficulty.
+• For each dot on each trajectory there is an associated scaled score (theta value) associated with
+ it.
+• Though the trajectories appear straight, in reality they are usually slightly concave down
+ indicating larger scaled score gains in the initial years of the trajectory.
+• If Grade 8 is the terminal grade, then grade 3 is the only grade with a 5 year catch-up trajectory.</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Keep-Up
+ 560
+
+ Level 4
+ 530
+
+ Level 3
+ 511
+ 500
+ SGP=18 SGP=30 SGP=32 SGP=36 SGP=40
+
+ Level 2
+
+ 470
+
+ Level 1
+
+ 440
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Keep-Up
+• The figure illustrates 5 trajectories for the student with a
+ starting scale score of 511 (θ = 0.5261942), Level 3.
+• Each trajectory is associated with an SGP indicates the annual
+ SGP growth associated with the trajectory.
+• Each trajectory has equal, annual “difficulty” (thus the same
+ SGP)</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Keep-Up
+• The Keep-Up Target for the student is the MAXIMUM of the 1, 2, 3, 4, and 5 year SGP
+ trajectories (40 in this case).
+• That is, the target ensures that the student keeps-up for ALL of the next 5 years.
+• The number of years associated maximum SGP trajectory can vary depending on a number
+ of factors including the normative difficulty of the achievement levels going forward
+• In the example given, the 4 and 5 year trajectories are of equal difficulty.
+• For each dot on each trajectory there is an associated scaled score (theta value) associated
+ with it.
+• Though the trajectories appear straight, in reality they are usually slightly concave up.
+• If Grade 8 is the terminal grade, then grade 3 is the only grade with a 5 year Keep-up
+ trajectory.</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Move-Up/Stay-Up
+• The second most prevalent type of growth target is the Move-
+ Up/Stay-Up Target
+ • Move-Up: Students who are currently meeting expectations
+ (level 3) but not exceeding (level 4) are given a trajectory to
+ reach exceeding status over a given time frame (e.g., 5 years)
+ • Stay-Up: Students who are currently exceeding expectations
+ (level 4) are given a trajectory to maintain proficient status
+ over a given time frame (e.g., 5 years)</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Move-Up
+560
+
+ Level 4
+ SGP=91 SGP=80 SGP=70 SGP=65 SGP=65
+530
+
+ Level 3
+ 511
+500
+
+ Level 2
+
+470
+
+ Level 1
+
+440
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Move-Up
+• The figure illustrates 5 trajectories for the student with a
+ starting scale score of 511 (θ = 0.5261942), Level 3.
+• Each trajectory is associated with an SGP indicates the annual
+ SGP growth associated with the trajectory.
+• Each trajectory has equal, annual “difficulty” (thus the same
+ SGP)</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Move-Up
+• The Move-Up Target for the student is the MINIMUM of the 1, 2, 3, 4, and 5 year SGP
+ trajectories (65 in this case).
+• That is, the target is the ONE trajectory that moves the student up over the next 5 years.
+• Most often, the least is the 5 year target, but not necessarily
+ • In some states the achievement levels are set unevenly in terms of difficulty so more
+ time doesn’t necessarily mean less difficulty to reach.
+• For each dot on each trajectory there is an associated scaled score (theta value) associated
+ with it.
+• Though the trajectories appear straight, in reality they are usually slightly concave down
+ indicating larger scaled score gains in the initial years of the trajectory.
+• If Grade 8 is the terminal grade, then grade 3 is the only grade with a 5 year move-up
+ trajectory.</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Stay-Up
+ 560
+
+ Level 4
+ 545
+ 530
+ SGP=45 SGP=64 SGP=58 SGP=57 SGP=59
+
+ Level 3
+
+ 500
+
+ Level 2
+
+ 470
+
+ Level 1
+
+ 440
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Stay-Up
+• The figure illustrates 5 trajectories for the student with a
+ starting scale score of 511 (θ = 2.138977), Level 4.
+• Each trajectory is associated with an SGP indicates the annual
+ SGP growth associated with the trajectory.
+• Each trajectory has equal, annual “difficulty” (thus the same
+ SGP)</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Stay-Up
+• The Stay-Up Target for the student is the MAXIMUM of the 1, 2, 3, 4, and 5 year SGP
+ trajectories (64, in this case)
+• That is, the target ensures that the student keeps-up for ALL of the next 5 years.
+• The number of years associated maximum SGP trajectory can vary depending on a
+ number of factors including the normative difficulty of the achievement levels going
+ forward
+• For each dot on each trajectory there is an associated scaled score (theta value)
+ associated with it.
+• Though the trajectories appear straight, in reality they are usually slightly concave up.
+• If Grade 8 is the terminal grade, then grade 3 is the only grade with a 5 year stay-up
+ trajectory.</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">WIDA-ACCESS
+• WIDA-ACCESS targets are ALL catch-up targets where the
+ desired achievement outcome is ELP proficiency (WIDA level
+ 4.2)
+• WIDA-ACCESS targets have a individual specific time-frame to
+ reach ELP proficiency based upon the number of years that
+ the student has been receiving ELL services ranging from 6
+ years (no services) to 1 year (5 or more years receiving
+ services)</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">WIDA-ACCESS: Adequate Growth
+ Level 5
+
+ Level 4
+
+ Level 3
+
+ Level 2
+
+ Level 1
+
+ Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary
+• The goal of the growth-to-standard analyses is to
+ communicate to stakeholders a “pathway” to a desirable
+ achievement outcome over a given span of time.
+• As the catch-up/keep-up and move-up/stay-up illustrations
+ show, there are consistent rules to how these interim annual
+ targets are set.
+• As the WIDA-ACCESS illustration shows, customization can
+ occur by specifying a student specific time-frame.</div>
+```
+
+## About this copy {.archive-about}
+
+*Illustration of SGP Growth Target Calculation* — MA DESE Target Illustration, April 2024.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2024-04-18-ma-dese-illustration-of-sgp-growth-target-calculation/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2024-04-18-ma-dese-illustration-of-sgp-growth-target-calculation.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2024-04-18-ma-dese-illustration-of-sgp-growth-target-calculation.key)
+- [All talks](https://dbetebenner.github.io/talks/)

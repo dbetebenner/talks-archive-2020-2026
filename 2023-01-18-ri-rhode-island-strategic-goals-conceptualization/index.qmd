@@ -1,0 +1,169 @@
+---
+pagetitle: Rhode Island Strategic Goals Conceptualization
+description: Rhode Island Strategic Goals Conceptualization — Rhode Island Department of Education, January 18, 2023. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Rhode Island 2030
+Aligning Indicators to Strategic Goals
+Damian Betebenner
+Center for Assessment
+
+February 14th, 2023</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Indicators of Learning</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Strategic Vision
+• Rhode Island is developing a comprehensive, long term
+ strategic plan for its education system.
+• There are several components</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Definitions
+• The SGP_TARGET:
+ • Isn’t a guarantee that the student reaching the target will catch-up/
+ keep-up.
+ • It’s a one-year installment on a multi-year plan to catch-up/keep-up.
+ • Requires an SGP in order to make a determination of catch-up/keep-up.
+ • Will take on extremely high (above 90) or extremely low values (below
+ 10) for students who are low achievers and high achievers, respectively.
+ • Can be converted to a RICAS scale score if desired.</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Decision Matrix: Catch-Up/Keep-Up
+
+ SGP ≥ SGPTarget SGP &lt; SGPTarget
+ Prior Achievement
+ Catching Up Not Catching Up
+ Not Proficient
+ Prior Achievement
+ Keeping Up Not Keeping Up
+ Proficient</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Catch Up/Keep Up Drawback
+• Though a technically correct approach, I believe using SGP
+ and SGP_TARGET to communicate growth/learning goals
+ suffers from the following problems:
+ • Difficult to communicate and comprehend, especially for
+ non-technical stakeholders
+ • Difficulty in communication inhibits stakeholder use of the
+ data
+ • 1 to 99 scale communicates precision that isn’t justified.</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">A Year’s Worth of Learning</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">A Year’s Worth of Learning
+• Another approach that “coarsens” SGP and SGP_TARGET and
+ utilizes the language of a “year’s worth of learning”.
+• The terms “a year’s worth of learning” is often well received
+ by non-technical stakeholders even though it is not well
+ defined. We propose the following definitions:
+ • At or near a year’s worth of learning: 30 ≤ SGP ≤ 65
+ • Below a year’s worth of learning: SGP &lt; 30
+ • Above a year’s worth of learning: SGP &gt; 65</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Year’s Worth of Learning
+• Based upon these three categories of growth/learning, students
+ are classified in two ways:
+ • Category 1: Growth demonstrated in current year
+ • Category 2: Growth needed/desired in current year
+• Note, the two categories are analogous to SGP and SGP_TARGET
+ except they are expressed in terms of the three “year’s worth of
+ learning” levels instead of the 99 different percentiles.
+• Note: Growth needed is to either catch up or keep up. That
+ distinction is not made explicit.</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Decision Matrix: Year’s Worth of Learning
+
+ Learning Observed
+
+ SGP ≥&lt;SGP
+ 1 Year
+ Target ≈ 1Year SGP &lt; &gt;SGP
+ 1Year
+ Target
+
+ Definitely
+
+ Learning Needed
+ &lt; 1 Year Enough More than
+ more than
+ (but not good) enough
+ enough
+ ≈ 1Year More than
+ Not enough Enough
+ enough
+
+ &gt; 1Year Definitely
+ Not enough Enough
+ not enough</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Year’s Worth of Learning
+• The qualifiers (not enough, enough, definitely not enough) are
+ rough placeholders.
+• The goal of systemic improvement is to diminish (over time) the
+ percentage of students demonstrating less than a year’s worth of
+ learning and to maximize (especially for the lowest achieving
+ students) the percentage of students demonstrating more than a
+ year’s worth of growth.
+• Note: All of the calculations are done behind the scenes with SGP
+ and SGP_TARGET, but the language used to communicate the
+ results is “year’s worth of learning”.</div>
+```
+
+## About this copy {.archive-about}
+
+*Rhode Island Strategic Goals Conceptualization* — Rhode Island Department of Education, January 18, 2023.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2023-01-18-ri-rhode-island-strategic-goals-conceptualization/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-01-18-ri-rhode-island-strategic-goals-conceptualization.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-01-18-ri-rhode-island-strategic-goals-conceptualization.key)
+- [All talks](https://dbetebenner.github.io/talks/)

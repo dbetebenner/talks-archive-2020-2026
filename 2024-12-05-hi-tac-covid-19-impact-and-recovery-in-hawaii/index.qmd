@@ -1,0 +1,2004 @@
+---
+pagetitle: COVID-19 Impact & Recovery in Hawaii
+description: COVID-19 Impact & Recovery in Hawaii — Hawaii Technical Advisory Committee, December 5, 2024. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Impact &amp; Recovery in Hawaii
+2024 Update
+Damian Betebenner &amp; Adam VanIwaarden
+Center for Assessment
+
+December 5th, 2024
+
+ 1</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Background
+Introductory Concepts and Terminology
+
+ 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Academic Recovery in 2024
+• The availability of 2024 SBA data allows Hawaii to update
+ COVID-19 recovery analyses.
+• Spring 2024 marks the fourth year since the pandemic began
+ and this is the fourth report:
+ • Summer 2021: Academic Impact
+ • Summer 2022: Academic Recovery Year 1
+ • Summer 2023: Academic Recovery Year 2
+ • Summer 2024: Academic Recovery Year 3
+
+ 3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Two Types of Recovery in 2024: System &amp; Student
+• We elaborate on the results from the previous recovery analyses in two
+ ways:
+ • System level recovery: Is the education system supporting rates of
+ learning that are comparable to what it was prior to the pandemic?
+ • Student level recovery: Are students achieving at levels that are
+ comparable to what they were prior to the pandemic?
+• Previously, we focused mostly on system-level recovery: examining rates
+ of learning in 2021 and 2022 compared to those prior to the pandemic.
+• We continue examining system level analyses but also focus on student-
+ level recovery.
+
+ 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Two Types of Recovery: System &amp; Student
+• System-level recovery
+ • Comparison of 2019 and 2024 same-grade student growth: We
+ examine the change in baseline student growth (SGPs) for 2019
+ students and 2024 students utilizing coefficient matrices derived
+ from pre-pandemic cohorts of students.
+• Student-level recovery
+ • Comparison of 2019 to 2024 same-grade achievement: We
+ examine the equi-percentile change in achievement for 2019
+ students and 2024 students at same-grade
+
+ 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student-level recovery
+• It is critical to understand that recovery of the system does not imply student level
+ recovery
+• Because students’ rates of learning slowed so dramatically during the pandemic, rates
+ of learning necessary to catch students up to where they would have been would have
+ to be equally dramatic (in the positive direction)
+• As of 2024, 4 cohorts of students have exited the system (via graduation) achieving at
+ levels, on average, below where they would have been had the pandemic not occurred.
+• The following figures illustrate the extent to which student attainment is behind 2019
+ attainment levels.
+• Comparison to 2019 attainment levels is a “low bar” for comparison:
+ • Attainment levels in 2024, had the pandemic not occurred, would almost certainly
+ have been higher than 2019 levels (based on “typical” rates of yearly improvement)
+
+ 6</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">System Recovery: Cohort-Based Comparison (SBA)
+Compare observed versus expected attainment for a cohort of students
+
+ 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023 2023-2024
+
+ Grade 3
+
+ Grade 4
+
+ No Testing due to
+ Grade 5
+
+ COVID-19
+ Grade 6
+
+ Grade 7
+
+ Grade 8
+
+ 7</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Recovery: Cross-sectional Comparison (SBA)
+Compare observed versus expected attainment for a cohort of students
+
+ 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023 2023-2024
+
+ Grade 3
+
+ Grade 4
+
+ No Testing due to
+ Grade 5
+
+ Grade 6
+ COVID-19
+
+ Grade 7
+
+ Grade 8
+
+ 8</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Why Baseline SGPs?
+• There was a question of why one needs to look at baseline referenced SGPs
+ instead of, for example, scale score gains. There are several reasons.
+ • SGPs are the growth metric that the state of Hawaii has been using for more
+ than a decade.
+ • SGPs are readily interpretable probabilistically whereas gain scores are not.
+ • Quantile regression (on which SGPs are based) is invariant to mono-tone
+ transformations of scale (equivariant to mono-tone transformations of
+ scale). OLS regression, for example, is not. See Koenker (2005, p. 38)
+ • Gain scores (which can be calculated since SBA is vertically scaled) are
+ dependent upon: Content area, grade, prior level of achievement.
+ • Gain scores were largely discredited as an effective means of communicating
+ change. For example, no state uses them as a growth model.
+
+ 9</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Status based impact versus growth?
+• There was another question about the equivalence of status change and
+ growth change.
+ • Previously, I justified this change heuristically by noting that growth
+ change (deceleration from 2021) had to lead to status change.
+ • That is, decreases in learning (as quantified by growth) necessarily lead
+ to decreases in achievement.
+ • Also, this is empirically verified based upon two years of data plotted for
+ several states across grade and content areas show a correlation of 0.91.
+ • This relationship isn’t a function of content area or year but a
+ relationship between status change and conditional status (i.e., growth)
+ change.
+ 10</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Status based impact versus growth?
+ Academic Impact/Recovery Across 11 States
+ 3 5 4
+ 1078
+ 6 86
+ 5 7 4
+ 3
+ Mean Growth Impact Mean Growth Recovery
+ by Grade by Grade
+ 6 53 48 7 8 6 57 34
+
+ Mean Status Recovery
+ 0.30
+ Gr3
+ 0.25 Mathematics Impact: 2019 to 2021
+ Gr5
+ ELA Impact: 2019 to 2021
+
+ by Grade
+ Gr4
+
+ 0.20 Mathematics Recovery: 2021 to 2022
+ Gr3
+ ELA Recovery: 2021 to 2022 Gr7
+
+ Recovery
+ 0.15 Gr3 Gr6 Gr4
+ Gr3
+ Gr4
+ Gr8 Gr5 Gr5Gr4 3
+ Gr6 4
+ 0.10 Gr3
+ Gr4
+ Gr5Gr8 Gr4
+ Gr6 Gr4
+ Gr3
+ Gr3
+ Gr3
+ Gr3
+ Gr6 Gr4 Gr4Gr8
+ Gr4 5 3
+ 4
+ Gr6Gr6
+ Gr7
+ Gr6
+ Gr7 Gr5 6
+ Gr4 Gr6
+ 0.05 Gr3
+ Gr3 Gr6 Gr5Gr5Gr4
+ Gr5
+ Gr6 Gr7 Gr7
+ Gr5
+ Gr7 8 7
+ Gr6
+ Gr5 Gr8 Gr7
+ Gr4
+ Gr5 7 6
+ 5
+ Gr3
+ Gr8Gr8 Gr7
+ 0.00 Gr7
+ Gr8
+
+ Status Change (effect size)
+ Gr8Gr7
+ Gr7 Gr5Gr5 Gr7
+ Gr8
+ Gr8 Gr8
+ Gr7
+ Gr7
+ Gr6 8
+ Gr4 Gr6 Gr8Gr8 Gr7
+ −0.05 Gr7Gr8 Gr4
+ Gr6
+ Gr8
+ Gr3
+
+ −0.10 Gr4
+ Gr10
+ Gr5
+ 10
+ Gr4 Gr8
+ Gr3 Gr6
+ Gr7Gr7 Gr6
+ Gr8 Gr5
+ Gr4
+ Gr7 8
+ 7
+ −0.15 Gr4
+ Gr3
+ Gr4
+ Gr4
+ Gr8 Gr5
+ Gr8
+ Gr5Gr6 Gr7
+ Gr6
+ Gr5
+ Gr8
+ Gr6 4
+ Gr3
+ Gr4 Gr5 Gr6 Gr8 Gr8 Gr7 6
+ Gr4
+ Gr3
+ Gr3 Gr8Gr5Gr5
+ Gr7
+ Gr8
+ Gr6 Gr8Gr6
+ 5
+ −0.20 Gr3
+ Gr3
+ Gr3 Gr7
+ Gr7
+ Gr5
+ Gr7 Correlation: 0.91 3
+ Gr3
+
+ Gr3 Gr7
+ Gr6 7
+ Gr7
+ −0.25 Gr4
+ Gr4
+ Gr3
+ Gr4
+ Gr3 Gr5
+ Gr7
+ Gr5
+ Gr6
+ Gr8 Status = 0.012 * Growth + 0.005 8
+ Gr4
+ Gr3
+ Gr8 Growth = 66.204 * Status + −1.523 4
+ Gr7
+ Gr4 Gr8
+ Gr6Gr5 Gr5 3
+ 5
+ 6
+ −0.30 Gr4 Gr6
+ Gr8
+ Gr3 Gr5
+ Gr6
+ Gr6
+ Gr5 Gr6
+ −0.35 Gr4
+ Gr6
+ Gr7
+ Gr5
+
+ Mean Status Impact
+ Gr8
+ Gr4
+ Gr5
+ Gr3
+ −0.40 Gr3
+
+ Impact
+
+ by Grade
+ −0.45
+ Gr3
+ Gr4
+ −0.50 Note: Missing data in 2021 imputed
+ using multiple imputation.
+ −0.55
+
+ −0.60
+
+ −40 −35 −30 −25 −20 −15 −10 −5 0 5 10 15 20
+ Impact Growth Change (Median SGP change) Recovery
+
+ 11</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA ELA and Mathematics
+ Hawaii 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
+ Deterioration Recovery
+ −40 −25 −15 −5 5 20 Growth Change
+ NOTE: Quintiles for each student
+ −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change subgroup are based upon quintile
+ cuts defined for All Students.
+
+Change in Growth
+ Modest
+ Calculations suppressed Impact ratings calculated using baseline growth
+ Severe Large Moderate to Improvement
+ None due to small group N (&lt; 50) Box width indicates group proportion. change when available and transformed growth otherwise.
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Economically Disadvantaged
+
+ Non−Economically Disadvantaged
+
+ Special Education
+
+ Asian
+
+ White
+
+ Hispanic
+
+ Native Hawaiian
+
+ ELL
+
+ Female
+
+ Male</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA ELA and Mathematics
+ Hawaii 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
+
+Change in Achievement
+ Deterioration Recovery
+ −40 −25 −15 −5 5 20 Growth Change
+ NOTE: Quintiles for each student
+ −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change subgroup are based upon quintile
+ Modest
+ Calculations suppressed
+ cuts defined for All Students. Impact ratings calculated using status change
+ Severe Large Moderate to Improvement
+ None due to small group N (&lt; 50) Box width indicates group proportion. for all grades and content areas.
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Economically Disadvantaged
+
+ Non−Economically Disadvantaged
+
+ Special Education
+
+ Asian
+
+ White
+
+ Hispanic
+
+ Native Hawaiian
+
+ ELL
+
+ Female
+
+ Male</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Year 1
+From Fall 2021 to Summer 2022
+SBA: Spring 2021 and Spring 2022 Assessments</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Phase Year 1
+• Student growth (baseline referenced to pre-pandemic rates of learning)
+ was examined by content area and grade as well as for the major student
+ demographic subgroups.
+• Achievement (Student Recovery) and Growth (System Recovery) were
+ characterized in three ways:
+ • Lagging: Behind pre-pandemic levels (attainment or growth)
+ • On Par: About the same as pre-pandemic levels (attainment or growth)
+ • Leading: Ahead of pre-pandemic levels (attainment or growth)
+• Because learning slowed during the initial phase of the pandemic (2020 to
+ 2021), to make up for those losses, learning must accelerate to rates
+ above normal (i.e., leading)
+ 15</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA ELA and Mathematics
+ Hawaii 2021 to 2022 COVID⌧19 Academic System Recovery Grade &amp; Content Area
+ Lagging Leading System Recovery characterizes the extent
+ Growth Change
+ −30 −7 10 30 to which rates of student learning (i.e., growth)
+ have returned to pre−pandemic rates of learning.
+
+Change in Growth
+ Calculations suppressed
+ Lagging On Par Leading
+ due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+
+ All Students Leading Leading Leading Leading Leading On Par Leading Leading Leading Leading Leading Leading
+
+ Economically Disadvantaged On Par On Par Leading Leading Leading On Par Leading Leading Leading Leading Leading Leading
+
+ Non−Economically Disadvantaged Leading On Par Leading Leading Leading On Par Leading Leading Leading Leading Leading Leading
+
+ Special Education On Par On Par On Par On Par On Par Lagging Leading On Par Leading On Par On Par On Par
+
+ Asian Leading Leading Leading Leading Leading On Par Leading Leading Leading Leading Leading Leading
+
+ White On Par On Par Leading Leading Leading On Par Leading Leading Leading Leading Leading Leading
+
+ Hispanic On Par On Par Leading Leading Leading On Par Leading Leading Leading Leading Leading Leading
+
+ Native Hawaiian On Par Leading Leading Leading On Par On Par Leading Leading Leading Leading Leading Leading
+
+ ELL On Par On Par On Par On Par On Par On Par Leading On Par Leading Leading Leading On Par
+
+ Female Leading Leading Leading Leading Leading On Par Leading Leading Leading Leading Leading Leading
+
+ Male Leading Leading Leading Leading Leading On Par Leading Leading Leading Leading Leading Leading</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA ELA and Mathematics
+ Hawaii 2019 to 2022 COVID⌧19 Academic Student Recovery Grade &amp; Content Area
+
+Change in Achievement
+ Lagging Leading Student Recovery characterizes the extent
+ Status Change
+ −0.38 −0.09 0.12 0.38 to which student attainment has returned
+ to pre−pandemic levels of attainment.
+ Calculations suppressed
+ Lagging On Par Leading
+ due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+
+ All Students On Par On Par On Par On Par On Par On Par Lagging On Par On Par Lagging Lagging Lagging
+
+ Economically Disadvantaged Lagging On Par On Par On Par On Par On Par Lagging Lagging Lagging Lagging Lagging Lagging
+
+ Non−Economically Disadvantaged On Par On Par On Par On Par On Par On Par On Par On Par On Par Lagging Lagging Lagging
+
+ Special Education On Par On Par On Par Lagging On Par On Par Lagging Lagging On Par Lagging On Par On Par
+
+ Asian On Par On Par On Par On Par On Par On Par On Par On Par On Par Lagging On Par On Par
+
+ White On Par On Par On Par On Par On Par On Par Lagging On Par On Par On Par On Par Lagging
+
+ Hispanic Lagging On Par On Par Lagging On Par Lagging Lagging Lagging On Par Lagging Lagging Lagging
+
+ Native Hawaiian Lagging On Par On Par On Par On Par Lagging Lagging Lagging Lagging Lagging Lagging Lagging
+
+ ELL On Par On Par On Par Leading Leading Leading On Par Lagging On Par On Par On Par Lagging
+
+ Female On Par On Par On Par On Par On Par On Par Lagging Lagging On Par Lagging Lagging Lagging
+
+ Male On Par On Par On Par On Par On Par On Par Lagging On Par On Par On Par On Par On Par</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Year 1
+• Analysis of 2022 SBA data indicated several positive trends in Hawai’i to be happy
+ about.
+• In both ELA and mathematics, learning acceleration was at least as much to be
+ considered stabilization and in many cases could be considered as genuine
+ recovery.
+• Compared to a dozen other states that the Center conducts these analyses,
+ Hawai’i comes out as the best in terms of pandemic recovery.
+• Despite a robust recovery, students remain slightly behind 2019 levels in ELA and
+ further behind in mathematics.</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Year 1: Qualitative Investigation
+• HIDOE commissioned a study, based upon an initial ROI investigation based upon money spent during the
+ pandemic to help students.
+• We identified 15 schools to investigate (via 90 minute zoom interviews) more thoroughly based upon three
+ patterns:
+ • High impact/high recovery
+ • High impact/little to no recovery
+ • Low impact/high recovery
+• My colleague Jeri Thompson and I investigated this recovery, focusing on schools demonstrating large rates of
+ recovery that continued through 2023.
+• As was reported previously, Hawaii, overall experienced a robust recovery in 2022 in rates of student learning —
+ much more so than other states.
+• Our interviews failed to identify a program or intervention responsible for what we observed at the 15 schools
+ we investigated.
+• More on year 2.</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Year 2
+From Fall 2022 to Summer 2023
+SBA: Spring 2022 and Spring 2023 Assessments
+
+ 20</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Phase Year 2
+• Student growth (baseline referenced to pre-pandemic rates of learning)
+ was examined by content area and grade as well as for the major student
+ demographic subgroups.
+• Achievement (Student Recovery) and Growth (System Recovery) were
+ characterized in three ways:
+ • Lagging: Behind pre-pandemic levels (attainment or growth)
+ • On Par: About the same as pre-pandemic levels (attainment or growth)
+ • Leading: Ahead of pre-pandemic levels (attainment or growth)
+• Because learning slowed during the initial phase of the pandemic (2020 to
+ 2021), to make up for those losses, learning must accelerate to rates
+ above normal (i.e., leading)
+ 21</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA ELA and Mathematics
+Hawaii 2019 to 2023 COVID⌧19 Academic Student Recovery
+ Grade, Content Area &amp; Achievement Quintile
+Lagging Leading Student Recovery characterizes the extent
+ Status Change
+−0.38 −0.09 0.12 0.38 to which student attainment has returned
+ to pre−pandemic levels of attainment.
+ Calculations suppressed
+ Lagging On Par Leading
+ due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Economically Disadvantaged
+
+ Non−Economically Disadvantaged
+
+ Special Education
+
+ Asian
+
+ White
+
+ Hispanic
+
+ Native Hawaiian
+
+ ELL
+
+ Female
+
+ Male</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA ELA and Mathematics
+Hawaii 2019 to 2023 COVID⌧19 Academic System Recovery
+ Grade, Content Area &amp; Achievement Quintile
+Lagging Leading System Recovery characterizes the extent
+ Growth Change
+ −30 −7 10 30 to which rates of student learning (i.e., growth)
+ have returned to pre−pandemic rates of learning.
+ Calculations suppressed
+ Lagging On Par Leading
+ due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Economically Disadvantaged
+
+ Non−Economically Disadvantaged
+
+ Special Education
+
+ Asian
+
+ White
+
+ Hispanic
+
+ Native Hawaiian
+
+ ELL
+
+ Female
+
+ Male</div>
+```
+
+## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Year 2
+• Analysis of 2023 SBA data indicates two things:
+ • Rates of learning, on average, are slightly exceeding or at pre-pandemic rates of
+ growth. That is, the system has recovered, and then some.
+ • Student attainment, on average, is still lagging behind because rates of learning have
+ not accelerated enough to catch students up. That is, students have not recovered.
+• In both ELA and mathematics, learning acceleration from the lows of the pandemic would
+ be considered, on average, to be system stabilization.
+• System stabilization (a return to normal rates of learning) will be insufficient to catch
+ students up.
+• Averages can obscure important heterogeneity:
+
+ 24</div>
+```
+
+## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Year 2: Qualitative Investigation
+• Upon reflection of our initial findings, we hypothesize that the robust recovery was driven by cultural factors more so than programmatic
+ factors.
+• To investigate further, we identified 5 schools that continued to experience superior rates of growth to those demonstrated prior to the
+ onset of the pandemic. 4 of those schools agreed to a full day meeting to discuss impact and recovery due to the pandemic.
+ • Kalihi-waena Elementary
+ • Mililani ‘Ike Elementary
+ • Waipahu Elementary
+ • Mililani Middle
+• Our hypothesis is that these schools thrived due to efforts to maintain strong relationships during the COVID-19 crisis. Specifically, we
+ believe Hawaii’s culture of ‘Ohana led to:
+ • strong relational networks among students, teachers, parents, and the broader community that supported emotional and academic
+ resilience.enhanced collaboration between schools and families, fostering a sense of mutual responsibility for student success.
+ • a focus on belonging and cultural identity, which helped students navigate challenges and stay connected to their educational journey.
+ • a shared community ethos where collective well-being was prioritized, enabling targeted and empathetic support for struggling
+ students and families.
+ • enduring trust and communication frameworks that were established during the pandemic and maintained in the recovery period.</div>
+```
+
+## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Year 3
+From Fall 2023 to Summer 2024
+SBA: Spring 2023 and Spring 2024 Assessments
+
+ 26</div>
+```
+
+## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Phase Year 3
+• Student growth (baseline referenced to pre-pandemic rates of learning)
+ was examined by content area and grade as well as for the major student
+ demographic subgroups.
+• Achievement (Student Recovery) and Growth (System Recovery) were
+ characterized in three ways:
+ • Lagging: Behind pre-pandemic levels (attainment or growth)
+ • On Par: About the same as pre-pandemic levels (attainment or growth)
+ • Leading: Ahead of pre-pandemic levels (attainment or growth)
+• Because learning slowed during the initial phase of the pandemic (2020 to
+ 2021), to make up for those losses, learning must accelerate to rates
+ above normal (i.e., leading)
+ 27</div>
+```
+
+## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2023 Status Results
+• Percent Proficient/Standardized Score (pooled standard deviation)/Count
+ for SBA:
+
+ ELA Mathematics
+ Grade
+ 2019 2024 2019 2024
+
+ 3 52.3%/0.00/14,396 49.4%/-0.06/12,163 55.8%/0.00/14,452 52.9%/-0.06/12,223
+ 4 51.2%/0.00/11,357 49.4%/-0.03/12,716 48.1%/0.00/11,422 48.0%/0.01/12,762
+ 5 56.7%/0.00/14,752 55.7%/-0.01/13,058 44.0%/0.00/14,812 44.1%/-0.01/13,109
+ 6 52.3%/0.00/14,128 51.8%/0.01/12,348 40.6%/0.00/14,183 39.0%/-0.03/12,428
+ 7 52.7%/0.00/13,541 51.7%/-0.03/12,102 38.2%/0.00/13,611 36.1%/-0.06/12,191
+ 8 54.1%/0.00/12,853 49.3%/-0.06/12,131 37.8%/0.00/12,921 31.8%/-0.12/12,201
+
+ 28</div>
+```
+
+## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2023 SGP Results
+• Mean/Median/Count for baseline referenced SGPs in ELA and
+ mathematics are as follows:
+
+ ELA Mathematics
+ Grade
+ 2019 2024 2019 2024
+
+ 4 49.8/50.0/10,330 51.7/52.0/11,733 50.0/50.0/10,387 53.1/55.0/11,784
+ 5 50.1/50.0/13,705 48.8/48.0/12,065 49.8/50.0/13,756 47.8/47.0/12,096
+ 6 49.9/50.0/13,144 49.2/50.0/11,409 50.2/50.0/13,208 50.9/51.0/11,464
+ 7 50.2/50.0/12,278 48.5/48.0/11,125 50.1/50.0/12,359 50.2/51.0/11,208
+ 8 49.8/50.9/11,859 47.9/47.0/11,187 49.4/50.0/11,927 48.5/47.0/11,272
+
+ 29</div>
+```
+
+## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Status Recovery
+Black Line: 2019 (pre-covid) scaled-score
+distribution.
+Red line: 2023 scaled-score distribution.
+The impact of the pandemic on student
+achievement (decrease) is illustrated as the area
+between the black line (bottom) and the red line
+(top)
+X-axis: Grade 8 percentile rank
+The horizontal distance between the curves at
+the proficiency cut level (horizontal dashed blue
+line) illustrates the increase in percent proficient.
+Decrease of 7.2% proficient and decrease of 0.16
+standard deviation</div>
+```
+
+## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Status Recovery
+Red line: 2023 - 2019 scaled-score
+distribution difference.
+The recovery from the pandemic
+(difference in the distributions) on
+student achievement (increase) is
+indicated by the red line.
+X-axis: Grade 8 percentile rank
+Average impact z = -0.16 standard units.
+Larger impact for Q3 and Q4 students.</div>
+```
+
+## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth Recovery
+Black Line: (pre-covid) conditional scaled-score
+distribution — Grade 8/2019 conditioned on
+Grade 7/2018
+Red line: conditional scaled-score distribution
+— Grade 8/2023 conditioned on Grade 7/2022
+The lag from the pandemic on student growth
+(increase) is illustrated as the area between the
+black line (top) and the red line (bottom)
+X-axis: Grade 7 Scaled Score and achievement
+level cuts.
+Fixing a level on the x-axis, the vertical distance
+between the curves is the average decrease in
+scale score associated with the impact for a
+student at that 8th-grade level.</div>
+```
+
+## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth Recovery
+Red line: SGP Difference Grade
+8/2023 - Grade 8/2019 conditional
+scaled score distribution
+X-axis: Grade 7 Scaled Score and
+associated deciles and achievement
+level cuts
+Median SGP 2019 Grade 8: 50
+Median SGP 2023 Grade 8: 46
+Higher achieving groups (above the
+40th percentile) demonstrating
+lower rates of learning than pre-
+COVID.</div>
+```
+
+## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary
+We summarize the academic recovery in
+terms of Growth (System Level Recovery)
+and Status (Student Level Recovery) both
+overall and by achievement quintile
+Growth is, overall, on par with the pre-covid
+growth. For the higher quintiles, growth is
+on-par bordering on lagging.
+Status is, overall, lagging. That is, student
+attainment has not returned to pre-
+pandemic levels. This reaffirms the point
+made two years ago: For students to recover,
+learning rates will have to</div>
+```
+
+## {.archive-slide background-image="slides/35.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA ELA and Mathematics
+Hawaii 2019 to 2024 COVID⌧19 Academic Student Recovery
+ Grade, Content Area &amp; Achievement Quintile
+Lagging Leading Student Recovery characterizes the extent
+ Status Change
+−0.38 −0.09 0.12 0.38 to which student attainment has returned
+ to pre−pandemic levels of attainment.
+ Calculations suppressed
+ Lagging On Par Leading
+ due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Economically Disadvantaged
+
+ Non−Economically Disadvantaged
+
+ Special Education
+
+ Asian
+
+ White
+
+ Hispanic
+
+ Native Hawaiian
+
+ ELL
+
+ Female
+
+ Male</div>
+```
+
+## {.archive-slide background-image="slides/36.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA ELA and Mathematics
+Hawaii 2019 to 2023 COVID⌧19 Academic Student Recovery
+ Grade, Content Area &amp; Achievement Quintile
+Lagging Leading Student Recovery characterizes the extent
+ Status Change
+−0.38 −0.09 0.12 0.38 to which student attainment has returned
+ to pre−pandemic levels of attainment.
+ Calculations suppressed
+ Lagging On Par Leading
+ due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Economically Disadvantaged
+
+ Non−Economically Disadvantaged
+
+ Special Education
+
+ Asian
+
+ White
+
+ Hispanic
+
+ Native Hawaiian
+
+ ELL
+
+ Female
+
+ Male</div>
+```
+
+## {.archive-slide background-image="slides/37.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA ELA and Mathematics
+Hawaii 2019 to 2024 COVID⌧19 Academic System Recovery
+ Grade, Content Area &amp; Achievement Quintile
+Lagging Leading System Recovery characterizes the extent
+ Growth Change
+ −30 −7 10 30 to which rates of student learning (i.e., growth)
+ have returned to pre−pandemic rates of learning.
+ Calculations suppressed
+ Lagging On Par Leading
+ due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Economically Disadvantaged
+
+ Non−Economically Disadvantaged
+
+ Special Education
+
+ Asian
+
+ White
+
+ Hispanic
+
+ Native Hawaiian
+
+ ELL
+
+ Female
+
+ Male</div>
+```
+
+## {.archive-slide background-image="slides/38.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA ELA and Mathematics
+Hawaii 2019 to 2023 COVID⌧19 Academic System Recovery
+ Grade, Content Area &amp; Achievement Quintile
+Lagging Leading System Recovery characterizes the extent
+ Growth Change
+ −30 −7 10 30 to which rates of student learning (i.e., growth)
+ have returned to pre−pandemic rates of learning.
+ Calculations suppressed
+ Lagging On Par Leading
+ due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
+ 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+
+ All Students
+
+ Economically Disadvantaged
+
+ Non−Economically Disadvantaged
+
+ Special Education
+
+ Asian
+
+ White
+
+ Hispanic
+
+ Native Hawaiian
+
+ ELL
+
+ Female
+
+ Male</div>
+```
+
+## {.archive-slide background-image="slides/39.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA Mathematics Grade 8
+ Hawaii 2019 to 2024 COVID⌧19 Academic Recovery Female Students
+ Growth: Grade 7/2018 to 8/2019 versus Grade 7/2023 to 8/2024 Status: Grade 8/2019 versus Grade 8/2024 Summary
+ 2018 Grade 7 Scaled Score Decile Cuts
+ 10 20 30 40 50 60 70 80 90 2019 Grade 8 Scaled Score
+ Observed
+ All Students
+
+ Grade 8 Scaled/Standardized Score and Achievement Level Cuts
+ Female Students
+ 10 20 30 40 50 60 70 80 90
+ 2200 2400 2500 2700 Growth/Status Recovery Legend
+
+ 2019 Grade 8 Scaled Score Decile Cuts
+ 2700 2700
+ 90
+ 2018 to 2019 Mean Conditional Status 2019 Percentiles (Observed) −30 −7 10 30
+ 2023 to 2024 Mean Conditional Status (Observed) 1 2024 Percentiles (Observed)
+ 2019 to 2024 Growth Impact 2019 to 2024 Status Impact −0.38 −0.09 0.12 0.38
+ 80 2019 and 2024 Mean Scaled Scores
+
+ 2600 2600 0.5
+ 70 Lagging On Par Leading
+
+ 2019 Grade 8 Scaled Score
+ 60 0.09
+ 0
+ 50 −0.11
+ Calculations suppressed
+ 2500 2500
+ 40
+ −0.5 due to small group N (&lt; 50)
+ 30
+
+ 20 −1
+ 2400 2400
+
+ 10 Participation
+ −1.5
+ Total Status Growth
+ 2300 2300 −2 2019: 41.1% Proficient 2019 6,227 6,227 (100.0%) 5,763 (92.5%)
+
+ 2024: 31.6% Proficient 2024 5,904 5,904 (100.0%) 5,460 (92.5%)
+ −2.5
+
+ 2200 2200 10 20 30 40 50 60 70 80 90
+ 2200 2300 2400 2500 2600 2700
+ 0 10 20 30 40 50 60 70 80 90 100
+ 2018 Grade 7 Scaled Score with Achievement Level Cuts Grade 8 Overall and Subgroup Percentile Ranks
+ Growth Recovery: Overall and by Quintile
+ Overall
+ 2019 &amp; 2024 Grade 8 Median SGPs by Quintile 2019 &amp; 2024 Grade 8 Mean Scaled (Standardized) Scores by Quintile
+ On Par
+ Q1 Q2 Q3 Q4 Q5Overall Q1 Q2 Q3 Q4 Q5 Overall
+ 2019 Grade 8 Students 53.5 54.0 53.0 56.0 49.0 53.0 2019 Grade 8 Students 2374 (0.09) 2475 (0.09) 2545 (0.09) 2614 (0.09) 2711 (0.09) 2555 (0.09) Q1 Q2 Q3 Q4 Q5
+ 2024 Grade 8 Students 57.5 55.0 46.0 44.0 42.0 49.0 2024 Grade 8 Students 2359 (−0.11) 2458 (−0.11) 2524 (−0.11) 2594 (−0.11) 2705 (−0.11) 2529 (−0.11)
+ On Par On Par Lagging Lagging Lagging
+ Academic Impact (Observed) 4.0 1.0 −7.0 −12.0 −7.0 −4.0 Change (Observed) −15 (−0.13) −18 (−0.14) −21 (−0.17) −20 (−0.17) −7 (−0.05) −26 (−0.21)
+ Count Observed 2019 994 1,150 1,218 1,176 1,224 5,762 Count Observed 2019 1,031 1,198 1,288 1,348 1,362 6,227
+ Count Observed 2024 1,054 1,137 1,168 1,074 1,027 5,460 Count Observed 2024 1,103 1,183 1,256 1,233 1,129 5,904
+
+ Status Recovery: Overall and by Quintile
+
+ 2024 to 2019 Scaled/Standardized Score Difference
+ 35 35
+ 2024 to 2019 SGP Difference (Observed) 2024 to 2019 Grade 8 Status Change (Observed) Overall
+ 30 30 0.25
+ 2024 to 2019 Conditional Status Difference (Observed) 0.38: Correlation SGP and Status Percentile Change
+ Lagging
+
+ Conditional Status/Growth Change
+ 25 0.97: Correlation SGP and Conditional Status Difference 25 0.20
+
+ 20 20
+ 0.15 Q1 Q2 Q3 Q4 Q5
+ 15 15 Lagging Lagging Lagging Lagging Lagging
+ 0.10
+ 10 10
+
+2019 to 2024
+ 0.05
+ 5 5
+
+ 0 0 0.00
+
+ −5 −5
+ −0.05
+ −10 −10
+ −0.10
+ −15 −15
+ −0.15
+ −20 −20
+
+ −25 −25 −0.20 −0.21
+ −30 −30 −0.25
+ −35 −35
+ 10 20 30 40 50 60 70 80 90 2200 2400 2500 2700
+
+ 2200 2300 2400 2500 2600 2700 0 10 20 30 40 50 60 70 80 90 100
+
+ 2018 Grade 7 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2019 Norm)</div>
+```
+
+## {.archive-slide background-image="slides/40.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA Mathematics Grade 8
+ Hawaii 2019 to 2024 COVID⌧19 Academic Recovery Male Students
+ Growth: Grade 7/2018 to 8/2019 versus Grade 7/2023 to 8/2024 Status: Grade 8/2019 versus Grade 8/2024 Summary
+ 2018 Grade 7 Scaled Score Decile Cuts
+ 10 20 30 40 50 60 70 80 90 2019 Grade 8 Scaled Score
+ Observed
+ All Students
+
+ Grade 8 Scaled/Standardized Score and Achievement Level Cuts
+ Male Students
+ 10 20 30 40 50 60 70 80 90
+ 2200 2400 2500 2700 Growth/Status Recovery Legend
+
+ 2019 Grade 8 Scaled Score Decile Cuts
+ 2700 2700
+ 90
+ 2018 to 2019 Mean Conditional Status 2019 Percentiles (Observed) −30 −7 10 30
+ 2023 to 2024 Mean Conditional Status (Observed) 1 2024 Percentiles (Observed)
+ 2019 to 2024 Growth Impact 2019 to 2024 Status Impact −0.38 −0.09 0.12 0.38
+ 80 2019 and 2024 Mean Scaled Scores
+
+ 2600 2600 0.5
+ 70 Lagging On Par Leading
+
+ 2019 Grade 8 Scaled Score
+ 60
+ 0
+ −0.09
+ −0.14
+ 50
+ Calculations suppressed
+ 2500 2500
+ 40
+ −0.5 due to small group N (&lt; 50)
+ 30
+
+ 20 −1
+ 2400 2400
+
+ 10 Participation
+ −1.5
+ Total Status Growth
+ 2300 2300 −2 2019: 34.7% Proficient 2019 6,694 6,694 (100.0%) 6,164 (92.1%)
+
+ 2024: 32.0% Proficient 2024 6,297 6,297 (100.0%) 5,812 (92.3%)
+ −2.5
+
+ 2200 2200 10 20 30 40 50 60 70 80 90
+ 2200 2300 2400 2500 2600 2700
+ 0 10 20 30 40 50 60 70 80 90 100
+ 2018 Grade 7 Scaled Score with Achievement Level Cuts Grade 8 Overall and Subgroup Percentile Ranks
+ Growth Recovery: Overall and by Quintile
+ Overall
+ 2019 &amp; 2024 Grade 8 Median SGPs by Quintile 2019 &amp; 2024 Grade 8 Mean Scaled (Standardized) Scores by Quintile
+ On Par
+ Q1 Q2 Q3 Q4 Q5
+ Overall Q1 Q2 Q3 Q4 Q5 Overall
+ 2019 Grade 8 Students 48.0 47.0 45.0 46.0 50.0 47.0 2019 Grade 8 Students 2365 (−0.09) 2474 (−0.09) 2544 (−0.09) 2613 (−0.09) 2717 (−0.09) 2532 (−0.09) Q1 Q2 Q3 Q4 Q5
+ 2024 Grade 8 Students 52.0 49.0 44.0 39.0 42.0 45.0 2024 Grade 8 Students 2353 (−0.14) 2457 (−0.14) 2525 (−0.14) 2593 (−0.14) 2710 (−0.14) 2526 (−0.14)
+ On Par On Par On Par Lagging Lagging
+ Academic Impact (Observed) 4.0 2.0 −1.0 −7.0 −8.0 −2.0 Change (Observed) −11 (−0.09) −17 (−0.14) −19 (−0.16) −20 (−0.17) −7 (−0.06) −6 (−0.05)
+ Count Observed 2019 1,363 1,220 1,171 1,245 1,1646,163 Count Observed 2019 1,556 1,380 1,308 1,228 1,222 6,694
+ Count Observed 2024 1,202 1,088 1,105 1,179 1,2385,812 Count Observed 2024 1,336 1,261 1,189 1,205 1,306 6,297
+
+ Status Recovery: Overall and by Quintile
+
+ 2024 to 2019 Scaled/Standardized Score Difference
+ 35 35
+ 2024 to 2019 SGP Difference (Observed) 2024 to 2019 Grade 8 Status Change (Observed) Overall
+ 30 30 0.25
+ 2024 to 2019 Conditional Status Difference (Observed) 0.04: Correlation SGP and Status Percentile Change
+ On Par
+
+ Conditional Status/Growth Change
+ 25 0.98: Correlation SGP and Conditional Status Difference 25 0.20
+
+ 20 20
+ 0.15 Q1 Q2 Q3 Q4 Q5
+ 15 15 On Par On Par On Par On Par On Par
+ 0.10
+ 10 10
+
+2019 to 2024
+ 0.05
+ 5 5
+
+ 0 0 0.00
+
+ −5 −5 −0.05
+ −0.05
+ −10 −10
+ −0.10
+ −15 −15
+ −0.15
+ −20 −20
+
+ −25 −25 −0.20
+
+ −30 −30 −0.25
+ −35 −35
+ 10 20 30 40 50 60 70 80 90 2200 2400 2500 2700
+
+ 2200 2300 2400 2500 2600 2700 0 10 20 30 40 50 60 70 80 90 100
+
+ 2018 Grade 7 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2019 Norm)</div>
+```
+
+## {.archive-slide background-image="slides/41.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA Mathematics Grade 8
+ Hawaii 2019 to 2021 COVID⌧19 Academic Impact Female Students
+ Growth: Grade 6 2019 to Grade 8 2021 Status: Grade 8 2019 to Grade 8 2021 Summary
+ 2019 Grade 6 Scaled Score Decile Cuts
+
+ Observed + Imputed
+ All Students
+ 10 20 30 40 50 60 70 80 90 2019 Grade 8 Scaled Score
+ Academic Impact: Overall and by Quintile
+
+ Grade 8 Scaled/Standardized Score and Achievement Level Cuts
+ Female Students
+ 10 20 30 40 50 60 70 80 90
+
+ Observed
+ 2200 2400 2500 2700
+ 2700
+ 2017 to 2019 Mean Conditional Status
+ 2700
+ 2019 Percentiles (Observed)
+ Overall
+
+ 2021 Grade 8 Scaled Score Decile Cuts
+ 2019 to 2021 Mean Conditional Status (Observed) 1 2021 Percentiles (Observed)
+ 2019 to 2021 Mean Conditional Status (+ Imputed)
+ 90
+ 2021 Percentiles (+ Imputed) Large
+ 2019 to 2021 Growth Impact 2019 to 2021 Status Impact
+
+ 0.5
+ 2019 and 2021 Mean Scaled Scores
+ Q1 Q2 Q3 Q4 Q5
+ 2600 80 2600
+ Moderate Large Severe Severe Severe
+
+ 2021 Grade 8 Scaled Score
+ 70 0.09
+ 0
+ 60
+ −0.22
+ 50
+ 2500 2500
+ −0.5
+ Participation
+ 40
+
+ 30 Total Status Growth
+ 20 −1
+ 2400 2400 2019 6,227 6,227 (100.0%) 5,460 (87.7%)
+
+ 10 2021 6,410 5,073 (79.1%) 4,563 (71.2%)
+ −1.5
+
+ 2300 2300 −2 2019: 41.1% Proficient
+
+ 2021: 25.5% Proficient
+ −2.5
+ Growth/Status Change Legend
+ 2200 2200 10 20 30 40 50 60 70 80 90
+ 2200 2300 2400 2500 2600 2700 −40 −25 −15 −5 5 20
+ 0 10 20 30 40 50 60 70 80 90 100
+ 2019 Grade 6 Scaled Score with Achievement Level Cuts Grade 8 Overall and Subgroup Percentile Ranks
+ −0.55 −0.4 −0.25 −0.1 0.05 0.2
+
+ Modest
+ Severe Large Moderate to Improvement
+ 2019 &amp; 2021 Grade 8 Median SGPs by Quintile 2019 &amp; 2021 Grade 8 Mean Scaled (Standardized) Scores by Quintile None
+ Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+ 2019 Grade 8 Students 53.0 54.0 55.0 55.0 51.0 53.0 2019 Grade 8 Students 2373 (0.09) 2475 (0.09) 2545 (0.09) 2614 (0.09) 2711 (0.09) 2555 (0.09)
+ 2021 Grade 8 Students 50.0 34.0 26.0 20.0 19.0 27.0 2021 Grade 8 Students 2351 (−0.22) 2448 (−0.22) 2503 (−0.22) 2560 (−0.22) 2664 (−0.22) 2516 (−0.22) Calculations suppressed
+ Academic Impact (Observed) −3.0 −20.0 −29.0 −35.0 −32.0 −26.0 Change (Observed) −22 (−0.18) −27 (−0.22) −42 (−0.34) −54 (−0.44) −48 (−0.39) −39 (−0.32)
+ Academic Impact (+ Imputed) −11.0 −17.9 −25.0 −31.0 −31.1 −23.3 Change (+ Imputed) −19 (0.19) −27 (0.23) −42 (0.16) −54 (0.13) −50 (0.26) −45 (−0.37)
+ due to small group N (&lt; 50)
+ Count Observed 2019 877 1,076 1,125 1,169 1,213 5,460 Count Observed 2019 1,017 1,212 1,288 1,348 1,362 6,227
+ Count Observed 2021 684 877 951 1,017 1,034 4,563 Count Observed 2021 860 971 1,025 1,049 1,168 5,073
+
+ 2021 to 2019 Scaled/Standardized Score Difference
+ 35 35
+ 2021 to 2019 SGP Difference (Observed) 2021 to 2019 Grade 8 Status Change (Observed)
+ 30 30 0.25 2021 to 2019 Grade 8 Status Change (+ Imputed)
+ 2021 to 2019 SGP Difference (+ Imputed)
+ 0.94: Correlation SGP and Status Percentile Change
+
+ Conditional Status/Growth Change
+ 2021 to 2019 Conditional Status Difference (Observed)
+ 25 25 0.20
+ 1.00: Correlation SGP and Conditional Status Difference
+ 20 20
+ 0.15
+ 15 15
+ 0.10
+ 10 10
+
+2019 to 2021
+ 0.05
+ 5 5
+
+ 0 0 0.00
+
+ −5 −5
+ −0.05
+ −10 −10
+ −0.10
+ −15 −15
+ −0.15
+ −20 −20
+
+ −25 −25 −0.20
+
+ −30 −30 −0.25
+ −35 −35
+ 10 20 30 40 50 60 70 80 90 2200 2400 2500 2700 −0.32
+
+ 2200 2300 2400 2500 2600 2700 0 10 20 30 40 50 60 70 80 90 100
+
+ 2019 Grade 6 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2019 Norm)</div>
+```
+
+## {.archive-slide background-image="slides/42.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA Mathematics Grade 8
+ Hawaii 2019 to 2021 COVID⌧19 Academic Impact Male Students
+ Growth: Grade 6 2019 to Grade 8 2021 Status: Grade 8 2019 to Grade 8 2021 Summary
+ 2019 Grade 6 Scaled Score Decile Cuts
+
+ Observed + Imputed
+ All Students
+ 10 20 30 40 50 60 70 80 90 2019 Grade 8 Scaled Score
+ Academic Impact: Overall and by Quintile
+
+ Grade 8 Scaled/Standardized Score and Achievement Level Cuts
+ Male Students
+ 10 20 30 40 50 60 70 80 90
+
+ Observed
+ 2200 2400 2500 2700
+ 2700
+ 2017 to 2019 Mean Conditional Status
+ 2700
+ 2019 Percentiles (Observed)
+ Overall
+
+ 2021 Grade 8 Scaled Score Decile Cuts
+ 2019 to 2021 Mean Conditional Status (Observed) 1 2021 Percentiles (Observed)
+ 2019 to 2021 Mean Conditional Status (+ Imputed)
+ 90
+ 2021 Percentiles (+ Imputed) Large
+ 2019 to 2021 Growth Impact 2019 to 2021 Status Impact
+
+ 0.5
+ 2019 and 2021 Mean Scaled Scores
+ Q1 Q2 Q3 Q4 Q5
+ 2600 80 2600
+ Moderate Moderate Moderate Large Severe
+
+ 2021 Grade 8 Scaled Score
+ 70
+ 0
+ 60 −0.09
+
+ 50 −0.29
+ 2500 2500
+ −0.5
+ Participation
+ 40
+
+ 30 Total Status Growth
+ 20 −1
+ 2400 2400 2019 6,694 6,694 (100.0%) 5,823 (87.0%)
+
+ 10 2021 6,925 5,644 (81.5%) 5,062 (73.1%)
+ −1.5
+
+ 2300 2300 −2 2019: 34.7% Proficient
+
+ 2021: 24.1% Proficient
+ −2.5
+ Growth/Status Change Legend
+ 2200 2200 10 20 30 40 50 60 70 80 90
+ 2200 2300 2400 2500 2600 2700 −40 −25 −15 −5 5 20
+ 0 10 20 30 40 50 60 70 80 90 100
+ 2019 Grade 6 Scaled Score with Achievement Level Cuts Grade 8 Overall and Subgroup Percentile Ranks
+ −0.55 −0.4 −0.25 −0.1 0.05 0.2
+
+ Modest
+ Severe Large Moderate to Improvement
+ 2019 &amp; 2021 Grade 8 Median SGPs by Quintile 2019 &amp; 2021 Grade 8 Mean Scaled (Standardized) Scores by Quintile None
+ Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+ 2019 Grade 8 Students 48.0 47.0 45.0 46.5 49.0 47.0 2019 Grade 8 Students 2365 (−0.09) 2474 (−0.09) 2544 (−0.09) 2613 (−0.09) 2717 (−0.09) 2532 (−0.09)
+ 2021 Grade 8 Students 46.0 37.0 28.0 19.0 16.0 28.0 2021 Grade 8 Students 2344 (−0.29) 2448 (−0.29) 2503 (−0.29) 2561 (−0.29) 2669 (−0.29) 2507 (−0.29) Calculations suppressed
+ Academic Impact (Observed) −2.0 −10.0 −17.0 −27.5 −33.0 −19.0 Change (Observed) −20 (−0.17) −25 (−0.21) −41 (−0.33) −52 (−0.42) −48 (−0.39) −25 (−0.20)
+ Academic Impact (+ Imputed) −6.4 −10.3 −14.0 −24.4 −31.0 −17.0 Change (+ Imputed) −17 (0.21) −26 (0.24) −41 (0.17) −53 (0.13) −50 (0.27) −31 (−0.25)
+ due to small group N (&lt; 50)
+ Count Observed 2019 1,319 1,168 1,140 1,100 1,096 5,823 Count Observed 2019 1,556 1,380 1,308 1,228 1,222 6,694
+ Count Observed 2021 1,049 991 991 953 1,078 5,062 Count Observed 2021 1,165 1,089 1,046 1,129 1,215 5,644
+
+ 2021 to 2019 Scaled/Standardized Score Difference
+ 35 35
+ 2021 to 2019 SGP Difference (Observed) 2021 to 2019 Grade 8 Status Change (Observed)
+ 30 30 0.25 2021 to 2019 Grade 8 Status Change (+ Imputed)
+ 2021 to 2019 SGP Difference (+ Imputed)
+ 0.89: Correlation SGP and Status Percentile Change
+
+ Conditional Status/Growth Change
+ 2021 to 2019 Conditional Status Difference (Observed)
+ 25 25 0.20
+ 1.00: Correlation SGP and Conditional Status Difference
+ 20 20
+ 0.15
+ 15 15
+ 0.10
+ 10 10
+
+2019 to 2021
+ 0.05
+ 5 5
+
+ 0 0 0.00
+
+ −5 −5
+ −0.05
+ −10 −10
+ −0.10
+ −15 −15
+ −0.15
+ −20 −20
+
+ −25 −25 −0.20 −0.20
+
+ −30 −30 −0.25
+ −35 −35
+ 10 20 30 40 50 60 70 80 90 2200 2400 2500 2700
+
+ 2200 2300 2400 2500 2600 2700 0 10 20 30 40 50 60 70 80 90 100
+
+ 2019 Grade 6 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2019 Norm)</div>
+```
+
+## {.archive-slide background-image="slides/43.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA Mathematics Grade 8
+ Hawaii 2019 to 2022 COVID⌧19 Academic Recovery Female Students
+ Growth: Grade 7/2018 to 8/2019 versus Grade 7/2021 to 8/2022 Status: Grade 8/2019 versus Grade 8/2022 Summary
+ 2018 Grade 7 Scaled Score Decile Cuts
+ All Students
+ 10 20 30 40 50 60 70 80 90 2019 Grade 8 Scaled Score
+
+ Observed
+
+ Grade 8 Scaled/Standardized Score and Achievement Level Cuts
+ Female Students
+ 10 20 30 40 50 60 70 80 90
+ 2200 2400 2500 2700 Growth/Status Recovery Legend
+ 2700 2700
+
+ 2019 Grade 8 Scaled Score Decile Cuts
+ 2018 to 2019 Mean Conditional Status 90 2019 Percentiles (Observed) −30 −7 10 30
+ 2021 to 2022 Mean Conditional Status (Observed) 1 2022 Percentiles (Observed)
+ 2019 to 2022 Growth Impact 2019 to 2022 Status Impact −0.38 −0.09 0.12 0.38
+ 2019 and 2022 Mean Scaled Scores
+ 80
+
+ 2600 2600 0.5
+ 70 Lagging On Par Leading
+
+ 2019 Grade 8 Scaled Score
+ 60 0.09
+ 0
+ 50 −0.13
+ Calculations suppressed
+ 2500 2500
+ 40
+ −0.5 due to small group N (&lt; 50)
+ 30
+
+ 20 −1
+ 2400 2400
+
+ 10 Participation
+ −1.5
+ Total Status Growth
+ 2300 2300 −2 2019: 41.1% Proficient 2019 6,227 6,227 (100.0%) 5,763 (92.5%)
+
+ 2022: 30.9% Proficient 2022 6,329 6,066 (95.8%) 4,831 (76.3%)
+ −2.5
+
+ 2200 2200 10 20 30 40 50 60 70 80 90
+ 2200 2300 2400 2500 2600 2700
+ 0 10 20 30 40 50 60 70 80 90 100
+ 2018 Grade 7 Scaled Score with Achievement Level Cuts Grade 8 Overall and Subgroup Percentile Ranks
+ Growth Recovery: Overall and by Quintile
+ Overall
+ 2019 &amp; 2022 Grade 8 Median SGPs by Quintile 2019 &amp; 2022 Grade 8 Mean Scaled (Standardized) Scores by Quintile
+ On Par
+ Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+ 2019 Grade 8 Students 53.5 54.0 53.0 56.0 49.0 53.0 2019 Grade 8 Students 2374 (0.09) 2475 (0.09) 2545 (0.09) 2614 (0.09) 2711 (0.09) 2555 (0.09) Q1 Q2 Q3 Q4 Q5
+ 2022 Grade 8 Students 61.0 56.0 46.0 48.0 54.0 53.0 2022 Grade 8 Students 2356 (−0.13) 2460 (−0.13) 2523 (−0.13) 2588 (−0.13) 2694 (−0.13) 2527 (−0.13)
+ On Par On Par Lagging Lagging On Par
+ Academic Impact (Observed) 7.5 2.0 −7.0 −8.0 5.0 0.0 Change (Observed) −18 (−0.15) −15 (−0.12) −22 (−0.18) −26 (−0.21) −18 (−0.14) −28 (−0.22)
+ Count Observed 2019 994 1,150 1,218 1,176 1,224 5,762 Count Observed 2019 1,031 1,198 1,288 1,348 1,362 6,227
+ Count Observed 2022 897 1,002 1,007 984 941 4,831 Count Observed 2022 1,118 1,248 1,216 1,282 1,202 6,066
+
+ Status Recovery: Overall and by Quintile
+
+ 2022 to 2019 Scaled/Standardized Score Difference
+ 35 35
+ 2022 to 2019 SGP Difference (Observed) 2022 to 2019 Grade 8 Status Change (Observed) Overall
+ 30 30 0.25
+ 2022 to 2019 Conditional Status Difference (Observed) 0.92: Correlation SGP and Status Percentile Change
+ Lagging
+
+ Conditional Status/Growth Change
+ 25 0.82: Correlation SGP and Conditional Status Difference 25 0.20
+
+ 20 20
+ 0.15 Q1 Q2 Q3 Q4 Q5
+ 15 15 Lagging Lagging Lagging Lagging Lagging
+ 0.10
+ 10 10
+
+2019 to 2022
+ 0.05
+ 5 5
+
+ 0 0 0.00
+
+ −5 −5
+ −0.05
+ −10 −10
+ −0.10
+ −15 −15
+ −0.15
+ −20 −20
+
+ −25 −25 −0.20
+ −0.22
+ −30 −30 −0.25
+ −35 −35
+ 10 20 30 40 50 60 70 80 90 2200 2400 2500 2700
+
+ 2200 2300 2400 2500 2600 2700 0 10 20 30 40 50 60 70 80 90 100
+
+ 2018 Grade 7 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2019 Norm)</div>
+```
+
+## {.archive-slide background-image="slides/44.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA Mathematics Grade 8
+ Hawaii 2019 to 2022 COVID⌧19 Academic Recovery Male Students
+ Growth: Grade 7/2018 to 8/2019 versus Grade 7/2021 to 8/2022 Status: Grade 8/2019 versus Grade 8/2022 Summary
+ 2018 Grade 7 Scaled Score Decile Cuts
+ All Students
+ 10 20 30 40 50 60 70 80 90 2019 Grade 8 Scaled Score
+
+ Observed
+
+ Grade 8 Scaled/Standardized Score and Achievement Level Cuts
+ Male Students
+ 10 20 30 40 50 60 70 80 90
+ 2200 2400 2500 2700 Growth/Status Recovery Legend
+ 2700 2700
+
+ 2019 Grade 8 Scaled Score Decile Cuts
+ 2018 to 2019 Mean Conditional Status 90 2019 Percentiles (Observed) −30 −7 10 30
+ 2021 to 2022 Mean Conditional Status (Observed) 1 2022 Percentiles (Observed)
+ 2019 to 2022 Growth Impact 2019 to 2022 Status Impact −0.38 −0.09 0.12 0.38
+ 2019 and 2022 Mean Scaled Scores
+ 80
+
+ 2600 2600 0.5
+ 70 Lagging On Par Leading
+
+ 2019 Grade 8 Scaled Score
+ 60
+ 0
+ −0.09
+ 50 −0.17
+ Calculations suppressed
+ 2500 2500
+ 40
+ −0.5 due to small group N (&lt; 50)
+ 30
+
+ 20 −1
+ 2400 2400
+
+ 10 Participation
+ −1.5
+ Total Status Growth
+ 2300 2300 −2 2019: 34.7% Proficient 2019 6,694 6,694 (100.0%) 6,164 (92.1%)
+
+ 2022: 30.7% Proficient 2022 6,644 6,376 (96.0%) 5,057 (76.1%)
+ −2.5
+
+ 2200 2200 10 20 30 40 50 60 70 80 90
+ 2200 2300 2400 2500 2600 2700
+ 0 10 20 30 40 50 60 70 80 90 100
+ 2018 Grade 7 Scaled Score with Achievement Level Cuts Grade 8 Overall and Subgroup Percentile Ranks
+ Growth Recovery: Overall and by Quintile
+ Overall
+ 2019 &amp; 2022 Grade 8 Median SGPs by Quintile 2019 &amp; 2022 Grade 8 Mean Scaled (Standardized) Scores by Quintile
+ On Par
+ Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+ 2019 Grade 8 Students 48.0 47.0 45.0 46.0 50.0 47.0 2019 Grade 8 Students 2365 (−0.09) 2474 (−0.09) 2544 (−0.09) 2613 (−0.09) 2717 (−0.09) 2532 (−0.09) Q1 Q2 Q3 Q4 Q5
+ 2022 Grade 8 Students 54.0 50.5 45.0 45.0 47.5 48.0 2022 Grade 8 Students 2351 (−0.17) 2460 (−0.17) 2524 (−0.17) 2590 (−0.17) 2700 (−0.17) 2522 (−0.17)
+ On Par On Par On Par On Par On Par
+ Academic Impact (Observed) 6.0 3.5 0.0 −1.0 −2.5 1.0 Change (Observed) −15 (−0.12) −14 (−0.12) −20 (−0.17) −23 (−0.19) −17 (−0.13) −10 (−0.08)
+ Count Observed 2019 1,363 1,220 1,171 1,245 1,164 6,163 Count Observed 2019 1,568 1,368 1,308 1,228 1,222 6,694
+ Count Observed 2022 1,013 964 986 1,016 1,078 5,057 Count Observed 2022 1,378 1,241 1,268 1,196 1,293 6,376
+
+ Status Recovery: Overall and by Quintile
+
+ 2022 to 2019 Scaled/Standardized Score Difference
+ 35 35
+ 2022 to 2019 SGP Difference (Observed) 2022 to 2019 Grade 8 Status Change (Observed) Overall
+ 30 30 0.25
+ 2022 to 2019 Conditional Status Difference (Observed) 0.70: Correlation SGP and Status Percentile Change
+ On Par
+
+ Conditional Status/Growth Change
+ 25 0.91: Correlation SGP and Conditional Status Difference 25 0.20
+
+ 20 20
+ 0.15 Q1 Q2 Q3 Q4 Q5
+ 15 15 On Par On Par Lagging Lagging On Par
+ 0.10
+ 10 10
+
+2019 to 2022
+ 0.05
+ 5 5
+
+ 0 0 0.00
+
+ −5 −5
+ −0.05
+ −10 −10 −0.08
+ −0.10
+ −15 −15
+ −0.15
+ −20 −20
+
+ −25 −25 −0.20
+
+ −30 −30 −0.25
+ −35 −35
+ 10 20 30 40 50 60 70 80 90 2200 2400 2500 2700
+
+ 2200 2300 2400 2500 2600 2700 0 10 20 30 40 50 60 70 80 90 100
+
+ 2018 Grade 7 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2019 Norm)</div>
+```
+
+## {.archive-slide background-image="slides/45.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA Mathematics Grade 8
+ Hawaii 2019 to 2023 COVID⌧19 Academic Recovery Female Students
+ Growth: Grade 7/2018 to 8/2019 versus Grade 7/2022 to 8/2023 Status: Grade 8/2019 versus Grade 8/2023 Summary
+ 2018 Grade 7 Scaled Score Decile Cuts
+ 10 20 30 40 50 60 70 80 90 2019 Grade 8 Scaled Score
+ Observed
+ All Students
+
+ Grade 8 Scaled/Standardized Score and Achievement Level Cuts
+ Female Students
+ 10 20 30 40 50 60 70 80 90
+ 2200 2400 2500 2700 Growth/Status Recovery Legend
+ 2700 2700
+
+ 2019 Grade 8 Scaled Score Decile Cuts
+ 2018 to 2019 Mean Conditional Status 90 2019 Percentiles (Observed) −30 −7 10 30
+ 2022 to 2023 Mean Conditional Status (Observed) 1 2023 Percentiles (Observed)
+ 2019 to 2023 Growth Impact 2019 to 2023 Status Impact −0.38 −0.09 0.12 0.38
+ 2019 and 2023 Mean Scaled Scores
+ 80
+
+ 2600 2600 0.5
+ 70 Lagging On Par Leading
+
+ 2019 Grade 8 Scaled Score
+ 60 0.09
+ 0
+ −0.17
+ 50 Calculations suppressed
+ 2500 2500
+ 40 −0.5 due to small group N (&lt; 50)
+ 30
+
+ 20 −1
+ 2400 2400
+
+ 10 Participation
+ −1.5
+ Total Status Growth
+ 2300 2300 −2 2019: 41.1% Proficient 2019 6,227 6,227 (100.0%) 5,763 (92.5%)
+
+ 2023: 29.3% Proficient 2023 4,963 4,708 (94.9%) 4,169 (84.0%)
+ −2.5
+
+ 2200 2200 10 20 30 40 50 60 70 80 90
+ 2200 2300 2400 2500 2600 2700
+ 0 10 20 30 40 50 60 70 80 90 100
+ 2018 Grade 7 Scaled Score with Achievement Level Cuts Grade 8 Overall and Subgroup Percentile Ranks
+ Growth Recovery: Overall and by Quintile
+ Overall
+ 2019 &amp; 2023 Grade 8 Median SGPs by Quintile 2019 &amp; 2023 Grade 8 Mean Scaled (Standardized) Scores by Quintile
+ On Par
+ Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+ 2019 Grade 8 Students 53.0 54.0 53.0 56.0 49.0 53.0 2019 Grade 8 Students 2373 (0.09) 2475 (0.09) 2545 (0.09) 2614 (0.09) 2711 (0.09) 2555 (0.09) Q1 Q2 Q3 Q4 Q5
+ 2023 Grade 8 Students 57.0 56.0 48.0 43.0 44.5 50.0 2023 Grade 8 Students 2355 (−0.17) 2452 (−0.17) 2519 (−0.17) 2589 (−0.17) 2701 (−0.17) 2522 (−0.17)
+ On Par On Par On Par Lagging On Par
+ Academic Impact (Observed) 4.0 2.0 −5.0 −13.0 −4.5 −3.0 Change (Observed) −18 (−0.15) −22 (−0.18) −27 (−0.22) −25 (−0.21) −10 (−0.08) −33 (−0.27)
+ Count Observed 2019 995 1,150 1,218 1,176 1,224 5,763 Count Observed 2019 1,017 1,212 1,288 1,348 1,362 6,227
+ Count Observed 2023 831 833 887 849 768 4,168 Count Observed 2023 898 996 982 951 881 4,708
+
+ Status Recovery: Overall and by Quintile
+
+ 2023 to 2019 Scaled/Standardized Score Difference
+ 35 35
+ 2023 to 2019 SGP Difference (Observed) 2023 to 2019 Grade 8 Status Change (Observed) Overall
+ 30 30 0.25
+ 2023 to 2019 Conditional Status Difference (Observed) 0.48: Correlation SGP and Status Percentile Change
+ Lagging
+
+ Conditional Status/Growth Change
+ 25 0.97: Correlation SGP and Conditional Status Difference 25 0.20
+
+ 20 20
+ 0.15 Q1 Q2 Q3 Q4 Q5
+ 15 15 Lagging Lagging Lagging Lagging Lagging
+ 0.10
+ 10 10
+
+2019 to 2023
+ 0.05
+ 5 5
+
+ 0 0 0.00
+
+ −5 −5
+ −0.05
+ −10 −10
+ −0.10
+ −15 −15
+ −0.15
+ −20 −20
+
+ −25 −25 −0.20
+
+ −30 −30 −0.25
+ −0.27
+ −35 −35
+ 10 20 30 40 50 60 70 80 90 2200 2400 2500 2700
+
+ 2200 2300 2400 2500 2600 2700 0 10 20 30 40 50 60 70 80 90 100
+
+ 2018 Grade 7 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2019 Norm)</div>
+```
+
+## {.archive-slide background-image="slides/46.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SBA Mathematics Grade 8
+ Hawaii 2019 to 2023 COVID⌧19 Academic Recovery Male Students
+ Growth: Grade 7/2018 to 8/2019 versus Grade 7/2022 to 8/2023 Status: Grade 8/2019 versus Grade 8/2023 Summary
+ 2018 Grade 7 Scaled Score Decile Cuts
+ 10 20 30 40 50 60 70 80 90 2019 Grade 8 Scaled Score
+ Observed
+ All Students
+
+ Grade 8 Scaled/Standardized Score and Achievement Level Cuts
+ Male Students
+ 10 20 30 40 50 60 70 80 90
+ 2200 2400 2500 2700 Growth/Status Recovery Legend
+ 2700 2700
+
+ 2019 Grade 8 Scaled Score Decile Cuts
+ 2018 to 2019 Mean Conditional Status 90 2019 Percentiles (Observed) −30 −7 10 30
+ 2022 to 2023 Mean Conditional Status (Observed) 1 2023 Percentiles (Observed)
+ 2019 to 2023 Growth Impact 2019 to 2023 Status Impact −0.38 −0.09 0.12 0.38
+ 2019 and 2023 Mean Scaled Scores
+ 80
+
+ 2600 2600 0.5
+ 70 Lagging On Par Leading
+
+ 2019 Grade 8 Scaled Score
+ 60
+ 0
+ −0.09
+ −0.14
+ 50 Calculations suppressed
+ 2500 2500
+ 40 −0.5 due to small group N (&lt; 50)
+ 30
+
+ 20 −1
+ 2400 2400
+
+ 10 Participation
+ −1.5
+ Total Status Growth
+ 2300 2300 −2 2019: 34.7% Proficient 2019 6,694 6,694 (100.0%) 6,164 (92.1%)
+
+ 2023: 31.7% Proficient 2023 5,425 5,169 (95.3%) 4,598 (84.8%)
+ −2.5
+
+ 2200 2200 10 20 30 40 50 60 70 80 90
+ 2200 2300 2400 2500 2600 2700
+ 0 10 20 30 40 50 60 70 80 90 100
+ 2018 Grade 7 Scaled Score with Achievement Level Cuts Grade 8 Overall and Subgroup Percentile Ranks
+ Growth Recovery: Overall and by Quintile
+ Overall
+ 2019 &amp; 2023 Grade 8 Median SGPs by Quintile 2019 &amp; 2023 Grade 8 Mean Scaled (Standardized) Scores by Quintile
+ On Par
+ Q1 Q2 Q3 Q4 Q5Overall Q1 Q2 Q3 Q4 Q5 Overall
+ 2019 Grade 8 Students 48.0 47.0 45.0 46.0 50.0 47.0 2019 Grade 8 Students 2365 (−0.09) 2474 (−0.09) 2544 (−0.09) 2613 (−0.09) 2717 (−0.09) 2532 (−0.09) Q1 Q2 Q3 Q4 Q5
+ 2023 Grade 8 Students 53.0 51.0 45.0 44.0 44.0 48.0 2023 Grade 8 Students 2353 (−0.14) 2453 (−0.14) 2519 (−0.14) 2589 (−0.14) 2705 (−0.14) 2525 (−0.14)
+ On Par On Par On Par On Par On Par
+ Academic Impact (Observed) 5.0 4.0 0.0 −2.0 −6.0 1.0 Change (Observed) −13 (−0.10) −21 (−0.17) −25 (−0.20) −24 (−0.20) −12 (−0.10) −7 (−0.06)
+ Count Observed 2019 1,363 1,220 1,171 1,245 1,1656,164 Count Observed 2019 1,568 1,368 1,308 1,228 1,222 6,694
+ Count Observed 2023 898 929 873 907 991 4,598 Count Observed 2023 1,077 981 988 1,029 1,094 5,169
+
+ Status Recovery: Overall and by Quintile
+
+ 2023 to 2019 Scaled/Standardized Score Difference
+ 35 35
+ 2023 to 2019 SGP Difference (Observed) 2023 to 2019 Grade 8 Status Change (Observed) Overall
+ 30 30 0.25
+ 2023 to 2019 Conditional Status Difference (Observed) 0.13: Correlation SGP and Status Percentile Change
+ On Par
+
+ Conditional Status/Growth Change
+ 25 0.96: Correlation SGP and Conditional Status Difference 25 0.20
+
+ 20 20
+ 0.15 Q1 Q2 Q3 Q4 Q5
+ 15 15 On Par On Par On Par On Par On Par
+ 0.10
+ 10 10
+
+2019 to 2023
+ 0.05
+ 5 5
+
+ 0 0 0.00
+
+ −5 −5
+ −0.05 −0.06
+ −10 −10
+ −0.10
+ −15 −15
+ −0.15
+ −20 −20
+
+ −25 −25 −0.20
+
+ −30 −30 −0.25
+ −35 −35
+ 10 20 30 40 50 60 70 80 90 2200 2400 2500 2700
+
+ 2200 2300 2400 2500 2600 2700 0 10 20 30 40 50 60 70 80 90 100
+
+ 2018 Grade 7 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2019 Norm)</div>
+```
+
+## {.archive-slide background-image="slides/47.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Year 3
+• Analysis of 2023 SBA data indicates two things:
+ • Rates of learning, on average, are returning to pre-pandemic levels. Elevated rates of
+ learning observed in 2022 and 2023 are moderating.
+ • Student attainment, on average, is still slightly behind pre-pandemic levels.
+• In both ELA and mathematics, learning acceleration from the lows of the pandemic would
+ be considered, on average, to be system stabilization.
+• System stabilization (a return to normal rates of learning) will be insufficient to catch
+ students up.
+• Averages can obscure important heterogeneity: For example, between males and females
+ in mathematics
+
+ 47</div>
+```
+
+## {.archive-slide background-image="slides/48.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Questions
+
+ 48</div>
+```
+
+## About this copy {.archive-about}
+
+*COVID-19 Impact & Recovery in Hawaii* — Hawaii Technical Advisory Committee, December 5, 2024.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2024-12-05-hi-tac-covid-19-impact-and-recovery-in-hawaii/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2024-12-05-hi-tac-covid-19-impact-and-recovery-in-hawaii.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2024-12-05-hi-tac-covid-19-impact-and-recovery-in-hawaii.key)
+- [All talks](https://dbetebenner.github.io/talks/)

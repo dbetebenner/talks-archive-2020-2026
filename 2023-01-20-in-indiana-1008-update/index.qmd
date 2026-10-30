@@ -1,0 +1,186 @@
+---
+pagetitle: Indiana 1008 Update
+description: Indiana 1008 Update — Indiana Department of Education, January 20, 2023. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Indiana 1008 Results
+Demographic analysis of program participants
+Damian Betebenner &amp; Adam VanIwaarden
+Center for Assessment
+
+January 20th, 2023</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">1008 Program Participants
+State versus 1008 Program Participation</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Free-Reduced Lunch Eligibility
+ 1008 Participants State
+
+ Grade 3 64.9% 46.1%
+
+ Grade 4 63.2% 45.5%
+
+ Grade 5 61.1% 45.1%
+
+ Grade 6 57.9% 44.9%
+
+ Grade 7 54.3% 43.9%
+
+ Grade 8 53.3% 43.0%
+
+ All Grades 59.5% 44.7%</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Percent Non-White
+ 1008 Participants State
+
+ Grade 3 43.0% 34.8%
+
+ Grade 4 43.4% 34.7%
+
+ Grade 5 41.6% 34.8%
+
+ Grade 6 36.7% 34.9%
+
+ Grade 7 32.3% 34.6%
+
+ Grade 8 30.4% 34.2%
+
+ All Grades 38.2% 34.7%</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Percent Asian
+ 1008 Participants State
+
+ Grade 3 8.2% 3.1%
+
+ Grade 4 8.9% 3.2%
+
+ Grade 5 8.6% 2.9%
+
+ Grade 6 8.7% 2.9%
+
+ Grade 7 7.0% 2.7%
+
+ Grade 8 7.0% 2.6%
+
+ All Grades 8.1% 2.9%</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Percent African-American
+ 1008 Participants State
+
+ Grade 3 15.5% 12.3%
+
+ Grade 4 17.1% 12.4%
+
+ Grade 5 14.6% 12.3%
+
+ Grade 6 14.0% 12.5%
+
+ Grade 7 11.1% 12.3%
+
+ Grade 8 9.3% 12.2%
+
+ All Grades 13.7% 12.3%</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Percent Hispanic
+ 1008 Participants State
+
+ Grade 3 11.9% 13.6%
+
+ Grade 4 10.7% 13.4%
+
+ Grade 5 11.8% 13.7%
+
+ Grade 6 9.3% 13.9%
+
+ Grade 7 10.1% 14.2%
+
+ Grade 8 9.8% 14.1%
+
+ All Grades 10.7% 13.8%</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Percent Special Education
+ 1008 Participants State
+
+ Grade 3 18.3% 17.4%
+
+ Grade 4 18.6% 17.1%
+
+ Grade 5 19.3% 16.7%
+
+ Grade 6 19.1% 16.2%
+
+ Grade 7 16.7% 15.1%
+
+ Grade 8 16.6% 14.9%
+
+ All Grades 18.1% 16.2%</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Percent English Language Learner
+ 1008 Participants State
+
+ Grade 3 15.3% 9.8%
+
+ Grade 4 14.6% 9.9%
+
+ Grade 5 11.2% 8.1%
+
+ Grade 6 8.0% 6.7%
+
+ Grade 7 7.0% 6.6%
+
+ Grade 8 6.0% 6.1%
+
+ All Grades 10.6% 7.8%</div>
+```
+
+## About this copy {.archive-about}
+
+*Indiana 1008 Update* — Indiana Department of Education, January 20, 2023.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2023-01-20-in-indiana-1008-update/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-01-20-in-indiana-1008-update.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-01-20-in-indiana-1008-update.key)
+- [All talks](https://dbetebenner.github.io/talks/)

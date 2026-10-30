@@ -1,0 +1,65 @@
+---
+pagetitle: SGP Data Pipeline Discussion
+description: SGP Data Pipeline Discussion — New Hampshire Department of Education, August 21, 2025. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SGP Data Pipeline Discussion
+NHSAS and ACCESS
+
+Damian Betebenner
+Center for Assessment
+
+August 21st, 2025
+
+ 1</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SGP Analysis Data Workflow
+• Receive annual text (currently pipe “|”) delimited file from New Hampshire Department of Education
+ (both SAS and ACCESS)
+ • Lauren sends highly consistent layouts every year so she knows the extraction process from the
+ NHDOE side.
+• Clean/Prepare data followed by SGP analysis
+ • Cleaning/preparing involves making at most minor modifications to labels (e.g., ethnicity labels),
+ checking for duplicate records, etc. and saving the clean results in an .Rdata format.
+ • With clean data in .Rdata format run SGP analysis using R software environment and the SGP
+ package. Analysis calculates SGPs (cohort and baseline referenced), straight and lagged projections
+ (cohort and baseline referenced), and exports of files that combine initial data with SGP data.
+ • All source code for data prep and analysis (no data) are located on the Center’s GitHub repo for
+ New Hampshire
+• Export results as pipe delimited files and upload to the Center’s secure share file site for transfer back to
+ New Hampshire DOE
+
+ 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Questions
+
+ 3</div>
+```
+
+## About this copy {.archive-about}
+
+*SGP Data Pipeline Discussion* — New Hampshire Department of Education, August 21, 2025.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2025-08-21-nh-sgp-data-pipeline-discussion/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2025-08-21-nh-sgp-data-pipeline-discussion.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2025-08-21-nh-sgp-data-pipeline-discussion.key)
+- [All talks](https://dbetebenner.github.io/talks/)

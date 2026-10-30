@@ -1,0 +1,74 @@
+---
+pagetitle: COVID-19 Academic Impact
+description: COVID-19 Academic Impact — Indiana Department of Education, May 20, 2022. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Academic Impact
+Damian Betebenner
+The National Center for the Improvement of Educational Assessment
+
+May 20th, 2022
+IDOE Weekly Update
+
+ This work is licensed under a
+ Creative Commons Attribution 4.0
+ International License.</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">NWEA MAP ELA Fall to Winter Median SGPs
+ Grade Winter 2019-2020 Winter 2020-2021 Winter 2021-2022
+ 1 45 (34,403) 44 (29,857) 41 (38,998)
+ 2 47 (45,352) 45 (36,200) 48 (48,975)
+ 3 50 (52,181) 47 (43,268) 49 (55,160)
+ 4 47 (55,452) 44 (44,341) 44 (56,999)
+ 5 51 (56,033) 47 (44,211) 46 (56,959)
+ 6 52 (58,926) 47 (41,419) 47 (56,957)
+ 7 52 (54,550) 47 (36,104) 47 (53,096)
+ 8 55 (51,569) 49 (34,812) 49 (52,212)
+ 9 50 (22,133) 46 (13,415) 46 (20,825)
+ 10 53 (20,497) 43 (12,038) 44 (17,844)
+
+ www.nciea.org 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">NWEA MAP Math Fall to Winter Median SGPs
+Grade Winter 2019-2020 Winter 2020-2021 Winter 2021-2022
+1 54 (35,316) 47 (30,693) 49 (39,053)
+2 43 (36,970) 44 (31,737) 52 (40,479)
+3 46 (37,780) 49 (33,958) 57 (42,649)
+4 38 (38,642) 44 (34,191) 49 (43,635)
+5 45 (38,864) 48 (34,368) 54 (43,264)
+6 50 (40,021) 51 (30,822) 50 (42,853)
+7 48 (37,329) 47 (27,479) 47 (39,940)
+8 47 (36,834) 48 (24,905) 48 (37,801)
+9 47 (17,002) 48 (6,028) 45 (9,966)
+10 51 (14,804) 47 (5,227) 44 (8,354)
+
+ www.nciea.org 3</div>
+```
+
+## About this copy {.archive-about}
+
+*COVID-19 Academic Impact* — Indiana Department of Education, May 20, 2022.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2022-05-20-in-covid-19-academic-impact-2/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2022-05-20-in-covid-19-academic-impact-2.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2022-05-20-in-covid-19-academic-impact-2.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

@@ -1,0 +1,249 @@
+---
+pagetitle: Using Student Growth to Assess Covid-Related Academic Impact
+description: Using Student Growth to Assess Covid-Related Academic Impact — CCSSO SCASS, June 14, 2021. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">USING STUDENT GROWTH TO ASSESS COVID-
+RELATED ACADEMIC IMPACT
+AN OVERVIEW
+Damian Betebenner, Center for Assessment
+
+ASR/SCASS
+June 14th, 2021
+
+ This work is licensed under a
+ Creative Commons Attribution 4.0
+ International License.</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Pandemic
+ • Now, more than a year into the pandemic, there is strong
+ evidence that the pandemic is having negative academic
+ impacts on children nationwide.
+ • Negative impacts extend beyond academic impact and include
+ financial, social-emotional and physical impacts.
+ • Several states have expressed interest in using their 2021 state
+ summative data (ELA, Mathematics, ELP) to assess the
+ academic impact of the pandemic on students in their state.
+ • In this brief presentation I’ll provide an overview of how states
+ can perform this with student academic growth results.
+
+ Student Growth &amp; COVID-19 Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Why try to assess academic impact?
+ • ESSER State Plan guidance released in April 2021 required states to
+
+ Describe how the SEA will support its LEAs in identifying the extent of the impact of the
+ COVID-19 pandemic on student learning and student well-being, including identifying the groups
+ of students most impacted by the pandemic.
+
+ • Beyond federal requirements, several states have enacted legislation
+ requiring an assessment of the academic impact of the pandemic on student.
+ • But beyond state and federal requirements, assuming there has been
+ heterogeneous, academic impact on students, trying to ameliorate that
+ impact will require us to understand who was impact, in what they were
+ impact, and how much they were impacted.
+ • It’s the academic version of contract tracing.
+
+ Student Growth &amp; COVID-19 Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Pandemic: Conceptualizing
+Academic Impact
+ • Think of the pandemic as a head-wind that slowed the progress
+ of students.
+ • As such, there are two ways to use data to detect the impact of
+ the pandemic.
+ • Status change: Compare similar grade/content area groups from 2019
+ to 2021. Need to take special care the groups are comparable.
+ • Growth change: Compare growth rates for students from 2019 to 2021
+ using historical norms.
+ • Both status and growth comparisons get at the same thing ---
+ the impact of the pandemic on student attainment.
+
+ Student Growth &amp; COVID-19 Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Pandemic related
+Academic Impact:
+• The difference between an
+ observed and a hypothetical
+ (counter-factual) outcome.
+• Observed-Counter-factual status:
+ • Use 2019 status (possibly adjusted
+ via some imputation or matching
+ strategy) to compare with 2021
+ status (in same grade, content area,
+ district, school)
+• Observed-Counter-factual for
+ growth:
+ • Use 2017-2019 growth (non-
+ pandemic) to norm 2019-2021
+ growth.
+
+ Student Growth &amp; COVID-19 Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19
+Pandemic:
+Understanding
+Impact
+
+ Student Growth &amp; COVID-19 Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Pandemic: Academic Impact via
+Student Growth
+ • Requirements for COVID-19 impact analysis using student
+ growth with state summative test (with no test data in 2020)
+ • Using historical data (2017 to 2019 state summative, 2019 to 2020 ELP)
+ establish historical growth norms (SGPs, OLS, value-tables)
+ • Calculate growth from 2017 to 2019 (or 2019 to 2020) using those
+ norms.
+ • When 2021 data arrives, calculate 2019 to 2021 (or 2020 to 2021)
+ growth using the baseline norms.
+ • Calculate 2019 (or 2020) and 2021 mean growth for relevant groups
+ (e.g., content area by grade, district, school, demographic subgroup, …)
+ • Compare 2019 (or 2020) to 2021 results.
+ • For example, with SGPs and content area by grade, 2019 mean/median SGPs
+ are 50. Substantial 2021 mean SGP deviation below 50 is indicative of
+ academic impact.
+ Student Growth &amp; COVID-19 Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">What substantial academic impact looks like?
+
+ Student Growth &amp; COVID-19 Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Threats to validity of 2019 to 2021 group
+comparison
+ • Whether performing 2019 to 2021 status comparisons or growth
+ comparison, care must be taken to ensure groups are comparable.
+ • In several states student participation rates in test is below the usual, minimum
+ 95% participation rate.
+ • In several states there have been changes in enrollment at the state, district, and
+ school levels.
+ • Some states are allowing remote testing which may compromise the validity of
+ the individual student scores.
+ • In some states shortened forms are being administered.
+ • And probably many others.
+ • It goes without saying that analysis of data to provide sound, policy
+ relevant conclusions this year will be a challenge.
+ • Overall, I am optimistic given what I’ve seen thus far that we will rise to
+ the challenge.
+ Student Growth &amp; COVID-19 Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Pandemic: Academic Recovery
+ • With some understanding of the academic impact of the
+ pandemic the next step is plan for and monitor recovery.
+ • The magnitude of the impact (how much?) will indicate the
+ magnitude of the recovery.
+ • Early evidence from interim assessments suggest that in
+ elementary school mathematics, students in some states have lost
+ more than 12 weeks of learning.
+ • Learning loss in ELA is more modest for these interim assessments.
+ • Learning recovery will take on many forms (V-, U-, L-shaped
+ recoveries)
+ Student Growth &amp; COVID-19 Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19
+Pandemic:
+Monitoring
+Recovery
+
+ Student Growth &amp; COVID-19 Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2021 Data Reporting and Use
+ • Recent federal guidance indicates that states are responsible to
+ report results from 2021 testing (however not used for
+ accountability)
+ • State reporting is, in general, highly aligned with accountability.
+ • Even though analyses outlined herein deal with status/growth, they
+ don’t necessarily align with accountability narratives.
+ • It is critical for leadership (at the highest level) to agree to/map out a
+ communication plan and then build analytics and reporting to
+ support that plan.
+ • Without a well considered, disciplined and coordinated
+ communication plan, accountability narratives are likely to take over.
+ Student Growth &amp; COVID-19 Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Resources
+ • Academic Impact White Paper: https://www.nciea.org/
+ sites/default/files/inline-files/
+ CFA_LearningLossRecoveryGrowthStatewideTesting.pdf
+ • SGP Analysis Source Code: https://github.com/
+ CenterForAssessment/SGP_Research/tree/master/
+ Demonstration/Learning_Loss_Analysis
+
+ Student Growth &amp; COVID-19 Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Questions
+
+ Student Growth &amp; COVID-19 Academic Impact</div>
+```
+
+## About this copy {.archive-about}
+
+*Using Student Growth to Assess Covid-Related Academic Impact* — CCSSO SCASS, June 14, 2021.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2021-06-14-asr-scass-using-student-growth-to-assess-covid-related-academic-impact/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-06-14-asr-scass-using-student-growth-to-assess-covid-related-academic-impact.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-06-14-asr-scass-using-student-growth-to-assess-covid-related-academic-impact.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

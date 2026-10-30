@@ -1,0 +1,809 @@
+---
+pagetitle: The Future of ACT and SAT Requirements
+description: The Future of ACT and SAT Requirements — Massachusetts Educational Research Association, November 2024. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Rethinking College Admissions:
+The Future of ACT and SAT Requirements
+Dr. Damian Betebenner
+National Center for the Improvement of Educational Assessment
+
+ This work is licensed under a
+ Creative Commons Attribution 4.0
+ International License.</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">About Me
+• Recovering academic (Boston College, 2004 to 2007).
+• Currently, Senior Associate at the Center for Assessment since
+ 2007.
+• Developed the widely-used Student Growth Percentile (SGP)
+ methodology.
+• Resides in Needham, MA (just outside Boston) with my wife,
+ daughter, and our dog.
+• Beneficiary of college entrance exams (ACT), which played a key
+ role in my transition from secondary to post-secondary education.</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Framing the Debate
+• The evolving role of standardized testing in college
+ admissions.
+• Overview of recent shifts: Test-optional and test-blind
+ policies.
+• Key questions:
+ • Are ACT/SAT scores still relevant?
+ • How do these policies impact equity and access?
+ • What are the implications for admissions processes?</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">History</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The Origins of the SAT
+A Test for Merit: The Birth of the SAT
+• Roots in IQ Testing:
+ • During World War I, psychologist Robert Yerkes developed the
+ Army Alpha, the first mass-administered IQ test, to evaluate
+ recruits.
+ • Carl Brigham, a Princeton psychologist and Yerkes’ assistant, later
+ adapted the Army Alpha to create a college admissions test.
+• First SAT Administration (1926):
+ • Experimentally administered to a few thousand college applicants.
+ • Designed to measure intellectual ability rather than prior
+ education or social status.</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Addressing Discriminatory Practices
+Breaking Barriers: Counteracting Bias
+• James Bryant Conant and Harvard (1933):
+ • As President of Harvard, Conant aimed to create an elite intellectual class selected
+ on merit, not privilege.
+ • Conant sought to expand access to Harvard through scholarships for academically
+ gifted students from modest backgrounds outside elite prep schools.
+ • Assistant Dean Henry Chauncey recommended the SAT for evaluating scholarship
+ candidates.
+ • Conant favored the SAT for its ability to measure “pure intelligence” regardless of
+ high school quality.
+• Broader Impact:
+ • The SAT helped challenge biases in college admissions, offering opportunities to
+ students from diverse backgrounds.</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The SAT Becomes a National Standard
+Standardized Testing Goes National
+• Milestones in Expansion:
+ • 1938: Chauncey persuaded College Board member schools to
+ use the SAT for scholarship applicants.
+ • 1941: Harvard required the SAT for all applicants.
+ • 1944: Under Chauncey’s guidance, the SAT was administered to
+ over 300,000 Army and Navy recruits in one day to help in
+ office selection, demonstrating its scalability.
+ • 1948: The Educational Testing Service (ETS) was chartered with
+ Conant as its first Chairman of the Board, and Chauncey as its
+ first president.</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The SAT Becomes a National Standard
+Standardized Testing Goes National
+• Post-WWII Boom:
+ • The GI Bill expanded access to higher education, increasing the
+ demand for objective admissions tools.
+ • The SAT became a national standard, administered by the
+ newly formed College Board.
+• Growth and Influence:
+ • By the 1950s and 1960s, most U.S. colleges and universities
+ used the SAT for admissions decisions.It symbolized a
+ meritocratic ideal, giving opportunities to students from
+ diverse geographic and economic backgrounds.</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Challenges and Evolution
+Meritocracy or Myth?
+• Chauncey’s Ambitious Vision:
+ • Proposed the Census of Abilities, a system to test every American student twice during high school.
+ • Goal: Assess a range of attributes to guide students toward suitable careers and life paths, sparing them uncertainty about their future.
+ • Ultimately unrealized due to lack of funding and political will.
+• Reflection on Vision and Reality:
+ • Chauncey’s vision highlights the potential of standardized testing to democratize opportunity and provide personalized guidance.
+ • However, the inability to implement such a system underscores enduring challenges in scaling equitable and comprehensive educational
+ assessments.
+• Critiques Over Time:
+ • Concerns about cultural and economic biases in the test’s design and accessibility.
+ • The rise of test prep industries, which many argued undermined the SAT’s egalitarian goals.
+• Reforms and Alternatives:
+ • Efforts to revise test content to reduce bias.
+ • Growing popularity of test-optional policies in the 21st century, driven by equity concerns.
+• Open Questions:
+ • Could a modern version of the Census of Abilities—leveraging advancements in technology and data—achieve Chauncey’s goals?
+ • How do we balance the aspirational goals of assessment systems with practical and ethical concerns?
+ • What lessons can we draw from Chauncey’s ambition for the future of educational equity and standardized testing?</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The Birth of the ACT
+Origins of a Rival: The ACT
+• Developed in 1959:
+ • Created by University of Iowa professor Everett Franklin Lindquist.
+ • Designed as an alternative to the SAT, with a focus on measuring
+ academic achievement rather than innate aptitude.
+• Key Features:
+ • Four sections: English, Mathematics, Reading, and Science Reasoning.
+ • Emphasis on curriculum-based knowledge, reflecting high school
+ coursework.
+• Initial Adoption:
+ • Primarily used by Midwestern colleges and universities as an alternative
+ to the SAT, which dominated the East and West coasts.</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Comparing the ACT and SAT
+A Tale of Two Tests
+• Philosophical Differences:
+ • ACT: Achievement-based, aligned with high school curricula.
+ • SAT: Originally aptitude-focused, evolved to include
+ achievement components.
+• Regional Popularity:
+ • ACT gained traction in the Midwest and South, while the SAT
+ remained dominant on the coasts.
+• Evolution Over Time:
+ • Both tests have undergone significant revisions to better reflect
+ student readiness for college.</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Challenges and Evolution
+Meritocracy or Myth?
+• Meritocratic Goals:
+ • Both the SAT and ACT were introduced to promote access to higher education by evaluating
+ students based on ability and academic readiness rather than social status or privilege.
+ • These tests sought to create a more equitable admissions process by standardizing
+ evaluations across diverse educational backgrounds.
+• Challenges to Equity: Bias and Accessibility:
+ • Both tests have faced criticism for cultural, linguistic, and socioeconomic biases in their
+ design and administration.
+ • Access to test prep resources disproportionately benefits wealthier students, undermining
+ the tests' egalitarian goals.
+• Regional Preferences:
+ • The ACT gained popularity in the Midwest and South, while the SAT dominated on the
+ coasts, reflecting geographic and institutional divides in higher education.</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Challenges and Evolution
+Meritocracy or Myth?
+• Reforms Over Time:
+ • Both exams have undergone revisions to better align with high school curricula and
+ reduce perceived biases (e.g., the SAT’s shift from “aptitude” to “reasoning” to content-
+ based assessments).
+ • Introduction of fee waivers and free test prep resources aimed to level the playing field.
+• Enduring Critiques:
+ • Despite reforms, the tests are often seen as reinforcing existing inequities in education
+ and opportunity.
+ • The rise of test-optional and test-blind policies has fueled debates about the continued
+ relevance of standardized testing in college admissions.
+• The Future of Meritocracy:
+ • As more colleges adopt holistic or alternative admissions models, questions remain about
+ how to balance the ideals of meritocracy with practical and equitable evaluation methods.</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The SAT/ACT in Practice:
+Analytical Foundations and Challenges</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The SAT/ACT as a Selection Tool
+How the SAT/ACT Works in Practice
+• Purpose:
+ • Designed to predict first-year college GPA and academic
+ readiness.
+ • Provides a standardized measure to compare students from
+ diverse educational backgrounds.
+• Core Assumptions:
+ • Test scores are valid indicators of cognitive ability and
+ preparation.
+ • Scores allow colleges to rank and differentiate applicants
+ effectively.</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Predictive Validity of the SAT/ACT
+What Does the SAT/ACT Predict?
+• Research Findings:
+ • Correlation between SAT/ACT scores and first-year GPA is moderate (0.4 to 0.5).
+ • Predictive power increases when combined with high school GPA (~0.6)
+ • Limited validity in predicting long-term outcomes like graduation rates.
+• Strengths:
+ • Provides comparability across schools with varying grading standards.
+ • Captures general cognitive skills that align with college-level work.
+• Limitations:
+ • Performance is influenced by socioeconomic factors, access to test prep, and test anxiety.
+ Factors Affecting Correlation:
+ • The strength of the correlation may vary by institution type, student demographics, and the
+ level of alignment between the SAT/ACT and the high school curriculum.
+ • Variability in how institutions use SAT/ACT scores (e.g., as cut scores, part of holistic review)
+ also influences its utility as a predictor.</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The SAT’s Role in Selection
+Ranking and Differentiation in Admissions
+• Percentile Ranks:
+ • Students are ranked based on percentile scores, enabling
+ colleges to identify top performers.
+• Score Bands:
+ • Colleges often group scores into bands (e.g., 1200-1300) to
+ simplify evaluation.
+ • Small score differences within bands are often not meaningful.
+• Cut Scores:
+ • Some institutions set minimum thresholds for eligibility,
+ particularly for scholarships.</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Equity and Bias in SAT Selection
+Challenges in Fairness and Access
+• Impact of Test Preparation:
+ • Test preparation services, such as private tutoring, prep courses, and materials, are often
+ prohibitively expensive, creating a divide between students who can afford them and those
+ who cannot.
+ • Wealthier families can spend thousands of dollars on test prep, which includes one-on-one
+ coaching, practice exams, and personalized strategies to optimize performance.
+• Score Gains:
+ • Studies show that students who participate in extensive test prep can see gains ranging from
+ 50 to 150 points on the SAT or equivalent improvements on the ACT.
+ • These improvements can disproportionately benefit already advantaged students, widening
+ the gap between high- and low-income groups.
+• Free Resources:
+ • Organizations like the College Board and ACT offer free or low-cost preparation tools (e.g.,
+ Khan Academy for SAT prep), but these resources may not fully bridge the gap created by
+ personalized, paid services.</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Equity and Bias in SAT Selection
+Challenges in Fairness and Access
+• Subtle Biases in Test Design:
+ • Test questions may unintentionally reflect the cultural experiences, language, and norms more familiar to students from certain racial,
+ ethnic, or socioeconomic groups.
+ • For example, a reading comprehension passage about sailing or skiing might disadvantage students who have had little exposure to
+ these activities due to geographic or economic factors.
+• Language Barriers:
+ • Students for whom English is not their first language may struggle with nuanced vocabulary or idiomatic expressions, even if they have
+ mastered the underlying skills being tested.
+ • This is especially relevant in tests like the ACT or SAT that rely heavily on speed and precision in interpreting text.
+• Test Development and Review:
+ • Efforts to address bias include diversifying test developers, running fairness reviews, and pre-testing items with representative samples.
+ • However, these measures cannot entirely eliminate the implicit biases that may seep into questions.
+• Impact on Underrepresented Students:
+ • These biases can lead to a systematic underestimation of the abilities of students from minority or low-income backgrounds, reinforcing
+ educational inequities.
+ • The perception of bias also affects the credibility of standardized testing among communities historically disadvantaged by these
+ systems.
+• Disparities in Outcomes:
+ • On average, higher scores are observed among students from higher-income families and well-resourced schools.</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Alternatives to the SAT/ACT’s Selection Model
+Is There a Better Way?
+• Proposed Alternatives:
+ • Holistic reviews: Greater emphasis on essays,
+ recommendations, and extracurriculars.
+ • Competency-based assessments: Focus on mastery of skills
+ rather than test performance.
+ • Contextualized scoring: Adjusting for socioeconomic and
+ educational context.
+• Considerations:
+ • Balancing fairness and practicality.
+ • Maintaining transparency in admissions decisions.</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Discussion and Implications
+The SAT/ACT’s Place in Modern Admissions
+
+• Key Questions:
+ • Does the SAT/ACT provide a reliable and fair measure of
+ student potential?
+ • Should such tests be optional in college admissions?
+ • If they are used in admissions, how should colleges
+ balance standardized scores with other factors?
+ • What role should equity play in revising or replacing the
+ SAT/ACT’s selection model?</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Redefining College Admissions:
+Test-Optional and Test-Blind Policies</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction to Test-Optional and Test-Blind Policies
+Background
+• Definitions:
+ • Test-Optional: Applicants can choose whether to submit
+ standardized test scores. Colleges consider other aspects of the
+ application for those who opt out.
+ • Test-Blind: Standardized test scores are not considered at all,
+ even if submitted.
+• Purpose:
+ • Address equity concerns.
+ • Decrease reliance on standardized tests as the primary
+ measure of academic potential.</div>
+```
+
+## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">History of Test-Optional Policies
+The Evolution of Test-Optional Admissions
+• Early Pioneers:
+ • Bowdoin College (1970): The first U.S. college to adopt test-
+ optional admissions, citing concerns about equity and access.
+ • University of Chicago (2018): A major research university that
+ went test-optional, sparking broader acceptance of the policy.
+• Pandemic Acceleration:
+ • During COVID-19, disruptions to testing availability led to a rapid
+ expansion of test-optional policies across hundreds of institutions.
+ • Many colleges adopted these policies permanently or extended
+ them beyond the pandemic.</div>
+```
+
+## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Test-Blind Policies in Practice
+What Does Test-Blind Mean for Admissions?
+• Pioneering Institutions:
+ • The University of California system eliminated standardized
+ tests entirely for admissions starting in 2021.
+ • Hampshire College has been test-blind since 2014, citing
+ concerns over equity and the predictive validity of standardized
+ tests.
+• Differences from Test-Optional:
+ • Unlike test-optional policies, test-blind ensures that no
+ advantage is given to students who submit test scores.
+ • Requires a greater reliance on holistic evaluation methods.</div>
+```
+
+## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Why Adopt Test-Optional or Test-Blind Policies?
+Motivations Behind the Shift
+• Equity Concerns:
+ • Address systemic inequities in standardized testing, including access to
+ test prep and cultural biases.
+• Holistic Admissions:
+ • Focus on high school GPA, coursework rigor, extracurriculars, and essays
+ instead of test scores.
+• Diverse Applicant Pools:
+ • Attract students who may have been discouraged from applying due to
+ low test scores.
+• Pandemic Realities:
+ • COVID-19 highlighted challenges in test availability and accessibility.</div>
+```
+
+## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Impacts of Test-Optional and Test-Blind Policies
+What Do These Policies Mean for Students and Institutions?
+• For Students:
+ • Reduced pressure to perform on a single test.
+ • Greater opportunity to highlight strengths in other areas.
+ • Concerns about increased reliance on subjective elements like essays
+ and extracurriculars.
+• For Colleges:
+ • Broader applicant pools, often with increases in applications from
+ underrepresented groups.
+ • Challenges in ensuring fair and consistent evaluations without
+ standardized scores.
+ • Potential shifts in institutional rankings and perceived selectivity.</div>
+```
+
+## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Critiques and Challenges
+The Debate Around Test-Optional and Test-Blind Policies
+• Critiques of Test-Optional:
+ • Students from privileged backgrounds may still submit high
+ scores, perpetuating inequities.
+ • Applicants who opt out of submitting scores may face implicit
+ bias.
+• Challenges for Test-Blind Policies:
+ • Holistic admissions can increase workload and subjectivity in
+ decision-making.
+ • Concerns about how to evaluate academic readiness/merit
+ without a common measure.</div>
+```
+
+## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The Future of Standardized Testing in Admissions
+What’s Next for College Admissions?
+• Ongoing Trends:
+ • Many institutions are evaluating the long-term impacts of
+ these policies on student success and diversity.
+ • Rise of alternative assessments like AP exams, dual-enrollment
+ coursework, or project-based portfolios.
+• Key Questions:
+ • Will standardized tests continue to play any role in admissions?
+ • How will institutions maintain fairness and equity without
+ these benchmarks?</div>
+```
+
+## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Current Research</div>
+```
+
+## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The Dartmouth Study Overview
+The Role of SAT Scores at Dartmouth
+• Context:
+ • A Dartmouth working group was formed to evaluate the role of standardized testing in
+ undergraduate admissions, particularly in the context of test-optional policies.
+ • The group aimed to assess how SAT scores relate to academic success and equity in
+ admissions.
+ • The analysis included students admitted during both test-required and test-optional
+ periods (2017–2022).
+ • A report was produced detailing the findings of the working group.
+• Purpose of Study:
+ • Investigate the predictive validity of SAT scores for student outcomes, particularly first-
+ year GPA.
+ • Examine whether test-optional policies inadvertently disadvantage less-advantaged
+ applicants.</div>
+```
+
+## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Key Findings from Dartmouth
+SAT Predictive Validity and Impacts of Test-Optional Policies
+• Predictive Power:
+ • SAT scores explain 22% of the variance in first-year GPA,
+ outperforming high school GPA (9%).
+ • Combining SAT and high school GPA increases predictive power
+ to 25%.
+• Subgroup Analysis:
+ • SAT scores are equally predictive of success across
+ demographic groups, including less-advantaged students.
+ • For less-advantaged students, SAT scores often serve as a
+ crucial positive signal in admissions.</div>
+```
+
+## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Implications of Test-Optional Policies
+Challenges for Less-Advantaged Applicants
+• Reduced Score Submission Rates:
+ • Under test-optional policies, less-advantaged students are less likely
+ to submit SAT scores, even when doing so would benefit their
+ applications.
+• Reliance on Other Metrics:
+ • Without SAT scores, greater weight is placed on subjective factors like
+ counselor recommendations and extracurriculars, which often favor
+ more-advantaged students.
+• Missed Opportunities:
+ • Many less-advantaged students with SAT scores in the 1400 range
+ lower their chances of admission by withholding scores.</div>
+```
+
+## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Broader Research Context
+What Do Studies Say About Standardized Testing?
+• Predictive Validity Across Institutions:
+ • Chetty, Deming, and Friedman (2023): SAT/ACT scores predict career success,
+ including earnings and elite graduate school attendance, independent of
+ family income.
+ • Bettinger et al. (2013): ACT scores strongly predict first-year GPA and
+ retention.
+• Critiques of High School GPA Alone:
+ • Variability in grading policies and grade inflation reduces its reliability as a
+ sole predictor of college success (Comeaux &amp; Sánchez, 2020).
+• Equity Concerns:
+ • Test-optional policies often fail to significantly increase diversity metrics
+ within institutions (Saboe &amp; Terrizzi, 2019).</div>
+```
+
+## {.archive-slide background-image="slides/35.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Policy Implications and Future Directions
+Standardized Testing and Admissions Policy
+• Value of SAT/ACT:
+ • Provides a standardized measure to evaluate students from diverse high school
+ contexts.
+ • Identifies high-achieving students from less-advantaged backgrounds when used
+ in context.
+• Potential Reforms:
+ • Encourage less-advantaged students to submit scores under test-optional policies.
+ • Explore alternative assessments that maintain predictive validity while reducing
+ bias.
+• Future Research Needs:
+ • Longitudinal studies on the impact of test-optional policies on student outcomes
+ and institutional diversity.</div>
+```
+
+## {.archive-slide background-image="slides/36.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Discussion Questions
+What Should Be the Role of Standardized Tests?
+
+• How can colleges better communicate the benefits of
+ submitting test scores under test-optional policies?
+• What reforms to standardized testing could enhance equity
+ without sacrificing predictive validity?
+• How should colleges balance the use of standardized tests
+ with holistic admissions practices?</div>
+```
+
+## {.archive-slide background-image="slides/37.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Meritocracy</div>
+```
+
+## {.archive-slide background-image="slides/38.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Meritocracy: A Double-Edged Sword
+What is the Meritocracy Trap?
+• Definition:
+ • In his book, Meritocracy Trap, Markovits argues that meritocracy,
+ initially designed to democratize opportunity, has become a system
+ that entrenches privilege and exacerbates inequality.
+• Key Premise:
+ • The elite use meritocratic ideals to justify inequality while securing
+ advantages for their own children through resources like expensive
+ test prep, elite schooling, and exclusive extracurriculars.
+• Relevance to College Admissions:
+ • Standardized tests like the SAT and ACT, while intended as tools of
+ merit, often reinforce existing inequities.</div>
+```
+
+## {.archive-slide background-image="slides/39.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The Role of Standardized Testing in Meritocracy
+Standardized Testing: Democratizing or Entrenching Privilege?
+• Positive Aspects:
+ • Originally designed to level the playing field by offering a standardized
+ measure of ability.
+ • Identifies talented students from underrepresented or less-advantaged
+ backgrounds.
+• Critiques from The Meritocracy Trap:
+ • Access to test prep and elite education systems skews results in favor of
+ wealthier families.
+ • The tests often reflect existing disparities rather than true academic potential.
+• Implication:
+ • Meritocratic tools like the SAT may fail to deliver on their promise of equality
+ when detached from broader equity reforms.</div>
+```
+
+## {.archive-slide background-image="slides/40.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">How Meritocracy Shapes Admissions Practices
+Meritocracy’s Influence on the College Admissions Systemt
+• Intensified Competition:
+ • Elite colleges increasingly favor holistic admissions, which amplifies
+ competition for subjective achievements (e.g., extracurriculars, essays).
+ • Wealthier families leverage resources to craft “perfect” applications.
+• Testing as a Signal:
+ • Standardized test scores often become one of the few measurable
+ components in an otherwise subjective process.
+ • Under test-optional policies, families with resources may still gain an edge by
+ submitting strong scores.
+• Broader Critique:
+ • Admissions systems perpetuate the idea that success is earned, even when
+ opportunities are unequally distributed.</div>
+```
+
+## {.archive-slide background-image="slides/41.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Reimagining Admissions in Light of Meritocracy
+Escaping the Meritocracy Trap
+• Markovits’ Suggestions:
+ • Deemphasize standardized tests and holistic achievements that favor elite
+ access.
+ • Invest in public education and free test prep to level the playing field.
+ • Shift from competitive individualism to cooperative models that value
+ diverse contributions.
+• Potential Reforms in Admissions:
+ • Expand pathways for underrepresented students (e.g., guaranteed admission
+ for top high school graduates).
+ • Use socioeconomic context to interpret test scores and applications (e.g.
+ adversity scores).
+ • Focus on potential rather than performance shaped by external resources.</div>
+```
+
+## {.archive-slide background-image="slides/42.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Discussion Questions
+Meritocracy and the Future of College Admissions
+
+• Are standardized tests inherently flawed, or can they be
+ reformed to serve equity?
+• How do we balance merit-based admissions with the need to
+ address systemic inequities?
+• What role should colleges play in challenging or upholding
+ the meritocracy trap?</div>
+```
+
+## {.archive-slide background-image="slides/43.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Epilogue</div>
+```
+
+## {.archive-slide background-image="slides/44.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Epilogue: The Meritocracy Trap
+The Reinforcing Cycle of Rankings and Meritocracy
+• The Rankings Race:
+ • Elite colleges are heavily influenced by external rankings like U.S.
+ News &amp; World Report.
+ • Selectivity measures, including average SAT scores, play a
+ significant role in these rankings.
+• The Easy Call:
+ • Admitting a student with a 1600 SAT score over a similarly qualified
+ student with a 1400 improves rankings and selectivity metrics.
+ • The decision prioritizes external prestige over broader definitions
+ of merit or equity.</div>
+```
+
+## {.archive-slide background-image="slides/45.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The Dilemma: What Does “Merit” Really Mean?
+Qualified vs. Overqualified Students
+• The 1400 SAT Student:
+ • Highly capable, meets or exceeds academic standards for success.
+ • May bring unique perspectives, talents, or lived experiences to the
+ institution.
+• The 1600 SAT Student:
+ • Offers a “perfect” academic metric that boosts institutional prestige.
+ • Often from wealthier backgrounds with access to resources like elite test
+ prep.
+• The Trap:
+ • Choosing the higher score perpetuates a system where opportunity is
+ tied to privilege.</div>
+```
+
+## {.archive-slide background-image="slides/46.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The Impact of Rankings on Admissions Decisions
+How Rankings Reinforce Inequities
+• External Pressure:
+ • Admissions offices are incentivized to prioritize metrics like SAT scores, even
+ when they do not align with institutional values like diversity and equity.
+• Perverse Incentives:
+ • Institutions invest in strategies to maximize rankings rather than outcomes,
+ including:
+ • Admitting higher-scoring students.
+ • Offering merit-based scholarships to high-scoring applicants, often at the
+ expense of need-based aid.
+• Result:
+ • Colleges inadvertently perpetuate privilege, sidelining qualified but lower-
+ scoring students who may thrive with the right opportunities.</div>
+```
+
+## {.archive-slide background-image="slides/47.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Reflections: Unraveling the Meritocracy Trap
+What Needs to Change?
+• Rethinking Rankings:
+ • Institutions and ranking agencies must de-emphasize SAT/ACT
+ scores and focus on broader metrics like student outcomes and
+ diversity.
+• Reinvesting in Equity:
+ • Shift resources toward need-based financial aid and outreach
+ to underrepresented communities.
+• Shifting the Narrative:
+ • Redefine success in admissions, prioritizing potential over
+ prestige-driven metrics.</div>
+```
+
+## {.archive-slide background-image="slides/48.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Closing Thought
+Meritocracy or Opportunity?
+
+• Quote for Reflection:
+
+ “A true meritocracy is not about
+ perfect scores or prestige—it’s
+ about creating pathways for all
+ students to succeed, regardless of
+ where they start.”</div>
+```
+
+## About this copy {.archive-about}
+
+*The Future of ACT and SAT Requirements* — Massachusetts Educational Research Association, November 2024.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2024-11-26-mera-the-future-of-act-and-sat-requirements/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2024-11-26-mera-the-future-of-act-and-sat-requirements.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2024-11-26-mera-the-future-of-act-and-sat-requirements.key)
+- [All talks](https://dbetebenner.github.io/talks/)

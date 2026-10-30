@@ -1,0 +1,195 @@
+---
+pagetitle: The Academic Impact of COVID-19 Pandemic
+description: The Academic Impact of COVID-19 Pandemic — Idaho Technical Advisory Committee, April 7, 2021. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">THE ACADEMIC IMPACT OF COVID-19 PANDEMIC
+AN OVERVIEW
+Damian Betebenner, Center for Assessment
+
+April 7, 2021
+
+ This work is licensed under a
+ Creative Commons Attribution 4.0
+ International License.</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2021 Data Reporting and Use
+ • Recent federal guidance indicates that states are responsible to
+ report results from 2021 testing (however not used for
+ accountability)
+ • State reporting is, in general, highly aligned with accountability.
+ • Even though analyses outlined herein deal with status/growth, they
+ don’t necessarily align with accountability narratives.
+ • It is critical for leadership (at the highest level) to map out a
+ communication plan and then build analytics and reporting to
+ support that plan.
+ • Without a well considered, disciplined and coordinated
+ communication plan, accountability narratives are likely to take over.
+ ID TAC COVID-19 Academic Impact Discussion</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Pandemic
+ • Now a year into the pandemic, there is strong evidence
+ that the pandemic is having a negative impact on children
+ nationwide.
+ • Negative impacts extend beyond academic impact and
+ include financial, social-emotional and physical impact.
+
+ ID TAC COVID-19 Academic Impact Discussion</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Pandemic: Academic Impact
+ • Academic impact of the pandemic is often referred to variously
+ as learning loss, unfinished learning, COVID-19 slide.
+ • As states formulate policies to help with student academic
+ recovery, there is a need for data/information/evidence on:
+ • Who: Who is experiencing or has experienced learning loss?
+ • What: What have students experienced learning loss in?
+ • How Much: How much learning loss have students experienced?
+ • Answers to these questions will be critical in helping to
+ understand how to help? For example, if learning loss is
+ substantial for some groups, recovery will not be immediate
+ and will require many months if not years to ameliorate.
+
+ ID TAC COVID-19 Academic Impact Discussion</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Pandemic: Data
+ • Data are necessary to answer Who?, What? and How much?
+ • Idaho has extensive academic data available to determine
+ learning loss for students:
+ • ISAT state summative assessment data
+ • WIDA-ACCESS English Language Proficiency data (ELL students)
+ • Interim assessment data from assessment vendors.
+ • Multiple sources of data allow for:
+ • Investigation of student groups not contained in some data sets (e.g.,
+ ELL students)
+ • Triangulation of results across multiple data sets.
+ ID TAC COVID-19 Academic Impact Discussion</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Pandemic: Data
+ • The investigative analyses discussed hereafter assume that the assessment data validly
+ describes student attainment in the assessed content area.
+ • Operational analyses (not discussed here) are necessary to insure the validity of these data
+ and the defensibility of subsequent investigative analyses. 1
+
+ 1
+ Table taken from Making Sense of 2021 Assessment Results by Dadey, Keng, Boyer, &amp; Marion (2021)
+ ID TAC COVID-19 Academic Impact Discussion</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Pandemic: Conceptualizing
+Academic Impact
+ • Think of the pandemic as a head-wind that slowed the progress of students.
+ • As such, there are two ways to use data to detect the impact of the
+ pandemic.
+ • Status change: Compare similar grade/content area groups from 2019 to 2021.
+ Need to take special care the groups are comparable.
+ • Growth change: Compare growth rates for students from 2019 to 2021 using
+ historical norms.
+ • Both status and growth comparisons get at the same thing --- the impact of
+ the pandemic on student attainment.
+ • NOTE: Any analysis of pandemic impact (status or growth) requires
+ comparison to a counterfactual baseline!
+ • NOTE: If you provide 2021 results (status or growth), stakeholder will (rightly)
+ want to compare that to pre-COVID (e.g., 2019) results.
+
+ ID TAC COVID-19 Academic Impact Discussion</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19
+Pandemic:
+Understanding
+Impact
+
+ ID TAC COVID-19 Academic Impact Discussion</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Pandemic: Academic Recovery
+ • With some understanding of the academic impact of the
+ pandemic the next step is plan for and monitor recovery.
+ • The magnitude of the impact (how much?) will indicate the
+ magnitude of the recovery.
+ • Early evidence from interim assessments suggest that in
+ elementary school mathematics, students in some states have lost
+ more than 12 weeks of learning.
+ • Learning loss in ELA is more modest for these interim assessments.
+ • Learning recovery will take on many forms (V-, U-, L-shaped
+ recoveries)
+ ID TAC COVID-19 Academic Impact Discussion</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19
+Pandemic:
+Monitoring
+Recovery
+
+ ID TAC COVID-19 Academic Impact Discussion</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2021 Data Reporting and Use
+ • Recent federal guidance indicates that states are responsible to
+ report results from 2021 testing (however not used for
+ accountability)
+ • State reporting is, in general, highly aligned with accountability.
+ • Even though analyses outlined herein deal with status/growth, they
+ don’t necessarily align with accountability narratives.
+ • It is critical for leadership (at the highest level) to agree to/map out a
+ communication plan and then build analytics and reporting to
+ support that plan.
+ • Without a well considered, disciplined and coordinated
+ communication plan, accountability narratives are likely to take over.
+ ID TAC COVID-19 Academic Impact Discussion</div>
+```
+
+## About this copy {.archive-about}
+
+*The Academic Impact of COVID-19 Pandemic* — Idaho Technical Advisory Committee, April 7, 2021.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2021-04-07-id-tac-the-academic-impact-of-covid-19-pandemic/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-04-07-id-tac-the-academic-impact-of-covid-19-pandemic.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-04-07-id-tac-the-academic-impact-of-covid-19-pandemic.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

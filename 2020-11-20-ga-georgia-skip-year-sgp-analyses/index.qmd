@@ -1,0 +1,371 @@
+---
+pagetitle: Georgia Skip Year SGP Analyses
+description: Georgia Skip Year SGP Analyses — Georgia Department of Education, November 20, 2020. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Georgia Skip Year SGP Analyses
+A Historical Comparison of the 2019 SGP Results
+
+ Damian Betebenner &amp; Adam Van Iwaarden
+ National Center for the Improvement of Educational Assessment (NCIEA)
+
+Georgia EE TAC — Atlanta, GA (and Virtual, USA)
+Friday, November 20th, 2020
+
+ This work is licensed under a
+ Creative Commons Attribution 4.0
+ International License.</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The Scene
+• We all know the situation
+ ▪ Global pandemic
+ ▪ Cancellation of in-person education in the Georgia in
+ spring 2020
+ ▪ Suspension of state summative testing and accountability
+ for 2019-2020 school year
+ ▪ K-12 education for the 2020-2021 school year in mixed
+ remote and in-person format.
+ ▪ Lack of clarity on state summative testing and
+ accountability for 2020-2021 including the use and
+ calculation of academic student growth</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Spoiler Alert
+
+• Should Georgia calculate student growth? Yes!
+ ▪ SGP calculation is more important now than ever.
+ ▪ Student growth can be used in many ways (not usually
+ done for accountability) to help schools and districts
+ assess and ameliorate the impact of COVID-19.
+ ▪ School interruption in spring 2020 and non-normal and
+ disparate education in this academic year could impact
+ &quot;opportunity to learn&quot; for some groups more than
+ others.
+ ▪ Indicators of student mode of education (e.g., remote,
+ in-person, hybrid) could help Georgia to quickly ascertain
+ what worked best to educate students under pandemic
+ related circumstances.</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Spoiler Alert
+
+• Should Georgia use student growth for education accountability
+ in 2021? Problematic!
+ ▪ Need to substitute skip-year growth (two-year growth
+ from 2019 to 2021) for usual one-year growth.
+ ▪ Historical skip-year analyses provide a useful frame of reference
+ for 2021 growth results, but do not unequivocally support or
+ reject their use in accountability calculations.
+ ▪ Given disruptions to student education, we anticipate 2021
+ skip-year analyses will deviate substantially from the historical
+ skip-year analyses.
+ ▪ The issue is only partly technical in nature. There are large
+ pragmatic and political components to consider.
+ ▪ Overall and differential impacts of COVID-19 on student
+ education should inform accountability policy decisions.</div>
+```
+
+::: notes
+```{=html}
+Skip-year growth is fundamentally different than sequential.<br>
+<br>
+Much less obtrusive circumstances have lead to growth discrepancies in the past (e.g., paper versus online administration of the assessment).  The best stance is to assume that skip-year growth is *not* a valid substitute for one-year growth in 2021 *unless* 2021 skip-year growth analyses can be shown to align well with historical skip-year analyses.<br>
+<br>
+Even if 2021 skip-year SGP results align well with historical results, it is not clear whether business-as-usual accountability is politically tenable.
+```
+:::
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Presentation Overview
+
+• How skip-year analyses were organized and conducted
+
+• Results for End-of-Grade (EOG) and End-of-Course subjects
+ ▪ student level
+ ▪ school level
+
+• Generalized trends in results for demographic subgroups</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Skip-year SGP Calculation
+
+• Calculating skip-year (2017 to 2019) growth is no more
+ difficult technically than calculating one-year growth.
+ ▪ Georgia calculates skip-year growth regularly as part of
+ EOC SGP analyses.
+ ▪ Calculating skip-year growth involves changing the
+ configurations that define what years, content areas,
+ grades are used to calculates SGPs.</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Skip-year SGP Calculation
+• Data from Georgia Milestones, excluding 2018.
+• Same SGP &quot;configurations&quot; (i.e. unique grade by content area by
+ year) used in the traditional 2019 were used, again, excluding
+ 2018. We added an additional prior year to maintain the same
+ number of priors used in the calculations.
+• All 4th grade analyses are eliminated because they rely on a single
+ prior test score and no prior test score exists (i.e., 2nd grade).
+ ▪ This effectively removes 1/3 to 1/2 of kids included in
+ elementary school growth aggregations.
+• Some EOC configurations were also eliminated due to a single
+ prior test restriction (e.g., course repeaters), but they may have
+ been included in other course progressions.
+• Same restrictions were used for cohort size (1,500), etc.</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Skip-year SGP Calculation
+
+• Overall, SGP calculation rates were still very high.
+• When both one- and skip-year SGPs could be calculated for a
+ given student:
+ ▪ 87.9% of students with a one-year SGP also had a skip-
+ year SGP.
+ ▪ 5% of students with a one-year SGP did not have skip-
+ year growth calculated
+ ▪ 1.3% of students had a SGP calculation for the skip-year
+ analysis but not one-year
+ ▪ 5.8% of students had neither a one- or skip-year SGP</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Individual Student Results
+
+• It is not defensible to assert that one-year SGPs are synonymous
+ with skip-year (two-year) SGPs. They represent growth over
+ different time spans.
+• However, one- and skip-year SGPs are highly correlated – range
+ 0.76 to 0.85 for all grade/content areas
+ ▪ This is slightly lower than other states for whom we have done
+ historical skip-year analyses. This is primarily attributable to
+ the use of ranked SIMEX SGPs instead of non-measurement
+ corrected SGPs.
+• Very similar (uniform) distribution – mean ~50 and SD of ~29
+• Scale score correlations between current (2019) and most recent
+ prior did not decrease dramatically (2017 to 2019 correlation
+ was ~0.03 lower, on average).</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Individual Student Results
+
+• While high correlations show a strong linear relationship,
+ there were still many students with large differences.
+ ▪ 20% of students had SGP differences of 21 or more.
+• This is not surprising as many student's observed scores
+ can vary greatly from one year to the next, leading to highly
+ discrepant SGPs.
+• Students that did not have a skip-year SGP calculated were
+ found to be slightly lower achieving (Z-score = ~-0.2) and had
+ typical one-year growth (SGP = ~51).</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">School Level Results
+
+• Given that all 4th grade SGPs are missing from the skip-year
+ analyses, school level results were summarized in two ways:
+ ▪ Including all students in a school for one-year summary
+ statistics (to show the total impact on school growth)
+ ▪ Including the subset of students from grades in which
+ skip-year SGPs could be calculated (to give a more direct
+ comparison of the SGP differences).
+• All school level summaries are calculated using schools with
+ at least 15 students.</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">School Level Results
+
+• Slight changes in the correlations between school growth
+ and prior achievement were noted in all content areas.
+• Mean SGP (MSGP) distributions were similar, with SD
+ increasing slightly.
+• Correlations between one-year and skip-year MSGPs were
+ high for all content areas (range 0.83 to 0.98)</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">School Level Results</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">School Level Results
+
+• Absolute differences between MSGPs were neither
+ insignificant nor egregious.</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">School Level Results</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">School Level
+Results
+• One factor that
+ appears to have a
+ significant impact
+ on school MSGP
+ differences is school
+ size. Nearly all
+ MSGP differences
+ greater than 5
+ percentile points
+ were from schools
+ with N &lt; 250.</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Demographic Group Results
+
+• SGP calculation rate decline in skip-year analyses are usually
+ not much different for select demographic groups.
+ ▪ One exception is English Learners.
+• No notable differences in SGP distributions or correlations.
+• Growth gaps observed in one-year analyses are compounded
+ in skip-year analyses (two years of growth gap in a single
+ measure). But not doubled!</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Demographic Group Results
+• At the school level, we typically see a negative relationship
+ between MSGP and percent demographic group.</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Demographic Group Results
+• We also see relatively small negative relationships between
+ MSGP differences and percent demographic group.</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Accountability versus accountability
+• Results of these analyses do not unequivocally disqualify the use
+ of skip-year growth in lieu of one-year growth.
+• They do not unequivocally qualify their use either.
+• This finding misses a larger point: It is questionable whether the
+ theory of action behind traditional accountability is appropriate
+ this year.
+• Responsibility for student learning during a pandemic are different
+ and much more complex than during pre-pandemic education.
+• Learning loss associated with COVID-19 is non-uniform across all
+ students, content areas, grades, and demographic subgroups.
+• It is critical to understand who to treat and how much they need to
+ be treated (little “a” accountability)
+• Growth data can be used for that purpose.</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Accountability versus accountability
+• Both overall COVID 19 learning loss as well as differential impact on
+ subgroups can be investigated with skip-year SGP data.
+• Using baseline SGPs (discussed separately) overall impact can be
+ investigated at various levels (e.g., content area, grade, demographic
+ subgroup).
+• Issues around opportunity to learn can be investigated using growth
+ gap comparisons for relevant demographic subgroups.
+• For example, calculating mean SGP for students receiving education
+ remotely versus in-person.
+• Investigations of (differential) impact on student achievement and
+ growth for already at-risk student populations will be critical to help
+ ameliorate impacts of the disruption to education from the COVID-19
+ pandemic.
+• It is critical for the state to collected COVID 19 related variables (e.g.,
+ remote, hybrid, in-person schooling).</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary
+
+• Results of these analyses do not unequivocally disqualify the
+ use of skip-year growth in lieu of one-year growth.
+• They do not unequivocally qualify their use either.
+• Need confirmation that 2021 skip-year deviations are no larger
+ than they were historically.
+ ▪ We are not optimistic this criteria will be met!
+• Recommend that growth be calculated regardless of whether it
+ is used for accountability.
+• Critical to the investigation of COVID-19 related learning loss
+ will be accurate data on COVID-19 related education programs
+ and student participation over time.</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Question for TAC
+
+1. If Georgia must use SGPs for Accountability in 2021, what should we consider
+ for calculating progress?</div>
+```
+
+## About this copy {.archive-about}
+
+*Georgia Skip Year SGP Analyses* — Georgia Department of Education, November 20, 2020.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2020-11-20-ga-georgia-skip-year-sgp-analyses/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2020-11-20-ga-georgia-skip-year-sgp-analyses.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2020-11-20-ga-georgia-skip-year-sgp-analyses.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

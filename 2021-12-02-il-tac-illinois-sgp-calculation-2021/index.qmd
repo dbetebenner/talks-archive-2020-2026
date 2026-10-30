@@ -1,0 +1,1119 @@
+---
+pagetitle: Illinois SGP Calculation 2021
+description: Illinois SGP Calculation 2021 — Illinois Technical Advisory Committee, December 2, 2021. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Illinois SGP Calculation 2021
+Growth &amp; Pandemic Academic Impact
+Damian Betebenner &amp; Adam Van Iwaarden
+Center for Assessment
+
+Illinois TAC Meeting
+December 3rd, 2021</div>
+```
+
+::: notes
+```{=html}
+Scott
+```
+:::
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Catching Up
+• Nice to see you all again.
+• What a difference two years make.
+• USED granted testing waivers in 2020 due to the onset of the
+ pandemic in March 2020.
+• IL tested approximately 80,000 students in 2020 prior to the
+ onset of the pandemic.
+• Besides those students, all other testing was cancelled in 2020.
+• No growth analyses were conducted due to the cancellation of
+ testing in 2020
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Illinois as part of New Meridian Testing in 2021
+• As you are all aware, the pandemic made for a complicated year of
+ testing.
+• Accountability waivers were granted for states but testing waivers were
+ not universally granted.
+• The New Meridian consortium was broadly impacted by testing
+ changes:
+ • DC was given a waiver to not test in 2021.
+ • NJ tested using an abbreviated form (Start Strong) in Fall 2021
+ • IL tested in spring 2021 and offered Fall 2021 testing
+ • BIE and DoDEA testing in spring 2021.
+• States that tested did not see test participation at levels normally
+ observed (i.e., 95%).
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SGP Operational Considerations in 2021
+• Illinois (and New Meridian) growth analyses are skip-year/gap year growth from 2019 to
+ 2021.
+• In prior years, only cohort referenced (SIMEX and non-measurement error corrected)
+ SGPs were calculated.
+• In 2021, four types of SGP analyses were conducted for Illinois (and New Meridian) data:
+ • Cohort referenced analyses: These analyses create growth norms from the 2019 to 2021
+ students. These growth norms yield cohort means/median SGPs of 50 and obscure COVID-19
+ academic impact. Both SIMEX (measurement error corrected) and non-SIMEX SGPs are
+ calculated.
+ • Baseline referenced analyses: Historical growth norms were created using 2019 and prior data.
+ These growth growth analyses don’t have mean/median SGPs of 50 and can be used to
+ investigate overall COVID-19 academic impact. Both SIMEX (measurement error corrected) and
+ non-SIMEX SGPs are calculated.
+• Projections (lagged and straight) were calculated for 2021 data using baseline growth
+ norms in case they were needed.
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SGP Summary of Cohort versus Baseline Referenced
+• Cohort referenced SGPs
+ • Growth norms created from the current cohort of students.
+ • Typical way that SGPs are calculated.
+ • Both consortium and state referenced norms are created.
+ • Mean/median will by 50 for all grade x content area analyses.
+ • Cannot investigate overall impact of the pandemic on students.
+ • Can investigate differential impact of the pandemic on students.
+ • Does not require scale stability across years.
+• Baseline referenced SGPs.
+ • Growth norms created from historical (i.e., pre-COVID) cohorts of students.
+ • Mean/median 50 for historical cohort, not necessarily 50 for current cohort.
+ • Both consortium and state referenced baseline norms are created (using 2019 membership)
+ • Extent of deviation from (i.e. below) 50 is indicative of less learning/pandemic related academic impact.
+ • Mean SGP deviation of 5 corresponds to an effect size of 0.18.
+ • Can investigate BOTH overall impact and differential impact
+ • Requires scale stability across years.
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SGP Calculations
+• SGP calculations were performed using the SGP package and R software
+ environment based upon data supplied by Pearson.
+• To facilitate the calculation of baseline SGPs across multiple states, we
+ created an additional R package, SGPmatrices, that contains all baseline
+ matrices for states/organizations.
+ • SGPmatrices
+• Source code associated with calculations are available on GitHub (private
+ account):
+ • Illinois GitHub Repo
+• Analyses were conducted first by state/organization based upon availability
+ of data provided by Pearson and then at the consortium level once all data
+ was available.
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Data for Spring &amp; Fall 2021: Content Area by State/
+Organization
+ Spring 2021 Fall 2021
+ Content Area
+ ELA Math ELA Math
+
+Overall 566,600 559,874 31,100 30,799
+
+Grade 3 92,250 91,493 5,475 5,419
+Grade 4 94,491 93,639 5,481 5,430
+Grade 5 95,801 94,817 5,497 5,432
+Grade 6 95,466 94,306 5,875 5,825
+Grade 7 94,474 93,134 6,181 6,133
+Grade 8 94,118 92,485 2,591 2,560
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SGP Assumptions
+• SGP analyses presume valid scale scores
+ • Students forming the growth norm group are presumed to have taken
+ the same (or equivalent) test at the same time. Scores have to mean the
+ same thing.
+ • SGPs, however, are often used as a post-hoc check of scale score
+ validity/comparability via Reductio ad absurdum
+ • In 2021, check form comparability and mode-of-administration
+ comparability.
+ • Illinois has experience (e.g., PARCC paper/pencil versus online)
+ investigating and accommodating mode-effects.
+ • If scores are not comparable then we either attempt to make them
+ comparable or run separate analyses.
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SGP Results
+• The following slides show Illinois SGP results for 2021.
+• We report only baseline referenced SGPs in these slides
+ • Cohort referenced results fail to show overall impact.
+ • Differential impact shown in baseline SGPs will mirror that found in
+ cohort referenced SGPs.
+ • Due to the highly skewed nature of the SGP results, we recommend
+ median SGP over mean SGP in this instance.
+• We also provide 2019 results to understand pandemic related
+ academic impact.
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SGP Analyses and Academic Impact
+• Understanding pandemic related impact necessarily requires looking back to
+ pre-pandemic results.
+• The impulse of stakeholders to want to compare 2021 results with 2019
+ results is the correct impulse at both the individual, school, district, and state
+ level.
+• Wanting to look at 2019 to 2021 change is an attempt to investigate impact.
+• The challenge is making 2019 to 2021 comparisons apples-to-apples
+ comparisons.
+• Supporting these comparisons requires having a complete understanding is
+ who constitutes the missing data.
+• IL provided additional data in September 2021 indicating which students were
+ missing.
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SGP Analyses and Academic Impact
+• 2019 to 2021 Status and Growth comparisons get at the same
+ thing: deceleration in student learning due to the COVID-19
+ pandemic “headwind”.
+• One of the best ”unread” papers on accountability system design
+ and indicators is by Dale Carlson where he discusses the
+ relationship between changes in status (i.e., improvement) and
+ changes in growth (acceleration). https://www.nciea.org/sites/
+ default/files/publications/Dale020402.pdf
+• We present (briefly) status results in addition to growth results.
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">IAR Attainment: 2019 to 2021 Percent Proficient
+ ELA Mathematics
+ Grade
+ Percent Percent Difference 2019 Percent Percent Difference 2019
+ Proficient Proficient to 2021 Proficient 2019 Proficient 2021 to 2021
+ 2019 2021
+
+3 36.2% (138,105) 25.2% (92,358) -11.0% 39.4% (137,911) 30.9% (91,604) -8.5%
+
+4 36.6% (141,509) 28.0% (94,573) -8.6% 33.4% (141,336) 23.4% (93,719) -10.0%
+
+5 36.7% (145,638) 29.3% (95,897) -7.4% 28.6% (145,485) 23.9% (94,917) -4.7%
+
+6 34.9% (147,791) 30.3% (95,555) -4.6% 24.2% (147,557) 21.7% (94,396) -2.5%
+
+7 41.1% (144,741) 33.2% (94,584) -7.9% 29.9% (144,413) 25.2% (93,239) -4.7%
+
+8 38.5% (143,506) 34.5% (94,255) -4.0% 32.5% (142,787) 23.9% (92,615) -8.6%
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">IAR Attainment: 2019 to 2021 Percent Proficient with
+Imputed Scores for Missing
+ ELA Mathematics
+ Grade
+ Percent Percent Difference Imputed Percent Percent Difference Imputed
+ Proficient Proficient 2019 to 2021 Percent Proficient Proficient 2019 to 2021 Percent
+ 2019 2021 Proficient 2019 2021 Proficient
+ 2021 2021
+ 3 36.2% 25.2% -11.0% 23.2% 39.4% 30.9% -8.5% 27.7%
+ (138,105) (92,358) (123,460) (137,911) (91,604) (123,411)
+ 4 36.6% 28.0% -8.6% 25.1% 33.4% 23.4% -10.0% 20.8%
+ (141,509) (94,573) (127,513) (141,336) (93,719) (127,472)
+ 5 36.7% 29.3% -7.4% 26.6% 28.6% 23.9% -4.7% 21.3%
+ (145,638) (95,897) (126,422) (145,485) (94,917) (126,243)
+ 6 34.9% 30.3% -4.6% 27.2% 24.2% 21.7% -2.5% 19%
+ (147,791) (95,555) (130,578) (147,557) (94,396) (130,435)
+ 7 41.1% 33.2% -7.9% 30% 29.9% 25.2% -4.7% 22.4%
+ (144,741) (94,584) (134,657) (144,413) (93,239) (134,456)
+ 8 38.5% 34.5% -4.0% 31.8% 32.5% 23.9% -8.6% 21.9%
+ (143,506) (94,255) (136,437) (142,787) (92,615) (136,175)
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Points of Clarification for Status Results
+• Decrease in attainment (as a decrease in percent proficient) between
+ 2019 and 2021 is the most often reported statistic related to state testing
+ in 2021.
+• This analysis &amp; statistic (percent proficient) are problematic for several
+ reasons:
+• Using 2019 as a counterfactual for where students would have been had
+ the pandemic not occurred is problematic for several reasons including:
+ • Changes in student cohort composition is not accounted for.
+ • Improvement between 2019 and 2021 that would have occurred is not
+ accounted for.
+ • Missing data in 2021 not accounted for.
+• Multiple imputation results imply results would have been lower had all students
+ tested.
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Points of Clarification for Status Results
+
+• Effect sizes associated with decreases range from approximately 0.15 to 0.4.
+• Participation rates (derived from decreases in observed test scores between
+ 2019 and 2021) vary by grade and state/organization but suggest
+ participation between 60% and 80% (mostly toward the lower end)
+• In general, the achievement decreases observed are large and are consistent
+ with large academic impact.
+• Other states, with and without missing data, show similar decreases.
+• In general, current results based upon incomplete data likely represent a best-
+ case scenario compared to what would appear given fuller participation.
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">IAR Growth: 2019 to 2021 Median SGP by Grade
+ ELA Mathematics
+ Grade
+ Median Median Difference Imputed Median Median Difference Imputed
+ SGP 2019 SGP 2021 2019 to Median SGP 2019 SGP 2021 2019 to Median
+ 2021 SGP 2021 2021 SGP 2021
+
+ 3 NA NA NA NA NA NA NA NA
+
+ 4 NA NA NA NA NA NA NA NA
+
+ 5 50.0 32.0 (90,180) 18.0 29.0 50.0 31.0 (89,200) 19.0 27.0
+ (135,827) (120,801) (136,019) (120,625)
+ 6 50.0 36.0 (89,764) 14.0 34.0 50.0 31.0 (88,633) 19.0 28.0
+ (137,429) (124,876) (137,494) (124,761)
+ 7 50.0 31.0 (88,567) 19.0 29.0 50.0 34.0 (87,285) 16.0 33.0
+ (134,271) (128,752) (134,271) (128,609)
+ 8 50.0 36.0 (88,792) 14.0 35.0 50.0 35.0 (87,180) 15.0 33.0
+ (133,836) (131,109) (133,452) (130,869)
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Discussion
+• Median baseline SGPs in ELA and Math were in the mid to low 30s.
+• Deviation from normal growth (i.e., 50) represents the extent to which academic
+ growth slowed down from 2019 to 2021, that is, academic impact.
+• Comparably large academic impact in ELA than mathematics.
+• Comparably large academic impact across grades.
+• Given what we know about student growth, academic impact will likely require
+ multiple years and additional educational supports/interventions to recover.
+ • To have average progress (i.e., SGP = 50) over a time span, deviations below 50 must be
+ compensated with commensurate deviations above 50.
+ • For example, a 2 year median SGP of 35 would need to be followed by a 2 year median SGP
+ of 65 to ”average out” at 50.
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">IAR Growth: 2019 to 2021 Median SGP by Ethnicity
+ ELA Mathematics
+ Ethnicity
+ Median SGP Median SGP Difference 2019 Median SGP Median SGP Difference 2019
+ 2019 2021 to 2021 2019 2021 to 2021
+
+American Indian/ 52.0 (1,358) 33.0 (668) 19.0 49.0 (1,362) 28.0 (649) 19.0
+Alaskan Native
+
+Asian 63.0 (26,192) 43.0 (17,227) 20.0 64.0 (26,546) 47.0 (16,982) 17.0
+Black/African 40.0 (86,428) 27.0 (45,865) 13.0 41.0 (86,146) 24.0 (44,532) 17.0
+American
+Hispanic/Latino 48.0 (150,249) 32.0 (79,166) 16.0 49.0 (150,264) 29.0 (77,711) 20.0
+Native Hawaiian/ 54.0 (517) 35.0 (331) 19.0 52.0 (522) 32.5 (322) 19.5
+PI
+White 53.0 (257,537) 35.0 (200,089) 18.0 52.0 (257,347) 35.0 (198,302) 17.0
+Two or More 50.0 (19,076) 33.0 (13,922) 17.0 49.0 (19,043) 32.0 (13,766) 17.0
+Races
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Discussion of Ethnicity Results
+• Broken out by ethnicity, 2021 baseline SGP results show similar
+ rank ordering (i.e., growth gaps) as seen in normal years.
+• Student academic growth is comparable in mathematics and ELA
+ for all ethnic subgroups.
+• Growth decreases by ethnicity are relatively uniform across
+ different ethnic groups.
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">IAR Growth: 2019 to 2021 Median SGPs by Economic
+Disadvantaged Status
+
+ ELA Mathematics
+ Free/Reduced
+ Median SGP Median SGP Difference 2019 Median SGP Median SGP Difference 2019
+ Lunch Status
+ 2019 2021 to 2021 2019 2021 to 2021
+
+No 54.0 (265,480) 36.0 (200,607) -18.0 54.0 (265,107) 37.0 (198,566) -17.0
+
+Yes 46.0 (275,685) 30.0 (156,692) -16.0 46.0 (275,930) 28.0 (153,727) -18.0
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Discussion of disadvantaged status
+• Baseline SGP results show similar growth gaps in 2021 (students
+ indicated as receiving free/reduced lunch have lower SGPs than
+ students indicated as not receiving free/reduced lunch.
+• Academic impacts are fairly uniform across the subgroups.
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">IAR Growth: 2019 to 2021 Median SGPs by Gender
+
+ ELA Mathematics
+ Gender
+ Median SGP Median SGP Difference 2019 Median SGP Median SGP Difference 2019
+ 2019 2021 to 2021 2019 2021 to 2021
+
+Female 55.0 (265,631) 36.0 (173,336) 19.0 51.0 (265,587) 32.0 (170,942) 19.0
+
+Male 45.0 (275,732) 32.0 (183,963) 13.0 49.0 (275,649) 33.0 (181,351) 16.0
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Discussion of Gender Results
+• Growth gender gaps historically exist (favoring females) in both
+ ELA and mathematics.
+• Growth gender gaps are historically larger in ELA than
+ mathematics.
+• Academic impact somewhat larger for females than for males,
+ especially in ELA.
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Growth by Prior Achievement Results
+• In examining results associated with SGP fit, we discovered that
+ growth and associated impact varied considerably based upon
+ the prior achievement of the student.
+• The following slides illustrate academic impact by prior
+ achievement.
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2020−2021 Status by 2018−2019 Prior Status
+ All Students: ELA Grade 5
+ 2018−2019 &amp; 2020−2021 Median SGPs by Scale Score Decile
+ 49 51 50 51 49 50 51 49 50 50
+ 37 34 33 32 32 33 32 32 29 23
+ −12 −17 −17 −19 −17 −17 −19 −17 −21 −27
+
+ 2018−2019 Scale Score Decile Cuts
+
+ 10 20 30 40 50 60 70 80 90
+
+ 3.00
+ 2.75 2018−2019 to 2020−2021 Mean Conditional Status
+ 2016−2017 to 2018−2019 Mean Conditional Status
+ 2.50 2018−2019 to 2020−2021 OLS Conditional Status
+ 2.25 2018−2019 to 2020−2021 Baseline P50
+ 2.00 2017−2018 to 2018−2019 Mean Conditional Status
+ 1.75
+ 1.50
+ 1.25 COVID−19 Academic Impact (Decrease in Conditional Status)
+
+2020−2021 Scale Score
+ 1.00
+ 0.75
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50
+ −0.75
+ −1.00
+ −1.25
+ −1.50
+ −1.75
+ −2.00
+ −2.25
+ −2.50
+ −2.75
+ −3.00
+
+ 1.00 −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+ 0.75
+
+Academic Impact
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50 2018−2019 to 2020−2021 Conditional Status Academic Impact
+ −0.75 2018−2019 to 2020−2021 Gain Based Academic Impact
+ 2018−2019 to 2020−2021 Variance Adjusted Academic Impact
+ −1.00
+
+ −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+
+ 2018−2019 Scale Score with Achievement Level Cuts</div>
+```
+
+## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2020−2021 Status by 2018−2019 Prior Status
+ All Students: ELA Grade 6
+ 2018−2019 &amp; 2020−2021 Median SGPs by Scale Score Decile
+ 49 50 51 50 49 50 51 50 50 50
+ 43 40 39 36 36 34 35 32 29 28
+ −6 −10 −12 −14 −13 −16 −16 −18 −21 −22
+
+ 2018−2019 Scale Score Decile Cuts
+
+ 10 20 30 40 50 60 70 80 90
+
+ 3.00
+ 2.75 2018−2019 to 2020−2021 Mean Conditional Status
+ 2016−2017 to 2018−2019 Mean Conditional Status
+ 2.50 2018−2019 to 2020−2021 OLS Conditional Status
+ 2.25 2018−2019 to 2020−2021 Baseline P50
+ 2.00 2017−2018 to 2018−2019 Mean Conditional Status
+ 1.75
+ 1.50
+ 1.25 COVID−19 Academic Impact (Decrease in Conditional Status)
+
+2020−2021 Scale Score
+ 1.00
+ 0.75
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50
+ −0.75
+ −1.00
+ −1.25
+ −1.50
+ −1.75
+ −2.00
+ −2.25
+ −2.50
+ −2.75
+ −3.00
+
+ 1.00 −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+ 0.75
+
+Academic Impact
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50 2018−2019 to 2020−2021 Conditional Status Academic Impact
+ −0.75 2018−2019 to 2020−2021 Gain Based Academic Impact
+ 2018−2019 to 2020−2021 Variance Adjusted Academic Impact
+ −1.00
+
+ −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+
+ 2018−2019 Scale Score with Achievement Level Cuts</div>
+```
+
+## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2020−2021 Status by 2018−2019 Prior Status
+ All Students: ELA Grade 7
+ 2018−2019 &amp; 2020−2021 Median SGPs by Scale Score Decile
+ 49 50 50 49 50 50 51 49 50 50
+ 35 33 34 31 30 30 29 28 27 27
+ −14 −17 −16 −18 −20 −20 −22 −21 −23 −23
+
+ 2018−2019 Scale Score Decile Cuts
+
+ 10 20 30 40 50 60 70 80 90
+
+ 3.00
+ 2.75 2018−2019 to 2020−2021 Mean Conditional Status
+ 2016−2017 to 2018−2019 Mean Conditional Status
+ 2.50 2018−2019 to 2020−2021 OLS Conditional Status
+ 2.25 2018−2019 to 2020−2021 Baseline P50
+ 2.00 2017−2018 to 2018−2019 Mean Conditional Status
+ 1.75
+ 1.50
+ 1.25 COVID−19 Academic Impact (Decrease in Conditional Status)
+
+2020−2021 Scale Score
+ 1.00
+ 0.75
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50
+ −0.75
+ −1.00
+ −1.25
+ −1.50
+ −1.75
+ −2.00
+ −2.25
+ −2.50
+ −2.75
+ −3.00
+
+ 1.00 −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+ 0.75
+
+Academic Impact
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50 2018−2019 to 2020−2021 Conditional Status Academic Impact
+ −0.75 2018−2019 to 2020−2021 Gain Based Academic Impact
+ 2018−2019 to 2020−2021 Variance Adjusted Academic Impact
+ −1.00
+
+ −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+
+ 2018−2019 Scale Score with Achievement Level Cuts</div>
+```
+
+## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2020−2021 Status by 2018−2019 Prior Status
+ All Students: ELA Grade 8
+ 2018−2019 &amp; 2020−2021 Median SGPs by Scale Score Decile
+ 49 50 51 50 49 50 50 50 50 50
+ 41 42 40 37 36 36 36 33 30 27
+ −8 −8 −11 −13 −13 −14 −14 −17 −20 −23
+
+ 2018−2019 Scale Score Decile Cuts
+
+ 10 20 30 40 50 60 70 80 90
+
+ 3.00
+ 2.75 2018−2019 to 2020−2021 Mean Conditional Status
+ 2016−2017 to 2018−2019 Mean Conditional Status
+ 2.50 2018−2019 to 2020−2021 OLS Conditional Status
+ 2.25 2018−2019 to 2020−2021 Baseline P50
+ 2.00 2017−2018 to 2018−2019 Mean Conditional Status
+ 1.75
+ 1.50
+ 1.25 COVID−19 Academic Impact (Decrease in Conditional Status)
+
+2020−2021 Scale Score
+ 1.00
+ 0.75
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50
+ −0.75
+ −1.00
+ −1.25
+ −1.50
+ −1.75
+ −2.00
+ −2.25
+ −2.50
+ −2.75
+ −3.00
+
+ 1.00 −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+ 0.75
+
+Academic Impact
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50 2018−2019 to 2020−2021 Conditional Status Academic Impact
+ −0.75 2018−2019 to 2020−2021 Gain Based Academic Impact
+ 2018−2019 to 2020−2021 Variance Adjusted Academic Impact
+ −1.00
+
+ −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+
+ 2018−2019 Scale Score with Achievement Level Cuts</div>
+```
+
+## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2020−2021 Status by 2018−2019 Prior Status
+ All Students: Mathematics Grade 5
+ 2018−2019 &amp; 2020−2021 Median SGPs by Scale Score Decile
+ 50 50 50 50 51 51 50 49 49 51
+ 32 33 27 27 27 28 28 30 34 39
+ −18 −17 −23 −23 −24 −23 −22 −19 −15 −12
+
+ 2018−2019 Scale Score Decile Cuts
+
+ 10 20 30 40 50 60 70 80 90
+
+ 3.00
+ 2.75 2018−2019 to 2020−2021 Mean Conditional Status
+ 2016−2017 to 2018−2019 Mean Conditional Status
+ 2.50 2018−2019 to 2020−2021 OLS Conditional Status
+ 2.25 2018−2019 to 2020−2021 Baseline P50
+ 2.00 2017−2018 to 2018−2019 Mean Conditional Status
+ 1.75
+ 1.50
+ 1.25 COVID−19 Academic Impact (Decrease in Conditional Status)
+
+2020−2021 Scale Score
+ 1.00
+ 0.75
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50
+ −0.75
+ −1.00
+ −1.25
+ −1.50
+ −1.75
+ −2.00
+ −2.25
+ −2.50
+ −2.75
+ −3.00
+
+ 1.00 −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+ 0.75
+
+Academic Impact
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50 2018−2019 to 2020−2021 Conditional Status Academic Impact
+ −0.75 2018−2019 to 2020−2021 Gain Based Academic Impact
+ 2018−2019 to 2020−2021 Variance Adjusted Academic Impact
+ −1.00
+
+ −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+
+ 2018−2019 Scale Score with Achievement Level Cuts</div>
+```
+
+## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2020−2021 Status by 2018−2019 Prior Status
+ All Students: Mathematics Grade 6
+ 2018−2019 &amp; 2020−2021 Median SGPs by Scale Score Decile
+ 50 50 50 50 49 51 50 50 50 50
+ 40 33 29 26 27 28 29 29 31 35
+ −10 −17 −21 −24 −22 −23 −21 −21 −19 −15
+
+ 2018−2019 Scale Score Decile Cuts
+
+ 10 20 30 40 50 60 70 80 90
+
+ 3.00
+ 2.75 2018−2019 to 2020−2021 Mean Conditional Status
+ 2016−2017 to 2018−2019 Mean Conditional Status
+ 2.50 2018−2019 to 2020−2021 OLS Conditional Status
+ 2.25 2018−2019 to 2020−2021 Baseline P50
+ 2.00 2017−2018 to 2018−2019 Mean Conditional Status
+ 1.75
+ 1.50
+ 1.25 COVID−19 Academic Impact (Decrease in Conditional Status)
+
+2020−2021 Scale Score
+ 1.00
+ 0.75
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50
+ −0.75
+ −1.00
+ −1.25
+ −1.50
+ −1.75
+ −2.00
+ −2.25
+ −2.50
+ −2.75
+ −3.00
+
+ 1.00 −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+ 0.75
+
+Academic Impact
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50 2018−2019 to 2020−2021 Conditional Status Academic Impact
+ −0.75 2018−2019 to 2020−2021 Gain Based Academic Impact
+ 2018−2019 to 2020−2021 Variance Adjusted Academic Impact
+ −1.00
+
+ −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+ Illinois TAC 12/2/2021
+ 2018−2019 Scale Score with Achievement Level Cuts</div>
+```
+
+## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2020−2021 Status by 2018−2019 Prior Status
+ All Students: Mathematics Grade 7
+ 2018−2019 &amp; 2020−2021 Median SGPs by Scale Score Decile
+ 50 50 50 49 50 51 50 50 50 50
+ 44 40 36 36 35 35 33 30 27 27
+ −6 −10 −14 −13 −15 −16 −17 −20 −23 −23
+
+ 2018−2019 Scale Score Decile Cuts
+
+ 10 20 30 40 50 60 70 80 90
+
+ 3.00
+ 2.75 2018−2019 to 2020−2021 Mean Conditional Status
+ 2016−2017 to 2018−2019 Mean Conditional Status
+ 2.50 2018−2019 to 2020−2021 OLS Conditional Status
+ 2.25 2018−2019 to 2020−2021 Baseline P50
+ 2.00 2017−2018 to 2018−2019 Mean Conditional Status
+ 1.75
+ 1.50
+ 1.25 COVID−19 Academic Impact (Decrease in Conditional Status)
+
+2020−2021 Scale Score
+ 1.00
+ 0.75
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50
+ −0.75
+ −1.00
+ −1.25
+ −1.50
+ −1.75
+ −2.00
+ −2.25
+ −2.50
+ −2.75
+ −3.00
+
+ 1.00 −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+ 0.75
+
+Academic Impact
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50 2018−2019 to 2020−2021 Conditional Status Academic Impact
+ −0.75 2018−2019 to 2020−2021 Gain Based Academic Impact
+ 2018−2019 to 2020−2021 Variance Adjusted Academic Impact
+ −1.00
+
+ −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+
+ 2018−2019 Scale Score with Achievement Level Cuts</div>
+```
+
+## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2020−2021 Status by 2018−2019 Prior Status
+ All Students: Mathematics Grade 8
+ 2018−2019 &amp; 2020−2021 Median SGPs by Scale Score Decile
+ 50 50 50 50 50 50 50 50 49 50
+ 40 38 36 34 33 32 32 30 30 34
+ −10 −12 −14 −16 −17 −18 −18 −20 −19 −16
+
+ 2018−2019 Scale Score Decile Cuts
+
+ 10 20 30 40 50 60 70 80 90
+
+ 3.00
+ 2.75 2018−2019 to 2020−2021 Mean Conditional Status
+ 2016−2017 to 2018−2019 Mean Conditional Status
+ 2.50 2018−2019 to 2020−2021 OLS Conditional Status
+ 2.25 2018−2019 to 2020−2021 Baseline P50
+ 2.00 2017−2018 to 2018−2019 Mean Conditional Status
+ 1.75
+ 1.50
+ 1.25 COVID−19 Academic Impact (Decrease in Conditional Status)
+
+2020−2021 Scale Score
+ 1.00
+ 0.75
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50
+ −0.75
+ −1.00
+ −1.25
+ −1.50
+ −1.75
+ −2.00
+ −2.25
+ −2.50
+ −2.75
+ −3.00
+
+ 1.00 −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+ 0.75
+
+Academic Impact
+ 0.50
+ 0.25
+ 0.00
+ −0.25
+ −0.50 2018−2019 to 2020−2021 Conditional Status Academic Impact
+ −0.75 2018−2019 to 2020−2021 Gain Based Academic Impact
+ 2018−2019 to 2020−2021 Variance Adjusted Academic Impact
+ −1.00
+
+ −3.00 −2.75 −2.50 −2.25 −2.00 −1.75 −1.50 −1.25 −1.00 −0.75 −0.50 −0.25 0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+
+ 2018−2019 Scale Score with Achievement Level Cuts</div>
+```
+
+## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Participation Rates and Interpretation
+• An issue impacting the interpretation of growth (and status) results in
+ 2021 is participation in the state assessment.
+• Low participation doesn’t impact calculation of cohort referenced
+ growth norms nor use of baseline referenced growth norms.
+• Low participation does impact comparisons of group level results with
+ historical (e.g., 2019) results based upon higher participation rates.
+• For example, how should one compare growth and status results for
+ school in 2019 and 2021 with very different rates of participation.
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Multiple Imputation
+• Given the rich historical data available for students missing in 2021,
+ and the observed performance of comparable students from 2019
+ to 2021, it is possible to simulate what we think their performance
+ might have been.
+• Combining multiple simulations can inform us about potential bias
+ in what we observed at state/district/school levels in 2021, as well
+ as inform us about levels of uncertainty around them.
+• Multiple imputation (MI) of missing data is widely adopted and
+ well-developed statistical analysis technique used in many fields to
+ deal with missing data problems.
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/35.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Multiple Imputation
+• MI uses information from the observed data to generate
+ parameter estimates in three steps:
+ • Imputation: A prediction model generates a set of plausible values
+ for the missing observations, resulting in M imputed data sets.
+ • Analysis: The analysis (e.g., baseline student growth percentiles) is
+ conducted on each of the M data sets.
+ • Pooling: Parameter and (more importantly) uncertainty estimates
+ are constructed by pooling across the M analyses.
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/36.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Multiple Imputation
+• In the context of COVID impact analyses, we use the multiple
+ (plausible) parameter estimates to inform us about the
+ uncertainty around what was observed. That is, we do not use
+ MI to produce “corrected” parameter estimates, but rather to
+ help determine whether we trust the statistics calculated from
+ the observed (with missing) data.
+• Statistics of particular interest:
+ • Mean/median scale scores
+ • Mean/median baseline SGPs
+ • Effect size estimates
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/37.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Multiple Imputation
+• Before performing a MI analysis with Illinois (and New Meridian
+ data in general) data, missing data patterns were investigated.
+• Patterns suggest some relationship to factors such as prior
+ achievement and economic status.
+• These relationships suggest that missing data in Illinois is non-
+ ignorable, but does not preclude the use of MI.
+ • Data can be considered “Missing-at-random” – relationships exist between
+ missingness and the observed data (and so can not be considered “missing
+ completely-at-random”) but the relationships are not systematic (e.g. all
+ students below proficiency in 2019 were missing in 2021).
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/38.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">District &amp; School Level Results
+• Due to larger fluctuations in participation rates at the district and school level,
+ growth comparisons between 2019 and 2021 must be approached more
+ cautiously.
+• In general, in other states we have had good success via multiple imputation
+ that comparisons of status and growth results from 2019 to 2021.
+• Multiple imputation indicates both when inference is defensible based upon
+ observed data and when such an inference appears problematic.
+• We have found that whether a school’s results support cross-year comparison
+ depends more on the size of the school than on the participation rate/
+ enrollment change.
+
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/39.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SGP Analysis Plans post 2021 (2022 and beyond)
+• Spring 2021 represented an ideal time to get a snapshot of student attainment as
+ we are presumably/hopefully at or near the point of maximal impact on student
+ attainment.
+• That is, recovery had not really begun for most students in earnest.
+• It’s impossible to talk about recovery sensibly without understanding how big the
+ impact is.
+• Analytics in 2022 will be keenly interested on whether or not recovery is
+ occurring: Who, what, how much.
+• Monitoring recovery will be at least as critical as monitoring the impact of the
+ pandemic on student achievement.
+• Beware the K-shaped recovery!
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/40.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Communication of Results in 2021
+• Technical challenges to the calculation of growth in 2021 are likely
+ minor compared to communication challenges.
+• State reporting is, in general, highly aligned with accountability.
+• Even though analyses outlined herein deal with status/growth, they
+ don’t necessarily align with accountability narratives.
+• It is critical for leadership (at the highest level) to map out a
+ communication plan and then build analytics and reporting to support
+ that plan.
+• Without a well considered, disciplined and coordinated communication
+ plan, accountability narratives are likely to take over.
+ Illinois TAC 12/2/2021</div>
+```
+
+## {.archive-slide background-image="slides/41.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary of Findings
+• SGP analyses were successfully conducted for Illinois members testing
+ in spring 2021 and fall 2021
+• Results of the analyses suggest large academic impacts on students due
+ to the pandemic.
+• Results are large in both math and in ELA. Results were large in both
+ elementary and middle school grades.
+• Results show variation across academic subgroups (e.g., high versus low
+ achievers in some content areas).
+• Recovery from impacts this large will likely take multiple years and
+ require additional supports beyond that provided by normal schooling.
+ Illinois TAC 12/2/2021</div>
+```
+
+## About this copy {.archive-about}
+
+*Illinois SGP Calculation 2021* — Illinois Technical Advisory Committee, December 2, 2021.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2021-12-02-il-tac-illinois-sgp-calculation-2021/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-12-02-il-tac-illinois-sgp-calculation-2021.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-12-02-il-tac-illinois-sgp-calculation-2021.key)
+- [All talks](https://dbetebenner.github.io/talks/)

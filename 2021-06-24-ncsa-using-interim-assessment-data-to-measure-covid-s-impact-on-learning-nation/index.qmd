@@ -1,0 +1,122 @@
+---
+pagetitle: 'Using Interim Assessment Data to Measure COVID’s Impact on Learning: National, State, and Local Perspectives'
+description: >-
+  Using Interim Assessment Data to Measure COVID’s Impact on Learning: National, State, and Local Perspectives — CCSSO National Conference on Student
+  Assessment, June 24, 2021. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Using Interim Assessment Data to Measure COVID’s
+Impact on Learning: National, State, and Local Perspectives
+ Damian Betebenner
+ Center for Assessment
+
+ CCSSO National Conference on Student Assessment
+ June 24th, 2021</div>
+```
+
+::: notes
+```{=html}
+Scott
+```
+:::
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Why this work is necessary and important
+• We’re (hopefully) coming out of a once in a century event that disrupted
+ education on a scale not seen in our lifetimes.
+• Evidence (and common sense) suggests that academic impacts of the
+ pandemic were NOT uniformly felt. Evidence suggests:
+ • Differential impact by content area
+ • Differential impact by demographic student group (e.g., ethnicity, SES)
+ • Differential impact by state, district, and school
+ • Differential impact by mode of education
+ • Differential impact by student academic subgroup (e.g., students receiving special education
+ services)
+ • Probably numerous other relevant groups.
+• Ameliorating impact will necessary be targeted and require understanding
+ academic impact by these groups.
+ Understanding Indiana WIDA-ACCESS Pandemic Related Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Interim Assessments FTW
+• With the onset of the pandemic in spring 2020, state assessments (had they been
+ given) would have been of little use in determining academic impact.
+• Interim assessments, often given in Fall, Winter, Spring we’re ideally timed to
+ investigate academic impact as of Fall 2020 and Winter 2021.
+• Renaissance STAR assessments have a vertical, cross-grade, cross-year scale allowing
+ for pre-pandemic to pandemic comparison of student attainment.
+• Renaissance STAR assessments have a baseline referenced growth measure to
+ compare (difference in difference) growth pre-pandemic to pandemic growth.
+• Spring 2020 interim assessment data will be problematic to work with due to the
+ onset of the pandemic.
+• State summative tests will be a critical piece of data in the coming weeks to help us
+ better understand the academic impact of the pandemic.
+ Understanding Indiana WIDA-ACCESS Pandemic Related Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Transitioning from Impact to Recovery
+• States are at different points of dealing with the pandemic and its
+ impact on education.
+ • Some students have returned to in-person learning early in the 2020-2021
+ academic year.
+ • Other students are still learning remotely.
+• If the goal is to (at least) ameliorate the academic impact of the
+ pandemic on students, focus should be on finding ways to accelerate
+ student learning.
+• A big concern going forward should be differential recovery where
+ (on average) the “haves” recover and the “have nots” don’t recover.
+ Understanding Indiana WIDA-ACCESS Pandemic Related Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Tests are necessary but not sufficient
+• Learning loss or unfinished learning? Assessments won’t tell us.
+• Assessments (at their best) tell us where we are on our academic
+ journey. They don’t tell us how to get to our destination.
+• With a clear understanding of the magnitude of the academic impact,
+ we can sensibly “right-size” efforts to recovery.
+ • Bigger impacts necessitate longer recovery times and (possibly) more
+ intensive interventions.
+ • Smaller impacts necessitate shorter recovery times and (possibly) less
+ intensive interventions.
+• The data is there to guide us if we choose to use it sensibly!
+ Understanding Indiana WIDA-ACCESS Pandemic Related Academic Impact</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Questions
+
+ Understanding Indiana WIDA-ACCESS Pandemic Related Academic Impact</div>
+```
+
+## About this copy {.archive-about}
+
+*Using Interim Assessment Data to Measure COVID’s Impact on Learning: National, State, and Local Perspectives* — CCSSO National Conference on Student Assessment, June 24, 2021.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2021-06-24-ncsa-using-interim-assessment-data-to-measure-covid-s-impact-on-learning-nation/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-06-24-ncsa-using-interim-assessment-data-to-measure-covid-s-impact-on-learning-nation.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-06-24-ncsa-using-interim-assessment-data-to-measure-covid-s-impact-on-learning-nation.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

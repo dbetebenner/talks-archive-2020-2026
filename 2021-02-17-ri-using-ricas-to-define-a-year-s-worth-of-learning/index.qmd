@@ -1,0 +1,503 @@
+---
+pagetitle: Using RICAS to Define a Year’s Worth of Learning
+description: Using RICAS to Define a Year’s Worth of Learning — Rhode Island Department of Education, February 17, 2021. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">USING RICAS TO DEFINE A YEAR’S WORTH OF
+LEARNING
+Damian Betebenner, Center for Assessment
+
+RIDE Conference Call
+February 17, 2021
+
+ This work is licensed under a
+ Creative Commons Attribution 4.0
+ International License.</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">A year’s worth of learning
+ 1. No established definition of what “a year’s worth of
+ learning”.
+ 2. Stakeholders often have very different understandings
+ of what it means to say a student had a year’s worth of
+ learning
+ 1. Norm-referenced: Some people think it means they made
+ typical progress.
+ 2. Criterion-referenced: Some people think it means they made
+ adequate progress to reach a desired outcome (i.e., growth
+ to standard).
+ UT TAC Accountability Discussion</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">RICAS
+ 1. Does not have a vertical scale.
+ 2. Scale score subtraction not support. But people will subtract/compare
+ scores from one year to the next if given the data.
+ 3. Looking at growth data by grade and content area shows substantial
+ number of students “decline” in scale score even though they demonstrate
+ typical growth.
+ 4. Given Rhode Island’s growth index cut at 35, the most “natural” place to
+ establish the “year’s learning” threshold is 35.
+ 5. This would not be sufficient growth to low students up to proficiency
+ which doesn’t align well with the commissioner’s goal to accelerate
+ learning.
+ 6. However, it’s possible to communicate that low achieving students need
+ substantially more than a year’s worth of growth to catch up.
+ UT TAC Accountability Discussion</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ELA Grade 3 to 4 Growth
+ Equal Probability Year's Growth Curves: ELA Grades 3 to 4
+
+ 560
+
+ 550 15th percentile growth
+ 20th percentile growth
+ 25th percentile growth
+ 540 30th percentile growth
+ 35th percentile growth
+ 50th percentile growth
+ 530
+ y=x
+ Catch−Up/Keep−Up Target
+ 520
+
+ 510
+
+ Grade 4 Score
+ 500
+
+ 490
+
+ 480
+
+ 470
+
+ 460
+
+ 450
+
+ 440
+
+ 440 450 460 470 480 490 500 510 520 530 540 550 560
+
+ Grade 3 Score
+
+ UT TAC Accountability Discussion</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ELA Grade 4 to 5 Growth
+ Equal Probability Year's Growth Curves: ELA Grades 4 to 5
+
+ 560
+
+ 550 15th percentile growth
+ 20th percentile growth
+ 25th percentile growth
+ 540 30th percentile growth
+ 35th percentile growth
+ 50th percentile growth
+ 530
+ y=x
+ Catch−Up/Keep−Up Target
+ 520
+
+ 510
+
+ Grade 5 Score
+ 500
+
+ 490
+
+ 480
+
+ 470
+
+ 460
+
+ 450
+
+ 440
+
+ 440 450 460 470 480 490 500 510 520 530 540 550 560
+
+ Grade 4 Score
+
+ UT TAC Accountability Discussion</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ELA Grade 5 to 6 Growth
+ Equal Probability Year's Growth Curves: ELA Grades 5 to 6
+
+ 560
+
+ 550 15th percentile growth
+ 20th percentile growth
+ 25th percentile growth
+ 540 30th percentile growth
+ 35th percentile growth
+ 50th percentile growth
+ 530
+ y=x
+ Catch−Up/Keep−Up Target
+ 520
+
+ 510
+
+ Grade 6 Score
+ 500
+
+ 490
+
+ 480
+
+ 470
+
+ 460
+
+ 450
+
+ 440
+
+ 440 450 460 470 480 490 500 510 520 530 540 550 560
+
+ Grade 5 Score
+
+ UT TAC Accountability Discussion</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ELA Grade 6 to 7 Growth
+ Equal Probability Year's Growth Curves: ELA Grades 6 to 7
+
+ 560
+
+ 550 15th percentile growth
+ 20th percentile growth
+ 25th percentile growth
+ 540 30th percentile growth
+ 35th percentile growth
+ 50th percentile growth
+ 530
+ y=x
+ Catch−Up/Keep−Up Target
+ 520
+
+ 510
+
+ Grade 7 Score
+ 500
+
+ 490
+
+ 480
+
+ 470
+
+ 460
+
+ 450
+
+ 440
+
+ 440 450 460 470 480 490 500 510 520 530 540 550 560
+
+ Grade 6 Score
+
+ UT TAC Accountability Discussion</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ELA Grade 7 to 8 Growth
+ Equal Probability Year's Growth Curves: ELA Grades 7 to 8
+
+ 560
+
+ 550 15th percentile growth
+ 20th percentile growth
+ 25th percentile growth
+ 540 30th percentile growth
+ 35th percentile growth
+ 50th percentile growth
+ 530
+ y=x
+ Catch−Up/Keep−Up Target
+ 520
+
+ 510
+
+ Grade 8 Score
+ 500
+
+ 490
+
+ 480
+
+ 470
+
+ 460
+
+ 450
+
+ 440
+
+ 440 450 460 470 480 490 500 510 520 530 540 550 560
+
+ Grade 7 Score
+
+ UT TAC Accountability Discussion</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Mathematics Grade 3 to 4 Growth
+ Equal Probability Year's Growth Curves: Mathematics Grades 3 to 4
+
+ 560
+
+ 550 15th percentile growth
+ 20th percentile growth
+ 25th percentile growth
+ 540 30th percentile growth
+ 35th percentile growth
+ 50th percentile growth
+ 530
+ y=x
+ Catch−Up/Keep−Up Target
+ 520
+
+ 510
+
+ Grade 4 Score
+ 500
+
+ 490
+
+ 480
+
+ 470
+
+ 460
+
+ 450
+
+ 440
+
+ 440 450 460 470 480 490 500 510 520 530 540 550 560
+
+ Grade 3 Score
+
+ UT TAC Accountability Discussion</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Mathematics Grade 4 to 5 Growth
+ Equal Probability Year's Growth Curves: Mathematics Grades 4 to 5
+
+ 560
+
+ 550 15th percentile growth
+ 20th percentile growth
+ 25th percentile growth
+ 540 30th percentile growth
+ 35th percentile growth
+ 50th percentile growth
+ 530
+ y=x
+ Catch−Up/Keep−Up Target
+ 520
+
+ 510
+
+ Grade 5 Score
+ 500
+
+ 490
+
+ 480
+
+ 470
+
+ 460
+
+ 450
+
+ 440
+
+ 440 450 460 470 480 490 500 510 520 530 540 550 560
+
+ Grade 4 Score
+
+ UT TAC Accountability Discussion</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Mathematics Grade 5 to 6 Growth
+ Equal Probability Year's Growth Curves: Mathematics Grades 5 to 6
+
+ 560
+
+ 550 15th percentile growth
+ 20th percentile growth
+ 25th percentile growth
+ 540 30th percentile growth
+ 35th percentile growth
+ 50th percentile growth
+ 530
+ y=x
+ Catch−Up/Keep−Up Target
+ 520
+
+ 510
+
+ Grade 6 Score
+ 500
+
+ 490
+
+ 480
+
+ 470
+
+ 460
+
+ 450
+
+ 440
+
+ 440 450 460 470 480 490 500 510 520 530 540 550 560
+
+ Grade 5 Score
+
+ UT TAC Accountability Discussion</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Mathematics Grade 6 to 7 Growth
+ Equal Probability Year's Growth Curves: Mathematics Grades 6 to 7
+
+ 560
+
+ 550 15th percentile growth
+ 20th percentile growth
+ 25th percentile growth
+ 540 30th percentile growth
+ 35th percentile growth
+ 50th percentile growth
+ 530
+ y=x
+ Catch−Up/Keep−Up Target
+ 520
+
+ 510
+
+ Grade 7 Score
+ 500
+
+ 490
+
+ 480
+
+ 470
+
+ 460
+
+ 450
+
+ 440
+
+ 440 450 460 470 480 490 500 510 520 530 540 550 560
+
+ Grade 6 Score
+
+ UT TAC Accountability Discussion</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Mathematics Grade 7 to 8 Growth
+ Equal Probability Year's Growth Curves: Mathematics Grades 7 to 8
+
+ 560
+
+ 550 15th percentile growth
+ 20th percentile growth
+ 25th percentile growth
+ 540 30th percentile growth
+ 35th percentile growth
+ 50th percentile growth
+ 530
+ y=x
+ Catch−Up/Keep−Up Target
+ 520
+
+ 510
+
+ Grade 8 Score
+ 500
+
+ 490
+
+ 480
+
+ 470
+
+ 460
+
+ 450
+
+ 440
+
+ 440 450 460 470 480 490 500 510 520 530 540 550 560
+
+ Grade 7 Score
+
+ UT TAC Accountability Discussion</div>
+```
+
+## About this copy {.archive-about}
+
+*Using RICAS to Define a Year’s Worth of Learning* — Rhode Island Department of Education, February 17, 2021.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2021-02-17-ri-using-ricas-to-define-a-year-s-worth-of-learning/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-02-17-ri-using-ricas-to-define-a-year-s-worth-of-learning.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-02-17-ri-using-ricas-to-define-a-year-s-worth-of-learning.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

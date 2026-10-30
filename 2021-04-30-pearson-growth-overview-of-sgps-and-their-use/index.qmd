@@ -1,0 +1,143 @@
+---
+pagetitle: Overview of SGPs and their Use
+description: Overview of SGPs and their Use — Pearson Growth Use Ideas, April 30, 2021. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview of SGPs and their Use
+
+Damian Betebenner
+Center for Assessment
+
+April 30, 2021</div>
+```
+
+::: notes
+```{=html}
+Scott
+```
+:::
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Descriptive accountability
+• The quality of large-scale summative assessment data collect
+ today is very high.
+• People often conflate large scale assessment and accountability
+ because the data derived from the assessments often find their
+ way into state accountability systems but rarely have other uses.
+• This is unfortunate as the data has many more uses than just
+ accountability.
+• Goal: Move from seeing data as a hammer (accountability) to
+ seeing data as a flashlight.
+ MA SGP Growth Calculations in 2021</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Large scale assessment data
+Accountability system results can have value without making causal
+inferences about school quality, solely from the results of student
+achievement measures and demographic characteristics. Treating the
+results as descriptive information and for identification of schools that
+require more intensive investigation of organizational and instructional
+process characteristics are potentially of considerable value. Rather than
+using the results of the accountability system as the sole determiner of
+sanctions for schools, they could be used to flag schools that need more
+intensive investigation to reach sound conclusions about needed
+improvements or judgments about quality
+ [Linn, 2008, p. 21].
+ MA SGP Growth Calculations in 2021</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Descriptive accountability
+• SGPs are a descriptive growth measure that support both norm- and
+ criterion-referenced interpretations of student growth.
+ • SGP are norm-referenced
+ • Student growth targets (sometimes called adequate growth percentiles) indicate
+ growth necessary to reach desired achievement outcomes (standards)
+• SGPs are individual level that can be aggregated for any group of interest.
+• SGPs are uncorrelated with prior achievement. Any student regardless of
+ where they start, can demonstrate high or low growth.
+• Mean/median SGPs (cohort referenced) are 50 for each grade x content area.
+• Deviations of mean/median SGPs above/below 50 indicate groups with high/
+ low growth (i.e. learning) of interest for further investigation.
+ MA SGP Growth Calculations in 2021</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Four Investigations
+• Mean/Median SGP by content area for schools and districts. Which
+ schools have high/low scores? Why? Are there schools districts with
+ high/low mean SGPs in one content area but not another?
+• Mean/Median SGP by grade within school? Are there schools with large
+ differences by grade? By content area?
+• Mean/Median SGP by demographic subgroup for state? Where are the
+ largest growth gaps?
+• Mean/Median SGP by demographic subgroup for schools and districts?
+ Are there schools or districts who have closed growth gaps? Are there
+ schools or districts with especially large growth gaps.
+ MA SGP Growth Calculations in 2021</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Investigations Associated with Learning Loss
+• A large part of our work this year is helping states understand what has
+ happened to students academically during the pandemic.
+• The modus operandi is the same: Descriptive accountability.
+• Describe which students, schools, districts demonstrated learning loss
+ (pandemic related academic impact) in what content area and to what
+ extent.
+• Did student learning differ by mode of education (e.g., remote/hybrid/
+ in-person)
+• Did particular demographic subgroups fare better/worse than others.
+ MA SGP Growth Calculations in 2021</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Communication of results
+• Most of my work in Colorado developing SGPs around 2007 – 2009 was
+ directed toward communication of results.
+• The goal was to change conversations around education (i.e., use data as
+ a flashlight instead of a hammer)
+• Accountability tends to short circuit those conversations.
+• Some states produced some nice video resources around the growth
+ model use their:
+ • Mississippi: https://www.youtube.com/watch?
+ v=LWUJ2eKSwbM&amp;list=UU9nZALC1qeHSdK8xzIXkVsw
+ • Georgia: https://www.youtube.com/watch?v=dyArv7184ZY
+ • Virginia: https://www.youtube.com/watch?v=BDqj6t1UKYM
+ • Hawaii: http://www.hawaiipublicschools.org/VisionForSuccess/SchoolDataAndReports/
+ Growth-Model/Pages/home.aspx
+ MA SGP Growth Calculations in 2021</div>
+```
+
+## About this copy {.archive-about}
+
+*Overview of SGPs and their Use* — Pearson Growth Use Ideas, April 30, 2021.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2021-04-30-pearson-growth-overview-of-sgps-and-their-use/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-04-30-pearson-growth-overview-of-sgps-and-their-use.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-04-30-pearson-growth-overview-of-sgps-and-their-use.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

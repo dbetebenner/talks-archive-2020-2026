@@ -1,0 +1,215 @@
+---
+pagetitle: Illinois 2020 Skip-Year SGP Analyses
+description: Illinois 2020 Skip-Year SGP Analyses — Illinois Technical Advisory Committee, June 3, 2020. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Illinois 2020 Skip-Year SGP Analyses
+
+ Damian Betebenner
+ National Center for the Improvement of
+ Educational Assessment
+
+ Illinois State Board of Education (ISBE)
+ Assessment and Accountability Technical Advisory Committee (TAC)
+
+ June 4, 2020</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">COVID-19 Pandemic
+
+• Oh what a difference a couple of months make.
+• Most Spring 2020 tests have been cancelled:
+ – State assessments in ELA/Math have been cancelled
+ – Many ELP assessments (WIDA/ACCESS) were completed, at least by most students in the state
+• States, including Illinois, have been given assessment and accountability
+ waivers by ED for 2020.
+• Because student academic growth as measured by state summative
+ assessments utilizes prior assessment data in its calculation, the impacts of the
+ 2020 pandemic will have ripple effects in 2021.
+• My colleague Adam VanIwaarden and I wrote a blog post on this topic in April
+ which can be found here: https://www.nciea.org/blog/sgp/issues-and-
+ considerations-covid-19-pandemic-presents-measuring-student-growth
+
+ [Presentation Title - Footer] 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2021 SGP Calculation
+
+• I have discussed whether growth can be calculated in 2021 and whether it can
+ be used for accountability (e.g., school or teacher) with more than two-dozen
+ states.
+• Simple answer: Yes, SGPs can be calculated using 2019 (and earlier data) as
+ priors.
+ – Several states have been calculating two-year growth for years when there is not annual
+ sequence of tests. For example, 8th to 10th grade growth in ELA or Mathematics or End of
+ Course testing.
+ – Growth projections which yield Adequate Growth Percentiles (AGPs) will also be calculable in
+ 2021.
+• The harder question is whether these SGPs can/should be used as part of state
+ accountability.
+ – Are two-year SGPs valid as indicators of annual growth?
+ – Beyond technical viability, is it tenable (e.g., politically) to use two-year SGPs as a substitute for
+ one-year SGPs?
+
+ [Presentation Title - Footer] 3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2021 SGP Calculation
+
+• Are two-year SGPs valid as indicators of annual
+ growth?
+ – The paper on which this presentation is based shares some
+ findings and will be discussed hereafter.
+• Is it tenable (e.g., politically) to use two-year SGPs as
+ a substitute for one-year SGPs?
+ – A much harder question that likely differs from state to state.
+ – Answering it well requires technical due diligence which,
+ hopefully, this report/presentation begins to address.
+
+ [Presentation Title - Footer] 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Illinois SGP Calculation
+
+• Illinois, as a member of the PARCC consortium has
+ had SGPs calculated since Spring of 2016.
+• Illinois assesses students in ELA and Mathematics in
+ grade 3, 4, 5, 6, 7 and 8.
+• As mentioned previously, there is no summative data
+ in 2020 due to the COVID-19.
+• To investigate the use of two-year SGPs in lieu of one-
+ year SGPs, we used historical data as follows
+
+ [Presentation Title - Footer] 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Illinois SGP Calculation
+
+• Using historical data from 2016 to 2019, two-year
+ SGPs from 2017 to 2019 were calculated using 2019
+ as the dependent variable and 2016 and 2017 as the
+ independent variables (i.e., order 1 and 2 SGPs)
+ – Two-year SGPs are calculated for grades 5, 6, 7, 8 in ELA and
+ Mathematics.
+ – SGPs are calculated separately for each norm-group.
+• One-year SGPs from 2018-2019 were available from
+ previous SGP analyses.
+ – One-year SGPs are calculated for grades 4, 5, 6, 7, and 8.
+ – SGPs are calculated separately for each norm-group.
+
+ [Presentation Title - Footer] 6</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Illinois SGP Results
+
+• Frequencies associated with SGPs.
+
+• In general, there are between 135,000 and 140,000
+ students with SGPs in each grade and content area.
+• Note when more priors are used, the count decreases
+ slightly due to some students not having the
+ additional prior.
+
+ [Presentation Title - Footer] 7</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Illinois SGP Results: Individual
+
+• Correlations between two-year SGPs and one-year
+ SGPs (of order 2) were all high.
+ – Correlations ranged from 0.85 to 0.9 across grades and content
+ areas.
+ – When one-year/order 1 SGPs are considered, correlations drop
+ to 0.65 to 0.7. This is likely due to the fact that the 2017 score is
+ not a part of both one- and two-year analyses.
+• Differences between individual SGPs can be large.
+
+ [Presentation Title - Footer] 8</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Illinois SGP Results: School Level
+
+• School level data was not provided as part of Pearson data
+ sets. We substituted another states data for this part until IL
+ school data becomes available.
+• Correlations between two-year mean SGPs and one-year mean
+ SGPs (of order 2) were all high, higher than at the individual
+ level.
+ – Correlations ranged from 0.9 to 0.95 across grades and
+ content areas.
+• Differences between two- and one-year mean SGPs can be
+ large.
+
+ [Presentation Title - Footer] 9</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Illinois SGP Results: School Level
+
+• For context, the year-to-year correlations between mean
+ school SGPs is approximately 0.5 to 0.6.
+• Model-to-model (i.e., one-year to two-year) SGP correlations
+ are much higher than year-to-year correlations implying that
+ changing student populations
+• Correlations of 0.9 are common in comparisons between SGP
+ and VAM.
+• SGP differences of 5 correspond to an effect size of 0.18.
+ – The majority of mean SGP difference correspond to small effect sizes.
+
+ [Presentation Title - Footer] 10</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">For more information:
+
+Center for Assessment
+www.nciea.org</div>
+```
+
+## About this copy {.archive-about}
+
+*Illinois 2020 Skip-Year SGP Analyses* — Illinois Technical Advisory Committee, June 3, 2020.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2020-06-03-il-tac-illinois-2020-skip-year-sgp-analyses/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2020-06-03-il-tac-illinois-2020-skip-year-sgp-analyses.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2020-06-03-il-tac-illinois-2020-skip-year-sgp-analyses.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

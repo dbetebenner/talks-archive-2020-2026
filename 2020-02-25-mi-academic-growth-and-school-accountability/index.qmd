@@ -1,0 +1,182 @@
+---
+pagetitle: Academic Growth and School Accountability
+description: Academic Growth and School Accountability — Michigan Department of Education, February 25, 2020. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Academic Growth and School
+ Accountability
+
+Meeting with the Michigan Department of Education
+
+ February 25, 2020</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Guiding Principles
+ • There is no single ‘gold standard’ for producing measures
+ of academic growth
+ • Decisions are influenced by factors such as:
+ – How will results be used?
+ – What questions do we want to answer?
+ – How will the model support the values and policy priorities?
+ – What are the conditions and constraints that influence
+ implementation?
+
+ Growth for Accountability</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Adapted from Castellano and Ho (2013)
+There are a lot of choices…
+ *
+
+Characteristic 1. Gain Score (Raw, 2. Trajectory (Growth 3. Categorical 4. Residual Gain 5. Projection 6. Student Growth 7. Multivariate
+ Simple, Average) to Standard) (Transition Matrix, (Percentile Rank of (Regression Model, Percentile (EVAAS, Layered
+ Value Table) Residuals, Resid Prediction Model) (Conditional Status Model, Cross-
+ Difference, Covariate %ile, %ile growth classified Model)
+ Model) trajectory)
+
+Description Describes growth Extends gains or Defines growth by Describes growth as Uses past scores to Percentile rank of Uses entire student
+ with simple average gains in a transitions among the difference predict future scores current status in a score histories,
+ differences or average (usually) linear fashion status categories (e.g., between current status through regression reference group of including other
+ gains over time toward a future Basic, Proficient, and the conditional equations students with similar subjects and teachers,
+ achievement target Advanced) over time mean status given past scores to detect higher than
+ (e.g., proficiency in 3 scores expected student
+ years) scores associated with
+ particular teachers
+
+Question Addressed How much has a Does the student’s How has this student How much higher or Given this student’s What is the percentile Is this teacher
+ student learned on an gains exceed the target grown in terms of lower has this student past scores, and based rank of a student associated with higher
+ absolute scale? established based upon transitions through scored than the on patterns of scores compared to students scores for his or her
+ the established categories over time? conditional mean in the past, what is her with similar score students than
+ trajectory to given her past scores? predicted score in the histories? What is the expected given all
+ proficiency. future? minimum SGP a available scores and
+ student must maintain other teacher effects?
+ to reach a target
+ standard?
+
+Primary Inference Growth Description Growth Description Growth Description Growth Description Growth Prediction Growth Description Value-Added
+ (gain score) (criterion-referenced (categorical change) (norm and growth to
+ based upon trajectory standard/criterion
+ based standard) referenced)
+Statistical Basis Gain-Based Gain-Based or can be Gain-Based Regression Regression Regression Regression
+ calculated using other
+ approaches (e.g.,
+ regression, SGP)
+Required Data Vertical scale Vertical scale for gain- Articulated cut scores An interpretable scale. Interpretable future Large sample sizes for For high-stakes value-
+Features based approaches, no across years and Assumptions of linear scale or future reliable estimation. added, many years of
+ vertical scale for SGP grades. Values for regressions. standard. student data for stable
+ approach value tables. Implicit teacher effects.
+ vertical scale.
+
+Group-level Average gain Average trajectory or Average across value Average residual gain Average future Median or mean SGP, Only group-level
+Interpretation percentage of on-track Growth for Accountability
+ tables or percentages prediction or percentage of on-track interpretations:
+ students of on-track students percentage of on-track students Teacher- and school-
+ students level “effects”</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">What models are states using for accountability?
+
+ Growth Model Count Examples
+ Student Growth 23 AL, AZ, CO, DC, GA, HI, IA, IL, IN, MA,
+ Percentiles (SGPs/ MD, MI, NH, NJ, NM, NV, OR, RI, SD,
+ AGPs) UT, VT, WA, WY
+ Value Added 6 AR, MO, OH, PA, TN, SC
+ Model
+ Growth to 4 CT, LA, ME, NE
+ Standard
+ Value Table 4 AK, KY, OK, VI
+
+ From DQC Growth Data (2019). https://dataqualitycampaign.org/wp-
+ content/uploads/2019/04/DQC-Growth-Data-Resources.pdf
+
+ Growth for Accountability</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Model decisions should be informed by criteria
+
+• Policy considerations
+ – Does the selected approach align with the state’s theory of action for the
+ accountability system?
+ – Does the model provide information to inform the highest priority questions?
+ – Are the expectations for ‘good enough’ growth appropriate and reasonable?
+• Technical considerations
+ – Are results valid, reliable, and fair?
+ – Are relationships with factors thought to be unrelated to growth minimized (e.g. prior
+ performance, school size)?
+ – Are there sufficient and appropriate assessment data to support the model?
+• Practical considerations
+ – Are the model features open to inspection and customization?
+ – Can it be implemented with current resources?
+ – Are results clear and usable to stakeholders?
+ – Is the model robust to changes in the assessment(s)?
+
+ Growth for Accountability</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Next steps
+ • We suggest investing time to articulate the state’s
+ priorities for growth to develop criteria related to policy,
+ technical, and practical considerations
+ • By so doing, the state can develop a set of criteria to
+ – Guide model selection
+ – Determine model features
+ – Inform ongoing evaluation
+
+ Growth for Accountability</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Some examples of potential criteria:
+
+ • The state values approaches that:
+ – Provide both norm- and criterion-referenced information
+ – Detect important school level effects
+ – demonstrate availability of the full distribution of growth outcomes to
+ schools of various demographic compositions (e.g., poverty, SWD, and
+ ELL)
+ – appropriate correlations with prior year status
+ – Provide clear and usable results
+ – Are robust to changes in state assessment and differences in test
+ characteristics
+ – Are open and transparent
+ …etc
+
+ IL Acct TAC Webinar Jan 23, 2018</div>
+```
+
+## About this copy {.archive-about}
+
+*Academic Growth and School Accountability* — Michigan Department of Education, February 25, 2020.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2020-02-25-mi-academic-growth-and-school-accountability/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2020-02-25-mi-academic-growth-and-school-accountability.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2020-02-25-mi-academic-growth-and-school-accountability.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

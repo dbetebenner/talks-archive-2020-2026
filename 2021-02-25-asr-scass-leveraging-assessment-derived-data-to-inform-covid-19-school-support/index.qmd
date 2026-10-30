@@ -1,0 +1,391 @@
+---
+pagetitle: Leveraging Assessment Derived Data to Inform COVID-19 School Support Strategies
+description: Leveraging Assessment Derived Data to Inform COVID-19 School Support Strategies — CCSSO SCASS, February 25, 2021. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Leveraging Assessment Derived Data to
+Inform COVID-19 School Support Strategies
+Nathan Dadey &amp; Damian Betebenner
+The National Center for the Improvement of Educational Assessment
+
+February 25, 2021
+ASR SCASS
+ Draft Paper Available
+ This work is licensed under a
+ Creative Commons Attribution 4.0
+ International License.</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Background: Providing a Shared Understanding
+• The pandemic has complicated state assessment in unforeseen
+ ways.
+• As states move forward with testing, being clear about the
+ purposes of analyses will be more important than ever
+ ▪ Time is short and the context is fraught
+ ▪ Assessment is often confounded with accountability
+ ▪ Planning of school supports should go hand in hand with plans for
+ analysis
+
+ Planning should start now, if it hasn’t already!
+ www.nciea.org</div>
+```
+
+::: notes
+```{=html}
+- Our hope is that this helps spark conversations and movement. Let’s not sleep walk into the next year of work.
+```
+:::
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Background, Continued
+
+ We can’t wait until the assessment data comes in to plan.
+
+• Plans for school support should be ongoing
+• Analyses of assessment should be targeted to provide needed
+ information for those plans, while working within a number
+ of constraints, including:
+ ▪ Organizing and providing school support Timeline for suppor
+ Is it Fall 2021?
+ ▪ Turn around time for score reporting and analyses
+ www.nciea.org</div>
+```
+
+::: notes
+```{=html}
+At this point, an investigative analysis only has value if it leads to interventions to support students. Ideally, these kinds of interventions have been part of ongoing planning - planning that has both defined the analyses and premised specific actions on the possible outcomes of the analyses. Interventions cannot be put in place overnight, and although “we don’t know what we don’t know”, ensuring that planning for interventions is starting now based on our very limited picture of the effects of the pandemic and becoming more concrete as more is learned. In almost every conceivable way, doing something will be much better than doing nothing. Plan for the worst, hope for the best.
+```
+:::
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Strands of Analysis
+ Strand Description Focus Responsible Party
+Operational Typical yearly procedures and analyses Validity of test scores Assessment vendor(s)
+ meant to support the technical quality • Comparability We hope this
+ of test scores and intended • Interpretation doesn’t blow up
+ interpretation(s) and uses of the
+ assessment results.
+Investigative Prioritized analysis aimed at Effect on learning and Assessment vendor(s) and
+ understanding the effects of the performance SEAs (with negotiated, clear
+ pandemic on learning and • Overall effects lines of responsibility)
+ performance. • Differential effects
+
+ Note the interactive nature between the strands of analysis:
+ • Findings from preliminary discovery analyses can inform operational analyses.
+ • Valid test scores from operational analyses can support the findings of in-depth discovery analyses.
+
+ www.nciea.org</div>
+```
+
+::: notes
+```{=html}
+And conversely, invalid test score from operational analyses can impede discovery analyses.
+```
+:::
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Key Questions of Interest
+• Who participated in the test in 2021?
+• What do the test scores mean in 2021?
+• Are the individual and aggregate scores in 2021 comparable to those in
+ previous years?
+• What are appropriate (or inappropriate) uses of test scores in 2021?
+• Which schools and districts have the largest decreases in performance?
+ ▪ What characteristics explain, or at least associate with, these decreases?
+• What subgroups display the largest decreases?
+• Do students in remote learning conditions perform differently than those in
+ in-person learning conditions?
+• Etc.
+ www.nciea.org</div>
+```
+
+::: notes
+```{=html}
+Changes in participation are interesting in an of themselves (e.g., showing students who are remote or have gone missing during the pandemic) but also signal the performance (status and growth) comparisons will need to be done carefully.<br>
+Do test scores (not necessarily accountability inferences derived from scale scores) have the same meaning in 2021 as they did previously (2019 and prior)
+```
+:::
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Operational Analyses
+• Sound investigative analyses are predicated upon assessment data
+ of high technical quality.
+ ▪ Operational analyses tend to proceed investigative analyses
+ ▪ Sound investigative analyses can occur with compromised assessment data,
+ but such cases are rare (e.g., getting to the right conclusion with the wrong
+ data)
+
+• Concerns about validity of the data derived from assessments
+ abound, e.g.,
+ ▪ Comparability of remote versus in-person testing
+ ▪ Impact of low participation rates (e.g., potential impacts on item
+ parameters under post equating, possible impacts on normative statistics)
+ www.nciea.org</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Investigative analyses
+• Assuming assessment data of
+ good technical quality, what
+ investigative analyses should be
+ pursued?
+• USED’s recent relaxation of
+ accountability provisions makes
+ investigative analyses even more
+ critical.
+• Typical analyses that support
+ accountability are not the only, or
+ even the major, stories we want
+ to investigate this year.
+ www.nciea.org</div>
+```
+
+::: notes
+```{=html}
+-Traditional accountability analyses aren’t – likely – the story we want to investigate this year.
+```
+:::
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Investigative analyses
+• Support planning/intervention is rooted in our ideas, or
+ hypothesis, about what we think is happening to students
+ ▪ Based on our current, incomplete picture of student experiences
+• These hypotheses should be tested and the results used to
+ inform and revise our support plans
+ ▪ Support plans should be ready to run with the results of planned
+ analyses (and in worse case scenarios, run without the data
+ anyway)
+ ▪ Support plans should be amenable to change as new data/
+ evidence becomes available.
+
+ www.nciea.org</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Support
+ Planning
+ Planning &amp; Developing:
+Operational • Key questions
+ Implement-
+ Analyses ation
+ • Benchmarks based
+ on Simulations using
+ Historical Data
+Investigative
+ • Code based on
+ Analyses simulated data
+
+ Feb March April May June July August Sep
+
+ www.nciea.org</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Support
+ Implement-
+ Planning ation
+
+ Planning &amp; Developing:
+Operational • Key questions
+ Implement-
+ Analyses ation
+ • Benchmarks based
+ on Simulations using
+ Historical Data Implement-
+Investigative
+ • Code based on ation
+ Analyses simulated data
+
+ Feb March April May June July August Sep
+
+ www.nciea.org</div>
+```
+
+::: notes
+```{=html}
+What interventions are you going to inform with the data?<br>
+We can’t dream up the interventions after we get the data.<br>
+A possible timeline to assuming interventions can be targeted sometime in Fall. <br>
+How can we avoid the crunch of coming analyses
+```
+:::
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Some Overarching Questions
+• How did overall performance change relative to prior years?
+• Who has the lowest performance?
+• How does performance compare across key groups?
+
+ www.nciea.org</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Using Investigative Analyses to Support Planning
+• Hypothesis: The academic impact (sometimes referred to as
+ learning loss) of the pandemic is being unevenly felt by
+ students.
+• If true, targeted intervention is more prudent than blanket
+ intervention.
+• For states considering targeted assistance:
+ ▪ Who needs help? Grades, schools, districts, demographic subgroups,
+ COVID related subgroups, English Language Learners.
+ ▪ What do they need help in? Mathematics, ELA, Science, non-tested
+ subjects?
+ ▪ How much help do they need? Is recovery needed large or small?
+ www.nciea.org</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Many Factors to Consider
+• Unit. At what level will the analyses be focused?
+ ▪ Individual students
+ ▪ Classrooms, schools, districts, or the state overall
+ ▪ Specific subgroups (e.g., race/ethnicity, economically disadvantaged,
+ students with disabilities, English language learners)
+ ▪ Specific grades (and grade-groupings, like early elementary) or content areas
+ ▪ Learning conditions (e.g. remote, in-person, hybrid)
+• Measure. What outcome measure will be examined?
+ ▪ Achievement (e.g., level scale scores or proficiency levels), often in terms of
+ cross-sectional comparisons
+ ▪ Growth (e.g., score differences on a vertical scale, student growth
+ percentiles), often in terms of longitudinal comparisons
+ ▪ Gaps between groups defined in terms of achievement or growth
+
+ www.nciea.org</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Prioritizing Analyses
+• Internal vs. External
+ ▪ Are the results are intended for use outside of department, and if
+ so, what specific stakeholders are meant to be addressed?
+• Availability
+ ▪ How easily accessible will the data be?
+ ▪ Like the distinction of internal vs. external, level of access involves
+ stakeholders and refers to the specific ways in which the results will
+ be provided and communicated (e.g., posted on the department
+ website, communicated through a press release, as part of a
+ webinar).
+
+ www.nciea.org</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Prioritizing Analyses
+• Reporting Format
+ ▪ How will the results be provided (e.g., a simple spreadsheet, posted as part
+ of the state’s report card, as an interactive web-based visualization)?
+• Timing
+ ▪ Is there a specific window of time by which the results are needed? For
+ example, is there a window of time an analysis needs to be completed by
+ to support an intervention?
+ ▪ Results will likely come in waves from different data sources, how will this
+ impact timing.
+• Responsible Party
+ ▪ Who will be conducting the analyses and what is their capacity to
+ implement the analyses? Will the analysis be seen as credible to key
+ stakeholders when coming from that responsible party?
+
+ www.nciea.org</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Additional Considerations
+Contextual data. How can contextual data, such OTL and
+learning and testing environment data, be collected in 2021 to
+help contextualize findings?
+ ▪ See, for example, Marion (2020)
+ ▪ Consider asking experts, such as the TAC to review your survey or
+ data collection instruments.
+
+Interaction effects. How can the various factors influencing
+2021 test score be disentangled?
+
+ www.nciea.org</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Example Investigative analyses for 2021
+Participation
+• Participation rates on assessments are likely to be
+ substantially less than in normal years.
+• Understanding who and who did not participate in state
+ assessments will be critical in interpreting overall results.
+ ▪ By demographic subgroups (e.g., ses, ethnicity)
+ ▪ By mode of instruction (remote/hybrid/in person learner)
+ ▪ By grade, school, district
+
+ www.nciea.org</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Example Investigative analyses for 2021:
+Using Growth to Assesses Impact
+• Student academic growth analyses can be used to assess the
+ academic impact of the pandemic.
+• Baseline skip-year growth norms (2017 to 2019) can be used
+ with 2019 to 2021 data to assess how much “slower”
+ students learned during the pandemic relative to pre-
+ pandemic times.
+• Differential impact on groups can be investigated by
+ aggregating up SGPs at the group level.
+• With accurate mode of instruction data (remote/hybrid/in
+ person), impact of mode of instruction can be assessed.
+ www.nciea.org</div>
+```
+
+## About this copy {.archive-about}
+
+*Leveraging Assessment Derived Data to Inform COVID-19 School Support Strategies* — CCSSO SCASS, February 25, 2021.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2021-02-25-asr-scass-leveraging-assessment-derived-data-to-inform-covid-19-school-support/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-02-25-asr-scass-leveraging-assessment-derived-data-to-inform-covid-19-school-support.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-02-25-asr-scass-leveraging-assessment-derived-data-to-inform-covid-19-school-support.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

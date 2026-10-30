@@ -1,0 +1,341 @@
+---
+pagetitle: 'Mode of Instruction During the Pandemic: An Analysis'
+description: 'Mode of Instruction During the Pandemic: An Analysis — Indiana Department of Education, August 8, 2021. Image-based copy of the original slides.'
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Mode of Instruction During
+the Pandemic: An Analysis</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+• The most prominent disruption to education caused by the
+ pandemic was the interruption of in-person learning for thousands
+ of students.
+• Mode of instruction can be broadly classified as:
+ • In-person
+ • Remote or Virtual
+ • Hybrid (a combination of in-person and remote)
+• Questions over the efficacy of education that was not in-person
+ about.
+• This presentation gives some initial insight into the impact of
+ mode of instruction on student learning.</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Data
+Data was provided by IDOE including
+• ILEARN data in English/language arts and mathematics including
+ student demographic data
+• Mode of Instruction data for students that was merged with ILEARN
+ data. Mode of instruction indicated three types:
+ • In-person
+ • Remote or Virtual
+ • Hybrid (a combination of in-person and remote)</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Analyses on Mode of Instruction
+• Student level descriptive statistics associated with ILEARN mode of
+ instruction including:
+ • Participation by mode of instruction disaggregated by academic and
+ demographic student groups.
+ • Student achievement and growth by Mode of instruction disaggregated by
+ academic and demographic student groups
+• School level descriptive statistics associated with ILEARN mode of
+ instruction instruction:
+ • School level participation by mode of instruction
+ • School level academic impact by mode of instruction
+• Identification of schools instructing students remotely who seemed to do a
+ remarkable job based upon ILEARN results</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary of Individual Results
+• In-person was the predominant mode of instruction followed by remote,
+ hybrid, and virtual school instruction. In-person and remote instruction
+ constituted more than 80% of the mode of instruction.
+• There is not an insignificant amount of missing mode of instructions data
+ (approximately 15%). It is unlikely the missing data changes the findings
+ of the study.
+• In-person instruction was, on average, the uniformly best mode of
+ instruction for students consistently leading to the highest learning rates
+ for students.
+• Growth rates associated with remote instruction were very poor, especially
+ in mathematics.
+• Ethnic minority students were much more likely to receive remote
+ instruction than white students.</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Participation by Mode of
+ Instruction
+ ELA Mathematics
+ Mode of
+ Instruction Count Percentage Count Percentage
+
+In-Person 325,608 78.2% 325,415 78.3%
+
+Remote 65,619 15.8% 65,512 15.7%
+
+Hybrid 20,828 5.0% 20,816 5.0%
+
+Virtual School 4,078 0.9% 4,065 0.9%</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Performance by Mode of Instruction
+
+ ELA Mathematics
+ Mode of
+ Instruction % Prof Median SGP % Prof Median SGP
+
+In-Person 43.1% 42 42.0% 36
+
+Remote 30.1% 33 20.4% 18
+
+Hybrid 45.0% 39 33.7% 27
+
+Virtual School 33.2% 37 19.2% 18</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Participation by Mode of
+ Instruction
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Mode of
+Instruction
+ Count Percent Count Percent Count Percent Count Percent Count Percent Count Percent
+
+In-Person 119,720 85.4% 118,642 85.2% 118,735 83.2% 104,192 75.1% 97,186 70.6% 92,548 69.5%
+
+Remote 18,696 13.4% 18,760 13.5% 20,717 14.5% 22,944 16.5% 24,733 17.9% 25,281 18.9%
+
+Hybrid 657 0.5% 720 0.6% 2,157 1.5% 10,333 7.4% 14,123 10.3% 13,654 10.2%
+
+Virtual 1,042 0.7% 998 0.7% 1,179 0.8% 1,349 0.9% 1,686 1.2% 1,889 1.4%
+School</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ELA Performance by Mode of Instruction
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Mode of
+Instruction % Prof/ Median % Prof/ Median % Prof/ Median % Prof/ Median % Prof/ Median % Prof/ Median
+ Mean SS SGP Mean SS SGP Mean SS SGP Mean SS SGP Mean SS SGP Mean SS SGP
+
+In-Person 41.3%/ --- 42.3%/ --- 42.0%/ 41 43.0%/ 42 44.1%/ 42 46.9%/ 43
+ 5441 5475 5503 5527 5550 5566
+
+Remote 26.3%/ --- 26.1%/ --- 27.4%/ 28 29.8%/ 31 32.7%/ 34 35.9%/ 36
+ 5413 5441 5474 5501 5527 5544
+
+Hybrid 29.2%/ --- 26.4%/ --- 40.1%/ 34 43.9%/ 37 45.4%/ 39 47.9%/ 41
+ 5421 5446 5493 5526 5550 5565
+
+Virtual 27.9%/ --- 28.5%/ --- 30.3%/ 29 32.5%/ 30 34.6%/ 39 39.7%/ 45
+ 5411 5444 5474 5507 5531.7 5554
+School</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Math Performance by Mode of Instruction
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ Mode of
+Instruction % Prof/ Median % Prof/ Median % Prof/ Median % Prof/ Median % Prof/ Median % Prof/ Median
+ Mean SS SGP Mean SS SGP Mean SS SGP Mean SS SGP Mean SS SGP Mean SS SGP
+
+In-Person 52.7%/ --- 47.7%/ --- 42.4%/ 35 38.2%/ 34 34.6%/ 36 32.3%/ 38
+ 6427 6465 6488 6513 6524 6539
+
+Remote 29.2%/ --- 24.5%/ --- 21.1%/ 14 17.4%/ 15 18.3%/ 23 15.1%/ 21
+ 6381 6416 6440 6458 6482 6483
+
+Hybrid 38.1%/ --- 26.9%/ --- 34.9%/ 18 34.8%/ 23 34.7%/ 31 31.8%/ 30
+ 6401.6 6429 6471 6505 6522 6532
+
+Virtual 38.8%/ --- 26.6%/ --- 19.5%/ 12 16.5%/ 14 16.4%/ 22 12.1%/ 22
+ 6381 6413 6437 6452 6477 6473
+School</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Participation by Mode of
+ Instruction
+ Asian Black Hispanic Multiracial White
+ Mode of
+Instruction Count Percentage Count Percentage Count Percentage Count Percentage Count Percentage
+
+In-Person 14,731 62.1% 47,421 50.3% 76,559 69.4% 31,037 73.3% 479,750 89.3%
+
+Remote 5,946 25.1% 40,593 43.1% 27,016 24.5% 8,100 19.1% 49,176 9.2%
+
+Hybrid 2,951 12.5% 5,214 5.5% 6,144 5.5% 2,680 6.3% 2,680 0.5%
+
+Virtual 78 0.3% 1,079 1.1% 708 0.6% 543 1.3% 5,697 1.0%
+School</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Participation by Mode of
+ Instruction
+ Free Meals Reduced Price Meals Paid Meals
+ Mode of
+ Instruction Count Percentage Count Percentage Count Percentage
+
+In-Person 244,947 72.4% 40,215 80.0% 361,765 82.6%
+
+Remote 74,093 21.9% 6,964 13.8% 49,460 11.3%
+
+Hybrid 15,546 4.6% 2,115 4.2% 23,771 5.4%
+
+Virtual School 3,977 1.2% 965 1.9% 3,177 0.7%</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Participation by Mode of
+ Instruction
+ Special Education General Education
+ Mode of
+ Instruction Count Percentage Count Percentage
+
+In-Person 101,007 79.6% 546,521 78.0%
+
+Remote 18,885 14.9% 111,693 16.0%
+
+Hybrid 5,339 4.3% 36,119 5.1%
+
+Virtual School 1,545 1.3% 6,576 0.9%</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Participation by Mode of
+ Instruction
+ Limited English Proficient Fluent English Proficient Not an ELL
+ Mode of
+ Instruction Count Percentage Count Percentage Count Percentage
+
+In-Person 44,733 73.9% 27,600 63.2% 574,712 79.5%
+
+Remote 12,252 20.2% 11,561 26.4% 106,650 14.8%
+
+Hybrid 3,470 5.7% 4,375 10.0% 33,597 4.6%
+
+Virtual School 121 0.2% 164 0.4% 7,836 1.0%</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary of School Results
+• As in-person was the predominant mode of instruction, the vast majority
+ of schools in Indiana were in person.
+ • Nearly 50% of schools had greater than 90% of students in person
+ • Nearly 80% of schools had greater than 60% of students in person
+• Conversely, there were a small minority of school in Indiana who were
+ mostly virtual.
+ • About 5% of schools had greater than 50% of students whose
+ mode of education was virtual
+• As the following charts show, the 5% of schools having greater than
+ 50% of student who mode of education was virtual tended to be larger
+ schools serving lower achieving students.</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary of School Results</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary of School Results</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary of School Results
+• Of the 69 school depicted in the bubble plots (the same 69 shown for
+ both ELA and mathematics), 120 have academic impact ratings. The
+ are as follows:
+ Academic Impact ELA Math
+ Rating
+ Modest to None 4 0
+
+ Moderate 20 2
+
+ Large 36 58</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary of School Results
+• An initial takeaway from these analyses is that the learning of students with remote
+ instruction is far less than learning of students receiving in-person instruction.
+• The first attempt at screening for schools whose primary mode of instruction was
+ remote, who demonstrated good performance in 2019, and showed resilience in
+ their performance during the pandemic (i.e., modest to no impact) yielded few
+ schools
+• Unfortunately, using this screener to try and find schools that were primarily
+ remote, who were good before and showed resilience in their performance during
+ the pandemic yielded few schools.
+• A next approach to screening will investigate schools with a substantial number of
+ students who received remote instruction, whose remote students performance as
+ well as or better than in-person students, who demonstrated good performance in
+ 2019, and were resilient in their performance during the pandemic.</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Thank You</div>
+```
+
+## About this copy {.archive-about}
+
+*Mode of Instruction During the Pandemic: An Analysis* — Indiana Department of Education, August 8, 2021.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2021-08-08-in-mode-of-instruction-during-the-pandemic-an-analysis/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-08-08-in-mode-of-instruction-during-the-pandemic-an-analysis.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-08-08-in-mode-of-instruction-during-the-pandemic-an-analysis.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

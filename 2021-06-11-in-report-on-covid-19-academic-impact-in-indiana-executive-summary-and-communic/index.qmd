@@ -1,0 +1,187 @@
+---
+pagetitle: 'Report on COVID-19 Academic Impact in Indiana: Executive Summary and Communications Update'
+description: >-
+  Report on COVID-19 Academic Impact in Indiana: Executive Summary and Communications Update — Indiana Department of Education, June 11, 2021. Image-based copy
+  of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Report on COVID-19 Academic Impact in Indiana
+Executive Summary and Communications Update
+ Damian Betebenner, Adam Van Iwaarden &amp; Nathan Dadey
+ Center for Assessment
+
+ Weekly Planning Call
+ May 13, 2021</div>
+```
+
+::: notes
+```{=html}
+Scott
+```
+:::
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">What research questions will be addressed in the executive
+summary on 7/2?
+• The executive summary is intended to be a high-level overview of pandemic related academic impact.
+• ILEARN, ACCESS, and NWEA-MAP data will be used to understand Who, What, and How Much
+ • Who is the student population and who tested.
+ • The magnitude of the academic impact of the pandemic (how much?)
+ • In what content areas the academic impact occurred (what?)
+ • Who was academically impacted (who?)
+• As a high-level overview the executive summary will focus on academic impact (how much? and what?) for:
+ • Each content area and grade (ILEARN, ACCESS, and MAP)
+ • By relevant demographic subgroups (e.g., ethnicity, SES)
+ • By relevant academic subgroups (e.g., low versus high achievers, IEP, ELL)
+ • Community Type (Urban, suburban, rural)
+ • By School/Corporation Type (Traditional public, charter, non-public/choice)
+ • By Mode of Instruction.
+• Data will be available at a more granular level (e.g., school), however we think the executive summary and what is
+ presented to the board should best be kept at a high level while preparations (communication plans) are made for
+ the release of more granular data.
+
+ Pandemic Related Academic Impact in Indiana 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">What data sets would have been included in the analysis at
+that point?
+• Data sets, in order of importance, are: ILEARN, ACCESS, and NWEA-MAP.
+• ILEARN is by far the most important set of data for the academic impact
+ analyses.
+• At present, no preliminary data is set to be delivered for ILEARN and the
+ final data set is to be delivered to IDOE on 6/24 and turned over for analyses
+ to us between 6/26 and 6/30.
+• This is an incredibly tight timeline with no room for lapse.
+• Getting even a preliminary data set will be essential to addressing the
+ research questions for the executive summary.
+• Meeting/presenting to the executive team on 7/6 will provide an excellent
+ opportunity to present/review materials and get feedback.
+ Pandemic Related Academic Impact in Indiana 3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">What data will be available alongside assessment results to
+report out publicly on 7/14?
+• Presuming we get data on time, high-level academic impact data as well as
+ corporation and school level data will be available.
+• The question isn’t what data is available, the question is how to best share the
+ data with the public and minimize bad uses.
+• The executive summary can provide a high-level overview of results illustrating
+ how you would like schools/corporations to look at their data.
+• Handing out school/corporation level data (especially with contextual
+ information) without guidance will lead to:
+ • School/corporations comparing results to 2019 and trying to (likely incorrectly) make
+ sense of change (they will be doing their own little academic impact study).
+ • The view of data will be retrospective (identifying cause/finding fault) as opposed to
+ prospective (what will it take to correct the situation and what supports are necessary)
+ • IDOE will lose control of the messaging
+ Pandemic Related Academic Impact in Indiana 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">How do we quantify academic impact using test data
+• The pandemic was like a “headwind” that (presumably) slowed down the learning of
+ students due to a variety of factors.
+• We can use test data in two ways to quantify the impact of this headwind:
+ • Best way: Quantify how much the rate of learning (i.e., growth) slowed:
+ • ILEARN: Use historical skip-year growth norms to quantify growth and compare to pre-COVID growth.
+ • ACCESS: Use historical consecutive-year growth norms and compare to pre-COVID growth
+ • NWEA-MAP: Provides growth data based upon historical norms but we currently don’t have historical
+ growth to compare to.
+ • Next best way: Look at how much 2021 status changed:
+ • ILEARN: Use 2019 status (or some adjustment thereof) as a proxy.
+ • ACCESS: Use 2020 status (or some adjustment thereof) as a proxy.
+ • Adjustments include (potentially) imputation for missing data as well as propensity score matching for
+• NOTE: When providing 2021 data, users will (correctly) want to compare their data to
+ 2019 (or 2020 with ACCESS). The task is to make sure that such a comparison is an
+ apples-to-apples comparison.
+ Pandemic Related Academic Impact in Indiana 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">How do we quantify
+ academic impact using
+ test data (ILEARN)
+
+• Growth
+ • Look at growth from 2019 to
+ 2021 (Grade 5 to Grade 7)
+ using historical growth norms.
+ • Has learning slowed and if so,
+ how much, in what, and for
+ whom?
+• Status
+ • Compare 2021 Grade 7 results
+ with 2019 Grade 7 results.
+ • Need to take special care that
+ the two Grade 7 groups are
+ “alike”.
+
+ Pandemic Related Academic Impact in Indiana 6</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">What academic impact looks like (ILEARN)
+• Baseline growth norms have mean/median SGPs of 50 for each grade x
+ content area in 2019.
+• Mean/median SGPs in 2021 will likely be lower. The difference between
+ 2019 and 2021 represents the extent to which learning has slowed.
+• A Mean difference of 5 corresponds to an effect size of 0.18.
+• For subgroups of students (demographic subgroups, corporations,
+ schools)
+• Differences for non-technical audiences should be translated:
+ • Time to recovery: Forward looking and time based is likely the best
+ communication strategy to quantify impact.
+ Pandemic Related Academic Impact in Indiana 7</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">What significant academic impact looks like (ACCESS)
+
+ Pandemic Related Academic Impact in Indiana 8</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Communicating
+academic impact
+as “time”
+
+ Pandemic Related Academic Impact in Indiana 9</div>
+```
+
+## About this copy {.archive-about}
+
+*Report on COVID-19 Academic Impact in Indiana: Executive Summary and Communications Update* — Indiana Department of Education, June 11, 2021.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2021-06-11-in-report-on-covid-19-academic-impact-in-indiana-executive-summary-and-communic/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-06-11-in-report-on-covid-19-academic-impact-in-indiana-executive-summary-and-communic.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2021-06-11-in-report-on-covid-19-academic-impact-in-indiana-executive-summary-and-communic.pptx)
+- [All talks](https://dbetebenner.github.io/talks/)

@@ -1,0 +1,129 @@
+---
+pagetitle: Using Growth Norms to (in)Validate Years of Learning
+description: Using Growth Norms to (in)Validate Years of Learning — NCME Annual Meeting, April 2024. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Using Growth Norms to
+ (in)Validate
+ Years of Learning
+Damian Betebenner, Center for Assessment
+Charlie DePascale, Psychometric Confections
+
+ NCME Annual Meeting
+ Philadelphia, PA
+ April 12, 2024</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">“Time is an illusion” – Einstein
+Performance of fourth-grade students on the
+2022 NAEP Reading test dropped 7 points from Educational measurement is
+2018 to the lowest point it has been since arbitrary.
+1990.
+ Learning is illusive.
+
+Can we use the illusion to
+interpret the arbitrary so that we
+better understand the illusive? The 8th grade average score of 500 in 2023 is equal
+ to the average score of 6th students in 2019.
+
+ Four Perspectives
+ • Semantics
+ • Technical Foundations
+ • Validation Students are two years behind, a half-
+ • Utility year behind, six weeks behind…</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Semantics: Learning and Time
+• Learning ≠ Achievement
+• Learning is a rate: Learning = (Change in Achievement)/Time
+• Learning is not linear or uniform over time
+• Learning is inherently an individual activity
+
+• Time-based estimates are inherently focused on the group
+• Time is rarely the most important variable affecting learning
+• Time is out of favor as a relevant factor when discussing
+ learning or achievement</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Technical Foundations
+ Measurement is never better than the empirical operations by which it is carried
+ out, and operations range from bad to good. – S.S. Stevens (1946)
+
+ Student Vertical Time-
+ Theta Scaled Standard Effect
+Test Respons Scale Based
+ Score Score Deviation Size
+ e Score Estimate
+
+ Even accepting that each individual operation along the way is
+ good, the conceptual and empirical distance travelled is simply
+ too great to support technically sound, interpretable, useful time-
+ based reporting of student test scores.</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validation (or lack thereof)
+• We’ve travelled this road before
+
+• At their core, there is little difference between today’s time-based estimates
+ and the grade equivalent scores soundly rejected by the measurement field
+ and educators in the NRT era</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Utility
+• I used to say, &quot;it is better to be complicated than wrong.” But recently I've relaxed
+ this perspective when engaging with the public about measurement. I'd rather
+ people be interested and learn more than tune out entirely. This comes with risks.
+ I'll accept them. – Andrew Ho (Sept 1, 2022)</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Utility – Problems with Time-based
+Reporting
+1. Time-based reporting is devoid of content.
+
+2. Time-based reporting leads stakeholders toward time-based
+ solutions.
+
+3. The aggregate-level results which are at the core of time-based
+ reporting are not representative of what is taking place at the
+ individual level.</div>
+```
+
+## About this copy {.archive-about}
+
+*Using Growth Norms to (in)Validate Years of Learning* — NCME Annual Meeting, April 2024.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2024-04-11-ncme-using-growth-norms-to-in-validate-years-of-learning/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2024-04-11-ncme-using-growth-norms-to-in-validate-years-of-learning.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2024-04-11-ncme-using-growth-norms-to-in-validate-years-of-learning.key)
+- [All talks](https://dbetebenner.github.io/talks/)

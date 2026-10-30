@@ -1,0 +1,340 @@
+---
+pagetitle: An Investigation of 2024 PSAT/SAT Results
+description: An Investigation of 2024 PSAT/SAT Results — Rhode Island Technical Advisory Committee, July 30, 2024. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">An Investigation of 2024 PSAT/SAT
+Results
+Damian Betebenner
+The National Center for the Improvement of Educational Assessment
+
+July 30th, 2024
+RIDE TAC Meeting
+
+ This work is licensed under a
+ Creative Commons Attribution 4.0
+ International License.</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Background
+
+ 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">PSAT/SAT Test Administration
+• Since 2017 the Rhode Island Department of Education has
+ administered the PSAT as part of the spring test administration
+ to 10th graders
+• Since 2018 the Rhode Island Department of Education has
+ administered the SAT to 11th graders.
+• Both the PSAT and SAT include sections in ELA and
+ Mathematics.
+
+ 3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Transition to Digital SAT
+• In 2024, the College Board transitioned to the Digital SAT
+ administration platform.
+• Several aspects of the assessment changed during this transition in
+ terms of both user-facing features (computer versus P&amp;P
+ administration) as well as backend features (adaptive versus fixed-
+ form).
+• Changes in the results in 2024 from 2023 led to concern amongst
+ some states about test equivalence.
+• The analyses in this presentation are intended to support discussions
+ about the equivalence of tests and comparability of results.
+
+ 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary PSAT/SAT Data
+
+ 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+• We examine student performance on the PSAT/SAT in several ways
+ • Participation frequencies
+ • Mean/Standard Deviations of Scores by year
+ • Mean/Median Baseline SGP by year (SAT only)
+ • Baseline SGPs are normed using pre-pandemic, PSAT-SAT
+ growth norms.
+
+ 6</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Rhode Island PSAT/SAT Participation
+ PSAT-ELA PSAT-Math SAT-ELA SAT-Math
+ 2017-2018 10,326 10,348 9,733 9,721
+ 2018-2019 10,177 10,180 9,902 9,888
+ 2020-2021 9,111 9,089 9,085 9,049
+ 2021-2022 9,446 9,451 9,462 9,487
+ 2022-2023 10,276 10,329 9,398 9,444
+ 2023-2024 10,130 10,237 10,095 10,148
+
+ 7</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Frequencies
+• In general, there was a substantial decrease in participation due to the
+ pandemic.
+• For the PSAT, the number of students tested has roughly returned to
+ pre-pandemic level.
+• For the SAT, in 2024 there was a substantial (approximate 8%) increase
+ in the number of students tested.
+
+ 8</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Rhode Island Scaled Score Mean/SD
+ PSAT-ELA PSAT-Math SAT-ELA SAT-Math
+ 486.7/101. 475.4/105.
+ 2017-2018 456.5/97.0 442.8/92.2
+ 0 3
+ 483.4/103. 473.7/108.
+ 2018-2019 458.7/97.4 445.1/85.0
+ 8 6
+ 481.9/101. 467.3/100.
+ 2020-2021 459.5/97.3 445.0/81.0
+ 3 6
+ 479.4/102.
+ 2021-2022 458.7/99.0 439.6/83.0 460.2/98.9
+ 1
+ 484.4/102. 461.5/101.
+ 2022-2023 450.9/99.9 436.1/77.3
+ 3 7
+ 450.1/116. 418.4/102. 470.4/117. 445.9/106.
+ 2023-2024
+ 1 8 1 6
+ 9</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Density Plot: ELA PSAT ELA PSAT 10
+
+ 0.006
+
+ 2017−2018
+
+ 0.005
+ 2018−2019
+ 2020−2021
+ 2021−2022
+ 2022−2023
+ 2023−2024
+
+ 0.004
+
+ Density 0.003
+
+ 0.002
+
+ 0.001
+
+ 0.000
+
+ 200 300 400 500 600 700
+ 10
+ Scale Score</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Density Plot: Mathematics PSAT MATHEMATICS PSAT 10
+
+ 0.006
+
+ 2017−2018
+
+ 0.005
+ 2018−2019
+ 2020−2021
+ 2021−2022
+ 2022−2023
+ 2023−2024
+
+ 0.004
+
+ Density 0.003
+
+ 0.002
+
+ 0.001
+
+ 0.000
+
+ 200 300 400 500 600 700
+ 11
+ Scale Score</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Density Plot: ELA SAT
+
+ 12</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Density Plot: Mathematics SAT
+
+ 13</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Summary Measures
+• Both ELA and Mathematics PSAT saw decreases in mean scaled scores
+ over the last six years. The drop in mathematics in 2023-2024 from
+ 436.4 to 418.4 was particularly large.
+• Both ELA and Mathematics PSAT saw increases in the standard
+ deviation in 2023-2024 from prior years.
+• Both ELA and Mathematics SAT saw decreases in mean scaled scores,
+ particularly in 2023-2024. Mathematics dropped from 461.5 to 445.9.
+• Both ELA and Mathematics SAT saw increases in standard deviation in
+ 2023-2024.
+• The number of LOSS (200) scores in the SAT saw a large increase in
+ 2023-2024.
+
+ 14</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Rhode Island: Mean SGP/Count
+ SAT-ELA SAT-Math
+
+ 2018-2019 49.5/9,228 49.5/9,219
+
+ 2020-2021 — —
+
+ 2021-2022 47.8/8,170 45.6/8,153
+
+ 2022-2023 50.4/8,550 48.4/8,545
+
+ 2023-2024 48.7/9,256 44.4/9,284
+
+ 15</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">16</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">17</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Baseline SGPs
+• Because growth is conditioned on prior scores, baseline SGPs are
+ much more robust to changes in the population of students tested
+ than status measures.
+• Baseline SGPs were fairly stable across the last several years in ELA,
+ less so in mathematics. The drop in the mean SGP to 44.4 in
+ 2023-2024 in mathematics is synonymous with the drop in
+ achievement observed.
+• The low median SGP in mathematics was caused (largely) by low SGPs
+ of students in the 6th, 7th, and 8th prior score deciles.
+• The Center works with another state using the PSAT/SAT tests in high
+ school and observed a very similar pattern (as evidenced by the
+ following two goodness of fit plots)
+
+ 18</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">19</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">20</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Conclusions
+• Results comparing 2023-2024 SAT results with prior years indicate
+ discrepancies in mathematics which suggest assessment changes may
+ have
+• In general, assessment changes are always accompanied by score
+ discrepancies such as those observed here.
+• Causal conclusions are not substantiated by these secondary analyses.
+ However, further investigations into the digital SAT format —
+ particularly for higher achieving students where lower growth was
+ observed — may suggest causal factors for lower scores.
+
+ 21</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Questions
+
+ 22</div>
+```
+
+## About this copy {.archive-about}
+
+*An Investigation of 2024 PSAT/SAT Results* — Rhode Island Technical Advisory Committee, July 30, 2024.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2024-07-30-ri-tac-an-investigation-of-2024-psat-sat-results/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2024-07-30-ri-tac-an-investigation-of-2024-psat-sat-results.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2024-07-30-ri-tac-an-investigation-of-2024-psat-sat-results.key)
+- [All talks](https://dbetebenner.github.io/talks/)

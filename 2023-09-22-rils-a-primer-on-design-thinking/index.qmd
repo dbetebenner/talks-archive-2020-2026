@@ -1,0 +1,355 @@
+---
+pagetitle: A Primer on Design Thinking
+description: A Primer on Design Thinking — Center for Assessment Reidy Interactive Lecture Series, September 22, 2023. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">A Primer on Design Thinking
+Application to Accountability System Design
+Damian Betebenner
+Center for Assessment
+
+September 24th, 2023</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">RILS 2021: Innovation Design</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Design Innovation in Assessment
+• In response to the pandemic, the Center pivoted to host the
+ RILS conference virtually in 2021.
+• Spearheaded by Jeri Thompson (now retired) and myself, the
+ conference centered on the pivotal concept of &quot;Design
+ Innovation&quot; in educational assessment.
+• The aim was to capitalize on the extensive momentum in
+ design innovation, exploring its applicability to modernizing
+ and enhancing assessment development.</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">First Exposure to Design Thinking
+• My introduction to Design Thinking originated in the early
+ 2010s through my involvement in software development for
+ the SchoolView data visualization platform.
+• Concepts such as &quot;Agile Development,&quot; &quot;Scrums,&quot; &quot;Personas,&quot;
+ and &quot;Prototyping&quot; became integral to our development
+ dialogue.
+• At that time, I began to ponder the potential for these design
+ methodologies to enhance the Center's work in educational
+ assessment and accountability system design.</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">DESIGN INNOVATION PROCESS
+
+ DERSTANDIN R O TOTYPIN
+ G SCALING
+UN T H E
+ G P
+ ALUATE
+ O
+ YP
+ S TE S T
+ H
+ IZ EV
+ E
+
+ ER
+ CRE
+ ST
+PLA OV JU PIL NE
+ C AT E
+ O T FI
+ RE
+ N
+ D I S D
+ A
+
+• Identify and engage a range • Design assessments for • Set up and run the
+ of diverse stakeholders user needs assessment system with
+ pilot group(s)
+• Identify problem • Administration with a
+ statement(s) small sample • Collect data and evaluate
+ applying evaluation criteria
+• Engage in root cause • Collect data and review
+ analysis applying pre-established • Gather insights needed to
+ criteria redefine or revise
+• Create a Theory of Action
+ underlying the assessment • Prioritize user needs • Improve user satisfaction
+ system design
+ • Redesign, refine and revise • Repeat to make revisions
+• Clarify, analyze, and assessments based on for large-scale use
+ synthesize learning formative evaluation and
+ user feedback • Share the findings broadly
+• Repeat and review process
+ to ensure understanding • Repeat with multiple rounds
+ and issues of equity of iterations at multiple
+ levels</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">A Brief Introduction to Design Thinking</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">What is Design Thinking?
+• Definition: Design Thinking is a human-centered approach to problem-solving that
+ focuses on understanding user needs, ideation, prototyping, and iteration.
+• Core Phases:
+ • Empathize
+ • Define
+ • Ideate
+ • Prototype
+ • Test
+• Importance: Allows for creative solutions to complex problems by integrating the
+ needs of people, the possibilities of technology, and the requirements for program
+ success.</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Core Phases: Empathize
+Objective: Understand your users' needs, motivations, and
+challenges.
+Methods: User interviews, observations, personas, and
+immersion in the user environment.
+Importance: Builds a foundation for designing solutions that
+are rooted in real-world needs and problems.</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Core Phases: Define
+Objective: Clearly articulate the user's needs and the problem
+to be solved.
+Methods: Synthesis of data, framing the problem statement,
+theory of action.
+Importance: Ensures that everyone is aligned and focused on
+solving the right problem.</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Core Phases: Ideate
+Objective: Generate a wide variety of potential solutions.
+Methods: Brainstorming sessions, mind mapping, and lateral
+thinking.
+Importance: Encourages creative problem-solving and lays the
+groundwork for innovative solutions.</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Core Phases: Prototype
+Objective: Create low-fidelity models of the best ideas from
+the ideation phase.
+Methods: Sketching, mock-ups, digital wireframes.
+Importance: Allows for rapid testing and iteration, helping to
+identify the most viable solutions.</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Core Phases: Test
+Objective: Validate the effectiveness of the prototype by
+collecting user feedback.
+Methods: Evaluation, user testing sessions, A/B testing,
+surveys.
+Importance: Provides valuable insights for refining the solution
+and ensures it meets user needs before full-scale
+implementation.</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Design Thinking in Educational Accountability</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Aligning Design Thinking with Educational
+Accountability
+Aligning Design Thinking with Educational
+Understanding Users: Parents, Teachers, Students,
+Administrators, and Policy Makers
+Defining Problems: What issues do existing accountability
+systems face? (E.g., Lack of Fairness, Inequality, Ineffective,
+Obscure and Complex)
+Ideation &amp; Prototyping: Development and introduction of new
+indicators.</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Understanding
+Aligning DesignUsers
+ Thinking with Educational
+Objective: Identify the needs, motivations, and challenges of
+all stakeholders involved in educational accountability.
+Who are the Users: Parents, Teachers, Students, Policy Makers,
+Educational Assessment Specialists
+Methods: Stakeholder interviews, surveys, and participatory
+design sessions, personas.
+Importance: Builds a robust understanding of stakeholder
+needs, shaping the direction of accountability system design.</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Defining Design
+Aligning Problems
+ Thinking with Educational
+Objective: Clearly state the issues and challenges that existing
+accountability systems face.
+Examples of Problems: Lack of fairness, inequality, inadequate
+representation of student growth, etc.
+Methods: Data analysis, literature reviews, and expert
+consultations.
+Importance: Ensures focus on solving the most pressing problems
+in educational accountability, increasing the efficacy of the resulting
+solutions.</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Ideation Design
+Aligning &amp; Prototyping
+ Thinking with Educational
+Objective: Develop creative and effective indicators and
+dissemination strategies for educational accountability
+systems.
+Methods: Brainstorming sessions, prototyping workshops, and
+iterative testing.
+Importance: Facilitates the creation of new tools and metrics
+that better capture the nuances of educational outcomes and
+foster equity.</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Benefits of Applying Design Thinking to
+Accountability Systems</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Transformative
+Aligning Design Outcomes
+ Thinking with Educational
+Enhanced Stakeholder Engagement: Active involvement of all
+parties in the design and implementation stages.
+Dynamic Indicators: Allows for the creation of more
+responsive and fairer methods of assessment.
+Continuous Improvement: Regular feedback loops enable
+ongoing refinement of accountability systems.</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Enhanced Stakeholder
+Aligning Design Engagement
+ Thinking with Educational
+Objective: Involve all stakeholders in the process of design and
+implementation, ensuring their needs and perspectives are
+integrated.
+Methods: Workshops, focus groups, and continuous feedback
+loops.
+Importance: Creates a sense of ownership among
+stakeholders, leading to more successful and sustainable
+solutions.</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Dynamic Indicators
+Aligning Design Thinking with Educational
+Objective: Develop indicators that are adaptable, fair, and
+focused on defensible outcomes.
+Methods: Iterative prototyping and testing, analytics, and
+longitudinal studies.
+Importance: Allows for indicators that can evolve with
+educational paradigms, meeting the needs of a diverse student
+population.</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Continuous Improvement
+Aligning Design Thinking with Educational
+Objective: Establish mechanisms for the ongoing refinement
+and adaptation of educational accountability systems.
+Methods: Regular review cycles, analytics, and user feedback
+to iteratively improve the system.
+Importance: Encourages a culture of continuous improvement,
+ensuring the system remains effective and relevant over time.</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Caveats</div>
+```
+
+## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Getting
+AligningOur of Our
+ Design Own Way
+ Thinking with Educational
+Jargon/Terminology: Our field is a MESS with terminology
+ • Words are used incorrectly
+ • Words are used inconsistently
+
+We need to get our house in order if we want to
+MEANINGFULLY engage non-technical stakeholders in this
+design process.</div>
+```
+
+## About this copy {.archive-about}
+
+*A Primer on Design Thinking* — Center for Assessment Reidy Interactive Lecture Series, September 22, 2023.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2023-09-22-rils-a-primer-on-design-thinking/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-09-22-rils-a-primer-on-design-thinking.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2023-09-22-rils-a-primer-on-design-thinking.key)
+- [All talks](https://dbetebenner.github.io/talks/)

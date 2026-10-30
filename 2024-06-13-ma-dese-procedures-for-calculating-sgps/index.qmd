@@ -1,0 +1,205 @@
+---
+pagetitle: Procedures for Calculating SGPs
+description: Procedures for Calculating SGPs — MA DESE Procedures, June 13, 2024. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Procedures for Calculating SGPs
+Damian Betebenner &amp; Adam VanIwaarden
+Center for Assessment
+
+June 13th, 2024</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview &amp; Setup
+• The methodology and software used to calculate student growth percentiles is
+ open source.
+ • Paper documenting the methodology: Norm- and Criterion-Referenced
+ Student Growth (2008)
+ • Calculation of SGPs utilize (the latest versions of) the R software
+ environment in conjunction with the SGP package that was created and
+ currently maintained by Dr. Damian Betebenner and Adam VanIwaarden.
+ • All R source code associated with MA DESE analyses is located on GitHub (no
+ PII information)
+ • MCAS: https://github.com/CenterForAssessment/Massachusetts
+ • WIDA-ACCESS: https://github.com/CenterForAssessment/WIDA_MA</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Outline for Calculations
+• Calculation of SGPs have always followed the principle that data
+ cleaning is 90% of the work.
+ • Step 1: Data preparation: Take raw data files provided by DESE
+ and create a long formatted .Rdata file suitable for SGP
+ analyses.
+ • Step 2: SGP Analysis: Take long formatted .Rdata file from Step
+ 1 and utilize SGP package for analysis.
+ • Step 3: Post-Processing: Produces state specific formats for the
+ output</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Step 1: Data Preparation
+• Source code for data preparation is located (as is all source code) on Github.
+• The nomenclature for the names of the source code files is, for example,
+ Massachusetts_Data_LONG_2024.R to denote the data preparation file for
+ 2024 data.
+• Data preparation involves getting naming conventions for variables to align
+ with the SGP package, making sure variable mode is aligned with SGP
+ calculations, making sure variable levels are consistent with previous years,
+ identifying duplicate cases and resolving them.
+• For WIDA data preparation, create ACHIEVEMENT_LEVEL (WIDA Level 1,
+ WIDA Level 2, …) and ACHIEVEMENT_LEVEL_ORIGINAL (1.0, 1.1, …, 2.0, 2.1,
+ …)</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Step 2: Data Analysis - MCAS
+• Source code for data analysis is located (as is all source code)
+ on Github.
+• The nomenclature for the names of the source code files is,
+ for example, Massachusetts_SGP_2024.R to denote the data
+ analysis file for 2024 data.
+• SGP source code specifies the types of norm- and criterion-
+ referenced SGP analyses to conduct.</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Step 2: Data Analysis - MCAS
+ Massachusetts_SGP &lt;- updateSGP(
+Currently, 6 different SGP analyses are
+ what_sgp_object=Massachusetts_SGP,
+conducted:
+ with_sgp_data=Massachusetts_Data_LONG_2023,
+ steps=c(&quot;prepareSGP&quot;, &quot;analyzeSGP&quot;, &quot;combineSGP&quot;, &quot;outputSGP&quot;),
+• Cohort Referenced:
+ sgp.config=MA_CONFIG,
+ • Student growth percentiles
+ sgp.percentiles=TRUE,
+ • Student growth projections
+ sgp.projections=TRUE,
+ • Lagged student growth projections
+ sgp.projections.lagged=TRUE,
+• Baseline Referenced (using pre-
+ sgp.percentiles.baseline=TRUE,
+ pandemic growth norms calculated
+ sgp.projections.baseline=TRUE,
+ from 2019 and prior data)
+ sgp.projections.lagged.baseline=TRUE,
+ • Student growth percentiles
+ sgp.target.scale.scores=TRUE,
+ • Student growth projections
+ save.intermediate.results=FALSE,
+ • Lagged student growth projections
+ parallel.config=parallel.config
+ )</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Step 2: Data Analysis - MCAS
+• Some odds and ends of MCAS SGP analyses:
+ • Due to historical decisions to take advantage of granularity of theta
+ scores, MCAS SGP analyses currently utilize student theta values
+ instead of scaled scores.
+ • Projections and lagged projections are calculated originally in SGP
+ terms (based upon a 5 year time frame to reach/maintain the
+ desired level of achievement). Those targets are converted to scale
+ score targets and utilized by DESE.
+ • Current targets are calculated and “banked” to be used the
+ following year (versus using on-time/current norms)</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Step 2: Data Analysis - WIDA-ACCESS
+• Source code for data analysis is located (as is all source code)
+ on Github.
+• The nomenclature for the names of the source code files is,
+ for example, WIDA_MA_SGP_2024.R to denote the data
+ analysis file for 2024 data.
+• SGP source code specifies the types of norm- and criterion-
+ referenced SGP analyses to conduct.</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Step 2: Data Analysis - WIDA-ACCESS
+ WIDA_MA_SGP &lt;- updateSGP(
+Currently, 6 different SGP analyses are
+ WIDA_MA_SGP,
+conducted:
+ WIDA_MA_Data_LONG_2023,
+ steps=c(&quot;prepareSGP&quot;, &quot;analyzeSGP&quot;, &quot;combineSGP&quot;),
+• Cohort Referenced:
+ sgp.percentiles=TRUE,
+ • Student growth percentiles
+ sgp.projections=TRUE,
+ • Student growth projections
+ sgp.projections.lagged=TRUE,
+ • Lagged student growth projections
+ sgp.percentiles.baseline=TRUE,
+• Baseline Referenced (using pre-
+ sgp.projections.baseline=TRUE,
+ pandemic growth norms calculated
+ sgp.projections.lagged.baseline=TRUE,
+ from 2020 and prior data)
+ get.cohort.data.info=TRUE,
+ • Student growth percentiles
+ sgp.target.scale.scores=TRUE,
+ • Student growth projections
+ save.intermediate.results=FALSE,
+ • Lagged student growth projections
+ parallel.config=list(BACKEND=&quot;PARALLEL&quot;, WORKERS=li
+ PROJECTIONS=4, LAGGED_PROJECTIONS=4, SGP_SCALE_SCORE_TARGETS=</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Step 2: Data Analysis - WIDA-ACCESS
+• Some odds and ends of WIDA-ACCESS SGP analyses:
+ • SGP analyses utilize the composite scaled score
+ • Projections and lagged projections are calculated originally in SGP terms (based
+ upon a variable year time frame to reach English language proficiency/4.2 level on
+ WIDA-ACCESS). Those are converted to scale score targets and utilized by DESE.
+ • Scale score targets are calculated for 1, 2, 3, 4, 5, and 6 year time frames. Based
+ upon time in MA receiving ELL services, a time-frame is specified.
+ • Scale-scores are converted back to WIDA-ACCESS achievement levels (1.0, 1.1, 1.2,
+ …, 2.0, 2.1, …) This conversion is done in a post-processing phase using R source
+ code provided by https://github.com/CenterForAssessment/WIDA_MA/blob/
+ master/WIDA_MA_Formatted_Output_2023.R</div>
+```
+
+## About this copy {.archive-about}
+
+*Procedures for Calculating SGPs* — MA DESE Procedures, June 13, 2024.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2024-06-13-ma-dese-procedures-for-calculating-sgps/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2024-06-13-ma-dese-procedures-for-calculating-sgps.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2024-06-13-ma-dese-procedures-for-calculating-sgps.key)
+- [All talks](https://dbetebenner.github.io/talks/)

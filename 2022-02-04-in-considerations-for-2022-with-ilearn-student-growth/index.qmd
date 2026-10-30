@@ -1,0 +1,120 @@
+---
+pagetitle: Considerations for 2022 with ILEARN Student Growth
+description: Considerations for 2022 with ILEARN Student Growth — Indiana Department of Education, February 4, 2022. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Considerations for 2022 with ILEARN Student Growth
+
+ Damian Betebenner &amp; Adam Van Iwaarden
+ Center for Assessment
+
+ Indiana Weekly Meeting
+ February 4th, 2022</div>
+```
+
+::: notes
+```{=html}
+Scott
+```
+:::
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Consideration for ILEARN SGP Calculations in 2022
+• Cohort versus Baseline Referenced SGP Calculations
+• Achievement goal for students
+ • Proficiency
+ • Catching up to pre-COVID achievement trajectory
+• Timeline to reach achievement goal for students
+ • 4 years
+ • When should the clock start on students reaching that goal? 2022? 2019?
+• The most consequential decisions are determining the Achievement Goal and
+ the Timeline to reach that goal.
+• Cohort and baseline referenced SGP projections will yield the same
+ determinations about a student being on track to those achievement goals.
+ Pandemic Related Academic Impact in Indiana 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Cohort versus Baseline Referenced SGPs
+• Cohort versus Baseline Referenced SGPs is a tale of two
+ speedometers.
+ • Cohort: 2021 to 2022 normed growth.
+ • Baseline: 2018 to 2019 normed growth.
+• For each grade and content areas:
+ • Cohort referenced SGPs have a mean/median of 50.
+ • Baseline referenced SGPs don’t necessarily have a
+ mean/median of 50.
+• Cohort referenced SGPs canNOT show impact
+ (deceleration) or recover (acceleration)
+• Baseline referenced SGP can show impact and recovery.
+
+ Pandemic Related Academic Impact in Indiana 3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Cohort versus Baseline Referenced SGPs
+• There was deceleration in learning from 2019 to
+ 2021 (cohort) compared to 2017 to 2019 (baseline)
+ in Indiana.
+• We do not know how growth will compare 2021 to
+ 2022 (cohort) with that of 2018 to 2019 (baseline)
+ • Deceleration continues (more COVID impact)
+ • Back to normal rates of growth/learning
+ • Acceleration (recovery)
+• The choice of cohort versus baseline referenced is
+ only relevant if you want to support pre-COVID
+ versus COVID acceleration/deceleration
+ comparisons.
+ Pandemic Related Academic Impact in Indiana 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Cohort versus Baseline Referenced SGPs and Projections
+• Projections/Targets are possible using either cohort
+ or baseline referenced SGPs.
+• Determinations of whether the student hit their
+ target will be the same regardless of whether you
+ use cohort or baseline referenced SGPs/projections.
+• Determinations will be the same because the
+ achievement goal (end point) and time frame to
+ reach that goal are fixed.
+•
+
+ Pandemic Related Academic Impact in Indiana 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Questions
+
+Arizona State Board of Education Meeting, October 25th, 2021</div>
+```
+
+## About this copy {.archive-about}
+
+*Considerations for 2022 with ILEARN Student Growth* — Indiana Department of Education, February 4, 2022.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2022-02-04-in-considerations-for-2022-with-ilearn-student-growth/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2022-02-04-in-considerations-for-2022-with-ilearn-student-growth.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2022-02-04-in-considerations-for-2022-with-ilearn-student-growth.key)
+- [All talks](https://dbetebenner.github.io/talks/)

@@ -1,0 +1,595 @@
+---
+pagetitle: 2024 SGP Analyses and Results
+description: 2024 SGP Analyses and Results — New Hampshire Technical Advisory Committee, January 29, 2025. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2024 SGP Analyses and Results
+Including COVID-19 Impact &amp; Recovery in New Hampshire
+
+Damian Betebenner &amp; Adam VanIwaarden
+Center for Assessment
+
+January 29th, 2025
+
+ 1</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Background
+Introductory Concepts and Terminology
+
+ 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Academic Recovery in 2024
+• The availability of 2024 NHSAS data allows New Hampshire to
+ update COVID-19 recovery analyses.
+• Spring 2024 marks the third year since the pandemic began
+ and this is the third report:
+ • Summer 2021: Academic Impact
+ • Summer 2022: Academic Recovery Year 1
+ • Summer 2023: Academic Recovery Year 2
+ • Summer 2024: Academic Recovery Year 3
+
+ 3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Two Types of Recovery in 2024: System &amp; Student
+• We elaborate on the results from the previous recovery analyses in two
+ ways:
+ • System level recovery: Is the education system supporting rates of
+ learning that are comparable to what it was prior to the pandemic?
+ • Student level recovery: Are students achieving at levels that are
+ comparable to what they were prior to the pandemic?
+• Previously, we focused mostly on system-level recovery: examining rates
+ of learning in 2021 and 2022 compared to those prior to the pandemic.
+• We continue examining system level analyses but also focus on student-
+ level recovery.
+
+ 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Two Types of Recovery: System &amp; Student
+• System-level recovery
+ • Comparison of 2019 and 2024 same-grade student growth: We
+ examined the change in baseline student growth (SGPs) for 2019
+ students and 2024 students utilizing coefficient matrices derived
+ from pre-pandemic cohorts of students.
+• Student-level recovery
+ • Comparison of 2019 to 2024 same-grade achievement: We
+ examined the equipercentile change in achievement for 2019
+ students and 2023 students at same-grade
+
+ 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student-level recovery
+• It is critical to understand that recovery of the system does not imply
+ student level recovery
+• Because students’ rates of learning slowed so dramatically during the
+ pandemic, rates of learning necessary to catch students up to where
+ they would have been would have to be equally dramatic (in the positive
+ direction)
+• The following figures illustrate the extent to which student attainment is
+ behind 2019 attainment levels.
+• Comparison to 2019 levels is a “low bar” as attainment levels in 2024,
+ had the pandemic not occurred, would almost certainly have been
+ higher than 2019 levels (based on “typical” rates of yearly improvement)
+ student-level
+ 6</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">System Recovery: Cohort-Based Comparison (NHSAS)
+Compare observed versus expected attainment for a cohort of students
+
+ 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023 2023-2024
+
+ Grade 3
+
+ Grade 4
+
+ No Testing due to
+ Grade 5
+
+ COVID-19
+ Grade 6
+
+ Grade 7
+
+ Grade 8
+
+ 7</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Recovery: Cross-sectional Comparison (NHSAS)
+Compare observed versus expected attainment for a cohort of students
+
+ 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023 2023-2024
+
+ Grade 3
+
+ Grade 4
+
+ No Testing due to
+ Grade 5
+
+ Grade 6
+ COVID-19
+
+ Grade 7
+
+ Grade 8
+
+ 8</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Year 1
+From Fall 2021 to Summer 2022
+NHSAS: Spring 2021 and Spring 2022 Assessments
+WIDA: Spring 2021 and Spring 2022 Assessments
+
+ 9</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Phase Year 1
+• Student growth (baseline referenced to pre-pandemic rates of learning)
+ was examined by content area and grade as well as for the major student
+ demographic subgroups.
+• Achievement (Student Recovery) and Growth (System Recovery) were
+ characterized in three ways:
+ • Lagging: Behind pre-pandemic levels (attainment or growth)
+ • On Par: About the same as pre-pandemic levels (attainment or growth)
+ • Leading: Ahead of pre-pandemic levels (attainment or growth)
+• Because learning slowed during the initial phase of the pandemic, to make
+ up for those losses, learning must accelerate to rates above normal (i.e.,
+ leading)
+ 10</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SAS ELA and Mathematics
+New Hampshire 2019 to 2022 COVID⌧19 Academic Student Recovery Grade &amp; Content Area
+Lagging Leading Student Recovery characterizes the extent
+ Status Change
+−0.38 −0.09 0.12 0.38 to which student attainment has returned
+ to pre−pandemic levels of attainment.
+ Calculations suppressed
+ Lagging On Par Leading
+ due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+
+ All Students Lagging Lagging Lagging On Par Lagging Lagging Lagging Lagging Lagging Lagging Lagging Lagging
+
+ Economically Disadvantaged Lagging Lagging Lagging On Par Lagging Lagging Lagging Lagging Lagging Lagging Lagging Lagging
+
+ Non−Economically Disadvantaged Lagging Lagging Lagging Lagging Lagging Lagging Lagging Lagging Lagging Lagging Lagging Lagging
+
+ African American Lagging Lagging On Par On Par Lagging Lagging Lagging On Par On Par Lagging Lagging Lagging
+
+ Asian On Par Lagging On Par On Par Lagging On Par On Par Lagging Lagging Lagging Lagging Lagging
+
+ White Lagging Lagging Lagging On Par Lagging Lagging Lagging Lagging Lagging Lagging Lagging Lagging
+
+ Hispanic Lagging Lagging Lagging On Par On Par Lagging Lagging Lagging Lagging Lagging Lagging Lagging
+
+ Limited English Proficient Lagging Lagging Lagging Leading Lagging Lagging Lagging Lagging Lagging On Par Lagging Lagging
+
+ Special Education Lagging Lagging On Par On Par Lagging Lagging Lagging Lagging On Par On Par Lagging Lagging
+
+ Female Lagging Lagging Lagging Lagging Lagging Lagging Lagging Lagging Lagging Lagging Lagging Lagging
+
+ Male Lagging Lagging On Par On Par Lagging Lagging Lagging On Par Lagging Lagging Lagging Lagging
+
+ 11</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2022 SGP Results
+• Mean/Median/Count for cohort referenced and baseline referenced SGP
+ in ELA and mathematics are as follows:
+
+ ELA Mathematics
+ Grade
+ Cohort Referenced Baseline Referenced Cohort Referenced Baseline Referenced
+
+ 4 49.9/50/9,629 51.3/52/9,629 49.9/50/9,327 54.8/57/9,327
+ 5 49.9/50/9,935 52.4/54/9,935 49.9/50/9,280 56.5/59/9,280
+ 6 49.9/50/9,531 54.3/56/9,531 49.9/50/9,264 55.6/58/9,264
+ 7 49.9/50/9,503 48.1/48/9,503 49.9/50/9,313 53.1/54/9,313
+ 8 49.9/50/9,314 51.3/52/9,413 49.9/50/9,425 53.9/55/9,425
+
+ 12</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">13</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">14</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Year 1
+• Analysis of 2022 NHSAS &amp; WIDA ACCESS data indicated two things:
+ • Rates of learning, on average, have returned or are close returning to normal, pre-
+ pandemic levels. That is, the system has more or less recovered.
+ • Student attainment, on average, is still lagging behind because rates of learning have
+ not accelerated enough to catch students up. That is, students have not recovered.
+• In both ELA and mathematics, learning acceleration from the lows of the pandemic would
+ be considered, on average, to be system stabilization.
+• System stabilization (a return to normal rates of learning) will be insufficient to catch
+ students up.
+• Results from 2023 data will be important to assess the state of learning (beyond what the
+ state experience pre-COVID) in New Hampshire.
+
+ 15</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Year 3
+From Fall 2023 to Summer 2024
+NHSAS: Spring 2023 and Spring 2024 Assessments
+WIDA: Spring 2023 and Spring 2024 Assessments
+
+ 16</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Phase Year 3
+• We again distinguish between student-level recovery and system-level
+ recovery this year.
+• Achievement (Student Recovery) and Growth (System Recovery) were
+ characterized in three ways:
+ • Lagging: Behind pre-pandemic levels
+ • On Par: About the same as pre-pandemic levels
+ • Leading: Ahead of pre-pandemic levels
+
+ 17</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SAS ELA and Mathematics
+New Hampshire 2019 to 2024 COVID⌧19 Academic Student Recovery Grade &amp; Content Area
+Lagging Leading Student Recovery characterizes the extent
+ Status Change
+−0.38 −0.09 0.12 0.38 to which student attainment has returned
+ to pre−pandemic levels of attainment.
+ Calculations suppressed
+ Lagging On Par Leading
+ due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+
+ All Students On Par Lagging On Par Lagging On Par Lagging Lagging Lagging Lagging Lagging Lagging Lagging
+
+ Economically Disadvantaged Lagging Lagging On Par On Par On Par Lagging Lagging Lagging Lagging Lagging Lagging Lagging
+
+ Non−Economically Disadvantaged On Par Lagging On Par Lagging On Par Lagging Lagging Lagging Lagging Lagging Lagging Lagging
+
+ African American On Par On Par On Par Lagging On Par On Par Lagging On Par Lagging Lagging Lagging Lagging
+
+ Asian On Par Lagging On Par Lagging Lagging Lagging On Par Lagging Lagging Lagging Lagging Lagging
+
+ White On Par Lagging On Par Lagging On Par Lagging Lagging Lagging Lagging Lagging Lagging Lagging
+
+ Hispanic On Par Lagging On Par On Par On Par Lagging Lagging Lagging Lagging Lagging Lagging Lagging
+
+ Limited English Proficient On Par Lagging Lagging Leading On Par Lagging Lagging Lagging Lagging On Par Lagging Lagging
+
+ Special Education On Par On Par On Par On Par On Par Lagging On Par Lagging Lagging On Par Lagging Lagging
+
+ Female On Par Lagging On Par Lagging On Par Lagging Lagging Lagging Lagging Lagging Lagging Lagging
+
+ Male On Par Lagging On Par On Par On Par On Par Lagging On Par Lagging Lagging Lagging Lagging
+
+ 18</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2024 SGP Results
+• Mean/Median/Count for cohort referenced and baseline referenced SGP
+ in ELA and mathematics are as follows:
+
+ ELA Mathematics
+ Grade
+ Cohort Referenced Baseline Referenced Cohort Referenced Baseline Referenced
+
+ 4 49.9/50/10,945 52.5/53/10,945 49.9/50/11,063 47.4/46/11,063
+ 5 49.9/50/11,293 57.2/60/11,293 50.0/50/11,398 47.2/46/11,398
+ 6 49.9/50/10,858 52.8/54/10,858 49.9/50/10,982 49.4/49/10,982
+ 7 49.8/50/11,025 53.5/55/11,025 49.8/50/11,153 48.1/47/11,153
+ 8 49.8/50/10,628 50.8/51/10,628 49.6/50/10,697 51.7/52/10,697
+
+ 19</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2023 SGP Results
+• Mean/Median/Count for cohort referenced and baseline referenced SGP
+ in ELA and mathematics are as follows:
+
+ ELA Mathematics
+ Grade
+ Cohort Referenced Baseline Referenced Cohort Referenced Baseline Referenced
+
+ 4 49.9/50/11,114 52.2/53/11,114 49.9/50/11,193 51.5/52/11,193
+ 5 50.0/50/10,980 57.6/61/10,980 50.3/51/11,045 51.3/51/11,045
+ 6 49.8/50/11,109 54.8/57/11,109 49.7/50/11,162 53.8/55/11,162
+ 7 50.0/50/10,681 54.6/57/10,681 50.0/50/10,714 51.9/52/10,714
+ 8 49.5/49/10,804 59.2/63/10,804 49.6/50/10,890 53.8/56/10,890
+
+ 20</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SAS ELA and Mathematics
+New Hampshire 2019 to 2024 COVID⌧19 Academic System Recovery Grade &amp; Content Area
+Lagging Leading System Recovery characterizes the extent
+ Growth Change
+−30 −7 10 30 to which rates of student learning (i.e., growth)
+ have returned to pre−pandemic rates of learning.
+ Calculations suppressed
+ Lagging On Par Leading
+ due to small group N (&lt; 50)
+
+ ELA Mathematics
+ Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ No Growth No Growth
+ All Students Data
+ On Par On Par On Par On Par On Par
+ Data
+ On Par On Par On Par On Par On Par
+
+ No Growth No Growth
+ Economically Disadvantaged On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par
+ Data Data
+
+ No Growth No Growth
+ Non−Economically Disadvantaged On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par
+ Data Data
+
+ No Growth No Growth
+ African American Lagging Leading On Par On Par On Par On Par Lagging On Par On Par On Par
+ Data Data
+
+ No Growth No Growth
+ Asian On Par On Par Lagging On Par On Par On Par Lagging On Par On Par Lagging
+ Data Data
+
+ No Growth No Growth
+ White On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par
+ Data Data
+
+ No Growth No Growth
+ Hispanic On Par Leading On Par On Par On Par On Par On Par On Par On Par On Par
+ Data Data
+
+ No Growth No Growth
+ Limited English Proficient On Par On Par On Par On Par Lagging On Par Lagging On Par Lagging On Par
+ Data Data
+
+ No Growth No Growth
+ Special Education On Par On Par Leading On Par On Par On Par On Par On Par On Par On Par
+ Data Data
+
+ No Growth No Growth
+ Female On Par Leading On Par On Par On Par On Par On Par On Par On Par On Par
+ Data Data
+
+ No Growth No Growth
+ Male On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par
+ Data Data
+
+ 21</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">WIDA ACCESS Composite
+WIDA NH 2020 to 2024 COVID⌧19 Academic Student Recovery Grade &amp; Content Area
+Lagging Leading Student Recovery characterizes the extent
+ Status Change
+−0.38 −0.09 0.12 0.38 to which student attainment has returned
+ to pre−pandemic levels of attainment.
+ Calculations suppressed
+ Lagging On Par Leading
+ due to small group N (&lt; 50)
+
+ Composite
+ Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+
+ All Students On Par Lagging Lagging Lagging Lagging Lagging Lagging On Par On Par On Par Lagging Lagging Lagging
+
+ WIDA ACCESS Composite
+WIDA NH 2020 to 2024 COVID⌧19 Academic System Recovery Grade &amp; Content Area
+Lagging Leading System Recovery characterizes the extent
+ Growth Change
+−30 −7 10 30 to which rates of student learning (i.e., growth)
+ have returned to pre−pandemic rates of learning.
+ Calculations suppressed
+ Lagging On Par Leading
+ due to small group N (&lt; 50)
+
+ Composite
+ Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+
+ No Growth
+ All Students Data
+ On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par Leading On Par
+
+ 22</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Phase Year 3
+• Student growth in ELA in 2024 exceeded pre-pandemic growth (2019) and was
+ similar to the results in 2023.
+• Student growth in mathematics in 2024 was slightly less than growth in 2019 and
+ was less than growth observed in 2023.
+
+ 23</div>
+```
+
+## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Questions
+
+ 24</div>
+```
+
+## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Year 2
+From Fall 2022 to Summer 2023
+SAS: Spring 2022 and Spring 2023 Assessments
+
+ 25</div>
+```
+
+## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Phase Year 2
+• We again distinguish between student-level recovery and system-level
+ recovery this year.
+• Achievement (Student Recovery) and Growth (System Recovery) were
+ characterized in three ways:
+ • Lagging: Behind pre-pandemic levels
+ • On Par: About the same as pre-pandemic levels
+ • Leading: Ahead of pre-pandemic levels
+
+ 26</div>
+```
+
+## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">27</div>
+```
+
+## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2023 SGP Results
+• Mean/Median/Count for cohort referenced and baseline referenced SGP
+ in ELA and mathematics are as follows:
+
+ ELA Mathematics
+ Grade
+ Cohort Referenced Baseline Referenced Cohort Referenced Baseline Referenced
+
+ 4 49.9/50/11,114 52.2/53/11,114 49.9/50/11,193 51.5/52/11,193
+ 5 50.0/50/10,980 57.6/61/10,980 50.3/51/11,045 51.3/51/11,045
+ 6 49.8/50/11,109 54.8/57/11,109 49.7/50/11,162 53.8/55/11,162
+ 7 50.0/50/10,681 54.6/57/10,681 50.0/50/10,714 51.9/52/10,714
+ 8 49.5/49/10,804 59.2/63/10,804 49.6/50/10,890 53.8/56/10,890
+
+ 28</div>
+```
+
+## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">29</div>
+```
+
+## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">30</div>
+```
+
+## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recovery Phase Year 2
+• Student growth in ELA in 2023 exceeded growth in 2022.
+• Student growth in mathematics in 2023 was slightly less than growth in 2022.
+• In both ELA and mathematics, growth remained above pre-pandemic levels (i.e.,
+ 50).
+• This increase in rates of learning led to some groups closing the gap and slowly
+ catching up with pre-pandemic levels of achievement.
+• We are in the process of compiling results across the numerous states with whom
+ the Center works. Thus far, New Hampshire appears to be performing better than
+ many of the states in terms of accelerating student learning and, in turn, helping
+ students recover.
+
+ 31</div>
+```
+
+## About this copy {.archive-about}
+
+*2024 SGP Analyses and Results* — New Hampshire Technical Advisory Committee, January 29, 2025.
+
+This is an image-based copy of the original Keynote slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2025-01-29-nh-tac-2024-sgp-analyses-and-results/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2025-01-29-nh-tac-2024-sgp-analyses-and-results.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2020-2026/releases/download/originals/2025-01-29-nh-tac-2024-sgp-analyses-and-results.key)
+- [All talks](https://dbetebenner.github.io/talks/)
