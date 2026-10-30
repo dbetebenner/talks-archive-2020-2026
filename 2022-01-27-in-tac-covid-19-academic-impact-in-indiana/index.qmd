@@ -14,11 +14,11 @@ format:
 ```{=html}
 <div class="archive-text">COVID-19 Academic Impact in Indiana
 
- Damian Betebenner &amp; Adam Van Iwaarden
- Center for Assessment
+Damian Betebenner &amp; Adam Van Iwaarden
+Center for Assessment
 
- Indiana TAC Meeting
- January 27th, 2022</div>
+Indiana TAC Meeting
+January 27th, 2022</div>
 ```
 
 ::: notes
@@ -33,16 +33,16 @@ Scott
 <div class="archive-text">Update on Academic Impact Analysis and Report
 • We last met in late October and discussed findings.
 • The July Board of Education presentation indicated overall academic impact
- was moderate/large in ELA and large in mathematics.
+was moderate/large in ELA and large in mathematics.
 • Both status-based analyses as well as growth-based analyses support these
- findings.
+findings.
 • Since then we have finalized results associated with:
- • ILEARN spring 2021 summative assessment
- • WIDA-ACCESS 2021 summative assessment
+• ILEARN spring 2021 summative assessment
+• WIDA-ACCESS 2021 summative assessment
 • Today we want to share results associated with the analyses as well as some
- supplementary results requested by the TAC during the previous meeting.
+supplementary results requested by the TAC during the previous meeting.
 
- Pandemic Related Academic Impact in Indiana 2</div>
+Pandemic Related Academic Impact in Indiana 2</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -50,21 +50,21 @@ Scott
 ```{=html}
 <div class="archive-text">How do we quantify academic impact using test data
 • The pandemic was like a “headwind” that (presumably) slowed down the learning of
- students due to a variety of factors.
+students due to a variety of factors.
 • We can use test data in two ways to quantify the impact of this headwind:
- • Best way: Quantify how much the rate of learning (i.e., growth) slowed:
- • ILEARN: Use historical skip-year growth norms to quantify growth and compare to pre-COVID growth.
- • ACCESS: Use historical consecutive-year growth norms and compare to pre-COVID growth
- • NWEA-MAP: Provides growth data based upon historical norms but we currently don’t have historical
- growth to compare to.
- • Next best way: Look at how much 2021 status changed:
- • ILEARN: Use 2019 status (or some adjustment thereof) as a proxy.
- • ACCESS: Use 2020 status (or some adjustment thereof) as a proxy.
- • Adjustments include (potentially) imputation for missing data as well as propensity score matching for
+• Best way: Quantify how much the rate of learning (i.e., growth) slowed:
+• ILEARN: Use historical skip-year growth norms to quantify growth and compare to pre-COVID growth.
+• ACCESS: Use historical consecutive-year growth norms and compare to pre-COVID growth
+• NWEA-MAP: Provides growth data based upon historical norms but we currently don’t have historical
+growth to compare to.
+• Next best way: Look at how much 2021 status changed:
+• ILEARN: Use 2019 status (or some adjustment thereof) as a proxy.
+• ACCESS: Use 2020 status (or some adjustment thereof) as a proxy.
+• Adjustments include (potentially) imputation for missing data as well as propensity score matching for
 • NOTE: When providing 2021 data, users will (correctly) want to compare their data to
- 2019 (or 2020 with ACCESS). The task is to make sure that such a comparison is an
- apples-to-apples comparison.
- Pandemic Related Academic Impact in Indiana 3</div>
+2019 (or 2020 with ACCESS). The task is to make sure that such a comparison is an
+apples-to-apples comparison.
+Pandemic Related Academic Impact in Indiana 3</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -72,137 +72,86 @@ Scott
 ```{=html}
 <div class="archive-text">How do we quantify academic impact using test data
 • Historical consecutive and skip-year growth norms were created for ILEARN and ACCESS in
- May, 2021 for use with 2021 ILEARN and ACCESS data.
+May, 2021 for use with 2021 ILEARN and ACCESS data.
 • We can use test data in two ways to quantify the impact of this headwind:
- • Best way: Quantify how much the rate of learning (i.e., growth) slowed:
- • ILEARN: Use historical skip-year growth norms to quantify growth and compare to pre-COVID growth.
- • ACCESS: Use historical consecutive-year growth norms and compare to pre-COVID growth
- • NWEA-MAP: Provides growth data based upon historical norms but we currently don’t have historical growth to
- compare to.
- • Next best way: Look at how much 2021 status changed:
- • ILEARN: Use 2019 status (or some adjustment thereof) as a proxy.
- • ACCESS: Use 2020 status (or some adjustment thereof) as a proxy.
- • Adjustments include imputation for missing data as well as propensity score matching for changes in
- demographic characteristics of the population.
+• Best way: Quantify how much the rate of learning (i.e., growth) slowed:
+• ILEARN: Use historical skip-year growth norms to quantify growth and compare to pre-COVID growth.
+• ACCESS: Use historical consecutive-year growth norms and compare to pre-COVID growth
+• NWEA-MAP: Provides growth data based upon historical norms but we currently don’t have historical growth to
+compare to.
+• Next best way: Look at how much 2021 status changed:
+• ILEARN: Use 2019 status (or some adjustment thereof) as a proxy.
+• ACCESS: Use 2020 status (or some adjustment thereof) as a proxy.
+• Adjustments include imputation for missing data as well as propensity score matching for changes in
+demographic characteristics of the population.
 
 • Indiana participation rates were normal, with participation exceeding 95% in all grades
- and content areas.
- Pandemic Related Academic Impact in Indiana 4</div>
+and content areas.
+Pandemic Related Academic Impact in Indiana 4</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">ILEARN Mathematics Grade 7
- Indiana COVID⌧19 Academic Impact All Students
- Growth: Grade 5 2019 to Grade 7 2021 Status: Grade 7 2019 to Grade 7 2021 Summary
+Indiana COVID⌧19 Academic Impact All Students
+Growth: Grade 5 2019 to Grade 7 2021 Status: Grade 7 2019 to Grade 7 2021 Summary
 
- 2019 Grade 5 Scaled Score Decile Cuts 2019 Grade 7 Scaled Score
- Academic Impact: Overall and by Quintile
+2019 Grade 5 Scaled Score Decile Cuts 2019 Grade 7 Scaled Score
+Academic Impact: Overall and by Quintile
 
- Grade 7 Scaled/Standardized Score and Achievement Level Cuts
- 10 20 30 40 50 60 70 80 90 6300 6400 6500 6600 6700
- 6800 6800
- 2017 to 2019 Mean Conditional Status
- 2019 to 2021 Mean Conditional Status (Observed)
- 2.5 2019 Percentiles (Observed)
- 2021 Percentiles (Observed)
- Overall
+Grade 7 Scaled/Standardized Score and Achievement Level Cuts
+2017 to 2019 Mean Conditional Status
+2019 to 2021 Mean Conditional Status (Observed)
+2.5 2019 Percentiles (Observed)
+2021 Percentiles (Observed)
+Overall
 
- Observed + Imputed
- 2019 to 2021 Mean Conditional Status (+ Imputed)
- 2019 to 2021 Academic Impact
- 2021 Percentiles (+ Imputed)
- 2019 to 2021 Academic Impact High
- 2
- 2019 and 2021 Mean Scaled Scores
+Observed + Imputed
+2019 to 2021 Mean Conditional Status (+ Imputed)
+2019 to 2021 Academic Impact
+2021 Percentiles (+ Imputed)
+2019 to 2021 Academic Impact High
+2019 and 2021 Mean Scaled Scores
 
- Observed
- 6700 6700 Q1 Q2 Q3 Q4 Q5
+Observed
 
- 2021 Grade 7 Scaled Score Decile Cuts
- 1.5
- Moderate High High High High
+2021 Grade 7 Scaled Score Decile Cuts
+Moderate High High High High
 
- 2021 Grade 7 Scaled Score
- 90 90 1
+2021 Grade 7 Scaled Score
 
- 6600 80 80 6600
- 0.5
- Participation
- 70 70
+Participation
 
- 60 60 0 0 Total Status Growth
- 50 50 −0.23
- 6500 6500
- 40 40 −0.5 2019 84,696 84,578 ( 99.9%) 78,762 (93.0%)
- 30 30 2021 83,308 82,883 (99.5%) 78,561 (94.3%)
- −1
- 20 20
+60 60 0 0 Total Status Growth
 
- 6400 6400
- −1.5
- 2019: 41.4% Proficient
- 10 10
+2019: 41.4% Proficient
 
- −2
- 2021: 30.5% Proficient
+2021: 30.5% Proficient
 
- 6300 6300
- 6300 6400 6500 6600 6700 6800
- 0 10 20 30 40 50 60 70 80 90 100
- 2019 Grade 5 Scaled Score with Achievement Level Cuts Grade 7 Overall Deciles (2019 Norm)
+2019 Grade 5 Scaled Score with Achievement Level Cuts Grade 7 Overall Deciles (2019 Norm)
 
- 2019 &amp; 2021 Grade 7 Median SGPs by Quintile 2019 &amp; 2021 Grade 7 Mean Scaled/Standardized Scores by Quintile
- Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
- 2019 Grade 7 Students 50 50 50 50 50 50 2019 Grade 7 Students 6395 (0.00) 6486 (0.00) 6540 (0.00) 6591 (0.00) 6667 (0.00) 6536 (0.00)
- 2021 Grade 7 Students 37 33 28 27 34 32 2021 Grade 7 Students 6377 (−0.23) 6463 (−0.23) 6514 (−0.23) 6564 (−0.23) 6647 (−0.23) 6513 (−0.23)
- Academic Impact (Observed) −13.0 −17.0 −22.0 −23.0 −16.0 −18.0 Decrease (Observed) −17.6 (−0.18) −23.9 (−0.24) −25.8 (−0.26) −27.1 (−0.28) −19.7 (−0.20) −23 (0.23)
- Academic Impact (+ Imputed) −13.0 −17.0 −22.0 −23.0 −16.0 −18.0 Decrease (+ Imputed) −17.8 (−0.18) −24.1 (−0.25) −26.0 (−0.27) −27.4 (−0.28) −19.8 (−0.20) −23 (0.24)
- Count Observed 2019 15,509 15,848 15,723 15,393 16,289 78,762 Count Observed 2019 17,122 16,722 17,128 16,693 16,913 84,578
- Count Observed 2021 15,372 15,914 15,720 15,739 15,816 78,561 Count Observed 2021 16,749 16,626 16,391 16,561 16,556 82,883
+2019 &amp; 2021 Grade 7 Median SGPs by Quintile 2019 &amp; 2021 Grade 7 Mean Scaled/Standardized Scores by Quintile
+Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+2019 Grade 7 Students 50 50 50 50 50 50 2019 Grade 7 Students 6395 (0.00) 6486 (0.00) 6540 (0.00) 6591 (0.00) 6667 (0.00) 6536 (0.00)
+2021 Grade 7 Students 37 33 28 27 34 32 2021 Grade 7 Students 6377 (−0.23) 6463 (−0.23) 6514 (−0.23) 6564 (−0.23) 6647 (−0.23) 6513 (−0.23)
+Academic Impact (Observed) −13.0 −17.0 −22.0 −23.0 −16.0 −18.0 Decrease (Observed) −17.6 (−0.18) −23.9 (−0.24) −25.8 (−0.26) −27.1 (−0.28) −19.7 (−0.20) −23 (0.23)
+Academic Impact (+ Imputed) −13.0 −17.0 −22.0 −23.0 −16.0 −18.0 Decrease (+ Imputed) −17.8 (−0.18) −24.1 (−0.25) −26.0 (−0.27) −27.4 (−0.28) −19.8 (−0.20) −23 (0.24)
+Count Observed 2019 15,509 15,848 15,723 15,393 16,289 78,762 Count Observed 2019 17,122 16,722 17,128 16,693 16,913 84,578
+Count Observed 2021 15,372 15,914 15,720 15,739 15,816 78,561 Count Observed 2021 16,749 16,626 16,391 16,561 16,556 82,883
 
- 2021 to 2019 Scaled/Standardized Score Difference
- 35 35 0.35
- 2021 to 2019 SGP Difference (Observed) 2021 to 2019 Grade 7 Status Change (Observed)
- 30 2021 to 2019 SGP Difference (+ Imputed) 30 0.30 2021 to 2019 Grade 7 Status Change (+ Imputed)
- 0.8: Correlation SGP and Status Percentile Change
+2021 to 2019 Scaled/Standardized Score Difference
+2021 to 2019 SGP Difference (Observed) 2021 to 2019 Grade 7 Status Change (Observed)
+30 2021 to 2019 SGP Difference (+ Imputed) 30 0.30 2021 to 2019 Grade 7 Status Change (+ Imputed)
+0.8: Correlation SGP and Status Percentile Change
 
- Conditional Status/Growth Change
- 2021 to 2019 Conditional Status Difference (Observed)
- 25 25 0.25
- 0.69: Correlation SGP and Conditional Status Difference
- 20 20 0.20
-
- 15 15 0.15
-
- 10 10 0.10
+Conditional Status/Growth Change
+2021 to 2019 Conditional Status Difference (Observed)
+0.69: Correlation SGP and Conditional Status Difference
 
 2019 to 2021
- 5 5 0.05
 
- 0 0 0.00
-
- −5 −5 −0.05
-
- −10 −10 −0.10
-
- −15 −15 −0.15
-
- −20 −20 −0.20
- −0.23
- −25 −25 −0.25
-
- −30 −30 −0.30
-
- −35 −35 −0.35
- 10 20 30 40 50 60 70 80 90 6300 6400 6500 6600 6700
-
- 6300 6400 6500 6600 6700 6800 0 10 20 30 40 50 60 70 80 90 100
-
- 2019 Grade 5 Scaled Score with Decile &amp; Achievement Level Cuts Grade 7 Percentile Rank and Scaled Scores (2019 Norm)
-
- 5</div>
+2019 Grade 5 Scaled Score with Decile &amp; Achievement Level Cuts Grade 7 Percentile Rank and Scaled Scores (2019 Norm)</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -212,7 +161,7 @@ Scott
 To help summarize the vast quantity of results for stakeholders, we created
 categories of academic impact based upon both effect size standards.
 
- Pandemic Related Academic Impact in Indiana 6</div>
+Pandemic Related Academic Impact in Indiana 6</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -220,11 +169,11 @@ categories of academic impact based upon both effect size standards.
 ```{=html}
 <div class="archive-text">Review of results: ILEARN
 • Academic impacts in mathematics were larger than those in ELA,
- though impacts were large in both content areas.
+though impacts were large in both content areas.
 • Academic impacts were consistent in size across grades.
 • Across demographic subgroups, academic impacts were fairly uniform.
 
- Pandemic Related Academic Impact in Indiana 7</div>
+Pandemic Related Academic Impact in Indiana 7</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -234,11 +183,11 @@ categories of academic impact based upon both effect size standards.
 • For English Language Learners taking the WIDA-ACCESS English
 • Academic impacts were large for students in the elementary grades.
 • Academic impacts were moderate for students in middle school
- grades.
+grades.
 • Academic impacts were modest to none for students in the high
- school grades.
+school grades.
 
- Pandemic Related Academic Impact in Indiana 8</div>
+Pandemic Related Academic Impact in Indiana 8</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -246,66 +195,61 @@ categories of academic impact based upon both effect size standards.
 ```{=html}
 <div class="archive-text">Indiana COVID⌧19 Academic Impact Overview
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- All Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate High High High High High
+All Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate High High High High High
 
- Free/reduced Lunch Students High Moderate Moderate Moderate Moderate Moderate High High High High High High
+Free/reduced Lunch Students High Moderate Moderate Moderate Moderate Moderate High High High High High High
 
 Non Free/reduced Lunch Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate High High High High
 
- Asian Students Moderate Moderate Moderate Moderate Moderate Modest to None Moderate Moderate High Severe Severe High
+Asian Students Moderate Moderate Moderate Moderate Moderate Modest to None Moderate Moderate High Severe Severe High
 
- African American Students High High Moderate High Moderate Moderate Severe Severe Severe Severe High High
+African American Students High High Moderate High Moderate Moderate Severe Severe Severe Severe High High
 
- Hispanic Students High Moderate High High Moderate Moderate High High High Severe High High
+Hispanic Students High Moderate High High Moderate Moderate High High High Severe High High
 
- White Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate High High High High
+White Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate High High High High
 
- ELL Students High Moderate High High Moderate High High High High High Moderate High
+ELL Students High Moderate High High Moderate High High High High High Moderate High
 
- Special Education Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate High Moderate Moderate Moderate Moderate
+Special Education Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate High Moderate Moderate Moderate Moderate
 
- Female Students Moderate Moderate Moderate Moderate Moderate Moderate High High High Severe High High
+Female Students Moderate Moderate Moderate Moderate Moderate Moderate High High High Severe High High
 
- Male Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate High High High High
-
- 9</div>
+Male Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate High High High High</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Indiana COVID⌧19 Academic Impact Overview
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Free/reduced Lunch Students
+Free/reduced Lunch Students
 
 Non Free/reduced Lunch Students
 
- Asian Students
+Asian Students
 
- African American Students
+African American Students
 
- Hispanic Students
+Hispanic Students
 
- White Students
+White Students
 
- ELL Students
+ELL Students
 
- Special Education Students
+Special Education Students
 
- Female Students
+Female Students
 
- Male Students
-
- 10</div>
+Male Students</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -313,26 +257,21 @@ Non Free/reduced Lunch Students
 ```{=html}
 <div class="archive-text">WIDA IN COVID⌧19 Academic Impact Overview
 
- Reading
- Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+Reading
+Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
 
- All Students Moderate High Moderate High High Moderate Moderate Moderate Moderate Moderate Modest to None Modest to None Improvement
-
- 11</div>
+All Students Moderate High Moderate High High Moderate Moderate Moderate Moderate Moderate Modest to None Modest to None Improvement</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">WIDA IN COVID⌧19 Academic Impact Overview
- Reading
- Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+Reading
+Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
-
- 12</div>
+All Students</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}

@@ -26,14 +26,14 @@ October 7th, 2022</div>
 ```{=html}
 <div class="archive-text">Impact &amp; Recovery
 • Recall:
- • Academic impact is analogous to a headwind, decreasing the rate of student
- learning (deceleration) which, in turn leads to lower attainment
- • Academic recovery is analogous to a tailwind, increasing the rate of student
- learning (acceleration) which, in turn leads to higher attainment
+• Academic impact is analogous to a headwind, decreasing the rate of student
+learning (deceleration) which, in turn leads to lower attainment
+• Academic recovery is analogous to a tailwind, increasing the rate of student
+learning (acceleration) which, in turn leads to higher attainment
 • 2019 to 2021 we examined academic impact
 • 2021 to 2022 we (hope) to examine academic recovery
 • It is important to note that any meaningful discussion about recovery presumes an
- understanding of the magnitude of impact.</div>
+understanding of the magnitude of impact.</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -43,28 +43,20 @@ October 7th, 2022</div>
 
 • Given the negative pandemic impacts, any recovery implies learning acceleration.
 • However, not all acceleration can be considered recovery
- • Acceleration versus 2021 versus acceleration versus 2019
- 99
- 90
- 80
- V-Shaped Recovery (&gt; 60)
- 70
- 60 U-Shaped Recovery (50 to 60)
+• Acceleration versus 2021 versus acceleration versus 2019
+V-Shaped Recovery (&gt; 60)
+60 U-Shaped Recovery (50 to 60)
 
- Median 2021 Baseline SGP 50 Median 2022 Baseline SGP
- L-Shaped “Recovery” (40 to 50)
- 40
+Median 2021 Baseline SGP 50 Median 2022 Baseline SGP
+L-Shaped “Recovery” (40 to 50)
 
- 30 30
- Downward Spiral (&lt; 40) Note: Any median SGP above 30
- in 2022 would be considered
- 20
- acceleration. But only values
- 10 above 50 would be sufficient to
- begin catching students up to
- 1
- where they would have been
- absent the pandemic.</div>
+Downward Spiral (&lt; 40) Note: Any median SGP above 30
+in 2022 would be considered
+acceleration. But only values
+10 above 50 would be sufficient to
+begin catching students up to
+where they would have been
+absent the pandemic.</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -72,100 +64,99 @@ October 7th, 2022</div>
 ```{=html}
 <div class="archive-text">Impact &amp; Recovery
 • ELA
- • Decreases in percent proficient ranged from upper single digits in lower grades to lower single
- digits in higher grades.
- • Median (baseline) SGPs ranged from mid 30s (lower grades) to lower 40s (higher grades)
- • Impacts were categorized as moderate to large
+• Decreases in percent proficient ranged from upper single digits in lower grades to lower single
+digits in higher grades.
+• Median (baseline) SGPs ranged from mid 30s (lower grades) to lower 40s (higher grades)
+• Impacts were categorized as moderate to large
 • Mathematics
- • Decreases in percent proficient was in the lower teens
- • Median (baseline) SGPs ranged from the mid to upper 20s.
- • Impacts were categorized as large to severe
+• Decreases in percent proficient was in the lower teens
+• Median (baseline) SGPs ranged from the mid to upper 20s.
+• Impacts were categorized as large to severe
 • Moderate, large, and severe impacts likely require multiple years of above average (pre-pandemic)
- growth to recover to where students would have been had the pandemic not occurred.</div>
+growth to recover to where students would have been had the pandemic not occurred.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">SBA ELA and Mathematics
- Hawaii 2019 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
- Impact Recovery
- −40 −25 −15 −5 5 20 Growth Change
+Hawaii 2019 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
+Impact Recovery
+−40 −25 −15 −5 5 20 Growth Change
 
- −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
+−0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
 
- Modest
- Calculations suppressed
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+Modest
+Calculations suppressed
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- All Students Moderate Moderate Large Moderate Moderate Moderate Severe Large Severe Large Large Large
+All Students Moderate Moderate Large Moderate Moderate Moderate Severe Large Severe Large Large Large
 
- Economically Disadvantaged Students Moderate Moderate Moderate Moderate Moderate Moderate Severe Large Severe Large Moderate Large
+Economically Disadvantaged Students Moderate Moderate Moderate Moderate Moderate Moderate Severe Large Severe Large Moderate Large
 
 Non−Economically Disadvantaged Students Moderate Modest to None Large Moderate Moderate Moderate Large Large Severe Severe Large Large
 
- Special Education Students Moderate Modest to None Moderate Modest to None Modest to None Modest to None Large Moderate Moderate Moderate Modest to None Modest to None
+Special Education Students Moderate Modest to None Moderate Modest to None Modest to None Modest to None Large Moderate Moderate Moderate Modest to None Modest to None
 
- Asian Students Moderate Modest to None Moderate Large Moderate Moderate Large Large Severe Severe Severe Severe
+Asian Students Moderate Modest to None Moderate Large Moderate Moderate Large Large Severe Severe Severe Severe
 
- White Students Moderate Moderate Large Large Moderate Moderate Large Moderate Severe Large Large Large
+White Students Moderate Moderate Large Large Moderate Moderate Large Moderate Severe Large Large Large
 
- Hispanic Students Moderate Moderate Large Moderate Moderate Moderate Large Large Large Severe Large Severe
+Hispanic Students Moderate Moderate Large Moderate Moderate Moderate Large Large Large Severe Large Severe
 
- Native Hawaiian Students Moderate Moderate Moderate Moderate Moderate Modest to None Severe Large Severe Large Moderate Large
+Native Hawaiian Students Moderate Moderate Moderate Moderate Moderate Modest to None Severe Large Severe Large Moderate Large
 
- ELL Students Moderate Improvement Moderate Moderate Moderate Moderate Large Moderate Large Large Moderate Large
+ELL Students Moderate Improvement Moderate Moderate Moderate Moderate Large Moderate Large Large Moderate Large
 
- Female Students Moderate Moderate Large Moderate Moderate Moderate Severe Large Severe Severe Large Large
+Female Students Moderate Moderate Large Moderate Moderate Moderate Severe Large Severe Severe Large Large
 
- Male Students Large Moderate Moderate Moderate Moderate Moderate Severe Large Severe Large Moderate Large</div>
+Male Students Large Moderate Moderate Moderate Moderate Moderate Severe Large Severe Large Moderate Large</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">ELA And Mathematics
- Hawaii 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
- Impact Recovery
- −40 −25 −15 −5 5 20 Growth Change
- NOTE: Quintiles for each student
- −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change subgroup are based upon quintile
- Modest
- Calculations suppressed
- cuts defined for All Students.
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50) Box width indicates group proportion.
+Hawaii 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
+Impact Recovery
+−40 −25 −15 −5 5 20 Growth Change
+NOTE: Quintiles for each student
+−0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change subgroup are based upon quintile
+Modest
+Calculations suppressed
+cuts defined for All Students.
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50) Box width indicates group proportion.
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged Students
+Economically Disadvantaged Students
 
 Non−Economically Disadvantaged Students
 
- Special Education Students
+Special Education Students
 
- Asian Students
+Asian Students
 
- White Students
+White Students
 
- Hispanic Students
+Hispanic Students
 
- Native Hawaiian Students
+Native Hawaiian Students
 
- ELL Students
+ELL Students
 
- Female Students
+Female Students
 
- Male Students</div>
+Male Students</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -173,117 +164,53 @@ Non−Economically Disadvantaged Students
 ```{=html}
 <div class="archive-text">SBA ELA Grade 4
 Hawaii 2019 to 2021 COVID⌧19 Academic Impact ELL Students
- Status: Grade 4 2019 to Grade 4 2021 Summary
+Status: Grade 4 2019 to Grade 4 2021 Summary
 
- 2019 Grade 4 Scaled Score
- Academic Impact: Overall and by Quintile
+2019 Grade 4 Scaled Score
+Academic Impact: Overall and by Quintile
 
- Grade 4 Scaled/Standardized Score and Achievement Level Cuts
- 2200 2400 2500 2700
- 2700
- 2019 Percentiles (Observed)
- Overall
- 2 2021 Percentiles (Observed)
- 2021 Percentiles (+ Imputed) Improvement
- 2019 to 2021 Status Impact
- 1.5 2019 and 2021 Mean Scaled Scores
- Q1 Q2 Q3 Q4 Q5
- 2600
- Improvement Improvement Improvement Improvement Small N
- 1
+Grade 4 Scaled/Standardized Score and Achievement Level Cuts
+2019 Percentiles (Observed)
+Overall
+2 2021 Percentiles (Observed)
+2021 Percentiles (+ Imputed) Improvement
+2019 to 2021 Status Impact
+1.5 2019 and 2021 Mean Scaled Scores
+Improvement Improvement Improvement Improvement Small N
 
- 0.5
- 2500
- Participation
- 0
- Total Status Growth
- −0.5
- 2400 −0.69 2019 1,278 1,278 (100.0%) NA
- −0.83
- −1 2021 1,762 1,629 (92.5%) NA
+Participation
+Total Status Growth
+2400 −0.69 2019 1,278 1,278 (100.0%) NA
+−1 2021 1,762 1,629 (92.5%) NA
 
- −1.5
+No Growth Data:
+2300 2019: 15.7% Proficient
+2021: 21.4% Proficient
+−2.5 Growth/Status Change Legend
 
- No Growth Data:
- 2300 2019: 15.7% Proficient
- −2
- 2021: 21.4% Proficient
- −2.5 Growth/Status Change Legend
- 2200
+SBA ELA
+Grade 4 Overall and Subgroup Percentile Ranks
+Modest
+Severe Large Moderate to Improvement
 
- SBA ELA
- 10 20 30 40 50 60 70 80 90
- −40 −25 −15 −5 5 20
- 0 10 20 30 40 50 60 70 80 90 100
- −0.55 −0.4 −0.25 −0.1 0.05 0.2
- Grade 4 Overall and Subgroup Percentile Ranks
- Modest
- Severe Large Moderate to Improvement
+Grade 4 2019 Grade 4 Students
+2021 Grade 4 Students
+2019 &amp; 2021 Grade 4 Mean Scaled (Standardized) Scores by Quintile
+Overall
+2400 (−0.69) Calculations suppressed
+None
 
- Grade 4 2019 Grade 4 Students
- 2021 Grade 4 Students
- 2019 &amp; 2021 Grade 4 Mean Scaled (Standardized) Scores by Quintile
- Q1
- 2319 (−0.83)
- 2313 (−0.69)
- Q2
- 2411 (−0.83)
- 2401 (−0.69)
- Q3
- 2472 (−0.83)
- 2460 (−0.69)
- Q4
- 2520 (−0.83)
- 2515 (−0.69)
- Q5
- 2570 (−0.83)
- 2578 (−0.69)
- Overall
- 2387 (−0.83)
- 2400 (−0.69) Calculations suppressed
- None
+Change (Observed) −6 (−0.06) −10 (−0.10) −12 (−0.12) −4 (−0.04) 8 ( 0.08) 14 (0.14)
+Change (+ Imputed) −5 (−0.04) −10 (−0.18) −12 (−0.24) −4 (−0.22) 8 (−0.15) 13 (0.13)
+due to small group N (&lt; 50)
+Count Observed 2019 606 365 193 89 24 1,277
+Count Observed 2021 619 452 279 198 81 1,629
 
- Change (Observed) −6 (−0.06) −10 (−0.10) −12 (−0.12) −4 (−0.04) 8 ( 0.08) 14 (0.14)
- Change (+ Imputed) −5 (−0.04) −10 (−0.18) −12 (−0.24) −4 (−0.22) 8 (−0.15) 13 (0.13)
- due to small group N (&lt; 50)
- Count Observed 2019 606 365 193 89 24 1,277
- Count Observed 2021 619 452 279 198 81 1,629
+2021 to 2019 Scaled/Standardized Score Difference
+2021 to 2019 Grade 4 Status Change (Observed)
+30 0.30 2021 to 2019 Grade 4 Status Change (+ Imputed)
 
- 2021 to 2019 Scaled/Standardized Score Difference
- 35 0.35
- 2021 to 2019 Grade 4 Status Change (Observed)
- 30 0.30 2021 to 2019 Grade 4 Status Change (+ Imputed)
-
- 25 0.25
-
- 20 0.20
-
- 15 0.15
- 0.14
- 10 0.10
-
- 5 0.05
-
- 0 0.00
-
- −5 −0.05
-
- −10 −0.10
-
- −15 −0.15
-
- −20 −0.20
-
- −25 −0.25
-
- −30 −0.30
-
- −35 −0.35
- 2200 2400 2500 2700
-
- 0 10 20 30 40 50 60 70 80 90 100
-
- Grade 4 Percentile Ranks and Scaled Scores (2019 Norm)</div>
+Grade 4 Percentile Ranks and Scaled Scores (2019 Norm)</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -296,15 +223,15 @@ Impact Recovery
 
 −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
 
- Modest
- Calculations suppressed
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+Modest
+Calculations suppressed
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- WIDA−ACCESS Composite
- Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+WIDA−ACCESS Composite
+Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
 
- All Students Moderate Large Large Large Large Large Moderate Modest to None Modest to None Moderate Modest to None Modest to None Modest to None</div>
+All Students Moderate Large Large Large Large Large Moderate Modest to None Modest to None Moderate Modest to None Modest to None Modest to None</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -317,17 +244,16 @@ Impact Recovery
 
 −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
 
- Modest
- Calculations suppressed
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+Modest
+Calculations suppressed
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- WIDA−ACCESS Composite
- Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+WIDA−ACCESS Composite
+Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students</div>
+All Students</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -335,38 +261,35 @@ Impact Recovery
 ```{=html}
 <div class="archive-text">All Students
 Multi⌧State 2019 to 2021 COVID⌧19 Academic Impact ELA And Mathematics by Grade
- Growth/Status Change Legend
-−40 −25 −15 −5 5 20
+Growth/Status Change Legend
 
-−0.55 −0.4 −0.25 −0.1 0.05 0.2
+Modest
+Calculations suppressed
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- Modest
- Calculations suppressed
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Hawaii Moderate Moderate Large Moderate Moderate Moderate Severe Large Severe Large Large Large
 
- Hawaii Moderate Moderate Large Moderate Moderate Moderate Severe Large Severe Large Large Large
+State A Moderate Moderate Large Moderate Moderate Moderate Large Large Large Severe Large Severe
 
- State A Moderate Moderate Large Moderate Moderate Moderate Large Large Large Severe Large Severe
+State B Moderate Moderate Moderate Moderate Large Moderate
 
- State B Moderate Moderate Moderate Moderate Large Moderate
+State C Moderate Moderate Modest to None Moderate Modest to None Moderate Large Large Large Large Large Large
 
- State C Moderate Moderate Modest to None Moderate Modest to None Moderate Large Large Large Large Large Large
+State D Moderate Moderate Large Large Large Large Large Moderate Severe Severe Large Severe
 
- State D Moderate Moderate Large Large Large Large Large Moderate Severe Severe Large Severe
+State E Large Moderate Large Moderate Large Moderate Severe Large Large Severe Large Large
 
- State E Large Moderate Large Moderate Large Moderate Severe Large Large Severe Large Large
+State F Moderate Moderate Large Large Large Large Severe Severe Severe Severe Large Severe
 
- State F Moderate Moderate Large Large Large Large Severe Severe Severe Severe Large Severe
+State G Large Large Large Moderate Large Moderate Large Severe Large Large Moderate Moderate
 
- State G Large Large Large Moderate Large Moderate Large Severe Large Large Moderate Moderate
+State H Moderate Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Large Large
 
- State H Moderate Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Large Large
-
- State I Moderate Large Moderate Moderate Modest to None Moderate Moderate Moderate Moderate Moderate Moderate Moderate</div>
+State I Moderate Large Moderate Moderate Modest to None Moderate Moderate Moderate Moderate Moderate Moderate Moderate</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -374,34 +297,31 @@ Multi⌧State 2019 to 2021 COVID⌧19 Academic Impact ELA And Mathematics by Gra
 ```{=html}
 <div class="archive-text">All Students
 Multi⌧State 2020 to 2021 COVID⌧19 Academic Impact WIDA⌧ACCESS Composite by Grade
- Growth/Status Change Legend
-−40 −25 −15 −5 5 20
+Growth/Status Change Legend
 
-−0.55 −0.4 −0.25 −0.1 0.05 0.2
+Modest
+Calculations suppressed
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- Modest
- Calculations suppressed
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+Composite
+Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
 
- Composite
- Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+State A Modest to None Modest to None Large Large Large Severe Large Moderate Moderate Moderate Moderate Modest to None Modest to None
 
- State A Modest to None Modest to None Large Large Large Severe Large Moderate Moderate Moderate Moderate Modest to None Modest to None
+State B Large Large Large Large Large Large Moderate Moderate Moderate Moderate Moderate Modest to None Modest to None
 
- State B Large Large Large Large Large Large Moderate Moderate Moderate Moderate Moderate Modest to None Modest to None
+State C Modest to None Moderate Moderate Large Large Large Large Moderate Moderate Moderate Moderate Modest to None Modest to None
 
- State C Modest to None Moderate Moderate Large Large Large Large Moderate Moderate Moderate Moderate Modest to None Modest to None
+State D Moderate Large Large Large Large Large Moderate Modest to None Modest to None Moderate Modest to None Modest to None Modest to None
 
- State D Moderate Large Large Large Large Large Moderate Modest to None Modest to None Moderate Modest to None Modest to None Modest to None
+State E Large Large Moderate Large Large Large Large Moderate Moderate Modest to None Modest to None Modest to None Modest to None
 
- State E Large Large Moderate Large Large Large Large Moderate Moderate Modest to None Modest to None Modest to None Modest to None
+State F Moderate Moderate Moderate Moderate Moderate Moderate Moderate Modest to None Improvement Modest to None Improvement Improvement Modest to None
 
- State F Moderate Moderate Moderate Moderate Moderate Moderate Moderate Modest to None Improvement Modest to None Improvement Improvement Modest to None
+State G Moderate Large Moderate Large Large Moderate Moderate Moderate Moderate Moderate Modest to None Modest to None Improvement
 
- State G Moderate Large Moderate Large Large Moderate Moderate Moderate Moderate Moderate Modest to None Modest to None Improvement
-
- State H Moderate Moderate Moderate Large Large Large Large Moderate Large Moderate Moderate Modest to None Modest to None</div>
+State H Moderate Moderate Moderate Large Large Large Large Moderate Large Moderate Moderate Modest to None Modest to None</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -424,34 +344,34 @@ Deterioration Recovery
 
 −0.55 −0.07 0.1 0.2 Status Change
 
- Calculations suppressed
- Deterioration Stabilization Recovery
- due to small group N (&lt; 50)
+Calculations suppressed
+Deterioration Stabilization Recovery
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- All Students Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
+All Students Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
 
- Economically Disadvantaged Stabilization Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
+Economically Disadvantaged Stabilization Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
 
- Non−Economically Disadvantaged Recovery Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
+Non−Economically Disadvantaged Recovery Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
 
- Special Education Stabilization Stabilization Stabilization Stabilization Stabilization Deterioration Recovery Stabilization Stabilization Stabilization Stabilization Stabilization
+Special Education Stabilization Stabilization Stabilization Stabilization Stabilization Deterioration Recovery Stabilization Stabilization Stabilization Stabilization Stabilization
 
- Asian Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
+Asian Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
 
- White Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Stabilization Recovery Recovery Stabilization
+White Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Stabilization Recovery Recovery Stabilization
 
- Hispanic Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
+Hispanic Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
 
- Native Hawaiian Stabilization Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Recovery Recovery Stabilization
+Native Hawaiian Stabilization Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Recovery Recovery Stabilization
 
- ELL Stabilization Deterioration Stabilization Stabilization Stabilization Deterioration Recovery Stabilization Recovery Stabilization Stabilization Deterioration
+ELL Stabilization Deterioration Stabilization Stabilization Stabilization Deterioration Recovery Stabilization Recovery Stabilization Stabilization Deterioration
 
- Female Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
+Female Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
 
- Male Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Recovery Recovery Stabilization</div>
+Male Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Recovery Recovery Stabilization</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -461,39 +381,38 @@ Deterioration Recovery
 Hawaii 2021 to 2022 COVID⌧19 Academic Recovery Grade, Content Area &amp; Achievement Quintile
 Deterioration Recovery
 −30 −7 10 30 Growth Change
- NOTE: Quintiles for each student
+NOTE: Quintiles for each student
 −0.55 −0.07 0.1 0.2 Status Change subgroup are based upon quintile
- Calculations suppressed
- cuts defined for All Students.
- Deterioration Stabilization Recovery
- due to small group N (&lt; 50) Box width indicates group proportion.
+Calculations suppressed
+cuts defined for All Students.
+Deterioration Stabilization Recovery
+due to small group N (&lt; 50) Box width indicates group proportion.
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
- Non−Economically Disadvantaged
+Non−Economically Disadvantaged
 
- Special Education
+Special Education
 
- Asian
+Asian
 
- White
+White
 
- Hispanic
+Hispanic
 
- Native Hawaiian
+Native Hawaiian
 
- ELL
+ELL
 
- Female
+Female
 
- Male</div>
+Male</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -503,153 +422,95 @@ Deterioration Recovery
 Hawaii 2021 to 2022 COVID⌧19 Academic Recovery Grade, Content Area &amp; Achievement Quintile
 Deterioration Recovery
 −30 −7 10 30 Growth Change
- NOTE: Quintiles for each student
+NOTE: Quintiles for each student
 −0.55 −0.07 0.1 0.2 Status Change subgroup are based upon quintile
- Calculations suppressed
- cuts defined for All Students.
- Deterioration Stabilization Recovery
- due to small group N (&lt; 50) Box width indicates group proportion.
+Calculations suppressed
+cuts defined for All Students.
+Deterioration Stabilization Recovery
+due to small group N (&lt; 50) Box width indicates group proportion.
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
- Non−Economically Disadvantaged
+Non−Economically Disadvantaged
 
- Special Education
+Special Education
 
- Asian
+Asian
 
- White
+White
 
- Hispanic
+Hispanic
 
- Native Hawaiian
+Native Hawaiian
 
- ELL
+ELL
 
- Female
+Female
 
- Male</div>
+Male</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">SBA ELA Grade 8
- Hawaii 2021 to 2022 COVID⌧19 Academic Recovery Special Education Students
- Growth: Grade 6 2019 to Grade 8 2022 Status: Grade 8 2021 to Grade 8 2022 Summary
- 2021 Grade 6 Scaled Score Decile Cuts
- 2021 Grade 8 Scaled Score
- Observed
- 10 20 30 40 50 60 70 80 90
- All Students
- Academic Impact: Overall and by Quintile
+Hawaii 2021 to 2022 COVID⌧19 Academic Recovery Special Education Students
+Growth: Grade 6 2019 to Grade 8 2022 Status: Grade 8 2021 to Grade 8 2022 Summary
+2021 Grade 6 Scaled Score Decile Cuts
+2021 Grade 8 Scaled Score
+Observed
+All Students
+Academic Impact: Overall and by Quintile
 
- 2022 Grade 8 Scaled Score Decile Cuts
+2022 Grade 8 Scaled Score Decile Cuts
 
- Grade 8 Scaled/Standardized Score and Achievement Level Cuts
- Special Education Students
- 10 20 30 40 50 60 70 80 90
- 2200 2400 2500 2700
- 2700
- 2018 to 2019 Mean Conditional Status
- 90 2700
- 2021 Percentiles (Observed)
- Overall
- 2021 to 2022 Mean Conditional Status (Observed) 1 2022 Percentiles (Observed)
- 2021 to 2022 Growth Impact 80 2021 to 2022 Status Impact Deterioration
- 2021 and 2022 Mean Scaled Scores
- 70
- 0.5 Q1 Q2 Q3 Q4 Q5
- 2600 60 2600
- Deterioration Deterioration Deterioration Small N Small N
+Grade 8 Scaled/Standardized Score and Achievement Level Cuts
+Special Education Students
+2018 to 2019 Mean Conditional Status
+2021 Percentiles (Observed)
+Overall
+2021 to 2022 Mean Conditional Status (Observed) 1 2022 Percentiles (Observed)
+2021 to 2022 Growth Impact 80 2021 to 2022 Status Impact Deterioration
+2021 and 2022 Mean Scaled Scores
+Deterioration Deterioration Deterioration Small N Small N
 
- 2022 Grade 8 Scaled Score
- 50 0
+2022 Grade 8 Scaled Score
 
- 40
+Participation
+Total Status Growth
 
- −0.5
- 30
- 2500 2500
- Participation
- 20
- −1
- −1.13
- −1.22
- Total Status Growth
- 10
- 2400 2400
- −1.5 2021 1,251 1,251 (100.0%) 1,153 (92.2%)
+2300 2300 2021: 8.1% Proficient
 
- 2022 1,221 1,221 (100.0%) 957 (78.4%)
- −2
+2022: 8.0% Proficient
+Growth/Status Change Legend
+2021 Grade 6 Scaled Score with Achievement Level Cuts Grade 8 Overall and Subgroup Percentile Ranks
 
- −2.5
- 2300 2300 2021: 8.1% Proficient
+Deterioration Stabilization Recovery
+2019 &amp; 2022 Grade 8 Median SGPs by Quintile 2021 &amp; 2022 Grade 8 Mean Scaled (Standardized) Scores by Quintile
+Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+2019 Grade 8 Students 42.0 46.0 43.5 48.5 63.0 44.0 2021 Grade 8 Students 2400 (−1.13) 2504 (−1.13) 2568 (−1.13) 2627 (−1.13) 2691 (−1.13) 2448 (−1.13)
+2022 Grade 8 Students 34.5 33.0 34.0 39.0 68.0 34.0 2022 Grade 8 Students 2389 (−1.22) 2498 (−1.22) 2561 (−1.22) 2623 (−1.22) 2690 (−1.22) 2438 (−1.22) Calculations suppressed
+Academic Impact (Observed) −7.5 −13.0 −9.5 −9.5 5.0 −10.0 Change (Observed) −10 (−0.10) −6 (−0.06) −8 (−0.07) −4 (−0.03) −1 (−0.01) −10 (−0.09)
+Count Observed 2019 777 255 96 18 7 1,153 Count Observed 2021 665 250 87 28 12 1,042
+due to small group N (&lt; 50)
+Count Observed 2022 662 202 59 29 5 957 Count Observed 2022 809 247 104 46 15 1,221
 
- −3
- 2022: 8.0% Proficient
- Growth/Status Change Legend
- 2200 2200 −3.5
- 10 20 30 40 50 60 70 80 90
- 2200 2300 2400 2500 2700 −30 −7 10 30
- 0 10 20 30 40 50 60 70 80 90 100
- 2021 Grade 6 Scaled Score with Achievement Level Cuts Grade 8 Overall and Subgroup Percentile Ranks
- −0.55 −0.07 0.1 0.2
+2022 to 2021 Scaled/Standardized Score Difference
+2022 to 2021 SGP Difference (Observed) 2022 to 2021 Grade 8 Status Change (Observed)
+2022 to 2021 Conditional Status Difference (Observed) −0.51: Correlation SGP and Status Percentile Change
 
- Deterioration Stabilization Recovery
- 2019 &amp; 2022 Grade 8 Median SGPs by Quintile 2021 &amp; 2022 Grade 8 Mean Scaled (Standardized) Scores by Quintile
- Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
- 2019 Grade 8 Students 42.0 46.0 43.5 48.5 63.0 44.0 2021 Grade 8 Students 2400 (−1.13) 2504 (−1.13) 2568 (−1.13) 2627 (−1.13) 2691 (−1.13) 2448 (−1.13)
- 2022 Grade 8 Students 34.5 33.0 34.0 39.0 68.0 34.0 2022 Grade 8 Students 2389 (−1.22) 2498 (−1.22) 2561 (−1.22) 2623 (−1.22) 2690 (−1.22) 2438 (−1.22) Calculations suppressed
- Academic Impact (Observed) −7.5 −13.0 −9.5 −9.5 5.0 −10.0 Change (Observed) −10 (−0.10) −6 (−0.06) −8 (−0.07) −4 (−0.03) −1 (−0.01) −10 (−0.09)
- Count Observed 2019 777 255 96 18 7 1,153 Count Observed 2021 665 250 87 28 12 1,042
- due to small group N (&lt; 50)
- Count Observed 2022 662 202 59 29 5 957 Count Observed 2022 809 247 104 46 15 1,221
-
- 2022 to 2021 Scaled/Standardized Score Difference
- 35 35
- 2022 to 2021 SGP Difference (Observed) 2022 to 2021 Grade 8 Status Change (Observed)
- 30 30 0.30
- 2022 to 2021 Conditional Status Difference (Observed) −0.51: Correlation SGP and Status Percentile Change
-
- Conditional Status/Growth Change
- 25 0.55: Correlation SGP and Conditional Status Difference 25 0.25
-
- 20 20 0.20
-
- 15 15 0.15
-
- 10 10 0.10
+Conditional Status/Growth Change
+25 0.55: Correlation SGP and Conditional Status Difference 25 0.25
 
 2021 to 2022
- 5 5 0.05
 
- 0 0 0.00
-
- −5 −5 −0.05
-
- −10 −10 −0.10 −0.09
-
- −15 −15 −0.15
-
- −20 −20 −0.20
-
- −25 −25 −0.25
- −30 −30 −0.30
- −35 −35
- 10 20 30 40 50 60 70 80 90 2200 2400 2500 2700
-
- 2200 2300 2400 2500 2700 0 10 20 30 40 50 60 70 80 90 100
-
- 2021 Grade 6 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2021 Norm)</div>
+2021 Grade 6 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2021 Norm)</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -657,344 +518,208 @@ Deterioration Recovery
 ```{=html}
 <div class="archive-text">Exemplar Schools: Impact &amp; Recovery
 • Original discussions about examining ROI were redirected to examine Return on Activities:
- • Identify outlier schools in terms of impact/recovery.
- • Investigate whether activities (or lack thereof) could potentially be responsible for the
- school’s outlier status.
- • For schools with plausible activities leading to exemplary recovery, investigate links to
- relevant investment/funding.
+• Identify outlier schools in terms of impact/recovery.
+• Investigate whether activities (or lack thereof) could potentially be responsible for the
+school’s outlier status.
+• For schools with plausible activities leading to exemplary recovery, investigate links to
+relevant investment/funding.
 • Step 1 is to find these outlier schools.
 • We investigated schools along two dimensions:
- • Academic Impact (2019 to 2021 decrease in student learning)
- • Academic Recovery (2021 to 2022 increase in student learning relative to pre-
- pandemic 2018-2019 learning)</div>
+• Academic Impact (2019 to 2021 decrease in student learning)
+• Academic Recovery (2021 to 2022 increase in student learning relative to pre-
+pandemic 2018-2019 learning)</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">School Impact−Recovery: 2019 to 2021 and 2021 to 2022
- Elementary Schools by Poverty: ELA &amp; Math Combined
-
- 40
+Elementary Schools by Poverty: ELA &amp; Math Combined
 
 Recovery
- 30
 
- 20
- + Outliers
++ Outliers
 
- Academic Recovery 2021 to 2022
- 10
+Academic Recovery 2021 to 2022
 
- 0
-
- −10
-
- −20
-
- −30
- − Outliers
+− Outliers
 Deterioration
- Free/Reduced Lunch: &lt; 30%
+Free/Reduced Lunch: &lt; 30%
 
- −40
- Free/Reduced Lunch: 30% to 45%
- Free/Reduced Lunch: 45% to 60%
- Free/Reduced Lunch: 60% to 75%
- Free/Reduced Lunch: &gt; 75%
+Free/Reduced Lunch: 30% to 45%
+Free/Reduced Lunch: 45% to 60%
+Free/Reduced Lunch: 60% to 75%
+Free/Reduced Lunch: &gt; 75%
 
- −50
-
- −80 −70 −60 −50 −40 −30 −20 −10 0 10 20 30 40
-
- Severe Impact Academic Impact 2019 to 2021 No Impact</div>
+Severe Impact Academic Impact 2019 to 2021 No Impact</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">School Impact−Recovery: 2019 to 2021 and 2021 to 2022
- Middle Schools by Poverty: ELA &amp; Math Combined
-
- 40
+Middle Schools by Poverty: ELA &amp; Math Combined
 
 Recovery
- 30
 
- 20
- + Outliers
++ Outliers
 
- Academic Recovery 2021 to 2022
- 10
+Academic Recovery 2021 to 2022
 
- 0
-
- −10
-
- −20
-
- −30
- − Outliers
+− Outliers
 Deterioration
- Free/Reduced Lunch: &lt; 30%
+Free/Reduced Lunch: &lt; 30%
 
- −40
- Free/Reduced Lunch: 30% to 45%
- Free/Reduced Lunch: 45% to 60%
- Free/Reduced Lunch: 60% to 75%
- Free/Reduced Lunch: &gt; 75%
+Free/Reduced Lunch: 30% to 45%
+Free/Reduced Lunch: 45% to 60%
+Free/Reduced Lunch: 60% to 75%
+Free/Reduced Lunch: &gt; 75%
 
- −50
-
- −80 −70 −60 −50 −40 −30 −20 −10 0 10 20 30 40
-
- Severe Impact Academic Impact 2019 to 2021 No Impact</div>
+Severe Impact Academic Impact 2019 to 2021 No Impact</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">School Impact−Recovery: 2019 to 2021 and 2021 to 2022
- Elementary−Middle Schools by Poverty: ELA &amp; Math Combined
-
- 40
+Elementary−Middle Schools by Poverty: ELA &amp; Math Combined
 
 Recovery
- 30
 
- 20
- + Outliers
++ Outliers
 
- Academic Recovery 2021 to 2022
- 10
+Academic Recovery 2021 to 2022
 
- 0
-
- −10
-
- −20
-
- −30
- − Outliers
+− Outliers
 Deterioration
- Free/Reduced Lunch: &lt; 30%
+Free/Reduced Lunch: &lt; 30%
 
- −40
- Free/Reduced Lunch: 30% to 45%
- Free/Reduced Lunch: 45% to 60%
- Free/Reduced Lunch: 60% to 75%
- Free/Reduced Lunch: &gt; 75%
+Free/Reduced Lunch: 30% to 45%
+Free/Reduced Lunch: 45% to 60%
+Free/Reduced Lunch: 60% to 75%
+Free/Reduced Lunch: &gt; 75%
 
- −50
-
- −80 −70 −60 −50 −40 −30 −20 −10 0 10 20 30 40
-
- Severe Impact Academic Impact 2019 to 2021 No Impact</div>
+Severe Impact Academic Impact 2019 to 2021 No Impact</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">School Impact−Recovery: 2019 to 2021 and 2021 to 2022
- Elementary Schools by Poverty: ELA &amp; Math Combined
-
- 40
+Elementary Schools by Poverty: ELA &amp; Math Combined
 
 Recovery
- 30
 
- 20
- + Outliers
++ Outliers
 
- Academic Recovery 2021 to 2022
- 10
+Academic Recovery 2021 to 2022
 
- 0
-
- −10
-
- −20
-
- −30
- − Outliers
+− Outliers
 Deterioration
- Free/Reduced Lunch: &lt; 30%
+Free/Reduced Lunch: &lt; 30%
 
- −40
- Free/Reduced Lunch: 30% to 45%
- Free/Reduced Lunch: 45% to 60%
- Free/Reduced Lunch: 60% to 75%
- Free/Reduced Lunch: &gt; 75%
+Free/Reduced Lunch: 30% to 45%
+Free/Reduced Lunch: 45% to 60%
+Free/Reduced Lunch: 60% to 75%
+Free/Reduced Lunch: &gt; 75%
 
- −50
-
- −80 −70 −60 −50 −40 −30 −20 −10 0 10 20 30 40
-
- Severe Impact Academic Impact 2019 to 2021 No Impact</div>
+Severe Impact Academic Impact 2019 to 2021 No Impact</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">School Impact−Recovery: 2019 to 2021 and 2021 to 2022
- Elementary Schools by Poverty: ELA &amp; Math Combined
-
- 40
+Elementary Schools by Poverty: ELA &amp; Math Combined
 
 Recovery
- 30
 
- 20
- + Outliers
++ Outliers
 
- Academic Recovery 2021 to 2022
- 10
+Academic Recovery 2021 to 2022
 
- 0
-
- −10
-
- −20
-
- −30
- − Outliers
+− Outliers
 Deterioration
- Free/Reduced Lunch: &lt; 30%
+Free/Reduced Lunch: &lt; 30%
 
- −40
- Free/Reduced Lunch: 30% to 45%
- Free/Reduced Lunch: 45% to 60%
- Free/Reduced Lunch: 60% to 75%
- Free/Reduced Lunch: &gt; 75%
+Free/Reduced Lunch: 30% to 45%
+Free/Reduced Lunch: 45% to 60%
+Free/Reduced Lunch: 60% to 75%
+Free/Reduced Lunch: &gt; 75%
 
- −50
-
- −80 −70 −60 −50 −40 −30 −20 −10 0 10 20 30 40
-
- Severe Impact Academic Impact 2019 to 2021 No Impact</div>
+Severe Impact Academic Impact 2019 to 2021 No Impact</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">School Impact−Recovery: 2019 to 2021 and 2021 to 2022
- Elementary Schools by Poverty: ELA &amp; Math Combined
-
- 40
+Elementary Schools by Poverty: ELA &amp; Math Combined
 
 Recovery
- 30
 
- 20
- + Outliers
++ Outliers
 
- Academic Recovery 2021 to 2022
- 10
+Academic Recovery 2021 to 2022
 
- 0
-
- −10
-
- −20
-
- −30
- − Outliers
+− Outliers
 Deterioration
- Free/Reduced Lunch: &lt; 30%
+Free/Reduced Lunch: &lt; 30%
 
- −40
- Free/Reduced Lunch: 30% to 45%
- Free/Reduced Lunch: 45% to 60%
- Free/Reduced Lunch: 60% to 75%
- Free/Reduced Lunch: &gt; 75%
+Free/Reduced Lunch: 30% to 45%
+Free/Reduced Lunch: 45% to 60%
+Free/Reduced Lunch: 60% to 75%
+Free/Reduced Lunch: &gt; 75%
 
- −50
-
- −80 −70 −60 −50 −40 −30 −20 −10 0 10 20 30 40
-
- Severe Impact Academic Impact 2019 to 2021 No Impact</div>
+Severe Impact Academic Impact 2019 to 2021 No Impact</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">School Impact−Recovery: 2019 to 2021 and 2021 to 2022
- Elementary Schools by Poverty: ELA &amp; Math Combined
-
- 40
+Elementary Schools by Poverty: ELA &amp; Math Combined
 
 Recovery
- 30
 
- 20
- + Outliers
++ Outliers
 
- Academic Recovery 2021 to 2022
- 10
+Academic Recovery 2021 to 2022
 
- 0
-
- −10
-
- −20
-
- −30
- − Outliers
+− Outliers
 Deterioration
- Free/Reduced Lunch: &lt; 30%
+Free/Reduced Lunch: &lt; 30%
 
- −40
- Free/Reduced Lunch: 30% to 45%
- Free/Reduced Lunch: 45% to 60%
- Free/Reduced Lunch: 60% to 75%
- Free/Reduced Lunch: &gt; 75%
+Free/Reduced Lunch: 30% to 45%
+Free/Reduced Lunch: 45% to 60%
+Free/Reduced Lunch: 60% to 75%
+Free/Reduced Lunch: &gt; 75%
 
- −50
-
- −80 −70 −60 −50 −40 −30 −20 −10 0 10 20 30 40
-
- Severe Impact Academic Impact 2019 to 2021 No Impact</div>
+Severe Impact Academic Impact 2019 to 2021 No Impact</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">School Impact−Recovery: 2019 to 2021 and 2021 to 2022
- Elementary Schools by Poverty: ELA &amp; Math Combined
-
- 40
+Elementary Schools by Poverty: ELA &amp; Math Combined
 
 Recovery
- 30
 
- 20
- + Outliers
++ Outliers
 
- Academic Recovery 2021 to 2022
- 10
+Academic Recovery 2021 to 2022
 
- 0
-
- −10
-
- −20
-
- −30
- − Outliers
+− Outliers
 Deterioration
- Free/Reduced Lunch: &lt; 30%
+Free/Reduced Lunch: &lt; 30%
 
- −40
- Free/Reduced Lunch: 30% to 45%
- Free/Reduced Lunch: 45% to 60%
- Free/Reduced Lunch: 60% to 75%
- Free/Reduced Lunch: &gt; 75%
+Free/Reduced Lunch: 30% to 45%
+Free/Reduced Lunch: 45% to 60%
+Free/Reduced Lunch: 60% to 75%
+Free/Reduced Lunch: &gt; 75%
 
- −50
-
- −80 −70 −60 −50 −40 −30 −20 −10 0 10 20 30 40
-
- Severe Impact Academic Impact 2019 to 2021 No Impact</div>
+Severe Impact Academic Impact 2019 to 2021 No Impact</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
@@ -1003,12 +728,12 @@ Deterioration
 <div class="archive-text">Exemplar Schools: Impact &amp; Recovery
 • As can be seen, Hawaii and its schools experienced a largely positive 2021-2022
 • We’ve created Excel spreadsheets with the identified schools to help to sort
- through the many potential criteria to use to select exemplar schools
+through the many potential criteria to use to select exemplar schools
 • As we discussed in Portsmouth, there was some concern that of low motivation
- leading to poor results. To examine we filtered on students with very low to very
- high and very high to very low growth.
- • Filtering out these students led to non-appreciable changes to the impact-
- recovery examinations of schools.</div>
+leading to poor results. To examine we filtered on students with very low to very
+high and very high to very low growth.
+• Filtering out these students led to non-appreciable changes to the impact-
+recovery examinations of schools.</div>
 ```
 
 ## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}

@@ -13,860 +13,660 @@ format:
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 5 ELA 2019 Growth by Achievement
+CMAS: Grade 5 ELA 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 23% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 34.4% 31.6% 250 Students
- 500 Students
- 70
+Lower Growth 23% Higher Growth
+School Size
+50 Students
+100 Students
+34.4% 31.6% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 19.4% 7.9%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 5 ELA 2019 Growth by Achievement
+CMAS: Grade 5 ELA 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 25.9% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 32.8% 25.8% 250 Students
- 500 Students
- 70
+Lower Growth 25.9% Higher Growth
+School Size
+50 Students
+100 Students
+32.8% 25.8% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 24.8% 22.6%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 5 ELA 2019 Growth by Achievement
+CMAS: Grade 5 ELA 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 29.5% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 25.4% 28.3% 250 Students
- 500 Students
- 70
+Lower Growth 29.5% Higher Growth
+School Size
+50 Students
+100 Students
+25.4% 28.3% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 32.4% 29.3%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 5 ELA 2019 Growth by Achievement
+CMAS: Grade 5 ELA 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 16.7% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 5.7% 9.4% 250 Students
- 500 Students
- 70
+Lower Growth 16.7% Higher Growth
+School Size
+50 Students
+100 Students
+5.7% 9.4% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 19.8% 30.5%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 5 ELA 2019 Growth by Achievement
+CMAS: Grade 5 ELA 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 5% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 1.6% 4.9% 250 Students
- 500 Students
- 70
+Lower Growth 5% Higher Growth
+School Size
+50 Students
+100 Students
+1.6% 4.9% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 3.6% 9.8%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 7 ELA 2019 Growth by Achievement
+CMAS: Grade 7 ELA 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 10.5% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 9.3% 16.5% 250 Students
- 500 Students
- 70
+Lower Growth 10.5% Higher Growth
+School Size
+50 Students
+100 Students
+9.3% 16.5% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 7.3% 8.9%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 7 ELA 2019 Growth by Achievement
+CMAS: Grade 7 ELA 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 22.8% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 25.6% 26.1% 250 Students
- 500 Students
- 70
+Lower Growth 22.8% Higher Growth
+School Size
+50 Students
+100 Students
+25.6% 26.1% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 22.5% 18.8%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 7 ELA 2019 Growth by Achievement
+CMAS: Grade 7 ELA 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 33.3% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 37.2% 33.9% 250 Students
- 500 Students
- 70
+Lower Growth 33.3% Higher Growth
+School Size
+50 Students
+100 Students
+37.2% 33.9% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 37.1% 25.9%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 7 ELA 2019 Growth by Achievement
+CMAS: Grade 7 ELA 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 27.6% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 25.6% 15.7% 250 Students
- 500 Students
- 70
+Lower Growth 27.6% Higher Growth
+School Size
+50 Students
+100 Students
+25.6% 15.7% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 30.5% 36.6%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 7 ELA 2019 Growth by Achievement
+CMAS: Grade 7 ELA 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 5.9% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 2.3% 7.8% 250 Students
- 500 Students
- 70
+Lower Growth 5.9% Higher Growth
+School Size
+50 Students
+100 Students
+2.3% 7.8% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 2.6% 9.8%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 6 Mathematics 2019 Growth by Achievement
+CMAS: Grade 6 Mathematics 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 14.1% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 0% 31.8% 250 Students
- 500 Students
- 70
+Lower Growth 14.1% Higher Growth
+School Size
+50 Students
+100 Students
+0% 31.8% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 6.6% 17.7%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 6 Mathematics 2019 Growth by Achievement
+CMAS: Grade 6 Mathematics 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 13.9% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 16.7% 22.7% 250 Students
- 500 Students
- 70
+Lower Growth 13.9% Higher Growth
+School Size
+50 Students
+100 Students
+16.7% 22.7% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 9.1% 16.3%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 6 Mathematics 2019 Growth by Achievement
+CMAS: Grade 6 Mathematics 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 18.4% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 0% 18.2% 250 Students
- 500 Students
- 70
+Lower Growth 18.4% Higher Growth
+School Size
+50 Students
+100 Students
+0% 18.2% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 19.8% 17.7%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 6 Mathematics 2019 Growth by Achievement
+CMAS: Grade 6 Mathematics 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 26.2% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 83.3% 13.6% 250 Students
- 500 Students
- 70
+Lower Growth 26.2% Higher Growth
+School Size
+50 Students
+100 Students
+83.3% 13.6% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 32.5% 21.4%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 6 Mathematics 2019 Growth by Achievement
+CMAS: Grade 6 Mathematics 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 27.5% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 0% 13.6% 250 Students
- 500 Students
- 70
+Lower Growth 27.5% Higher Growth
+School Size
+50 Students
+100 Students
+0% 13.6% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 32% 27%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 8 Mathematics 2019 Growth by Achievement
+CMAS: Grade 8 Mathematics 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 10.8% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 13.3% 13% 250 Students
- 500 Students
- 70
+Lower Growth 10.8% Higher Growth
+School Size
+50 Students
+100 Students
+13.3% 13% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 12.7% 7.3%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 8 Mathematics 2019 Growth by Achievement
+CMAS: Grade 8 Mathematics 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 15.1% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 6.7% 24.1% 250 Students
- 500 Students
- 70
+Lower Growth 15.1% Higher Growth
+School Size
+50 Students
+100 Students
+6.7% 24.1% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 16.8% 10.7%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 8 Mathematics 2019 Growth by Achievement
+CMAS: Grade 8 Mathematics 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 30% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 46.7% 25.9% 250 Students
- 500 Students
- 70
+Lower Growth 30% Higher Growth
+School Size
+50 Students
+100 Students
+46.7% 25.9% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 28.9% 31.3%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 8 Mathematics 2019 Growth by Achievement
+CMAS: Grade 8 Mathematics 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 28.6% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 33.3% 22.2% 250 Students
- 500 Students
- 70
+Lower Growth 28.6% Higher Growth
+School Size
+50 Students
+100 Students
+33.3% 22.2% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 28.9% 30%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Grade by School Level COVID Academic Impact
- CMAS: Grade 8 Mathematics 2019 Growth by Achievement
+CMAS: Grade 8 Mathematics 2019 Growth by Achievement
 
- Higher Achievement Higher Achievement
- 90
+Higher Achievement Higher Achievement
 
- Lower Growth 15.4% Higher Growth
- School Size
- 50 Students
- 100 Students
- 80
- 0% 14.8% 250 Students
- 500 Students
- 70
+Lower Growth 15.4% Higher Growth
+School Size
+50 Students
+100 Students
+0% 14.8% 250 Students
+500 Students
 
 2019 Percent Proficient
- 60
 
- COVID Impact
- 50
- 2021 SGP − 2019 SGP
- Improvement (&gt; 5)
- 40 Modest to None (−5 to 5)
+COVID Impact
+2021 SGP − 2019 SGP
+Improvement (&gt; 5)
+40 Modest to None (−5 to 5)
 
- Moderate (−15 to −5)
- 30
- Large (−25 to −15)
+Moderate (−15 to −5)
+Large (−25 to −15)
 
 Achievement
- Severe (&lt; −25)
- 20
- 12.7% 20.7%
- 10
- Lower Growth Higher Growth
- Lower Achievement Lower Achievement
- 0 10 20 30 40 50 60 70 80 90 100
+Severe (&lt; −25)
+Lower Growth Higher Growth
+Lower Achievement Lower Achievement
 
- Growth 2019 Median Student Growth Percentile</div>
+Growth 2019 Median Student Growth Percentile</div>
 ```
 
 ## About this copy {.archive-about}

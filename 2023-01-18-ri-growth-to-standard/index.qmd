@@ -31,14 +31,14 @@ January 24th, 2023</div>
 ```{=html}
 <div class="archive-text">Definitions
 • Each student for whom growth is calculated (i.e., an SGP) is also
- has a growth target (i.e., SGP_TARGET) calculated.
- • If the student’s prior achievement is not proficient, then the
- SGP_TARGET is the growth target to catch-up to proficiency
- within 3 years or by the end of testing (time frame can be
- changed depending upon policy)
- • If the student’s prior achievement is proficient, then the
- SGP_TARGET is the growth target to keep-up to proficiency
- for the next 3 years or by the end of testing.</div>
+has a growth target (i.e., SGP_TARGET) calculated.
+• If the student’s prior achievement is not proficient, then the
+SGP_TARGET is the growth target to catch-up to proficiency
+within 3 years or by the end of testing (time frame can be
+changed depending upon policy)
+• If the student’s prior achievement is proficient, then the
+SGP_TARGET is the growth target to keep-up to proficiency
+for the next 3 years or by the end of testing.</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -46,13 +46,13 @@ January 24th, 2023</div>
 ```{=html}
 <div class="archive-text">Definitions
 • The SGP_TARGET:
- • Isn’t a guarantee that the student reaching the target will catch-up/
- keep-up.
- • It’s a one-year installment on a multi-year plan to catch-up/keep-up.
- • Requires an SGP in order to make a determination of catch-up/keep-up.
- • Will take on extremely high (above 90) or extremely low values (below
- 10) for students who are low achievers and high achievers, respectively.
- • Can be converted to a RICAS scale score if desired.</div>
+• Isn’t a guarantee that the student reaching the target will catch-up/
+keep-up.
+• It’s a one-year installment on a multi-year plan to catch-up/keep-up.
+• Requires an SGP in order to make a determination of catch-up/keep-up.
+• Will take on extremely high (above 90) or extremely low values (below
+10) for students who are low achievers and high achievers, respectively.
+• Can be converted to a RICAS scale score if desired.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -60,13 +60,13 @@ January 24th, 2023</div>
 ```{=html}
 <div class="archive-text">Decision Matrix: Catch-Up/Keep-Up
 
- SGP ≥ SGPTarget SGP &lt; SGPTarget
- Prior Achievement
- Catching Up Not Catching Up
- Not Proficient
- Prior Achievement
- Keeping Up Not Keeping Up
- Proficient</div>
+SGP ≥ SGPTarget SGP &lt; SGPTarget
+Prior Achievement
+Catching Up Not Catching Up
+Not Proficient
+Prior Achievement
+Keeping Up Not Keeping Up
+Proficient</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -74,13 +74,13 @@ January 24th, 2023</div>
 ```{=html}
 <div class="archive-text">Catch Up/Keep Up Drawback
 • Though a technically correct approach, I believe using SGP
- and SGP_TARGET to communicate growth/learning goals
- suffers from the following problems:
- • Difficult to communicate and comprehend, especially for
- non-technical stakeholders
- • Difficulty in communication inhibits stakeholder use of the
- data
- • 1 to 99 scale communicates precision that isn’t justified.</div>
+and SGP_TARGET to communicate growth/learning goals
+suffers from the following problems:
+• Difficult to communicate and comprehend, especially for
+non-technical stakeholders
+• Difficulty in communication inhibits stakeholder use of the
+data
+• 1 to 99 scale communicates precision that isn’t justified.</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -94,13 +94,13 @@ January 24th, 2023</div>
 ```{=html}
 <div class="archive-text">Year’s Worth of Learning
 • Another approach that “coarsens” SGP and SGP_TARGET and
- utilizes the language of a “year’s worth of learning”.
+utilizes the language of a “year’s worth of learning”.
 • The terms “a year’s worth of learning” is often well received
- by non-technical stakeholders even though it is not well
- defined. We propose the following definitions:
- • At or near a year’s worth of learning: 30 ≤ SGP ≤ 65
- • Below a year’s worth of learning: SGP &lt; 30
- • Above a year’s worth of learning: SGP &gt; 65</div>
+by non-technical stakeholders even though it is not well
+defined. We propose the following definitions:
+• At or near a year’s worth of learning: 30 ≤ SGP ≤ 65
+• Below a year’s worth of learning: SGP &lt; 30
+• Above a year’s worth of learning: SGP &gt; 65</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -108,14 +108,14 @@ January 24th, 2023</div>
 ```{=html}
 <div class="archive-text">Year’s Worth of Learning
 • Based upon these three categories of growth/learning, students
- are classified in two ways:
- • Category 1: Growth demonstrated in current year
- • Category 2: Growth needed/desired in current year
+are classified in two ways:
+• Category 1: Growth demonstrated in current year
+• Category 2: Growth needed/desired in current year
 • Note, the two categories are analogous to SGP and SGP_TARGET
- except they are expressed in terms of the three “year’s worth of
- learning” levels instead of the 99 different percentiles.
+except they are expressed in terms of the three “year’s worth of
+learning” levels instead of the 99 different percentiles.
 • Note: Growth needed is to either catch up or keep up. That
- distinction is not made explicit.</div>
+distinction is not made explicit.</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -123,28 +123,28 @@ January 24th, 2023</div>
 ```{=html}
 <div class="archive-text">Decision Matrix: Year’s Worth of Learning
 
- Learning Observed
+Learning Observed
 
- SGP ≥&lt;SGP
- 1 Year
- Target ≈ 1Year SGP &lt; &gt;SGP
- 1Year
- Target
+SGP ≥&lt;SGP
+1 Year
+Target ≈ 1Year SGP &lt; &gt;SGP
+1Year
+Target
 
- Definitely
+Definitely
 
- Learning Needed
- &lt; 1 Year Enough More than
- more than
- (but not good) enough
- enough
- ≈ 1Year More than
- Not enough Enough
- enough
+Learning Needed
+&lt; 1 Year Enough More than
+more than
+(but not good) enough
+enough
+≈ 1Year More than
+Not enough Enough
+enough
 
- &gt; 1Year Definitely
- Not enough Enough
- not enough</div>
+&gt; 1Year Definitely
+Not enough Enough
+not enough</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -152,15 +152,15 @@ January 24th, 2023</div>
 ```{=html}
 <div class="archive-text">Year’s Worth of Learning
 • The qualifiers (not enough, enough, definitely not enough) are
- rough placeholders.
+rough placeholders.
 • The goal of systemic improvement is to diminish (over time) the
- percentage of students demonstrating less than a year’s worth of
- learning and to maximize (especially for the lowest achieving
- students) the percentage of students demonstrating more than a
- year’s worth of growth.
+percentage of students demonstrating less than a year’s worth of
+learning and to maximize (especially for the lowest achieving
+students) the percentage of students demonstrating more than a
+year’s worth of growth.
 • Note: All of the calculations are done behind the scenes with SGP
- and SGP_TARGET, but the language used to communicate the
- results is “year’s worth of learning”.</div>
+and SGP_TARGET, but the language used to communicate the
+results is “year’s worth of learning”.</div>
 ```
 
 ## About this copy {.archive-about}

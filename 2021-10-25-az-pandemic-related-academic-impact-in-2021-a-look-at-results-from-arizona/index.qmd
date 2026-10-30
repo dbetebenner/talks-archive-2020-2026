@@ -34,15 +34,15 @@ Scott
 ```{=html}
 <div class="archive-text">Pandemic Related Academic Impact
 • We are all aware that the pandemic greatly disrupted the
- lives of people worldwide over the last 18 months.
+lives of people worldwide over the last 18 months.
 • Students were dramatically impacted as education was
- delivered in many new ways to students nationwide.
+delivered in many new ways to students nationwide.
 • A concern of many is to what extent the pandemic impacted
- students: Academically, emotionally, physically.
+students: Academically, emotionally, physically.
 • The Center for Assessment has been working with a dozen
- states to investigate the extent to which the pandemic has
- impacted student learning.
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+states to investigate the extent to which the pandemic has
+impacted student learning.
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -50,17 +50,17 @@ Scott
 ```{=html}
 <div class="archive-text">What do we mean by “Academic Impact”?
 • The pandemic and all the ensuing disruptions functions as a kind of
- “academic headwind”, impeding (in general) the academic progress
- of students.
+“academic headwind”, impeding (in general) the academic progress
+of students.
 • Headwinds impede progress in two ways:
- • They slow one’s rate of progress
- • The slower rate of progress leads to less distance being travelled.
+• They slow one’s rate of progress
+• The slower rate of progress leads to less distance being travelled.
 • In education these two outcomes represent themselves as:
- • Decrease in student growth.
- • Decrease in student attainment.
+• Decrease in student growth.
+• Decrease in student attainment.
 • Today’s presentation depicts academic impact vis-à-vis student
- growth.
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+growth.
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -68,16 +68,16 @@ Scott
 ```{=html}
 <div class="archive-text">AzM2 Growth Analyses in 2021
 • Given the cancellation of testing in spring 2020, student growth in
- 2021 is calculated across a two year span: 2019 to 2021.
+2021 is calculated across a two year span: 2019 to 2021.
 • In order to examine the slow down due to the pandemic, growth is
- compared to pre-pandemic student growth from 2017 to 2019 –
- these are baseline norms.
+compared to pre-pandemic student growth from 2017 to 2019 –
+these are baseline norms.
 • Baseline growth in each grade and content area has a mean/median
- of 50.
+of 50.
 • The extent to which growth from 2019 to 2021 is below 50 is
- indicative of slowdown in student learning due to the pandemic.
+indicative of slowdown in student learning due to the pandemic.
 
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -85,18 +85,18 @@ Scott
 ```{=html}
 <div class="archive-text">A Note about Missing Data
 • Low participation on state assessments is a threat to the validity of
- academic impact results in 2021.
+academic impact results in 2021.
 • In some schools/districts, participation on AzM2 assessments was below
- that traditionally observed.
+that traditionally observed.
 • Would results for the school/district/state been the same if all students
- had tested? Would academic impact appear the same?
+had tested? Would academic impact appear the same?
 • As part of Arizona’s academic impact analysis we employed multiple
- imputation to determine to what extent missing data impacts summary
- results, flagging results that are likely different due to student non-testing.
+imputation to determine to what extent missing data impacts summary
+results, flagging results that are likely different due to student non-testing.
 • Overall, multiple imputation analyses indicate that current results
- represent a best case scenario for Arizona students. That is, had all
- students participated, the results would likely be lower.
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+represent a best case scenario for Arizona students. That is, had all
+students participated, the results would likely be lower.
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -104,37 +104,29 @@ Scott
 ```{=html}
 <div class="archive-text">Analyses for 2020-2021
 • Today we show pandemic related academic impact:
- • At the state level by grade and content area
- • Demographic subgroups including ethnicity, poverty
- • Academic subgroups (special education, low/high achievers)
- • By region/district/school
+• At the state level by grade and content area
+• Demographic subgroups including ethnicity, poverty
+• Academic subgroups (special education, low/high achievers)
+• By region/district/school
 
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">AzM2 Median/Mean Skip-Year SGPs by Grade
- ELA Mathematics
- Grade
- 2019 2021 Loss 2019 2021 Loss
+ELA Mathematics
+Grade
+2019 2021 Loss 2019 2021 Loss
 
- 3 NA NA NA NA
+3 NA NA NA NA
 
- 4 NA NA NA NA
+4 NA NA NA NA
 
- 5 50.0 (74,441) 32.0 (58,823) -18.0 50.0 (74,508) 26.0 (59,817) -24.0
+10 50.0 (52,181) 36.0 (50,370) -14.0 NA NA NA
 
- 6 50.0 (74,522) 36.0 (60,667) -14.0 50.0 (74,700) 24.0 (61,592) -26.0
-
- 7 50.0 (72,608) 33.0 (60,989) -17.0 50.0 (72,716) 30.0 (62,032) -20.0
-
- 8 50.0 (72,017) 37.0 (61,897) -13.0 50.0 (64,000) 31.0 (62,906) -19.0
-
- 10 50.0 (52,181) 36.0 (50,370) -14.0 NA NA NA
-
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -142,40 +134,37 @@ Scott
 ```{=html}
 <div class="archive-text">Discussion of Content Area by Grade Impact
 • The decrease in student learning (i.e., growth) in both ELA and
- Mathematics is large.
+Mathematics is large.
 • Growth decreases in math exceeded those in ELA, but both were
- large.
+large.
 • Growth impact was uniformly large across grades.
 • The decreases in growth, especially at the state level, are
- unprecedented.
+unprecedented.
 • Recovery from the losses will similarly be unprecedented ---
- likely requiring multiple-years with additional supports
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+likely requiring multiple-years with additional supports
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">AzM2 Median/Mean Skip-Year SGPs by Ethnicity
- ELA Mathematics
- Grade
- 2019 2021 Loss 2019 2021 Loss
- American
- 44.0 (14.165) 29.0 (7,864) -15.0 44.0 (12,080) 20.0 (6,849) -24.0
- Indian
+ELA Mathematics
+Grade
+2019 2021 Loss 2019 2021 Loss
+American
+Indian
 Black/African
- 48.0 (15,792) 34.0 (13,707) -14.0 46.0 (13,138) 22.0 (11,713) -24.0
- American
- Hispanic or
- 49.0 (160,618) 32.0 (137,816) -17.0 48.0 (135,339) 22.0 (118,313) -26.0
- Latino
- Asian 63.0 (10,008) 46.0 (7,415) -17.0 65.0 (7,647) 46.0 (7,415) -19.0
+American
+Hispanic or
+Latino
+Asian 63.0 (10,008) 46.0 (7,415) -17.0 65.0 (7,647) 46.0 (7,415) -19.0
 
- White 52.0 (132,952) 38.0 (113,094) -14.0 53.0 (107,281) 35.0 (92,466) -18.0
+White 52.0 (132,952) 38.0 (113,094) -14.0 53.0 (107,281) 35.0 (92,466) -18.0
 
 Multiple Races 51.0 (11,066) 37.0 (10,213) -14.0 52.0 (9,451) 31.0 (8,754) -21.0
 
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -183,15 +172,15 @@ Multiple Races 51.0 (11,066) 37.0 (10,213) -14.0 52.0 (9,451) 31.0 (8,754) -21.0
 ```{=html}
 <div class="archive-text">Discussion of Content Area by Ethnicity Impact
 • Note that prior to COVID there were disparities in student
- growth rates by ethnicity
+growth rates by ethnicity
 • The decrease in student learning (i.e., growth) in both ELA and
- Mathematics is large across all ethnic subgroups.
+Mathematics is large across all ethnic subgroups.
 • Despite the large impact, some ethnic subgroups faired worse
- that others:
- • Hispanic and African American students in mathematics were impacted
- more than their counterparts.
+that others:
+• Hispanic and African American students in mathematics were impacted
+more than their counterparts.
 • Ethnicity by Grade analyses show similar disparities.
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -200,17 +189,15 @@ Multiple Races 51.0 (11,066) 37.0 (10,213) -14.0 52.0 (9,451) 31.0 (8,754) -21.0
 <div class="archive-text">AzM2 Median/Mean Skip-Year SGPs by free/reduced lunch
 status
 
- ELA Mathematics
- Grade
- 2019 2021 Loss 2019 2021 Loss
+ELA Mathematics
+Grade
+2019 2021 Loss 2019 2021 Loss
 Free Reduced 32.0
- 48.0 (169,253) -16.0 47.0 (147,240) 22.0 (115,257) -25.0
- Lunch: Yes (133,137)
+Lunch: Yes (133,137)
 Free Reduced
- 53.0 (176,516) 37.0 (159,609) -16.0 54.0 (138,684) 33.0 (131,090) -21.0
- Lunch: No
+Lunch: No
 
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -219,13 +206,13 @@ Free Reduced
 <div class="archive-text">Discussion of Content Area by Free/Reduced Lunch Status
 Impact
 • Note that prior to COVID there were disparities in student
- growth rates by free/reduced lunch status
+growth rates by free/reduced lunch status
 • The decrease in student learning (i.e., growth) in both ELA and
- Mathematics is large across both free/reduced lunch groups.
+Mathematics is large across both free/reduced lunch groups.
 • The decrease in math associated with students receiving free/
- reduced price lunch (-25.0) is quite large.
+reduced price lunch (-25.0) is quite large.
 
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -234,17 +221,15 @@ Impact
 <div class="archive-text">AzM2 Median/Mean Skip-Year SGPs by English learner
 status
 
- ELA Mathematics
- Grade
- 2019 2021 Loss 2019 2021 Loss
- English 45.0 32.0 45.0 24.0
- -13.0 -21.0
+ELA Mathematics
+Grade
+2019 2021 Loss 2019 2021 Loss
+English 45.0 32.0 45.0 24.0
 Learner: Yes (19,614) (17,814) (18,575) (16,612)
- English
- 51.0 (325,753) 35.0 (274,932) -16.0 51.0 (266,983) 28.0 (229,735) -23.0
+English
 Learner: No
 
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -252,11 +237,11 @@ Learner: No
 ```{=html}
 <div class="archive-text">Discussion of Content Area by English learner Status Impact
 • Note that prior to COVID there were disparities in student
- growth rates by English learner status
+growth rates by English learner status
 • Impacts were large and fairly uniform across English learners/
- non-English learners.
+non-English learners.
 
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -265,17 +250,15 @@ Learner: No
 <div class="archive-text">AzM2 Median/Mean Skip-Year SGPs by Special Education
 status
 
- ELA Mathematics
- Grade
- 2019 2021 Loss 2019 2021 Loss
- Special
- 52.0 (306,422) 35.0 (260,032) -17.0 52.0 (250,858) 28.0 (217,548) -24.0
+ELA Mathematics
+Grade
+2019 2021 Loss 2019 2021 Loss
+Special
 Education: No
- Special 40.0 32.0 42.0 29.0
- -8.0 -13.0
+Special 40.0 32.0 42.0 29.0
 Education: Yes (39,347) (32,714) (35,066) (28,799)
 
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -284,15 +267,15 @@ Education: Yes (39,347) (32,714) (35,066) (28,799)
 <div class="archive-text">Discussion of Content Area by Special Education Status
 Impact
 • Note that prior to COVID there were disparities in student growth
- rates by special education status.
+rates by special education status.
 • Pandemic related academic impact was less for special education
- students than for non-special education students.
+students than for non-special education students.
 • It is not clear what is responsible for this disparity. Two
- possibilities:
- • Better support for special education students throughout the pandemic.
- • Impoverished pre-pandemic rates of learning for special education
- students.
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+possibilities:
+• Better support for special education students throughout the pandemic.
+• Impoverished pre-pandemic rates of learning for special education
+students.
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -301,13 +284,13 @@ Impact
 <div class="archive-text">Academic Impact by School
 • Average academic impact across students in Arizona was large.
 • However, there was substantial variation in academic impact at
- the school level.
+the school level.
 • The follow slides show academic impact for ELA and
- Mathematics based upon the School’s 2019 A-F letter grade.
+Mathematics based upon the School’s 2019 A-F letter grade.
 • Note, that high performing schools are not immune to academic
- impact from the pandemic.
+impact from the pandemic.
 
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
@@ -320,7 +303,7 @@ Impact by
 2019 Letter
 Grade
 
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -333,7 +316,7 @@ Impact by
 2019 Letter
 Grade
 
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
@@ -341,17 +324,17 @@ Grade
 ```{=html}
 <div class="archive-text">Summary of Academic Impacts
 • Academic impacts to students over the course of the pandemic have
- been unprecedented and large nationwide and in Arizona.
+been unprecedented and large nationwide and in Arizona.
 • Thought there is some variability in terms of who is impacted, there are
- no groups that have been immune to academic impacts including:
- • High and low achieving students
- • Students from different ethnic groups
- • Special education, regular education, English Language Learner students.
+no groups that have been immune to academic impacts including:
+• High and low achieving students
+• Students from different ethnic groups
+• Special education, regular education, English Language Learner students.
 • The large size of the impacts indicate lengthy time (&gt; 1 year) to recover,
- likely requiring education supports beyond just a norm return to
- schooling.
+likely requiring education supports beyond just a norm return to
+schooling.
 
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
@@ -359,19 +342,18 @@ Grade
 ```{=html}
 <div class="archive-text">Looking forward to 2021-2022
 • As we (hopefully) transition from pandemic to recovery, AzM2 data from
- 2021-2022 will provide an excellent basis to understand what type of
- recovery students are demonstrating:
- • V-shaped,
- • U-Shaped,
- • L-Shaped, or
- • No recovery
+2021-2022 will provide an excellent basis to understand what type of
+recovery students are demonstrating:
+• V-shaped,
+• U-Shaped,
+• L-Shaped, or
+• No recovery
 • Using data for these purposes is not the typical use of data for
- “accountability” and requires using results in ways not related to
- accountability. This can be a delicate balancing act.
+“accountability” and requires using results in ways not related to
+accountability. This can be a delicate balancing act.
 • I’m optimistic about ADE’s use of AzM2 2020-2021 data to evaluate
- academic impact and subsequently to monitor and inform recovery in
- 2021-2022.
- Arizona State Board of Education Meeting, October 25th, 2021</div>
+academic impact and subsequently to monitor and inform recovery in
+Arizona State Board of Education Meeting, October 25th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}

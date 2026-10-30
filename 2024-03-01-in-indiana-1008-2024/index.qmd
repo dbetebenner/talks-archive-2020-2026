@@ -33,68 +33,39 @@ March 1st, 2024</div>
 <div class="archive-text">2023 Data
 • IDOE shared 1008 program participation data with the Center for Assessment for impact analyses.
 • Records in data file:
- • For 2023 there were 44,034 records in the data file
- • For 2022 (previous analyses) there were 47,407 records in the data file.
+• For 2023 there were 44,034 records in the data file
+• For 2022 (previous analyses) there were 47,407 records in the data file.
 • Though all students in the files were assumed to have been participants in 1008 programs (across
- mathematics, ELA, and CCR):
- • In 2022, 555 (of the 47,407) records were missing program participation minutes. 322 of the
- records indicated 0 total minutes on 1008 program participation.
- • In 2023, 0 (of the 44,034) records were missing program participation minutes. 27,897 of the
- records indicated 0 total minutes on the 1008 program participation.
+mathematics, ELA, and CCR):
+• In 2022, 555 (of the 47,407) records were missing program participation minutes. 322 of the
+records indicated 0 total minutes on 1008 program participation.
+• In 2023, 0 (of the 44,034) records were missing program participation minutes. 27,897 of the
+records indicated 0 total minutes on the 1008 program participation.
 • Whereas we accounted for participation levels in 2022 (to no avail), the data suggests that
- quantification of program participation is likely not a valid indicator of the amount of program
- participation.</div>
+quantification of program participation is likely not a valid indicator of the amount of program
+participation.</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">SGP Baseline: 2023 SGP Baseline: 2023
- By 1008 Status ELA By Total Minutes 1008 Decile ELA
-
- 100 100
-
- 80 80
+By 1008 Status ELA By Total Minutes 1008 Decile ELA
 
 SGP Baseline SGP Baseline
- 60 60
 
- NaN
- 46.4
- 40 40
+NaN
 
- 20 20
+1008 Status Decile Total Minutes 1008
 
- 0 0
-
- (−1,2100] (2100,3500] (3500,4200] (4200,5600] (5600,6650] (6650,7000] (7000,8050] (8050,8400] (8400,14400] (14400,34560]
- n = 436771 n = 436771 n=0 n=0 n=0 n=0 n=0 n=0 n=0 n=0 n=0 n=0
-
- 1008 Status Decile Total Minutes 1008
-
- SGP Baseline: 2023 SGP Baseline: 2023
- By 1008 Status Mathematics By Total Minutes 1008 Decile Mathematics
-
- 100 100
-
- 80 80
+SGP Baseline: 2023 SGP Baseline: 2023
+By 1008 Status Mathematics By Total Minutes 1008 Decile Mathematics
 
 SGP Baseline SGP Baseline
- 60 60
 
- 50.7
- NaN
+NaN
 
- 40 40
-
- 20 20
-
- 0 0
-
- (−1,2100] (2100,3500] (3500,4200] (4200,5600] (5600,6650] (6650,7000] (7000,8050] (8050,8400] (8400,15210] (15210,34560]
- n = 436470 n = 436470 n= 0 n= 0 n= 0 n= 0 n= 0 n= 0 n= 0 n= 0 n= 0 n= 0
-
- 1008 Status Decile Total Minutes 1008</div>
+1008 Status Decile Total Minutes 1008</div>
 ```
 
 ## About this copy {.archive-about}

@@ -20,9 +20,9 @@ The National Center for the Improvement of Educational Assessment
 July 30th, 2024
 RIDE TAC Meeting
 
- This work is licensed under a
- Creative Commons Attribution 4.0
- International License.</div>
+This work is licensed under a
+Creative Commons Attribution 4.0
+International License.</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -36,14 +36,12 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">PSAT/SAT Test Administration
 • Since 2017 the Rhode Island Department of Education has
- administered the PSAT as part of the spring test administration
- to 10th graders
+administered the PSAT as part of the spring test administration
+to 10th graders
 • Since 2018 the Rhode Island Department of Education has
- administered the SAT to 11th graders.
+administered the SAT to 11th graders.
 • Both the PSAT and SAT include sections in ELA and
- Mathematics.
-
- 3</div>
+Mathematics.</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -51,17 +49,15 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">Transition to Digital SAT
 • In 2024, the College Board transitioned to the Digital SAT
- administration platform.
+administration platform.
 • Several aspects of the assessment changed during this transition in
- terms of both user facing features (computer versus P&amp;P
- administration) as well as backend features (adaptive versus fixed-
- form).
+terms of both user facing features (computer versus P&amp;P
+administration) as well as backend features (adaptive versus fixed-
+form).
 • Changes in the results in 2024 from 2023 led to concern amongst
- some states about test equivalence.
+some states about test equivalence.
 • The analyses in this presentation are intended to support discussions
- about the equivalence of tests and comparability of results.
-
- 4</div>
+about the equivalence of tests and comparability of results.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -75,28 +71,20 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">Introduction
 • We examine student performance on the PSAT/SAT in several ways
- • Participation frequencies
- • Mean/Standard Deviations of Scores by year
- • Mean/Median Baseline SGP by year (SAT only)
- • Baseline SGPs are normed using pre-pandemic, PSAT-SAT growth
- norms.
+• Participation frequencies
+• Mean/Standard Deviations of Scores by year
+• Mean/Median Baseline SGP by year (SAT only)
+• Baseline SGPs are normed using pre-pandemic, PSAT-SAT growth
+norms.
 
- Pandemic Related Academic Recovery in Rhode Island 6</div>
+Pandemic Related Academic Recovery in Rhode Island 6</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Rhode Island PSAT/SAT Participation
- PSAT-ELA PSAT-Math SAT-ELA SAT-Math
- 2017-2018 10,326 10,348 9,733 9,721
- 2018-2019 10,177 10,180 9,902 9,888
- 2020-2021 9,111 9,089 9,085 9,049
- 2021-2022 9,446 9,451 9,462 9,487
- 2022-2023 10,276 10,329 9,398 9,444
- 2023-2024 10,130 10,237 10,095 10,148
-
- 7</div>
+PSAT-ELA PSAT-Math SAT-ELA SAT-Math</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -104,33 +92,20 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">Frequencies
 • In general, there was a substantial decrease in participation due to the
- pandemic.
+pandemic.
 • For the PSAT, the number of students tested has roughly returned to pre-
- pandemic level.
+pandemic level.
 • For the SAT, in 2024 there was a substantial (approximate 8%) increase in
- the number of students tested.
+the number of students tested.
 
- Pandemic Related Academic Recovery in Rhode Island 8</div>
+Pandemic Related Academic Recovery in Rhode Island 8</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Rhode Island Scaled Score Mean/SD
- PSAT-ELA PSAT-Math SAT-ELA SAT-Math
- 2017-2018 456.5/97.0 442.8/92.2 486.7/101.0 475.4/105.3
-
- 2018-2019 458.7/97.4 445.1/85.0 483.4/103.8 473.7/108.6
-
- 2020-2021 459.5/97.3 445.0/81.0 481.9/101.3 467.3/100.6
-
- 2021-2022 458.7/99.0 439.6/83.0 479.4/102.1 460.2/98.9
-
- 2022-2023 450.9/99.9 436.1/77.3 484.4/102.3 461.5/101.7
-
- 2023-2024 450.1/116.1 418.4/102.8 470.4/117.1 445.9/106.6
-
- 9</div>
+PSAT-ELA PSAT-Math SAT-ELA SAT-Math</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -138,30 +113,9 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">Density Plot: ELA PSAT ELA PSAT 10
 
- 0.006
+Density 0.003
 
- 2017−2018
-
- 0.005
- 2018−2019
- 2020−2021
- 2021−2022
- 2022−2023
- 2023−2024
-
- 0.004
-
- Density 0.003
-
- 0.002
-
- 0.001
-
- 0.000
-
- 200 300 400 500 600 700 800
-
- Scale Score</div>
+Scale Score</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -169,30 +123,9 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">Density Plot: Mathematics PSAT MATHEMATICS PSAT 10
 
- 0.006
+Density 0.003
 
- 2017−2018
-
- 0.005
- 2018−2019
- 2020−2021
- 2021−2022
- 2022−2023
- 2023−2024
-
- 0.004
-
- Density 0.003
-
- 0.002
-
- 0.001
-
- 0.000
-
- 200 300 400 500 600 700 800
-
- Scale Score</div>
+Scale Score</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -200,30 +133,9 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">Density Plot: ELA SAT ELA SAT
 
- 0.006
+Density 0.003
 
- 2017−2018
-
- 0.005
- 2018−2019
- 2020−2021
- 2021−2022
- 2022−2023
- 2023−2024
-
- 0.004
-
- Density 0.003
-
- 0.002
-
- 0.001
-
- 0.000
-
- 200 300 400 500 600 700 800
-
- Scale Score</div>
+Scale Score</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -231,30 +143,9 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">Density Plot: Mathematics SAT MATHEMATICS SAT
 
- 0.006
+Density 0.003
 
- 2017−2018
-
- 0.005
- 2018−2019
- 2020−2021
- 2021−2022
- 2022−2023
- 2023−2024
-
- 0.004
-
- Density 0.003
-
- 0.002
-
- 0.001
-
- 0.000
-
- 200 300 400 500 600 700 800
-
- Scale Score</div>
+Scale Score</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -262,18 +153,16 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">Summary Measures
 • Both ELA and Mathematics PSAT saw decreases in mean scaled score over
- the last six years. The drop in mathematics in 2023-2024 from 436.4 to
- 418.4 was particularly large.
+the last six years. The drop in mathematics in 2023-2024 from 436.4 to
+418.4 was particularly large.
 • Both ELA and Mathematics PSAT saw increases in the standard deviation in
- 2023-2024 from prior years.
+2023-2024 from prior years.
 • Both ELA and Mathematics SAT saw decreases in mean scaled score,
- particularly in 2023-2024. Mathematics dropped from 461.5 to 445.9.
+particularly in 2023-2024. Mathematics dropped from 461.5 to 445.9.
 • Both ELA and Mathematics SAT saw increases in standard deviation in
- 2023-2024.
 • The number of LOSS (200) scores in the SAT saw a large increase in
- 2023-2024.
 
- Pandemic Related Academic Recovery in Rhode Island 14</div>
+Pandemic Related Academic Recovery in Rhode Island 14</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -281,156 +170,113 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">Rhode Island: Mean SGP/Count
 
- SAT-ELA SAT-Math
- 2018-2019 49.5/9,228 49.5/9,219
-
- 2020-2021 — —
-
- 2021-2022 47.8/8,170 45.6/8,153
-
- 2022-2023 50.4/8,550 48.4/8,545
-
- 2023-2024 48.7/9,256 44.4/9,284
-
- 15</div>
+SAT-ELA SAT-Math</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth Percentile Goodness−of−Fit Descriptives
- 2023−2024 ELA SAT SGP, Grade EOCT (N = 9,256)
+2023−2024 ELA SAT SGP, Grade EOCT (N = 9,256)
 
- SGP Deciles by Prior Achievement Level (ELA PSAT 10)
- Exceeding (12.1%)
+SGP Deciles by Prior Achievement Level (ELA PSAT 10)
+Exceeding (12.1%)
 
- Prior Achievement Level
- Meeting (45.9%)
+Prior Achievement Level
+Meeting (45.9%)
 
- Partially Meeting (22.6%)
+Partially Meeting (22.6%)
 
- Not Meeting (19.4%)
+Not Meeting (19.4%)
 
- 1 10 20 30 40 50 60 70 80 90 99
- Median Student Growth Percentile
+Median Student Growth Percentile
 
- Ceiling / Floor Effects Test
- Student Growth Percentile Range
+Ceiling / Floor Effects Test
+Student Growth Percentile Range
 
- Current Observed Score
- 19 29 39 49 59 69 79 89 94 99
- 5 9 to to to to to to to to to to
- to to 10 20 30 40 50 60 70 80 90 95
- 1 5
+Current Observed Score
+5 9 to to to to to to to to to to
+to to 10 20 30 40 50 60 70 80 90 95
 
- Lowest OSS: [ 200 ] 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 220
+Lowest OSS: [ 200 ] 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 220
 
- Extremes (Range)
- Highest OSS: [760,770) 0.0 0.0 0.0 0.0 0.0 0.0 0.0 16.7 8.3 16.7 33.3 25.0 N = 24
+Extremes (Range)
+Highest OSS: [760,770) 0.0 0.0 0.0 0.0 0.0 0.0 0.0 16.7 8.3 16.7 33.3 25.0 N = 24
 
- [770,800] 0.0 0.0 0.0 0.0 0.0 3.3 3.3 0.0 3.3 10.0 6.7 73.3 N = 30
+Student Growth Percentile Range QQ−Plot: Student Growth Percentiles
+19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution
+9 to to to to to to to to to
+to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100
 
- Student Growth Percentile Range QQ−Plot: Student Growth Percentiles
- 19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution
- 9 to to to to to to to to to
- 1
- to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100
+1st/[160,340) 26.27 11.21 7.59 6.91 7.47 5.78 9.29 7.47 8.38 9.63 (9.5%) 100
 
- 1st/[160,340) 26.27 11.21 7.59 6.91 7.47 5.78 9.29 7.47 8.38 9.63 (9.5%) 100
-
- 90
- 2nd/[340,370) 18.54 7.20 10.58 10.14 6.65 9.92 9.49 10.47 7.20 9.81 (9.9%)
+2nd/[340,370) 18.54 7.20 10.58 10.14 6.65 9.92 9.49 10.47 7.20 9.81 (9.9%)
 
 Prior Scale Score Decile/Range *
- 80
- 3rd/[370,390) 13.65 9.91 5.89 14.19 11.38 7.23 7.23 10.31 9.24 10.98 (8.1%)
+3rd/[370,390) 13.65 9.91 5.89 14.19 11.38 7.23 7.23 10.31 9.24 10.98 (8.1%)
 
- Empirical SGP Distribution
- 70
- 4th/[390,420) 9.14 7.75 13.31 8.14 7.65 14.90 8.84 9.14 10.43 10.72 (10.9%)
- 60
- 5th/[420,450) 9.05 8.04 12.46 11.36 11.86 8.64 8.64 7.64 13.27 9.05 (10.7%)
- 50
- 6th/[450,480) 11.23 10.36 11.01 14.07 7.09 7.20 7.63 14.07 9.27 8.07 (9.9%)
- 40
- 7th/[480,510) 11.63 6.66 10.99 13.11 8.77 10.36 7.51 13.21 8.67 9.09 (10.2%)
- 30
- 8th/[510,540) 8.53 12.14 6.98 8.91 9.56 11.11 12.66 6.98 10.08 13.05 (8.4%)
- 20
- 9th/[540,600) 12.33 10.46 9.92 9.65 6.34 9.47 8.40 6.97 8.40 18.05 (12.1%)
- 10
- 10th/[600,760] 10.83 8.20 7.89 9.04 8.31 8.73 10.09 10.73 12.20 13.99 (10.3%)
- 0
- *Prior score deciles can be uneven depending upon the prior score distribution</div>
+Empirical SGP Distribution
+4th/[390,420) 9.14 7.75 13.31 8.14 7.65 14.90 8.84 9.14 10.43 10.72 (10.9%)
+5th/[420,450) 9.05 8.04 12.46 11.36 11.86 8.64 8.64 7.64 13.27 9.05 (10.7%)
+6th/[450,480) 11.23 10.36 11.01 14.07 7.09 7.20 7.63 14.07 9.27 8.07 (9.9%)
+7th/[480,510) 11.63 6.66 10.99 13.11 8.77 10.36 7.51 13.21 8.67 9.09 (10.2%)
+8th/[510,540) 8.53 12.14 6.98 8.91 9.56 11.11 12.66 6.98 10.08 13.05 (8.4%)
+9th/[540,600) 12.33 10.46 9.92 9.65 6.34 9.47 8.40 6.97 8.40 18.05 (12.1%)
+10th/[600,760] 10.83 8.20 7.89 9.04 8.31 8.73 10.09 10.73 12.20 13.99 (10.3%)
+*Prior score deciles can be uneven depending upon the prior score distribution</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth Percentile Goodness−of−Fit Descriptives
- 2023−2024 Math SAT SGP, Grade EOCT (N = 9,284)
+2023−2024 Math SAT SGP, Grade EOCT (N = 9,284)
 
- SGP Deciles by Prior Achievement Level (Mathematics PSAT 10)
- Exceeding (3.4%)
+SGP Deciles by Prior Achievement Level (Mathematics PSAT 10)
+Exceeding (3.4%)
 
- Meeting (25.7%)
+Meeting (25.7%)
 
- Prior Achievement Level
- Partially Meeting (49.5%)
+Prior Achievement Level
+Partially Meeting (49.5%)
 
- Not Meeting (21.4%)
+Not Meeting (21.4%)
 
- 1 10 20 30 40 50 60 70 80 90 99
- Median Student Growth Percentile
+Median Student Growth Percentile
 
- Ceiling / Floor Effects Test
- Student Growth Percentile Range
+Ceiling / Floor Effects Test
+Student Growth Percentile Range
 
- Current Observed Score
- 19 29 39 49 59 69 79 89 94 99
- 5 9 to to to to to to to to to to
- to to 10 20 30 40 50 60 70 80 90 95
- 1 5
+Current Observed Score
+5 9 to to to to to to to to to to
+to to 10 20 30 40 50 60 70 80 90 95
 
- Lowest OSS: [ 200 ] 99.5 0.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 203
+Lowest OSS: [ 200 ] 99.5 0.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 203
 
- Extremes (Range)
- Highest OSS: [750,760) 0.0 0.0 0.0 13.3 0.0 0.0 13.3 6.7 0.0 26.7 13.3 26.7 N = 15
+Extremes (Range)
+Highest OSS: [750,760) 0.0 0.0 0.0 13.3 0.0 0.0 13.3 6.7 0.0 26.7 13.3 26.7 N = 15
 
- [760,800] 0.0 0.0 0.0 0.0 2.4 7.3 0.0 4.9 12.2 24.4 12.2 36.6 N = 41
+Student Growth Percentile Range QQ−Plot: Student Growth Percentiles
+19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution
+9 to to to to to to to to to
+to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100
 
- Student Growth Percentile Range QQ−Plot: Student Growth Percentiles
- 19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution
- 9 to to to to to to to to to
- 1
- to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100
+1st/[160,350) 12.26 5.69 9.48 6.07 6.57 7.59 13.65 16.69 9.23 12.77 (8.5%) 100
 
- 1st/[160,350) 12.26 5.69 9.48 6.07 6.57 7.59 13.65 16.69 9.23 12.77 (8.5%) 100
-
- 90
- 2nd/[350,370) 12.85 5.34 6.32 12.45 5.53 14.62 17.39 7.51 9.29 8.70 (5.5%)
+2nd/[350,370) 12.85 5.34 6.32 12.45 5.53 14.62 17.39 7.51 9.29 8.70 (5.5%)
 
 Prior Scale Score Decile/Range *
- 80
- 3rd/[370,400) 13.29 8.10 9.99 5.67 14.91 13.29 10.73 10.19 7.62 6.21 (16%)
+3rd/[370,400) 13.29 8.10 9.99 5.67 14.91 13.29 10.73 10.19 7.62 6.21 (16%)
 
- Empirical SGP Distribution
- 70
- 4th/[400,420) 13.91 14.25 15.62 15.51 13.68 6.04 4.79 7.87 3.19 5.13 (9.4%)
- 60
- 5th/[420,430) 15.46 11.13 13.58 16.47 14.74 6.65 4.91 6.79 5.78 4.48 (7.5%)
- 50
- 6th/[430,450) 19.68 13.12 16.20 12.05 11.65 5.76 7.90 3.88 5.35 4.42 (8%)
- 40
- 7th/[450,470) 19.94 18.73 13.70 13.23 5.31 7.83 6.06 4.57 4.01 6.62 (11.6%)
- 30
- 8th/[470,500) 20.57 11.11 16.86 7.70 10.82 8.09 3.80 6.24 6.82 7.99 (11.1%)
- 20
- 9th/[500,540) 12.99 11.71 9.25 7.97 7.87 8.07 10.73 7.09 11.81 12.50 (10.9%)
- 10
- 10th/[540,760] 6.15 7.54 5.87 10.06 9.59 10.06 11.36 14.99 11.92 12.48 (11.6%)
- 0
- *Prior score deciles can be uneven depending upon the prior score distribution</div>
+Empirical SGP Distribution
+4th/[400,420) 13.91 14.25 15.62 15.51 13.68 6.04 4.79 7.87 3.19 5.13 (9.4%)
+5th/[420,430) 15.46 11.13 13.58 16.47 14.74 6.65 4.91 6.79 5.78 4.48 (7.5%)
+6th/[430,450) 19.68 13.12 16.20 12.05 11.65 5.76 7.90 3.88 5.35 4.42 (8%)
+7th/[450,470) 19.94 18.73 13.70 13.23 5.31 7.83 6.06 4.57 4.01 6.62 (11.6%)
+8th/[470,500) 20.57 11.11 16.86 7.70 10.82 8.09 3.80 6.24 6.82 7.99 (11.1%)
+9th/[500,540) 12.99 11.71 9.25 7.97 7.87 8.07 10.73 7.09 11.81 12.50 (10.9%)
+10th/[540,760] 6.15 7.54 5.87 10.06 9.59 10.06 11.36 14.99 11.92 12.48 (11.6%)
+*Prior score deciles can be uneven depending upon the prior score distribution</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
@@ -438,158 +284,126 @@ Prior Scale Score Decile/Range *
 ```{=html}
 <div class="archive-text">Baseline SGPs
 • Because growth conditions on prior scores, baseline SGPs are much more
- robust to changes in the population of students tested than status
- measures.
+robust to changes in the population of students tested than status
+measures.
 • Baseline SGPs were fairly stable across the last several years in ELA, less so
- in mathematics. The drop in the mean SGP to 44.4 in 2023-2024 in
- mathematics is synonymous with the drop in achievement observed.
+in mathematics. The drop in the mean SGP to 44.4 in 2023-2024 in
+mathematics is synonymous with the drop in achievement observed.
 • The low median SGP in mathematics was caused (largely) by low SGPs of
- students in the 6th, 7th, and 8th prior score deciles.
+students in the 6th, 7th, and 8th prior score deciles.
 • The Center works with another state using the PSAT/SAT tests in high school
- and observed a very similar pattern (as evidenced by the following two
- goodness of fit plots)
+and observed a very similar pattern (as evidenced by the following two
+goodness of fit plots)
 
- Pandemic Related Academic Recovery in Rhode Island 18</div>
+Pandemic Related Academic Recovery in Rhode Island 18</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth Percentile Goodness−of−Fit Descriptives
- 2024 SAT ELA SGP, Grade 11 (N = 49,466)
+2024 SAT ELA SGP, Grade 11 (N = 49,466)
 
- SGP Deciles by Prior Achievement Level (ELA PSAT 10)
- Level 5 (1.5%)
- Level 4 (13.7%)
+SGP Deciles by Prior Achievement Level (ELA PSAT 10)
+Level 5 (1.5%)
+Level 4 (13.7%)
 
- Prior Achievement Level
- Level 3 (52.4%)
+Prior Achievement Level
+Level 3 (52.4%)
 
- Level 2 (13%)
+Level 2 (13%)
 
- Level 1 (19.5%)
+Level 1 (19.5%)
 
- 1 10 20 30 40 50 60 70 80 90 99
- Median Student Growth Percentile
+Median Student Growth Percentile
 
- Ceiling / Floor Effects Test
- Student Growth Percentile Range
+Ceiling / Floor Effects Test
+Student Growth Percentile Range
 
- Current Observed Score
- 19 29 39 49 59 69 79 89 94 99
- 5 9 to to to to to to to to to to
- to to 10 20 30 40 50 60 70 80 90 95
- 1 5
+Current Observed Score
+5 9 to to to to to to to to to to
+to to 10 20 30 40 50 60 70 80 90 95
 
- Lowest OSS: [ 200 ] 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 416
+Lowest OSS: [ 200 ] 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 416
 
- Extremes (Range)
- Highest OSS: [ 780 ] 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.4 19.1 10.6 63.8 N = 47
+Extremes (Range)
+Highest OSS: [ 780 ] 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.4 19.1 10.6 63.8 N = 47
 
- (780,800] 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 11.8 88.2 N = 34
+Student Growth Percentile Range QQ−Plot: Student Growth Percentiles
+19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution
+9 to to to to to to to to to
+to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100
 
- Student Growth Percentile Range QQ−Plot: Student Growth Percentiles
- 19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution
- 9 to to to to to to to to to
- 1
- to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100
+1st/[160,350) 19.45 7.93 8.09 6.68 7.61 9.58 10.11 9.47 9.58 11.50 (7.6%) 100
 
- 1st/[160,350) 19.45 7.93 8.09 6.68 7.61 9.58 10.11 9.47 9.58 11.50 (7.6%) 100
-
- 90
- 2nd/[350,390) 13.06 6.36 5.93 13.18 8.66 10.02 11.16 10.72 9.54 11.37 (11.9%)
+2nd/[350,390) 13.06 6.36 5.93 13.18 8.66 10.02 11.16 10.72 9.54 11.37 (11.9%)
 
 Prior Scale Score Decile/Range *
- 80
- 3rd/[390,420) 7.73 8.59 10.57 7.50 13.26 10.42 7.29 11.43 10.40 12.82 (9.6%)
+3rd/[390,420) 7.73 8.59 10.57 7.50 13.26 10.42 7.29 11.43 10.40 12.82 (9.6%)
 
- Empirical SGP Distribution
- 70
- 4th/[420,450) 9.09 10.15 11.04 7.06 8.99 9.50 10.96 10.47 10.41 12.34 (9.5%)
- 60
- 5th/[450,480) 8.24 11.14 11.44 11.07 10.04 8.63 9.96 10.14 9.27 10.08 (10.2%)
- 50
- 6th/[480,510) 8.61 8.93 10.99 12.89 12.50 9.12 7.91 12.22 6.79 10.05 (10.3%)
- 40
- 7th/[510,540) 8.16 12.86 9.60 8.63 9.24 16.73 6.99 7.22 8.14 12.44 (9.6%)
- 30
- 8th/[540,570) 12.45 12.52 6.50 12.00 10.61 7.80 7.03 7.32 10.61 13.16 (8.9%)
- 20
- 9th/[570,620) 13.33 10.67 12.24 8.29 6.99 6.94 10.79 7.73 10.23 12.79 (11.2%)
- 10
- 10th/[620,750] 11.18 9.50 7.48 8.47 9.07 10.51 11.68 10.24 11.23 10.64 (11.2%)
- 0
- *Prior score deciles can be uneven depending upon the prior score distribution</div>
+Empirical SGP Distribution
+4th/[420,450) 9.09 10.15 11.04 7.06 8.99 9.50 10.96 10.47 10.41 12.34 (9.5%)
+5th/[450,480) 8.24 11.14 11.44 11.07 10.04 8.63 9.96 10.14 9.27 10.08 (10.2%)
+6th/[480,510) 8.61 8.93 10.99 12.89 12.50 9.12 7.91 12.22 6.79 10.05 (10.3%)
+7th/[510,540) 8.16 12.86 9.60 8.63 9.24 16.73 6.99 7.22 8.14 12.44 (9.6%)
+8th/[540,570) 12.45 12.52 6.50 12.00 10.61 7.80 7.03 7.32 10.61 13.16 (8.9%)
+9th/[570,620) 13.33 10.67 12.24 8.29 6.99 6.94 10.79 7.73 10.23 12.79 (11.2%)
+10th/[620,750] 11.18 9.50 7.48 8.47 9.07 10.51 11.68 10.24 11.23 10.64 (11.2%)
+*Prior score deciles can be uneven depending upon the prior score distribution</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth Percentile Goodness−of−Fit Descriptives
- 2024 SAT Math SGP, Grade 11 (N = 49,466)
+2024 SAT Math SGP, Grade 11 (N = 49,466)
 
- SGP Deciles by Prior Achievement Level (Mathematics PSAT 10)
- Level 5 (0.5%)
- Level 4 (6%)
+SGP Deciles by Prior Achievement Level (Mathematics PSAT 10)
+Level 5 (0.5%)
+Level 4 (6%)
 
- Prior Achievement Level
- Level 3 (34.1%)
+Prior Achievement Level
+Level 3 (34.1%)
 
- Level 2 (23.3%)
+Level 2 (23.3%)
 
- Level 1 (36.1%)
+Level 1 (36.1%)
 
- 1 10 20 30 40 50 60 70 80 90 99
- Median Student Growth Percentile
+Median Student Growth Percentile
 
- Ceiling / Floor Effects Test
- Student Growth Percentile Range
+Ceiling / Floor Effects Test
+Student Growth Percentile Range
 
- Current Observed Score
- 19 29 39 49 59 69 79 89 94 99
- 5 9 to to to to to to to to to to
- to to 10 20 30 40 50 60 70 80 90 95
- 1 5
+Current Observed Score
+5 9 to to to to to to to to to to
+to to 10 20 30 40 50 60 70 80 90 95
 
- Lowest OSS: [ 200 ] 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 362
+Lowest OSS: [ 200 ] 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 362
 
- Extremes (Range)
- Highest OSS: [ 790 ] 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.7 13.0 29.6 53.7 N = 54
+Extremes (Range)
+Highest OSS: [ 790 ] 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.7 13.0 29.6 53.7 N = 54
 
- (790,800] 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 N = 14
+Student Growth Percentile Range QQ−Plot: Student Growth Percentiles
+19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution
+9 to to to to to to to to to
+to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100
 
- Student Growth Percentile Range QQ−Plot: Student Growth Percentiles
- 19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution
- 9 to to to to to to to to to
- 1
- to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100
+1st/[160,370) 7.24 6.79 3.31 7.06 7.53 11.54 14.26 15.26 14.46 12.54 (9.9%) 100
 
- 1st/[160,370) 7.24 6.79 3.31 7.06 7.53 11.54 14.26 15.26 14.46 12.54 (9.9%) 100
-
- 90
- 2nd/[370,390) 6.70 7.64 4.73 12.45 7.98 9.27 19.37 10.86 11.96 9.04 (5.3%)
+2nd/[370,390) 6.70 7.64 4.73 12.45 7.98 9.27 19.37 10.86 11.96 9.04 (5.3%)
 
 Prior Scale Score Decile/Range *
- 80
- 3rd/[390,420) 9.12 10.01 13.21 13.79 14.90 10.03 7.33 6.92 6.98 7.71 (13.8%)
+3rd/[390,420) 9.12 10.01 13.21 13.79 14.90 10.03 7.33 6.92 6.98 7.71 (13.8%)
 
- Empirical SGP Distribution
- 70
- 4th/[420,430) 12.63 9.71 15.76 15.71 12.20 5.94 9.77 7.85 4.09 6.35 (7%)
- 60
- 5th/[430,460) 15.58 17.25 13.21 10.00 12.20 8.33 4.88 6.04 4.21 8.30 (13.1%)
- 50
- 6th/[460,480) 17.92 18.09 12.25 7.25 9.19 5.73 7.86 4.73 7.30 9.69 (10.3%)
- 40
- 7th/[480,500) 17.65 16.20 9.25 10.99 7.58 6.31 6.39 8.19 7.32 10.12 (7.7%)
- 30
- 8th/[500,520) 10.89 13.50 8.19 12.76 7.35 7.76 6.88 6.81 10.60 15.26 (8.5%)
- 20
- 9th/[520,560) 8.33 7.74 11.05 7.09 7.53 9.03 10.72 9.92 12.52 16.07 (11.6%)
- 10
- 10th/[560,760] 4.15 5.21 5.41 6.26 11.23 11.12 11.12 13.76 13.49 18.26 (12.9%)
- 0
- *Prior score deciles can be uneven depending upon the prior score distribution</div>
+Empirical SGP Distribution
+4th/[420,430) 12.63 9.71 15.76 15.71 12.20 5.94 9.77 7.85 4.09 6.35 (7%)
+5th/[430,460) 15.58 17.25 13.21 10.00 12.20 8.33 4.88 6.04 4.21 8.30 (13.1%)
+6th/[460,480) 17.92 18.09 12.25 7.25 9.19 5.73 7.86 4.73 7.30 9.69 (10.3%)
+7th/[480,500) 17.65 16.20 9.25 10.99 7.58 6.31 6.39 8.19 7.32 10.12 (7.7%)
+8th/[500,520) 10.89 13.50 8.19 12.76 7.35 7.76 6.88 6.81 10.60 15.26 (8.5%)
+9th/[520,560) 8.33 7.74 11.05 7.09 7.53 9.03 10.72 9.92 12.52 16.07 (11.6%)
+10th/[560,760] 4.15 5.21 5.41 6.26 11.23 11.12 11.12 13.76 13.49 18.26 (12.9%)
+*Prior score deciles can be uneven depending upon the prior score distribution</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
@@ -597,15 +411,15 @@ Prior Scale Score Decile/Range *
 ```{=html}
 <div class="archive-text">Conclusions
 • Results comparing 2023-2024 SAT results with prior years indicates
- discrepancies in mathematics which suggest assessment changes may have
+discrepancies in mathematics which suggest assessment changes may have
 • In general, assessment changes are always accompanied by score
- discrepancies such as those observed here.
+discrepancies such as those observed here.
 • Drawing firm causal conclusions isn’t substantiated with these secondary
- analyses. However, further investigations into digital SAT test format —
- particularly for higher achieving students where lower growth was observed
- — may lead to causal factors leading to lower scores.
+analyses. However, further investigations into digital SAT test format —
+particularly for higher achieving students where lower growth was observed
+— may lead to causal factors leading to lower scores.
 
- Pandemic Related Academic Recovery in Rhode Island 21</div>
+Pandemic Related Academic Recovery in Rhode Island 21</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}

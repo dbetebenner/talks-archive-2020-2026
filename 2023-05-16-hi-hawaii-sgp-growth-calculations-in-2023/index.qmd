@@ -26,16 +26,16 @@ May 16th, 2023</div>
 ```{=html}
 <div class="archive-text">SGP Analysis To Be Performed in 2023
 • Following what was performed in 2022, in 2023, the same two
- types of SGP analyses will be conducted with SBA and WIDA-
- ACCESS data:
- • Cohort referenced analyses: These analyses create growth norms from
- the 2021, 2022, and 2023 students. We are back to two prior data point
- “post”-COVID. These growth norms yield cohort means/median SGPs of
- 50 and obscure COVID-19 academic impact.
- • Baseline referenced analyses: Historical growth norms were created using
- 2017, 2018 and 2019 data. These growth growth analyses don’t have
- mean/median SGPs of 50 and can be used to investigate overall COVID-19
- academic impact and recovery.</div>
+types of SGP analyses will be conducted with SBA and WIDA-
+ACCESS data:
+• Cohort referenced analyses: These analyses create growth norms from
+the 2021, 2022, and 2023 students. We are back to two prior data point
+“post”-COVID. These growth norms yield cohort means/median SGPs of
+50 and obscure COVID-19 academic impact.
+• Baseline referenced analyses: Historical growth norms were created using
+2017, 2018 and 2019 data. These growth growth analyses don’t have
+mean/median SGPs of 50 and can be used to investigate overall COVID-19
+academic impact and recovery.</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -43,20 +43,20 @@ May 16th, 2023</div>
 ```{=html}
 <div class="archive-text">SGP Analysis Plans for 2023
 • Cohort referenced SGPs
- • Growth norms created from the current cohort of students.
- • Mean/median will by 50 for all grade x content area analyses
- • Cannot investigate overall impact &amp; recover of the pandemic on students.
- • Can investigate differential impact &amp; recovery of the pandemic on students.
- • Does not require scale stability across years.
- • Projections possible
+• Growth norms created from the current cohort of students.
+• Mean/median will by 50 for all grade x content area analyses
+• Cannot investigate overall impact &amp; recover of the pandemic on students.
+• Can investigate differential impact &amp; recovery of the pandemic on students.
+• Does not require scale stability across years.
+• Projections possible
 • Baseline referenced SGPs.
- • Growth norms created from historical (i.e., pre-COVID) cohorts of students.
- • Mean/median 50 for historical cohort, not necessarily 50 for current cohort.
- • Extent of deviation from (i.e. below) 50 is indicative of less learning/pandemic related academic impact.
- • Mean SGP deviation of 5 corresponds to an effect size of 0.18.
- • Can investigate BOTH overall impact &amp; recovery as well as differential impact &amp; recovery.
- • Requires scale stability across years.
- • Projections possible</div>
+• Growth norms created from historical (i.e., pre-COVID) cohorts of students.
+• Mean/median 50 for historical cohort, not necessarily 50 for current cohort.
+• Extent of deviation from (i.e. below) 50 is indicative of less learning/pandemic related academic impact.
+• Mean SGP deviation of 5 corresponds to an effect size of 0.18.
+• Can investigate BOTH overall impact &amp; recovery as well as differential impact &amp; recovery.
+• Requires scale stability across years.
+• Projections possible</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -70,15 +70,15 @@ May 16th, 2023</div>
 ```{=html}
 <div class="archive-text">SGP for Accountability
 • Growth results for 2022 (baseline referenced) were promising indicating rates
- of learning in excess of what was observed in the state prior to the pandemic.
+of learning in excess of what was observed in the state prior to the pandemic.
 • That is, students, on average, are recovering.
 • The hope is that growth (baseline referenced) in 2023 will be at least a good
- as 2022.
+as 2022.
 • Hawaii will received both cohort and baseline reference SGPs.
 • These can be summarized in a number of ways:
- • Mean or Median SGP
- • Percent of students above a threshold or percent making or exceeding a
- year’s worth of learning.</div>
+• Mean or Median SGP
+• Percent of students above a threshold or percent making or exceeding a
+year’s worth of learning.</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -92,13 +92,13 @@ May 16th, 2023</div>
 ```{=html}
 <div class="archive-text">SGP Analysis Plans post 2021 (2023 and beyond)
 • Spring 2021 represented (probably) an ideal time to get a snapshot of
- student attainment as we were presumably at or near the point of
- maximal impact on student attainment.
+student attainment as we were presumably at or near the point of
+maximal impact on student attainment.
 • That is, recovery had not really begun for most students in earnest.
 • It’s impossible to talk about recovery sensibly without understanding
- how big the impact is.
+how big the impact is.
 • Monitoring recovery will be at least as critical as monitoring the
- impact of the pandemic on student achievement.
+impact of the pandemic on student achievement.
 • Beware the K-shaped recovery!</div>
 ```
 
@@ -108,7 +108,7 @@ May 16th, 2023</div>
 <div class="archive-text">SGP Analysis Plans for 2023
 • Conduct analyses of recover in line with what was done in 2022.
 • Examine the extent to which recovery is continuing including how
- schools are performing.</div>
+schools are performing.</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -116,13 +116,13 @@ May 16th, 2023</div>
 ```{=html}
 <div class="archive-text">Pandemic Related Academic Impact
 • As stated previously, any discussion of recovery implies some
- understanding of what the impact is/was.
+understanding of what the impact is/was.
 • As a basis for investigating academic impact/recovery, we undertook a
- comprehensive look at academic impact in Hawaii
- • SBA: Determined academic impact from 2019 to 2021 using grades 3,
- 4, 5, 6, 7, and 8 in ELA and mathematics.
- • WIDA-ACCESS: Determined academic impact from 2020 to 2021
- using grades K to 12 ELP</div>
+comprehensive look at academic impact in Hawaii
+• SBA: Determined academic impact from 2019 to 2021 using grades 3,
+4, 5, 6, 7, and 8 in ELA and mathematics.
+• WIDA-ACCESS: Determined academic impact from 2020 to 2021
+using grades K to 12 ELP</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -130,15 +130,15 @@ May 16th, 2023</div>
 ```{=html}
 <div class="archive-text">How do we quantify academic impact using test data
 • The pandemic was like a “headwind” that (presumably) slowed down the learning of
- students due to a variety of factors.
+students due to a variety of factors.
 • We can use test data in two ways to quantify the impact of this headwind:
- • Best way: Quantify how much the rate of learning (i.e., growth) slowed:
- • SBA: Use historical skip-year growth norms to quantify growth and compare to pre-COVID growth.
- • ACCESS: Use historical consecutive-year growth norms and compare to pre-COVID growth
- • Next best way: Look at how much 2021 status changed:
- • SBA: Use 2019 status (or some adjustment thereof) as a proxy.
- • ACCESS: Use 2020 status (or some adjustment thereof) as a proxy.
- • Adjustments include (potentially) imputation for missing data</div>
+• Best way: Quantify how much the rate of learning (i.e., growth) slowed:
+• SBA: Use historical skip-year growth norms to quantify growth and compare to pre-COVID growth.
+• ACCESS: Use historical consecutive-year growth norms and compare to pre-COVID growth
+• Next best way: Look at how much 2021 status changed:
+• SBA: Use 2019 status (or some adjustment thereof) as a proxy.
+• ACCESS: Use 2020 status (or some adjustment thereof) as a proxy.
+• Adjustments include (potentially) imputation for missing data</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -169,107 +169,55 @@ May 16th, 2023</div>
 
 ```{=html}
 <div class="archive-text">SBA Mathematics Grade 8
- Hawaii 2021 to 2022 COVID⌧19 Academic Recovery All Students
- Growth: Grade 7 2021 to Grade 8 2022 Status: Grade 8 2021 to Grade 8 2022 Summary
+Hawaii 2021 to 2022 COVID⌧19 Academic Recovery All Students
+Growth: Grade 7 2021 to Grade 8 2022 Status: Grade 8 2021 to Grade 8 2022 Summary
 
- 2021 Grade 7 Scaled Score Decile Cuts 2021 Grade 8 Scaled Score
+2021 Grade 7 Scaled Score Decile Cuts 2021 Grade 8 Scaled Score
 
- Observed
- Academic Impact: Overall and by Quintile
+Observed
+Academic Impact: Overall and by Quintile
 
- Grade 8 Scaled/Standardized Score and Achievement Level Cuts
- 10 20 30 40 50 60 70 80 90 2200 2400 2500 2700
- 2700 2700
- Overall
+Grade 8 Scaled/Standardized Score and Achievement Level Cuts
+Overall
 
- 2022 Grade 8 Scaled Score Decile Cuts
- 2018 to 2019 Mean Conditional Status 90 1.5 2021 Percentiles (Observed)
- 2021 to 2022 Mean Conditional Status (Observed) 2022 Percentiles (Observed)
- 2021 to 2022 Growth Impact 2021 to 2022 Status Impact Stabilization
- 2021 and 2022 Mean Scaled Scores
- 80 1
- Q1 Q2 Q3 Q4 Q5
- 2600 2600
- 70 Recovery Stabilization Stabilization Stabilization Stabilization
+2022 Grade 8 Scaled Score Decile Cuts
+2018 to 2019 Mean Conditional Status 90 1.5 2021 Percentiles (Observed)
+2021 to 2022 Mean Conditional Status (Observed) 2022 Percentiles (Observed)
+2021 to 2022 Growth Impact 2021 to 2022 Status Impact Stabilization
+2021 and 2022 Mean Scaled Scores
+70 Recovery Stabilization Stabilization Stabilization Stabilization
 
- 2022 Grade 8 Scaled Score
- 0.5
- 60
+2022 Grade 8 Scaled Score
 
- 50 0.12
- 0 0.00
- 2500
- 40
- 2500
- Participation
- 30
- −0.5 Total Status Growth
- 20
- 2400 2400 2021 12,921 12,921 (100.0%) 11,927 (92.3%)
- −1
- 10 2022 12,442 12,442 (100.0%) 9,888 (79.5%)
+Participation
+−0.5 Total Status Growth
 
- −1.5
+2300 2300 2021: 24.7% Proficient
 
- 2300 2300 2021: 24.7% Proficient
- −2
+2022: 30.8% Proficient
+−2.5 Growth/Status Change Legend
+2021 Grade 7 Scaled Score with Achievement Level Cuts Grade 8 Overall Percentile Ranks
 
- 2022: 30.8% Proficient
- −2.5 Growth/Status Change Legend
- 2200 2200
- 2200 2300 2400 2500 2600 2700 −30 −7 10 30
- 0 10 20 30 40 50 60 70 80 90 100
- 2021 Grade 7 Scaled Score with Achievement Level Cuts Grade 8 Overall Percentile Ranks
- −0.55 −0.07 0.1 0.2
+Deterioration Stabilization Recovery
+2019 &amp; 2022 Grade 8 Median SGPs by Quintile 2021 &amp; 2022 Grade 8 Mean Scaled (Standardized) Scores by Quintile
+Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+2019 Grade 8 Students 50.0 51.0 50.0 50.0 49.0 50.0 2021 Grade 8 Students 2351 (−1.56) 2453 (−0.73) 2509 (−0.28) 2569 ( 0.21) 2674 ( 1.06) 2511 (0.00)
+2022 Grade 8 Students 63.0 57.0 49.0 49.0 51.0 53.0 2022 Grade 8 Students 2353 (−1.54) 2460 (−0.67) 2524 (−0.16) 2589 ( 0.37) 2697 ( 1.25) 2524 (0.12) Calculations suppressed
+Academic Impact (Observed) 13.0 6.0 −1.0 −1.0 2.0 3.0 Change (Observed) 2 (0.02) 7 (0.06) 15 (0.12) 20 (0.16) 23 (0.19) 13 (0.12)
+Count Observed 2019 2,355 2,370 2,389 2,421 2,389 11,924 Count Observed 2021 2,131 2,153 2,151 2,155 2,127 10,717
+due to small group N (&lt; 50)
+Count Observed 2022 1,974 1,976 1,954 2,000 1,983 9,887 Count Observed 2022 2,496 2,489 2,484 2,478 2,495 12,442
 
- Deterioration Stabilization Recovery
- 2019 &amp; 2022 Grade 8 Median SGPs by Quintile 2021 &amp; 2022 Grade 8 Mean Scaled (Standardized) Scores by Quintile
- Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
- 2019 Grade 8 Students 50.0 51.0 50.0 50.0 49.0 50.0 2021 Grade 8 Students 2351 (−1.56) 2453 (−0.73) 2509 (−0.28) 2569 ( 0.21) 2674 ( 1.06) 2511 (0.00)
- 2022 Grade 8 Students 63.0 57.0 49.0 49.0 51.0 53.0 2022 Grade 8 Students 2353 (−1.54) 2460 (−0.67) 2524 (−0.16) 2589 ( 0.37) 2697 ( 1.25) 2524 (0.12) Calculations suppressed
- Academic Impact (Observed) 13.0 6.0 −1.0 −1.0 2.0 3.0 Change (Observed) 2 (0.02) 7 (0.06) 15 (0.12) 20 (0.16) 23 (0.19) 13 (0.12)
- Count Observed 2019 2,355 2,370 2,389 2,421 2,389 11,924 Count Observed 2021 2,131 2,153 2,151 2,155 2,127 10,717
- due to small group N (&lt; 50)
- Count Observed 2022 1,974 1,976 1,954 2,000 1,983 9,887 Count Observed 2022 2,496 2,489 2,484 2,478 2,495 12,442
+2022 to 2021 Scaled/Standardized Score Difference
+2022 to 2021 SGP Difference (Observed) 2022 to 2021 Grade 8 Status Change (Observed)
+2022 to 2021 Conditional Status Difference (Observed) −0.87: Correlation SGP and Status Percentile Change
 
- 2022 to 2021 Scaled/Standardized Score Difference
- 35 35 0.30
- 2022 to 2021 SGP Difference (Observed) 2022 to 2021 Grade 8 Status Change (Observed)
- 30 30 0.25
- 2022 to 2021 Conditional Status Difference (Observed) −0.87: Correlation SGP and Status Percentile Change
-
- Conditional Status/Growth Change
- 25 1.00: Correlation SGP and Conditional Status Difference 25
- 0.20
- 20 20
- 0.15
- 15 15
- 0.12
- 0.10
- 10 10
+Conditional Status/Growth Change
+25 1.00: Correlation SGP and Conditional Status Difference 25
 
 2021 to 2022
- 5 5 0.05
 
- 0 0 0.00
-
- −5 −5 −0.05
- −10 −10
- −0.10
- −15 −15
- −0.15
- −20 −20
- −0.20
- −25 −25
-
- −30 −30 −0.25
-
- −35 −35 −0.30
- 10 20 30 40 50 60 70 80 90 2200 2400 2500 2700
-
- 2200 2300 2400 2500 2600 2700 0 10 20 30 40 50 60 70 80 90 100
-
- 2021 Grade 7 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2021 Norm)</div>
+2021 Grade 7 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2021 Norm)</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -282,34 +230,34 @@ Deterioration Recovery
 
 −0.55 −0.07 0.1 0.2 Status Change
 
- Calculations suppressed
- Deterioration Stabilization Recovery
- due to small group N (&lt; 50)
+Calculations suppressed
+Deterioration Stabilization Recovery
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- All Students Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
+All Students Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
 
- Economically Disadvantaged Stabilization Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
+Economically Disadvantaged Stabilization Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
 
- Non−Economically Disadvantaged Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
+Non−Economically Disadvantaged Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
 
- Special Education Stabilization Stabilization Stabilization Stabilization Stabilization Deterioration Recovery Recovery Stabilization Stabilization Stabilization Stabilization
+Special Education Stabilization Stabilization Stabilization Stabilization Stabilization Deterioration Recovery Recovery Stabilization Stabilization Stabilization Stabilization
 
- Asian Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
+Asian Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
 
- White Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Stabilization Recovery Recovery Stabilization
+White Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Stabilization Recovery Recovery Stabilization
 
- Hispanic Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
+Hispanic Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
 
- Native Hawaiian Stabilization Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Recovery Recovery Stabilization
+Native Hawaiian Stabilization Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Recovery Recovery Stabilization
 
- ELL Stabilization Recovery Stabilization Stabilization Stabilization Deterioration Recovery Recovery Recovery Stabilization Stabilization Deterioration
+ELL Stabilization Recovery Stabilization Stabilization Stabilization Deterioration Recovery Recovery Recovery Stabilization Stabilization Deterioration
 
- Female Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
+Female Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
 
- Male Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Recovery Recovery Stabilization</div>
+Male Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Recovery Recovery Stabilization</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -319,39 +267,38 @@ Deterioration Recovery
 Hawaii 2021 to 2022 COVID⌧19 Academic Recovery Grade, Content Area &amp; Achievement Quintile
 Deterioration Recovery
 −30 −7 10 30 Growth Change
- NOTE: Quintiles for each student
+NOTE: Quintiles for each student
 −0.55 −0.07 0.1 0.2 Status Change subgroup are based upon quintile
- cuts defined for All Students.
- Calculations suppressed
- Deterioration Stabilization Recovery
- due to small group N (&lt; 50) Box width indicates group proportion.
+cuts defined for All Students.
+Calculations suppressed
+Deterioration Stabilization Recovery
+due to small group N (&lt; 50) Box width indicates group proportion.
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
- Non−Economically Disadvantaged
+Non−Economically Disadvantaged
 
- Special Education
+Special Education
 
- Asian
+Asian
 
- White
+White
 
- Hispanic
+Hispanic
 
- Native Hawaiian
+Native Hawaiian
 
- ELL
+ELL
 
- Female
+Female
 
- Male</div>
+Male</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}

@@ -32,18 +32,18 @@ Scott
 ```{=html}
 <div class="archive-text">Pandemic Related Academic Impact
 • As we are all aware, the pandemic greatly disrupted the lives of people
- worldwide over the last 18 months.
+worldwide over the last 18 months.
 • The impact on education was dramatic with millions of students receiving
- education in new ways.
+education in new ways.
 • A concern of many is to what extent the pandemic impacted students:
- Academically, emotionally, physically.
+Academically, emotionally, physically.
 • The Center has been working with a dozen states to investigate the extent to
- which the pandemic has impacted student learning.
+which the pandemic has impacted student learning.
 • As part of that effort, we’ve produced some resources that states can use to
- help understand academic impact.
- • Early Academic Impact Findings from Spring 2021 Assessments
- • Understanding Pandemic Learning Loss and Learning Recovery
- NAGB Dissemination and Reporting Meeting</div>
+help understand academic impact.
+• Early Academic Impact Findings from Spring 2021 Assessments
+• Understanding Pandemic Learning Loss and Learning Recovery
+NAGB Dissemination and Reporting Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -51,18 +51,18 @@ Scott
 ```{=html}
 <div class="archive-text">Pandemic Related Academic Impact
 • The pandemic and all the ensuing disruptions functions as a kind of
- “academic headwind”, impeding (in general) the academic progress of
- students.
+“academic headwind”, impeding (in general) the academic progress of
+students.
 • Headwinds impede progress in two ways:
- • They slow one’s rate of progress
- • The slower rate of progress leads to less distance being travelled.
+• They slow one’s rate of progress
+• The slower rate of progress leads to less distance being travelled.
 • In education these two impediments manifest themselves (roughly) with
- assessments as:
- • Decrease in student growth (decrease in learning velocity).
- • Decrease in student attainment (decrease in amount learned).
+assessments as:
+• Decrease in student growth (decrease in learning velocity).
+• Decrease in student attainment (decrease in amount learned).
 • In some states, understanding this phenomenon requires special
- consideration of low participation/changing demographics.
- NAGB Dissemination and Reporting Meeting</div>
+consideration of low participation/changing demographics.
+NAGB Dissemination and Reporting Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -70,18 +70,18 @@ Scott
 ```{=html}
 <div class="archive-text">Pandemic related academic impact
 • Understanding pandemic related impact necessarily requires looking back
- to pre-pandemic results.
+to pre-pandemic results.
 • The natural impulse of stakeholders to want to compare 2021 results with
- 2019 results is the correct impulse at both the individual, school, district,
- and state level.
+2019 results is the correct impulse at both the individual, school, district,
+and state level.
 • Wanting to look at 2019 to 2021 change is an attempt to investigate impact.
 • The challenge is making 2019 to 2021 comparisons apples-to-apples
- comparisons.
+comparisons.
 • Supporting these comparisons requires:
- • Doing so in a technically rigorous manner.
- • Communicating the results/comparisons clearly so non-technical audiences get
- the main message. This is the hardest part.
- NAGB Dissemination and Reporting Meeting</div>
+• Doing so in a technically rigorous manner.
+• Communicating the results/comparisons clearly so non-technical audiences get
+the main message. This is the hardest part.
+NAGB Dissemination and Reporting Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -89,19 +89,19 @@ Scott
 ```{=html}
 <div class="archive-text">Data to assess academic impact
 • During the 2020-2021 academic year, student achievement data from
- achievement vendors (primarily Renaissance Star, NWEA MAP, and Curriculum
- Associates iReady) was all that was available to investigate pandemic related
- academic impact.
+achievement vendors (primarily Renaissance Star, NWEA MAP, and Curriculum
+Associates iReady) was all that was available to investigate pandemic related
+academic impact.
 • States summative assessments (cancelled in 2020) were broadly administered
- nationwide in 2021.
+nationwide in 2021.
 • Participation rates ranged from normal (&gt; 95%) to poor.
 • Given their technical quality, alignment with state standards, coverage of the
- state student population, and long-term history, for nearly all states, 2021
- state summative assessment data provides excellent data on which to begin
- investigating academic impact.
+state student population, and long-term history, for nearly all states, 2021
+state summative assessment data provides excellent data on which to begin
+investigating academic impact.
 • Many states have ELP assessments from 2020 and 2021 with which to
- investigate academic impact on the ELL subgroup.
- NAGB Dissemination and Reporting Meeting</div>
+investigate academic impact on the ELL subgroup.
+NAGB Dissemination and Reporting Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -109,16 +109,16 @@ Scott
 ```{=html}
 <div class="archive-text">Analyses for 2020-2021
 • With comparable results we can quantify pandemic related
- academic impact:
- • At the state level
- • Demographic subgroups including ethnicity, poverty
- • Academic subgroups (special education, low/high achievers)
- • By region/district/school
- • By mode of education (remote/hybrid/in-person).
- • Attendance
- • English Language Learner impact can be evaluated using WIDA-ACCESS
- results.
- NAGB Dissemination and Reporting Meeting</div>
+academic impact:
+• At the state level
+• Demographic subgroups including ethnicity, poverty
+• Academic subgroups (special education, low/high achievers)
+• By region/district/school
+• By mode of education (remote/hybrid/in-person).
+• Attendance
+• English Language Learner impact can be evaluated using WIDA-ACCESS
+results.
+NAGB Dissemination and Reporting Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -126,15 +126,15 @@ Scott
 ```{=html}
 <div class="archive-text">Student attainment
 • Across the dozen states we’ve examined thus far:
- • Decreases in percent proficient are most often reported (though
- percent proficient can mask changes in the distribution)
- • Decreases in ELA generally in the upper single digits but sometimes in the teens.
- • Decreases in Math generally in the lower teens.
- • In terms of mean scale score decreases, effect sizes are large ranging
- from 0.2 to 0.4.
- • These are large effect sizes, especially when seen at the state level.
+• Decreases in percent proficient are most often reported (though
+percent proficient can mask changes in the distribution)
+• Decreases in ELA generally in the upper single digits but sometimes in the teens.
+• Decreases in Math generally in the lower teens.
+• In terms of mean scale score decreases, effect sizes are large ranging
+from 0.2 to 0.4.
+• These are large effect sizes, especially when seen at the state level.
 
- NAGB Dissemination and Reporting Meeting</div>
+NAGB Dissemination and Reporting Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -144,17 +144,17 @@ Scott
 • States we’ve worked with utilize SGPs to measure growth.
 • States created baseline, skip-year growth norms using pre-pandemic student data.
 • By grade/content area median SGPs:
- • ELA between low 40s to low 30s.
- • Mathematics between mid 30s to low 20s.
+• ELA between low 40s to low 30s.
+• Mathematics between mid 30s to low 20s.
 • Academic impact by grade is relatively uniform. This differs from interim assessment
- results which show nominal impact at middle school levels.
+results which show nominal impact at middle school levels.
 • These decreases in student learning (i.e., growth) corroborate losses seen in
- attainment.
+attainment.
 • Decreases of this magnitude in student learning are unprecedented and will likely
- require unprecedented support and effort going forward to overcome.
- • Multiple year time frame
- • Substantial support beyond just getting kids back into the classroom.
- NAGB Dissemination and Reporting Meeting</div>
+require unprecedented support and effort going forward to overcome.
+• Multiple year time frame
+• Substantial support beyond just getting kids back into the classroom.
+NAGB Dissemination and Reporting Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -162,18 +162,18 @@ Scott
 ```{=html}
 <div class="archive-text">Missing Data/Changing Demographics
 • The issue of lower than usual test participation in states has led to much
- debate on whether state assessment results are of use this year.
+debate on whether state assessment results are of use this year.
 • For all state analyses we have conducted we also performed multiple
- imputation analysis on the missing data and examined changes in student
- population beyond missing data (demographic shifts).
+imputation analysis on the missing data and examined changes in student
+population beyond missing data (demographic shifts).
 • In all instances at the state level and almost all instances at the district and
- school level, imputation suggests results would have been worse had all
- students tested.
+school level, imputation suggests results would have been worse had all
+students tested.
 • Because the vast majority of academic impact results examined are bad, what
- we are unsure about is just how bad (i.e., bad or really bad?)
+we are unsure about is just how bad (i.e., bad or really bad?)
 • To use an analogy, we know the patient is seriously sick with cancer, we don’t
- know whether it is stage IIIA, IIIB, or IIIC.
- NAGB Dissemination and Reporting Meeting</div>
+know whether it is stage IIIA, IIIB, or IIIC.
+NAGB Dissemination and Reporting Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -181,16 +181,16 @@ Scott
 ```{=html}
 <div class="archive-text">Demographic/Academic Subgroup Impact
 • By ethnicity, academic impacts are, in general, relatively uniform.
- • Asian students showed slightly larger impacts in mathematics
+• Asian students showed slightly larger impacts in mathematics
 • ELL status on state summative show fairly uniform academic
- impact.
- • On ELP assessments, larger impact in lower grades than in middle/
- upper school grades.
+impact.
+• On ELP assessments, larger impact in lower grades than in middle/
+upper school grades.
 • Special education/IEP status in some states showed lesser impact
- that their non-special education counterparts
+that their non-special education counterparts
 • In middle school mathematics, several states show higher
- achievers demonstrating larger impacts than low achievers.
- NAGB Dissemination and Reporting Meeting</div>
+achievers demonstrating larger impacts than low achievers.
+NAGB Dissemination and Reporting Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -198,13 +198,13 @@ Scott
 ```{=html}
 <div class="archive-text">Demographic/Academic Subgroup Impact
 • States collecting data of mode of education during the pandemic
- (e.g., in-person, hybrid, remote) show more impact for students
- receiving remote instruction versus in-person instruction.
+(e.g., in-person, hybrid, remote) show more impact for students
+receiving remote instruction versus in-person instruction.
 • Given these findings many states have prioritized efforts to get
- students back to in-person learning as quickly and safely as
- possible.
+students back to in-person learning as quickly and safely as
+possible.
 
- NAGB Dissemination and Reporting Meeting</div>
+NAGB Dissemination and Reporting Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -212,15 +212,15 @@ Scott
 ```{=html}
 <div class="archive-text">Schools and Districts
 • Obviously, when overall state academic impacts are large, the
- average impact seen by schools and districts is also large.
+average impact seen by schools and districts is also large.
 • However, there is wide variability in the impact on schools and
- districts.
+districts.
 • For many, the impacts were so large we felt it necessary to add
- the category “severe” to characterize the impact seen.
+the category “severe” to characterize the impact seen.
 • In a small minority of cases schools showed modest to no impact
- or even some improvement.
+or even some improvement.
 
- NAGB Dissemination and Reporting Meeting</div>
+NAGB Dissemination and Reporting Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -228,18 +228,18 @@ Scott
 ```{=html}
 <div class="archive-text">Looking forward to 2021-2022
 • As we (hopefully) transition from pandemic to recovery, data from
- 2021-2022 will provide an excellent basis to understand whether what
- type of recovery systems are demonstrating:
- • V-shaped, U-Shaped, L-Shaped, or no recovery
+2021-2022 will provide an excellent basis to understand whether what
+type of recovery systems are demonstrating:
+• V-shaped, U-Shaped, L-Shaped, or no recovery
 • States with compromised 2021 assessments (low participation, fall
- testing, no testing) will have tradeoffs to make in terms of using
- 2021-2022 data to assess recovery.
+testing, no testing) will have tradeoffs to make in terms of using
+2021-2022 data to assess recovery.
 • Using data for these purposes is not the typical use of data for
- “accountability” and requires states to promote results in ways not
- related to accountability. This can be a delicate balancing act.
+“accountability” and requires states to promote results in ways not
+related to accountability. This can be a delicate balancing act.
 • Overall, I’m optimistic about the use of 2020-2021 data for academic
- impact as well as to inform recovery in 2021-2022.
- NAGB Dissemination and Reporting Meeting</div>
+impact as well as to inform recovery in 2021-2022.
+NAGB Dissemination and Reporting Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -247,7 +247,7 @@ Scott
 ```{=html}
 <div class="archive-text">Questions
 
- NAGB Dissemination and Reporting Meeting</div>
+NAGB Dissemination and Reporting Meeting</div>
 ```
 
 ## About this copy {.archive-about}

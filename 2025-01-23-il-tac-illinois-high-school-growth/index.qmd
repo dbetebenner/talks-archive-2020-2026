@@ -25,14 +25,14 @@ January 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">Background: Illinois Assessments
 • Beginning in Spring, 2025, students in grades 9, 10, and 11 will begin taking the
- ACT tests:
- • Grade 9: PreACT 9 Secure
- • Grade 10: PreACT Secure
- • Grade 11: ACT with Writing
+ACT tests:
+• Grade 9: PreACT 9 Secure
+• Grade 10: PreACT Secure
+• Grade 11: ACT with Writing
 • For the previous 8 years students in grade 9, 10, and 11 took SAT exams.
- • Grade 9: PSAT 8/9
- • Grade 10: PSAT
- • Grade 11: SAT with Essay
+• Grade 9: PSAT 8/9
+• Grade 10: PSAT
+• Grade 11: SAT with Essay
 • Illinois wants to calculate growth for Illinois students in 2025</div>
 ```
 
@@ -41,10 +41,10 @@ January 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">Questions for consideration
 • What impact will the change in assessments have on the
- calculation of Student Growth Percentiles (SGPs)
- • How do the SAT and ACT suite of tests differ?
- • What impact will the transition year (and subsequent
- years) have on the calculation of student growth?</div>
+calculation of Student Growth Percentiles (SGPs)
+• How do the SAT and ACT suite of tests differ?
+• What impact will the transition year (and subsequent
+years) have on the calculation of student growth?</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -52,14 +52,14 @@ January 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">Background on student growth
 • Calculation of student growth requires longitudinal, individual
- results from at least two assessments (usually in the same
- content area administered at the same time).
- • If gain scores are to be calculated, then the assessments must
- be vertically scaled (PSAT 9/PSAT/SAT are vertically scaled, I
- don’t believe PreACT 9/PreACT/ACT are).
- • Gain scores are not a viable growth model, but if Illinois users
- are inclined to subtract scores, they should be informed
- about whether subtraction is supported by the score scale.</div>
+results from at least two assessments (usually in the same
+content area administered at the same time).
+• If gain scores are to be calculated, then the assessments must
+be vertically scaled (PSAT 9/PSAT/SAT are vertically scaled, I
+don’t believe PreACT 9/PreACT/ACT are).
+• Gain scores are not a viable growth model, but if Illinois users
+are inclined to subtract scores, they should be informed
+about whether subtraction is supported by the score scale.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -67,19 +67,19 @@ January 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">Student Growth Percentiles (SGPs)
 • SGPs were derived to obviate issues related to the interpretation of change on score scales.
- • The SGP properties I discuss are associated with those derived via the methodology implemented
- in the SGP package for the R software environment.
- • There are alternative methods used to calculate SGP like quantities. I make no claims to the
- properties associated with those calculations.
+• The SGP properties I discuss are associated with those derived via the methodology implemented
+in the SGP package for the R software environment.
+• There are alternative methods used to calculate SGP like quantities. I make no claims to the
+properties associated with those calculations.
 • SGPs utilize non-parametric (B-spline) based quintile regression to accommodate both non-linearity of
- the multi-variate score distribution as well as heteroskedasticity.
- • SGPs are invariant to mono-tone transformations of scale.
+the multi-variate score distribution as well as heteroskedasticity.
+• SGPs are invariant to mono-tone transformations of scale.
 • In general, assessment changes resulting in the change of score scale do not impact the calculation of
- SGPs (cohort referenced).
+SGPs (cohort referenced).
 • Baseline referenced growth (which utilize historic growth norms) can only be used with the same prior/
- current score scales.
- • Transition from PSAT/SAT to PreACT/ACT will prevent baseline growth from being calculated until
- enough longitudinal data on the new scale is available to create growth norms on the new scale.</div>
+current score scales.
+• Transition from PSAT/SAT to PreACT/ACT will prevent baseline growth from being calculated until
+enough longitudinal data on the new scale is available to create growth norms on the new scale.</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -87,16 +87,16 @@ January 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">Student Growth Percentiles (SGPs)
 • SGP calculation produce growth norms that relate independent and dependent
- variables probabilistically.
+variables probabilistically.
 • If Xt−2, Xt−1, and Xt are student score distributions from times t − 2, t − 1 and t,
- respectively, then:
- (100 − SGPi)/100 = Pr(X &gt; Xi,t | Xi,t−1, Xi,t−2)
+respectively, then:
+(100 − SGPi)/100 = Pr(X &gt; Xi,t | Xi,t−1, Xi,t−2)
 •That is, an SGP indicates, probabilistically how exemplary the current score is given
- the prior scores.
- •An SGP of 1 implies 99% of students with the same scale score history had
- higher current scores.
- •An SGP of 99 implies 1% of students with the same scale score history had
- higher current scores.</div>
+the prior scores.
+•An SGP of 1 implies 99% of students with the same scale score history had
+higher current scores.
+•An SGP of 99 implies 1% of students with the same scale score history had
+higher current scores.</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -104,16 +104,16 @@ January 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">Issues related to the calculation of SGPs
 • Because SGP calculations utilize scaled scores, properties of the scaled score
- distribution can impact the results.
- • Ceiling/Floor effects: SGPs model the multi-variate distribution and
- attempt to model 99 conditional quantile curves based upon the scaled
- score supplied. When the score distribution is capped and
- disproportionate numbers of students are assigned HOSS/LOSS, SGPs will
- be impacted.
- • Number of scaled score points: If the number of realized scaled score
- points is small ( &lt; 25), then fitting 99 conditional quantile curves will
- likely yield misfit as distinctions between 99 conditional quantile curves
- will be impossible given too few possible score combinations.</div>
+distribution can impact the results.
+• Ceiling/Floor effects: SGPs model the multi-variate distribution and
+attempt to model 99 conditional quantile curves based upon the scaled
+score supplied. When the score distribution is capped and
+disproportionate numbers of students are assigned HOSS/LOSS, SGPs will
+be impacted.
+• Number of scaled score points: If the number of realized scaled score
+points is small ( &lt; 25), then fitting 99 conditional quantile curves will
+likely yield misfit as distinctions between 99 conditional quantile curves
+will be impossible given too few possible score combinations.</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -121,7 +121,7 @@ January 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">Goodness of Fit with simulated ACT data
 Single prior (ACT current and prior)
- ELA Mathematics</div>
+ELA Mathematics</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -129,7 +129,7 @@ Single prior (ACT current and prior)
 ```{=html}
 <div class="archive-text">Goodness of Fit with simulated ACT data
 Two priors (ACT current and priors)
- ELA Mathematics</div>
+ELA Mathematics</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -137,14 +137,14 @@ Two priors (ACT current and priors)
 ```{=html}
 <div class="archive-text">Transition years (2025, 2026)
 • In general, up to two priors are used for the calculation of SGPs.
- • More priors can be used, but their impact on the dependent
- variable is extremely small after the first two priors are
- accounted for.
- • In 2025, up to two IAR/PSAT priors will be used.
- • In 2026, up to two IAR priors and one PSAT or PreACT prior will
- be used.
- • In 2027, up to two IAR priors and up to two PreACT priors will
- be used.</div>
+• More priors can be used, but their impact on the dependent
+variable is extremely small after the first two priors are
+accounted for.
+• In 2025, up to two IAR/PSAT priors will be used.
+• In 2026, up to two IAR priors and one PSAT or PreACT prior will
+be used.
+• In 2027, up to two IAR priors and up to two PreACT priors will
+be used.</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -152,15 +152,15 @@ Two priors (ACT current and priors)
 ```{=html}
 <div class="archive-text">Student Growth Projections
 • With assessments going from Grade 3 to Grade 11, Illinois can
- calculate student growth projections for Grades 3 to 11.
+calculate student growth projections for Grades 3 to 11.
 • Projections are calculated by daisy-chaining together growth norms
- grade-by-grade to create percentile growth trajectories.
+grade-by-grade to create percentile growth trajectories.
 • These trajectories can then be used to determine “growth-to-
- standard” (e.g., growth necessary to reach “proficiency” or “college-
- readiness”)
+standard” (e.g., growth necessary to reach “proficiency” or “college-
+readiness”)
 • Projections cannot be calculated in the assessment transition year for
- the new test as we don’t have growth norms that relate PreACT9/
- PreACT/ACT (i.e., we haven’t used PreACT9/PreACT as priors yet).</div>
+the new test as we don’t have growth norms that relate PreACT9/
+PreACT/ACT (i.e., we haven’t used PreACT9/PreACT as priors yet).</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -168,10 +168,10 @@ Two priors (ACT current and priors)
 ```{=html}
 <div class="archive-text">Questions I have
 • Are the PreACT/ACT administered at the same time (roughly)
- to all students or are students allowed to take the test
- throughout the year?
+to all students or are students allowed to take the test
+throughout the year?
 • Are there theta scores (is PreACT/ACT IRT based?) available
- for the PreACT/ACT?</div>
+for the PreACT/ACT?</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}

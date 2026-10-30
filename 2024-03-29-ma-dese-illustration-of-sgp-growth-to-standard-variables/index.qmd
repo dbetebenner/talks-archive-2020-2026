@@ -25,14 +25,14 @@ March 7th, 2024</div>
 ```{=html}
 <div class="archive-text">Data, Data Everywhere
 • NUMEROUS SGP analyses are conducted for MCAS analyses each
- year (especially post-COVID)
- 1. There are two types of analyses based upon the growth norm
- used: Cohort and Baseline referenced.
- 2. There are two types of analyses based upon backward and
- forward looking analyses: SGP (norm-referenced) and SGP
- Projections (criterion-referenced/growth-to-standard).
+year (especially post-COVID)
+1. There are two types of analyses based upon the growth norm
+used: Cohort and Baseline referenced.
+2. There are two types of analyses based upon backward and
+forward looking analyses: SGP (norm-referenced) and SGP
+Projections (criterion-referenced/growth-to-standard).
 • 1 and 2 yield a total of four types of analyses, each with a number
- of variables associated with them that are delineated below.</div>
+of variables associated with them that are delineated below.</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -40,15 +40,15 @@ March 7th, 2024</div>
 ```{=html}
 <div class="archive-text">SGP
 • SGP analyses are norm-referenced analyses that examine previous
- student growth (backward looking) in a norm referenced fashion.
- • Growth norms for SGP analyses can be derived from current (cohort-
- referenced) or derived from prior data (baseline-referenced)
- • SGP (cohort-referenced) and SGP_BASELINE (baseline-
- referenced)
- • Because SGP can be calculated using more than a single prior,
- there are also (if requested) SGPs based upon the number of
- priors used: SGP_ORDER_1, SGP_ORDER_2, … and
- SGP_BASELINE_ORDER_1, SGP_BASELINE_ORDER_2, …</div>
+student growth (backward looking) in a norm referenced fashion.
+• Growth norms for SGP analyses can be derived from current (cohort-
+referenced) or derived from prior data (baseline-referenced)
+• SGP (cohort-referenced) and SGP_BASELINE (baseline-
+referenced)
+• Because SGP can be calculated using more than a single prior,
+there are also (if requested) SGPs based upon the number of
+priors used: SGP_ORDER_1, SGP_ORDER_2, … and
+SGP_BASELINE_ORDER_1, SGP_BASELINE_ORDER_2, …</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -56,15 +56,15 @@ March 7th, 2024</div>
 ```{=html}
 <div class="archive-text">SGP Projections
 • SGP analyses are criterion-referenced analyses that are forward looking and
- utilize existing growth norms (either cohort or baseline-referenced) to
- establish growth-to-standard trajectories across a designated time-frame.
- • The most often used standard to reach is “proficiency”, but other
- standards (e.g., “advanced”) are also utilized.
- • The usual time frame is 3 years but other time frames can be established.
- Massachusetts is considering 5 years.
- • We can only project out to the extent to which there is available test data.
- • We cannot monitor a student’s progress toward an outcome if there is
- not assessment data available for the years/grades designated.</div>
+utilize existing growth norms (either cohort or baseline-referenced) to
+establish growth-to-standard trajectories across a designated time-frame.
+• The most often used standard to reach is “proficiency”, but other
+standards (e.g., “advanced”) are also utilized.
+• The usual time frame is 3 years but other time frames can be established.
+Massachusetts is considering 5 years.
+• We can only project out to the extent to which there is available test data.
+• We cannot monitor a student’s progress toward an outcome if there is
+not assessment data available for the years/grades designated.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -72,16 +72,16 @@ March 7th, 2024</div>
 ```{=html}
 <div class="archive-text">SGP Projections
 • Trajectories (across a given time span: 1, 2, 3, 4, 5, … years) can be established in two
- ways:
- • SGP metric:
- • SGP_TARGET_X_YEAR cohort referenced
- • SGP_TARGET_X_YEAR_BASELINE baseline referenced
- • Scale score metric (SGP targets are converted back to scaled scores)
- • SCALE_SCORE_SGP_TARGET_X_YEAR_PROJ_YEAR_Y
- • SGPs are constant across the time span of the trajectory, but scale scores
- are not. Therefore, for each year of the trajectory (YEAR_Y) we have a
- different scale score.
- • SCALE_SCORE_SGP_TARGET_BASELINE_X_PROJ_YEAR_Y</div>
+ways:
+• SGP metric:
+• SGP_TARGET_X_YEAR cohort referenced
+• SGP_TARGET_X_YEAR_BASELINE baseline referenced
+• Scale score metric (SGP targets are converted back to scaled scores)
+• SCALE_SCORE_SGP_TARGET_X_YEAR_PROJ_YEAR_Y
+• SGPs are constant across the time span of the trajectory, but scale scores
+are not. Therefore, for each year of the trajectory (YEAR_Y) we have a
+different scale score.
+• SCALE_SCORE_SGP_TARGET_BASELINE_X_PROJ_YEAR_Y</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -90,13 +90,13 @@ March 7th, 2024</div>
 <div class="archive-text">Validating MCAS Growth-to-Standard
 2022 results
 • SarahJo investigated results from results I provided in the
- Massachusetts_SGP data object
- • I had to go recalculate 2022 data because we didn’t
- produce projections in 2022.
- • Rob Curtin asserted:
- • Growth to standard would be reported as a scale score
- • Time frame to reach proficiency/level 3 or advanced/
- level 4</div>
+Massachusetts_SGP data object
+• I had to go recalculate 2022 data because we didn’t
+produce projections in 2022.
+• Rob Curtin asserted:
+• Growth to standard would be reported as a scale score
+• Time frame to reach proficiency/level 3 or advanced/
+level 4</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -105,15 +105,15 @@ March 7th, 2024</div>
 <div class="archive-text">Validating MCAS Growth-to-Standard
 2022 results
 • I investigated the results that SarahJo came up with and I came up with
- roughly the same thing (see attached code for investigation)
- • Looked at students whose:
- • SCALE_SCORE_2023 was &gt;=
- SCALE_SCORE_SGP_TARGET_BASELINE_5_YEAR_PROJ_YEAR_1 and
- • SGP_BASELINE &lt; SGP_TARGET_BASELINE_5_YEAR_CURRENT
- • tmp.different &lt;- tmp.all[SCALE_SCORE_2023 &gt;=
- SCALE_SCORE_SGP_TARGET_BASELINE_5_YEAR_PROJ_YEAR_1_CU
- RRENT &amp; SGP_BASELINE &lt;
- SGP_TARGET_BASELINE_5_YEAR_CURRENT]</div>
+roughly the same thing (see attached code for investigation)
+• Looked at students whose:
+• SCALE_SCORE_2023 was &gt;=
+SCALE_SCORE_SGP_TARGET_BASELINE_5_YEAR_PROJ_YEAR_1 and
+• SGP_BASELINE &lt; SGP_TARGET_BASELINE_5_YEAR_CURRENT
+• tmp.different &lt;- tmp.all[SCALE_SCORE_2023 &gt;=
+SCALE_SCORE_SGP_TARGET_BASELINE_5_YEAR_PROJ_YEAR_1_CU
+RRENT &amp; SGP_BASELINE &lt;
+SGP_TARGET_BASELINE_5_YEAR_CURRENT]</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -122,14 +122,14 @@ March 7th, 2024</div>
 <div class="archive-text">Validating MCAS Growth-to-Standard
 2022 results
 • The results are close to what SarahJo reported previously (and which I said
- couldn’t be right).
+couldn’t be right).
 • 22,475 cases that are off out of about 625,000 total cases.
 • One issue that I have to rectify: The current data set doesn’t include cohort
- referenced scale score projections but does include baseline referenced
- scale score projections (which is what I used for the above statistics)
+referenced scale score projections but does include baseline referenced
+scale score projections (which is what I used for the above statistics)
 • Need to review:
- • Discrepancies between scale score target and SGP target
- • Why no cohort referenced projections occurred.</div>
+• Discrepancies between scale score target and SGP target
+• Why no cohort referenced projections occurred.</div>
 ```
 
 ## About this copy {.archive-about}

@@ -20,9 +20,9 @@ The National Center for the Improvement of Educational Assessment
 September 11th, 2023
 RIDE TAC Meeting
 
- This work is licensed under a
- Creative Commons Attribution 4.0
- International License.</div>
+This work is licensed under a
+Creative Commons Attribution 4.0
+International License.</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -36,18 +36,18 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">RICAS SGP Analyses in 2023: RICAS
 • Two types of SGP analyses were conducted for RICAS data 2023:
- • Cohort referenced analyses: These analyses create growth norms from the
- 2021, 2022 and 2023 students. These growth norms yield cohort means/
- median SGPs of 50.
- • Baseline referenced analyses: Historical growth norms were created using
- from 2017, 2018 and 2019 data. These growth norms (actually, coefficient
- matrices) are applied to 2021, 2022, and 2023 data. These growth growth
- analyses don’t have mean/median SGPs of 50 and can be used to investigate
- overall COVID-19 academic recovery
+• Cohort referenced analyses: These analyses create growth norms from the
+2021, 2022 and 2023 students. These growth norms yield cohort means/
+median SGPs of 50.
+• Baseline referenced analyses: Historical growth norms were created using
+from 2017, 2018 and 2019 data. These growth norms (actually, coefficient
+matrices) are applied to 2021, 2022, and 2023 data. These growth growth
+analyses don’t have mean/median SGPs of 50 and can be used to investigate
+overall COVID-19 academic recovery
 • Projections (lagged and straight) were calculated for 2023 data using
- both cohort and baseline growth norms.
+both cohort and baseline growth norms.
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -55,18 +55,18 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">RICAS SGP Analyses in 2023: PSAT/SAT
 • Two types of SGP analyses were conducted for PSAT to SAT data 2023
- (single prior SAT growth data):
- • Cohort referenced analyses: These analyses create growth norms from the 2022
- and 2023 students. These growth norms yield cohort means/median SGPs of 50.
- • Baseline referenced analyses: Historical growth norms were created using from
- 2018 and 2019 data. These growth norms (actually, coefficient matrices) are
- applied to 2022, and 2023 data. These growth growth analyses don’t have
- mean/median SGPs of 50 and can be used to investigate overall COVID-19
- academic recovery (NOTE: In the base year, mean/median of SGPs is 50)
+(single prior SAT growth data):
+• Cohort referenced analyses: These analyses create growth norms from the 2022
+and 2023 students. These growth norms yield cohort means/median SGPs of 50.
+• Baseline referenced analyses: Historical growth norms were created using from
+2018 and 2019 data. These growth norms (actually, coefficient matrices) are
+applied to 2022, and 2023 data. These growth growth analyses don’t have
+mean/median SGPs of 50 and can be used to investigate overall COVID-19
+academic recovery (NOTE: In the base year, mean/median of SGPs is 50)
 • No projections were calculated as the SAT (grade 11) is the last grade
- tested in Rhode Island.
+tested in Rhode Island.
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -74,17 +74,17 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">RICAS/PSAT/SAT SGP Analyses
 • All analyses were conducted using data supplied by the Rhode Island
- Department of Education:
+Department of Education:
 • All analyses were conducted using the SGP package (version 2.1-0.0)
 • Source code for the SGP package and the Rhode Island analyses are
- available on on GitHub
- • Source Code for Analyses: https://github.com/CenterForAssessment/
- Rhode_Island
- • Source Code for SGP Package: https://github.com/CenterForAssessment/
- SGP
+available on on GitHub
+• Source Code for Analyses: https://github.com/CenterForAssessment/
+Rhode_Island
+• Source Code for SGP Package: https://github.com/CenterForAssessment/
+SGP
 • All analyses were conducted in June and August of 2023. All analyses
- converged and goodness-of-fit plots confirmed successful analyses.
- RI Academic Impact Discussion 2021</div>
+converged and goodness-of-fit plots confirmed successful analyses.
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -92,20 +92,13 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">2023 SGP Results
 • Mean/Median/Count for cohort referenced and baseline referenced SGP
- in ELA and mathematics are as follows:
+in ELA and mathematics are as follows:
 
- ELA Mathematics
- Grade
- Cohort Referenced Baseline Referenced Cohort Referenced Baseline Referenced
+ELA Mathematics
+Grade
+Cohort Referenced Baseline Referenced Cohort Referenced Baseline Referenced
 
- 4 50.0/50/9,234 47.8/48/9,234 49.9/50/9,327 57.6/61/9,327
- 5 49.8/50/9,208 49.5/50/9,208 50.1/50/9,280 56.3/59/9,280
- 6 50.0/50/9,196 42.7/38/9,106 50.0/50/9,264 53.9/56/9,264
- 7 49.9/50/9,296 50.5/51/9,296 49.9/50/9,313 47.5/47/9,313
- 8 49.9/50/9,414 42.2/39/9,414 49.8/50/9,425 53.8/55/9,425
- 11 (SAT) 49.6/50/8,550 50.4/51/8,550 49.6/50/8,545 48.4/48/8,545
-
- 6</div>
+11 (SAT) 49.6/50/8,550 50.4/51/8,550 49.6/50/8,545 48.4/48/8,545</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -114,15 +107,13 @@ RIDE TAC Meeting
 <div class="archive-text">2023 SGP Results
 • The cohort referenced results, not surprisingly, all center on 50
 • The baseline referenced results (referenced to pre-pandemic growth
- norms/rates of learning) show:
- • ELA at or below historical rates of learning. Grade 6 and 8 being the
- lowest.
- • Mathematics at or above historical rates of learning. Elementary
- schools grades being the highest.
+norms/rates of learning) show:
+• ELA at or below historical rates of learning. Grade 6 and 8 being the
+lowest.
+• Mathematics at or above historical rates of learning. Elementary
+schools grades being the highest.
 • In the next section we dig deeper into results with regard to academic
- recovery.
-
- 7</div>
+recovery.</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -135,22 +126,20 @@ RIDE TAC Meeting
 
 ```{=html}
 <div class="archive-text">A Timeline of the Pandemic
- Pandemic
- Begins
+Pandemic
+Begins
 
-2019-2020 2019-2020 2020-2021 2021-2022 2022-2023
-
- Spring 2019 Spring 2020 Spring 2021 Spring 2022 Spring 2023
- Pre-pandemic (No testing) Academic Impact Academic Recovery Academic Recovery
+Spring 2019 Spring 2020 Spring 2021 Spring 2022 Spring 2023
+Pre-pandemic (No testing) Academic Impact Academic Recovery Academic Recovery
 
 • Three years on from the onset of the pandemic, concerns regarding the academic
- impact of the pandemic on students.
+impact of the pandemic on students.
 • Thus far, Rhode Island state assessment data (RICAS and WIDA-ACCESS) indicate large
- to severe academic impacts and little recovery (stabilization) through 2022.
+to severe academic impacts and little recovery (stabilization) through 2022.
 • The release of NAEP data in 2022 (with pre-pandemic comparisons to 2019) has only
- amplified concerns about the impact of the pandemic on students.
+amplified concerns about the impact of the pandemic on students.
 
- Pandemic Related Academic Recovery in Rhode Island 9</div>
+Pandemic Related Academic Recovery in Rhode Island 9</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -158,16 +147,16 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">Academic Impact &amp; Recovery
 • The pandemic and all the ensuing disruptions functioned/
- functions as an “academic headwind”, impeding (in general) the
- academic progress of students.
+functions as an “academic headwind”, impeding (in general) the
+academic progress of students.
 • This is Academic Impact and shows up in educational
- assessments as:
- ▪ Decrease in student growth (i.e. decrease in velocity = deceleration).
- ▪ Decrease in student attainment.
+assessments as:
+▪ Decrease in student growth (i.e. decrease in velocity = deceleration).
+▪ Decrease in student attainment.
 • Academic Recovery would show up in education assessments
- as an increase in student growth (i.e., increase in velocity =
- acceleration) leading to an increase in student attainment.
- Pandemic Related Academic Recovery in Rhode Island 10</div>
+as an increase in student growth (i.e., increase in velocity =
+acceleration) leading to an increase in student attainment.
+Pandemic Related Academic Recovery in Rhode Island 10</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -175,13 +164,13 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">Assessment Data
 • As in 2021 and 2022, to investigate academic recovery in 2023 we
- utilized RICAS state summative assessment data as the primary
- sources of data
+utilized RICAS state summative assessment data as the primary
+sources of data
 • For attainment comparisons, 2023 data is compared to 2019 data.
 • For growth comparisons, current growth data (2022 to 2023) is
- compared to pre-pandemic growth data (2018 to 2019).
+compared to pre-pandemic growth data (2018 to 2019).
 
- Pandemic Related Academic Recovery in Rhode Island 11</div>
+Pandemic Related Academic Recovery in Rhode Island 11</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -189,19 +178,19 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">Last Year I Mentioned Cautions Going Forward
 • Maintaining scales to pre-pandemic years will increasingly become challenging for
- states.
+states.
 • Two views of returning to “normal”
- • Is the education system returning to normal?
- • Are students impacted by the pandemic returning to normal?
+• Is the education system returning to normal?
+• Are students impacted by the pandemic returning to normal?
 • The education system returning to normal means the education system supports
- rates of student learning consistent with what was observed pre-pandemic.
+rates of student learning consistent with what was observed pre-pandemic.
 • The education system can return to “normal” without student attainment
- returning to normal.
- • To catch-up to where they would have been academically, students must learn
- at rates exceeding what was observed pre-pandemic (like we need the reverse
- of the pandemic to catch-up)
+returning to normal.
+• To catch-up to where they would have been academically, students must learn
+at rates exceeding what was observed pre-pandemic (like we need the reverse
+of the pandemic to catch-up)
 
- Pandemic Related Academic Recovery in Rhode Island 12</div>
+Pandemic Related Academic Recovery in Rhode Island 12</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -210,7 +199,7 @@ RIDE TAC Meeting
 <div class="archive-text">Attainment Over Time: Are Students Recovering
 ELA
 
- Pandemic Related Academic Recovery in Rhode Island 13</div>
+Pandemic Related Academic Recovery in Rhode Island 13</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -219,7 +208,7 @@ ELA
 <div class="archive-text">Attainment Over Time: Are Students Recovering
 Mathematics
 
- Pandemic Related Academic Recovery in Rhode Island 14</div>
+Pandemic Related Academic Recovery in Rhode Island 14</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -228,7 +217,7 @@ Mathematics
 <div class="archive-text">Growth Over Time: Is the system recovering
 ELA
 
- Pandemic Related Academic Recovery in Rhode Island 15</div>
+Pandemic Related Academic Recovery in Rhode Island 15</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -237,7 +226,7 @@ ELA
 <div class="archive-text">Growth Over Time: Is the system recovering
 Mathematics
 
- Pandemic Related Academic Recovery in Rhode Island 16</div>
+Pandemic Related Academic Recovery in Rhode Island 16</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -245,17 +234,17 @@ Mathematics
 ```{=html}
 <div class="archive-text">Big Picture
 • As we found last year, the Rhode Island’s education system had, on average,
- “recovered” to support rates of learning that it did pre-pandemic (Better in
- mathematics than in ELA, but near median baseline SGPs of 50).
+“recovered” to support rates of learning that it did pre-pandemic (Better in
+mathematics than in ELA, but near median baseline SGPs of 50).
 • To avoid confusion with “student recovery”, we called this “stabilization”
 • In 2023, the system followed trend with 2022 and demonstrated, on
- average, rates of growth consistent with what was observed pre-pandemic.
+average, rates of growth consistent with what was observed pre-pandemic.
 • Given the academic losses incurred by students from 2019 to 2021, typical
- progress is not, in general, sufficient for student recovery.
+progress is not, in general, sufficient for student recovery.
 • Thus, individual students in most grades in both ELA and mathematics
- continue to fall below 2019 attainment levels.
+continue to fall below 2019 attainment levels.
 
- Pandemic Related Academic Recovery in Rhode Island 17</div>
+Pandemic Related Academic Recovery in Rhode Island 17</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
@@ -264,12 +253,12 @@ Mathematics
 <div class="archive-text">Big Picture
 • Averages can mask important heterogeneity.
 • The following illustration dig deeper into how particular
- demographic subgroups are doing.
+demographic subgroups are doing.
 • Note that attainment is a lagging indicator to growth (i.e. learning).
- That is, in order for higher attainment to occur, higher rates of
- growth/learning must precede it.
+That is, in order for higher attainment to occur, higher rates of
+growth/learning must precede it.
 
- Pandemic Related Academic Recovery in Rhode Island 18</div>
+Pandemic Related Academic Recovery in Rhode Island 18</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -277,7 +266,7 @@ Mathematics
 ```{=html}
 <div class="archive-text">2022-2023: Student Academic Recovery Year 2
 
- Pandemic Related Academic Impact in Rhode Island 19</div>
+Pandemic Related Academic Impact in Rhode Island 19</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
@@ -285,7 +274,7 @@ Mathematics
 ```{=html}
 <div class="archive-text">2022-2023: Student Academic Recovery Year 2
 
- Pandemic Related Academic Recovery in Rhode Island 20</div>
+Pandemic Related Academic Recovery in Rhode Island 20</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
@@ -293,7 +282,7 @@ Mathematics
 ```{=html}
 <div class="archive-text">2022-2023: Student Academic Recovery Year 2
 
- Pandemic Related Academic Recovery in Rhode Island 21</div>
+Pandemic Related Academic Recovery in Rhode Island 21</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
@@ -301,7 +290,7 @@ Mathematics
 ```{=html}
 <div class="archive-text">2022-2023: Student Academic Recovery Year 2
 
- Pandemic Related Academic Recovery in Rhode Island 22</div>
+Pandemic Related Academic Recovery in Rhode Island 22</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
@@ -309,7 +298,7 @@ Mathematics
 ```{=html}
 <div class="archive-text">2022-2023: Student Academic Recovery Year 2
 
- Pandemic Related Academic Recovery in Rhode Island 23</div>
+Pandemic Related Academic Recovery in Rhode Island 23</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
@@ -317,7 +306,7 @@ Mathematics
 ```{=html}
 <div class="archive-text">2022-2023: Student Academic Recovery Year 2
 
- Pandemic Related Academic Recovery in Rhode Island 24</div>
+Pandemic Related Academic Recovery in Rhode Island 24</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
@@ -325,7 +314,7 @@ Mathematics
 ```{=html}
 <div class="archive-text">2022-2023: System Academic Recovery Year 2
 
- Pandemic Related Academic Impact in Rhode Island 25</div>
+Pandemic Related Academic Impact in Rhode Island 25</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
@@ -333,7 +322,7 @@ Mathematics
 ```{=html}
 <div class="archive-text">2022-2023: System Academic Recovery Year 2
 
- Pandemic Related Academic Impact in Rhode Island 26</div>
+Pandemic Related Academic Impact in Rhode Island 26</div>
 ```
 
 ## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
@@ -341,7 +330,7 @@ Mathematics
 ```{=html}
 <div class="archive-text">2022-2023: System Academic Recovery Year 2
 
- Pandemic Related Academic Impact in Rhode Island 27</div>
+Pandemic Related Academic Impact in Rhode Island 27</div>
 ```
 
 ## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
@@ -349,21 +338,21 @@ Mathematics
 ```{=html}
 <div class="archive-text">Summary
 • There are promising and not so promising results in 2022-2023.
- • Mathematics, overall, is a bright spot however some subgroups languish more
- than others
- • ELA seems problematic both from the perspective of getting students caught
- up as well as seeing rates of learning in all grades reaching (at a minimum) pre-
- pandemic levels.
+• Mathematics, overall, is a bright spot however some subgroups languish more
+than others
+• ELA seems problematic both from the perspective of getting students caught
+up as well as seeing rates of learning in all grades reaching (at a minimum) pre-
+pandemic levels.
 • Rates of growth for most students are insufficient to catch them up to where they
- would have been had the pandemic not occurred.
+would have been had the pandemic not occurred.
 • In several grades and content areas lower achieving students are demonstrating
- rates of learning below what was seen pre-pandemic whereas their high achieving
- counterparts are demonstration rates of learning above what was seen pre-
- pandemic.
+rates of learning below what was seen pre-pandemic whereas their high achieving
+counterparts are demonstration rates of learning above what was seen pre-
+pandemic.
 • This suggest a K-shaped recovery where, on average, low achieving students don’t
- recover and their higher achieving counterparts do.
+recover and their higher achieving counterparts do.
 
- Pandemic Related Academic Impact in Rhode Island 28</div>
+Pandemic Related Academic Impact in Rhode Island 28</div>
 ```
 
 ## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}

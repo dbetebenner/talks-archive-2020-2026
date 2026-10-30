@@ -18,9 +18,9 @@ Damian Betebenner
 
 Rhode Island Learning Loss Task Force
 February 9th, 2021
- This work is licensed under a
- Creative Commons Attribution 4.0
- International License.</div>
+This work is licensed under a
+Creative Commons Attribution 4.0
+International License.</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -28,17 +28,17 @@ February 9th, 2021
 ```{=html}
 <div class="archive-text">What do we mean by “Learning Loss”
 
- • Pandemic related Learning Loss is the
- decrease in attainment associated
- with pandemic
- • The decrease in attainment (Learning
- Loss) follows a decrease in student
- growth
- • We quantify the learning loss by
- showing the decrease in student
- growth associated with the pandemic.
+• Pandemic related Learning Loss is the
+decrease in attainment associated
+with pandemic
+• The decrease in attainment (Learning
+Loss) follows a decrease in student
+growth
+• We quantify the learning loss by
+showing the decrease in student
+growth associated with the pandemic.
 
- Pandemic Related Learning Loss in Rhode Island 2</div>
+Pandemic Related Learning Loss in Rhode Island 2</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}

@@ -13,7 +13,7 @@ format:
 
 ```{=html}
 <div class="archive-text">Indiana Student Growth and Accountability
- during COVID-19
+during COVID-19
 
 September 23, 2020</div>
 ```
@@ -24,11 +24,11 @@ September 23, 2020</div>
 <div class="archive-text">About Me
 • Dr. Damian Betebenner, Senior Associate Center for Assessment
 • Working with more than 30 states over the last two decades to
- develop models of academic student growth
+develop models of academic student growth
 • Working with Indiana for about a decade to develop several different
- models of student academic growth
+models of student academic growth
 • Currently advising about 15 states on their use of academic student
- growth during the COVID-19 pandemic
+growth during the COVID-19 pandemic
 
 9/23/20 Indiana DOE Skip-Year Growth Report 2</div>
 ```
@@ -37,15 +37,15 @@ September 23, 2020</div>
 
 ```{=html}
 <div class="archive-text">COVID-19: The Situation
- • Global pandemic
- • Education interrupted worldwide with widespread cancellation of in person
- education in the US beginning in March, 2020
- • Nationwide suspension of state summative testing and accountability for
- 2019-2020 school year
- • Unclear about the scope and format of K-12 education for the 2020-2021
- school year even as Fall 2020 is upon us
- • Lack of clarity on state summative testing and accountability for 2020-2021
- including the use and calculation of academic student growth
+• Global pandemic
+• Education interrupted worldwide with widespread cancellation of in person
+education in the US beginning in March, 2020
+• Nationwide suspension of state summative testing and accountability for
+2019-2020 school year
+• Unclear about the scope and format of K-12 education for the 2020-2021
+school year even as Fall 2020 is upon us
+• Lack of clarity on state summative testing and accountability for 2020-2021
+including the use and calculation of academic student growth
 
 9/23/20 Indiana DOE Skip-Year Growth Report 3</div>
 ```
@@ -54,18 +54,18 @@ September 23, 2020</div>
 
 ```{=html}
 <div class="archive-text">Current work with Indiana
- • Due to the cancellation of ILEARN testing this year (and the waiver for
- accountability), no student growth was calculated in 2020
- • Assuming the ILEARN is given in 2021, there are questions as to how
- accountability will be calculated
- • Annual growth (from 2020 to 2021) will not be calculable due to the absence
- of 2020 test data
- • Many states are considering using skip-year growth (2019 to 2021) in lieu of
- one-year growth
- • In place of running standard one-year growth analyses in 2020, the Indiana
- DOE asked me to run skip-year growth on historical ISTEP+ data to see how
- well it matches with one-year growth
- • A draft report of that investigation is currently under review by the INDOE
+• Due to the cancellation of ILEARN testing this year (and the waiver for
+accountability), no student growth was calculated in 2020
+• Assuming the ILEARN is given in 2021, there are questions as to how
+accountability will be calculated
+• Annual growth (from 2020 to 2021) will not be calculable due to the absence
+of 2020 test data
+• Many states are considering using skip-year growth (2019 to 2021) in lieu of
+one-year growth
+• In place of running standard one-year growth analyses in 2020, the Indiana
+DOE asked me to run skip-year growth on historical ISTEP+ data to see how
+well it matches with one-year growth
+• A draft report of that investigation is currently under review by the INDOE
 9/23/20 Indiana DOE Skip-Year Growth Report 4</div>
 ```
 
@@ -74,17 +74,17 @@ September 23, 2020</div>
 ```{=html}
 <div class="archive-text">Report Spoiler Alert
 • Should Indiana calculate student growth? Yes!
- • The calculation of student growth has never been more important than now.
- • Student growth can be used in dozens of ways (not usually done for accountability) to
- help schools, districts, states assess and ameliorate the impact of COVID-19.
+• The calculation of student growth has never been more important than now.
+• Student growth can be used in dozens of ways (not usually done for accountability) to
+help schools, districts, states assess and ameliorate the impact of COVID-19.
 • Should Indiana use student growth for education accountability in 2021?
- Problematic!
- • Need to substitute skip-year growth (two-year growth from 2019 to 2021) for usual
- one-year growth.
- • Besides school interruption in Spring 2020, students’ education will be non-normal
- and disparate in the 2020-2021 academic year -- likely impacting opportunity to learn.
- • There are more beneficial applications of student growth for the coming year than
- just typical school accountability
+Problematic!
+• Need to substitute skip-year growth (two-year growth from 2019 to 2021) for usual
+one-year growth.
+• Besides school interruption in Spring 2020, students’ education will be non-normal
+and disparate in the 2020-2021 academic year -- likely impacting opportunity to learn.
+• There are more beneficial applications of student growth for the coming year than
+just typical school accountability
 
 9/23/20 Indiana DOE Skip-Year Growth Report 5</div>
 ```
@@ -94,15 +94,15 @@ September 23, 2020</div>
 ```{=html}
 <div class="archive-text">Skip Year Growth Calculation
 • Assuming ILEARN summative testing occurs as usual in Spring 2021,
- calculating skip-year growth from 2019 to 2021 should be fairly
- routine
+calculating skip-year growth from 2019 to 2021 should be fairly
+routine
 • Student growth cohorts in most states will be:
- • ELA and Math Grade 3 to 5, 4 to 6, 5 to 7, 6 to 8
+• ELA and Math Grade 3 to 5, 4 to 6, 5 to 7, 6 to 8
 • Additional priors from 2018 can be used
 • Interpretation may be far from routine
- • Two-year academic student growth instead of a single year
- • Growth for 4th graders won’t exist because of no prior test from 2019
- • Might need to create two-year growth matrix values
+• Two-year academic student growth instead of a single year
+• Growth for 4th graders won’t exist because of no prior test from 2019
+• Might need to create two-year growth matrix values
 9/23/20 Indiana DOE Skip-Year Growth Report 6</div>
 ```
 
@@ -111,16 +111,15 @@ September 23, 2020</div>
 ```{=html}
 <div class="archive-text">Skip Year Growth Calculation
 • There are a couple of ways that state testing might not occur as usual
- in 2021.
- • Testing might be cancelled as it was in 2020. No testing in 2021 means no
- calculation of skip-year growth.
- • Testing might only occur with a (non-random) subset of the entire population
- of students.
- • State tests might be modified to accommodate pandemic related constraints
- in 2021 (e.g., abbreviated forms).
- • Some other option between no-test and census testing.
+in 2021.
+• Testing might be cancelled as it was in 2020. No testing in 2021 means no
+calculation of skip-year growth.
+• Testing might only occur with a (non-random) subset of the entire population
+of students.
+• State tests might be modified to accommodate pandemic related constraints
+in 2021 (e.g., abbreviated forms).
+• Some other option between no-test and census testing.
 • Our discussion assumes some sort of testing takes place in Spring
- 2021.
 9/23/20 Indiana DOE Skip-Year Growth Report 7</div>
 ```
 
@@ -130,15 +129,15 @@ September 23, 2020</div>
 <div class="archive-text">Using skip-year in lieu of one-year
 growth: Historical Results
 • We didn’t find systematic differences between the group of students
- with one-year growth and those with skip-year growth.
+with one-year growth and those with skip-year growth.
 • Skip-year growth and one-year growth scores are highly correlated at the
- individual level (~ 0.9).
+individual level (~ 0.9).
 • When aggregated to the school-level, growth scores for schools are
- highly correlated (~0.92).
+highly correlated (~0.92).
 • The high correlations mask differences for a substantial number of
- students/schools that would change interpretation.
+students/schools that would change interpretation.
 • Currently re-running historical school grades to determine impact on
- those.
+those.
 9/23/20 Indiana DOE Skip-Year Growth Report 8</div>
 ```
 
@@ -148,16 +147,16 @@ growth: Historical Results
 <div class="archive-text">Using skip-year in lieu of one-year
 growth: Historical Results
 • Historical analyses indicate that even under normal circumstances, it is
- tenuous to replace one-year growth with skip-year growth
+tenuous to replace one-year growth with skip-year growth
 • By any measure, current circumstances are far from normal
 • Under current circumstances, it would likely be highly problematic to
- replace one-year growth with skip-year growth
+replace one-year growth with skip-year growth
 • Students are receiving disparate educational experiences (remote, in-
- person, hybrid/concurrent) of disparate quality which will likely greatly
- impact student growth
+person, hybrid/concurrent) of disparate quality which will likely greatly
+impact student growth
 • We won’t know for sure until 2021 data arrives but given what I know
- today, I would be skeptical that skip-year growth will be suitable for
- “business as usual” accountability in 2021
+today, I would be skeptical that skip-year growth will be suitable for
+“business as usual” accountability in 2021
 9/23/20 Indiana DOE Skip-Year Growth Report 9</div>
 ```
 
@@ -167,12 +166,12 @@ growth: Historical Results
 <div class="archive-text">Going beyond accountability with
 growth
 • Skip-year growth data in 2021 opens the door to numerous analytic
- investigations that go beyond accountability calculations performed by
- Indiana.
+investigations that go beyond accountability calculations performed by
+Indiana.
 • Two critical investigative tracks states can pursue:
- • Investigate differential impact on student learning for various student groups.
- • Investigate the overall impact on student learning for the state and for various
- student groups.
+• Investigate differential impact on student learning for various student groups.
+• Investigate the overall impact on student learning for the state and for various
+student groups.
 
 9/23/20 Indiana DOE Skip-Year Growth Report 10</div>
 ```
@@ -183,20 +182,20 @@ growth
 <div class="archive-text">Going beyond accountability with
 growth
 • For SGP a common investigative technique is to look at “growth gaps”: Group mean/median
- SGP differences to identify issues worth investigating more deeply.
- • Issues related to opportunity to learn can be examined by looking at growth gaps for relevant
- demographic subgroups.
- • Issues related to program efficacy can be examined by looking at growth gaps for relevant groups
- receiving different “treatments”.
- • With good meta-data associated with student education in the 2020-2021 school year it’s possible to
- examine differential growth of students subjected to remote versus in person learning.
+SGP differences to identify issues worth investigating more deeply.
+• Issues related to opportunity to learn can be examined by looking at growth gaps for relevant
+demographic subgroups.
+• Issues related to program efficacy can be examined by looking at growth gaps for relevant groups
+receiving different “treatments”.
+• With good meta-data associated with student education in the 2020-2021 school year it’s possible to
+examine differential growth of students subjected to remote versus in person learning.
 • Extending this idea, states can compare growth gaps over time (i.e., skip-year growth gaps in
- 2019 versus skip-year growth gaps in 2021) to examine whether growth gaps have waned or
- extended with the COVID-19 pandemic.
- • In most states there has always been a growth gap between FRL/non-FRL. Has the growth-gap widened?
- Is it the same in ELA and Mathematics? Is it the same across grades?
- • These ”over time” investigations will allow states to rigorously examine changes in opportunity to learn
- that have occurred during the COVID-19 pandemic.
+2019 versus skip-year growth gaps in 2021) to examine whether growth gaps have waned or
+extended with the COVID-19 pandemic.
+• In most states there has always been a growth gap between FRL/non-FRL. Has the growth-gap widened?
+Is it the same in ELA and Mathematics? Is it the same across grades?
+• These ”over time” investigations will allow states to rigorously examine changes in opportunity to learn
+that have occurred during the COVID-19 pandemic.
 • For SGPs, mean SGP group deviations of 5 correspond to an effect size of 0.18.
 9/23/20 Indiana DOE Skip-Year Growth Report 11</div>
 ```
@@ -207,15 +206,15 @@ growth
 <div class="archive-text">Going beyond accountability with
 growth
 • A critical component of utilizing growth data to its potential is to have
- all the relevant grouping variables at your disposal.
+all the relevant grouping variables at your disposal.
 • To investigate the impact of different 2020-2021 school/corporation
- implemented COVID-19 educational programs, one needs to know
- what those programs are.
- • Remote, hybrid, concurrent, in-person. These are likely to change throughout
- the year so observing these on multiple occasion is likely required.
- • COVID-19 postponement/cancellation at school requiring shift to remote
- learning.
- • School start day, number of days of instruction
+implemented COVID-19 educational programs, one needs to know
+what those programs are.
+• Remote, hybrid, concurrent, in-person. These are likely to change throughout
+the year so observing these on multiple occasion is likely required.
+• COVID-19 postponement/cancellation at school requiring shift to remote
+learning.
+• School start day, number of days of instruction
 • It’s critical to start preparing to collect this data NOW!
 9/23/20 Indiana DOE Skip-Year Growth Report 12</div>
 ```
@@ -225,15 +224,15 @@ growth
 ```{=html}
 <div class="archive-text">Conclusions
 • Based upon what I’m hearing/seeing nationally in terms of current
- schooling surveys, Indiana should be preparing for the worst in terms
- of impact on student learning (this is a Katrina-like event!)
+schooling surveys, Indiana should be preparing for the worst in terms
+of impact on student learning (this is a Katrina-like event!)
 • The impact on student learning is likely to be uneven but very bad for
- a substantial number of students
+a substantial number of students
 • The sooner Indiana can understand who these students are, the
- sooner interventions can occur.
+sooner interventions can occur.
 • Student growth from 2019 to 2021 on the ILEARN will be late in
- arriving but critical in helping the state to understand where and how
- bad the impacts to student achievement are.
+arriving but critical in helping the state to understand where and how
+bad the impacts to student achievement are.
 9/23/20 Indiana DOE Skip-Year Growth Report 13</div>
 ```
 

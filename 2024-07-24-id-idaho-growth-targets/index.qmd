@@ -23,9 +23,7 @@ July 24th, 2024</div>
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">Introduction
-
- 2</div>
+<div class="archive-text">Introduction</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -34,14 +32,14 @@ July 24th, 2024</div>
 <div class="archive-text">Investigating Achievement Level
 Transitions
 • Idaho is in the process of establishing achievement level based
- scaled score cuts associated with a student growth transition
- table.
+scaled score cuts associated with a student growth transition
+table.
 • Cuts are being established in an attempt to motivate a 1
- transition/year growth rate.
+transition/year growth rate.
 • Idaho has subdivided each of Achievement Levels 1, 2 and 3 into 3
- parts based upon scaled score tertiles. Level 4 is not subdivided.
+parts based upon scaled score tertiles. Level 4 is not subdivided.
 • Using 2021 and 2022 ISAT data, the following analyses calculate
- the probabilities of students transitioning as desired.</div>
+the probabilities of students transitioning as desired.</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -50,18 +48,18 @@ Transitions
 <div class="archive-text">Investigating Achievement Level
 Transitions
 • The purpose of these analyses is to determine whether the growth goals thus established are
- reasonable and fair for Idaho students.
+reasonable and fair for Idaho students.
 • Reasonable goals imply that the chances of reaching the outcome are not unreasonably high.
 • Fair goals imply that the chances of reaching the goal do not differ markedly based upon the
- formulation of the model.
+formulation of the model.
 • We investigate Idaho’s growth-to-standard model in two similar ways:
- • Transition probabilities: We calculate the conditional probability of transitioning from prior to
- current achievement level
- • Adequate Growth Percentiles (AGPs): We calculate growth-to-standard for each student to
- each achievement level cut and summarize the distribution of AGPs.
+• Transition probabilities: We calculate the conditional probability of transitioning from prior to
+current achievement level
+• Adequate Growth Percentiles (AGPs): We calculate growth-to-standard for each student to
+each achievement level cut and summarize the distribution of AGPs.
 • Both approaches present a probability of a student reaching the desired achievement outcome.
 • AGPs are more nuanced in that they take account of the scale score starting point whereas
- transition probabilities consider just the beginning achievement level.</div>
+transition probabilities consider just the beginning achievement level.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -69,21 +67,19 @@ Transitions
 ```{=html}
 <div class="archive-text">Recommendations
 • The tertile subdivision of achievement levels yields defensible
- growth targets for students in both ELA and mathematics.
+growth targets for students in both ELA and mathematics.
 • For a vast majority of students the targets are reasonable.
 • Targets for students (those at the bottom of the prior
- achievement level) are unreasonable in some instances.
- However, when aggregated to a group level (e.g., school)
- these instances are likely to not adversely affect
- interpretation.</div>
+achievement level) are unreasonable in some instances.
+However, when aggregated to a group level (e.g., school)
+these instances are likely to not adversely affect
+interpretation.</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">Transition Probabilities
-
- 6</div>
+<div class="archive-text">Transition Probabilities</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -91,30 +87,9 @@ Transitions
 ```{=html}
 <div class="archive-text">Transition Probabilities
 ELA/All Grades
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4_1 4_2 4_3
- 1_1 0.47 0.23 0.13 0.07 0.04 0.02 0.01 0.01 0.00 0.00 0.00 0.00
- 1_2 0.24 0.23 0.18 0.13 0.09 0.05 0.04 0.02 0.01 0.00 0.00 0.00
+Current Achievement Level
 
- 1_3 0.13 0.16 0.17 0.15 0.12 0.10 0.08 0.05 0.02 0.01 0.00 0.00
-
- Prior Achievement Level
- 2_1 0.07 0.11 0.14 0.16 0.14 0.12 0.12 0.08 0.04 0.01 0.01 0.00
-
- 2_2 0.04 0.07 0.11 0.13 0.14 0.14 0.15 0.12 0.06 0.03 0.02 0.01
-
- 2_3 0.02 0.04 0.07 0.11 0.13 0.13 0.16 0.14 0.10 0.04 0.03 0.01
-
- 3_1 0.01 0.02 0.05 0.07 0.10 0.13 0.18 0.18 0.13 0.05 0.04 0.02
-
- 3_2 0.00 0.01 0.02 0.04 0.07 0.10 0.16 0.20 0.18 0.08 0.07 0.05
-
- 3_3 0.00 0.00 0.01 0.02 0.04 0.06 0.13 0.19 0.22 0.12 0.12 0.09
-
- 4_1 0.00 0.00 0.01 0.01 0.03 0.04 0.08 0.15 0.21 0.15 0.17 0.16
-
- 4_2 0.00 0.00 0.00 0.01 0.01 0.02 0.05 0.10 0.17 0.15 0.21 0.27
- 4_3 0.00 0.00 0.00 0.00 0.00 0.01 0.02 0.04 0.11 0.11 0.21 0.48</div>
+Prior Achievement Level</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -122,28 +97,9 @@ ELA/All Grades
 ```{=html}
 <div class="archive-text">Transition Probabilities
 ELA/All Grades
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4
- 1_1 0.47 0.53
+Current Achievement Level
 
- 1_2 0.24 0.23 0.52
-
- 1_3 0.29 0.17 0.54
-
- Prior Achievement Level
- 2_1 0.32 0.16 0.48
-
- 2_2 0.39 0.14 0.51
-
- 2_3 0.37 0.13 0.50
-
- 3_1 0.38 0.62
-
- 3_2 0.40 0.60
-
- 3_3 0.45 0.55
-
- 4 0.30 0.70</div>
+Prior Achievement Level</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -151,30 +107,9 @@ ELA/All Grades
 ```{=html}
 <div class="archive-text">Transition Probabilities
 Mathematics/All Grades
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4_1 4_2 4_3
- 1_1 0.54 0.25 0.11 0.06 0.02 0.01 0.00 0.00 0.00 0.00 0.00 0.00
- 1_2 0.26 0.26 0.20 0.13 0.07 0.04 0.02 0.01 0.00 0.00 0.00 0.00
+Current Achievement Level
 
- 1_3 0.13 0.21 0.21 0.18 0.13 0.08 0.03 0.02 0.01 0.00 0.00 0.00
-
- Prior Achievement Level
- 2_1 0.06 0.14 0.18 0.19 0.17 0.12 0.06 0.04 0.02 0.01 0.00 0.00
-
- 2_2 0.03 0.08 0.12 0.16 0.18 0.16 0.10 0.08 0.05 0.02 0.01 0.00
-
- 2_3 0.01 0.04 0.08 0.12 0.17 0.18 0.13 0.11 0.08 0.04 0.02 0.01
-
- 3_1 0.01 0.02 0.04 0.08 0.14 0.17 0.14 0.15 0.12 0.08 0.05 0.02
-
- 3_2 0.00 0.01 0.03 0.05 0.09 0.14 0.13 0.16 0.16 0.11 0.08 0.04
-
- 3_3 0.00 0.00 0.01 0.02 0.06 0.10 0.11 0.15 0.18 0.15 0.14 0.07
-
- 4_1 0.00 0.00 0.00 0.01 0.03 0.06 0.08 0.12 0.17 0.18 0.20 0.15
-
- 4_2 0.00 0.00 0.00 0.00 0.01 0.03 0.05 0.08 0.13 0.17 0.26 0.26
- 4_3 0.00 0.00 0.00 0.00 0.00 0.01 0.01 0.03 0.06 0.10 0.23 0.56</div>
+Prior Achievement Level</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -182,102 +117,77 @@ Mathematics/All Grades
 ```{=html}
 <div class="archive-text">Transition Probabilities
 ELA/All Grades
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4
- 1_1 0.54 0.46
+Current Achievement Level
 
- 1_2 0.26 0.26 0.48
-
- 1_3 0.34 0.21 0.55
-
- Prior Achievement Level
- 2_1 0.32 0.16 0.48
-
- 2_2 0.35 0.18 0.47
-
- 2_3 0.42 0.18 0.4
-
- 3_1 0.46 0.54
-
- 3_2 0.45 0.55
-
- 3_3 0.41 0.59
-
- 4 0.30 0.70</div>
+Prior Achievement Level</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">Adequate Growth Percentiles
-
- 11</div>
+<div class="archive-text">Adequate Growth Percentiles</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Distribution of AGPs: ELA/All Grades
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4
- 1_1 Min: 31, 25th: 38, 50th: 45, 75th: 54, Max: 86
+Current Achievement Level
+1_1 Min: 31, 25th: 38, 50th: 45, 75th: 54, Max: 86
 
- 1_2 Min: 37, 25th: 44, 50th: 48, 75th: 54, Max: 64
+1_2 Min: 37, 25th: 44, 50th: 48, 75th: 54, Max: 64
 
- 1_3 Min: 35, 25th: 44, 50th: 48, 75th: 53, Max: 61
+1_3 Min: 35, 25th: 44, 50th: 48, 75th: 53, Max: 61
 
- Prior Achievement Level
- 2_1 Min: 35, 25th: 45, 50th: 49, 75th: 53, Max: 63
+Prior Achievement Level
+2_1 Min: 35, 25th: 45, 50th: 49, 75th: 53, Max: 63
 
- 2_2 Min: 36, 25th: 45, 50th: 51, 75th: 55, Max: 64
+2_2 Min: 36, 25th: 45, 50th: 51, 75th: 55, Max: 64
 
- 2_3 Min: 39, 25th: 45, 50th: 51, 75th: 59, Max: 66
+2_3 Min: 39, 25th: 45, 50th: 51, 75th: 59, Max: 66
 
- 3_1 Min: 26, 25th: 35, 50th: 40, 75th: 46, Max: 55
+3_1 Min: 26, 25th: 35, 50th: 40, 75th: 46, Max: 55
 
- 3_2 Min: 28, 25th: 38, 50th: 43, 75th: 48, Max: 58
+3_2 Min: 28, 25th: 38, 50th: 43, 75th: 48, Max: 58
 
- 3_3 Min: 30, 25th: 41, 50th: 46, 75th: 52, Max: 63
+3_3 Min: 30, 25th: 41, 50th: 46, 75th: 52, Max: 63
 
- Min: 1, 25th: 24,
- 4 50th: 38, 75th: 50, Max: 69</div>
+Min: 1, 25th: 24,
+4 50th: 38, 75th: 50, Max: 69</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Distribution of AGPs: ELA/All Grades
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4
- 1_1 Min: 31, 25th: 45, 50th: 54, 75th: 65, Max: 84
+Current Achievement Level
+1_1 Min: 31, 25th: 45, 50th: 54, 75th: 65, Max: 84
 
- 1_2 Min: 32, 25th: 47, 50th: 55, 75th: 62, Max: 74
+1_2 Min: 32, 25th: 47, 50th: 55, 75th: 62, Max: 74
 
- 1_3 Min: 33, 25th: 48, 50th: 58, 75th: 64, Max: 74
+1_3 Min: 33, 25th: 48, 50th: 58, 75th: 64, Max: 74
 
- Prior Achievement Level
- 2_1 Min: 39, 25th: 51, 50th: 59, 75th: 65, Max: 75
+Prior Achievement Level
+2_1 Min: 39, 25th: 51, 50th: 59, 75th: 65, Max: 75
 
- 2_2 Min: 43, 25th: 53, 50th: 59, 75th: 66, Max: 75
+2_2 Min: 43, 25th: 53, 50th: 59, 75th: 66, Max: 75
 
- 2_3 Min: 45, 25th: 56, 50th: 61, 75th: 68, Max: 78
+2_3 Min: 45, 25th: 56, 50th: 61, 75th: 68, Max: 78
 
- 3_1 Min: 34, 25th: 42, 50th: 47, 75th: 53, Max: 63
+3_1 Min: 34, 25th: 42, 50th: 47, 75th: 53, Max: 63
 
- 3_2 Min: 35, 25th: 42, 50th: 47, 75th: 52, Max: 62
+3_2 Min: 35, 25th: 42, 50th: 47, 75th: 52, Max: 62
 
- 3_3 Min: 34, 25th: 42, 50th: 47, 75th: 51, Max: 62
+3_3 Min: 34, 25th: 42, 50th: 47, 75th: 51, Max: 62
 
- Min: 1, 25th: 18,
- 4 50th: 31, 75th: 45, Max: 61</div>
+Min: 1, 25th: 18,
+4 50th: 31, 75th: 45, Max: 61</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">Summary
-
- 14</div>
+<div class="archive-text">Summary</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -285,12 +195,12 @@ ELA/All Grades
 ```{=html}
 <div class="archive-text">Summary
 • The goal of these analyses was to determine whether the
- growth model outlined in the introduction provides
- reasonable and fair growth goals for students
+growth model outlined in the introduction provides
+reasonable and fair growth goals for students
 • A reasonable target is one that provides a decent chance of
- actually achieving the goal.
+actually achieving the goal.
 • A fair target is one that does not markedly differ based upon
- the formulation of the model.</div>
+the formulation of the model.</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -298,14 +208,14 @@ ELA/All Grades
 ```{=html}
 <div class="archive-text">Summary: Reasonableness
 • In general, the probability of students reaching their growth goal
- appears to be reasonable.
- • Transition probabilities in ELA ranged between 0.48 and 0.70 of
- achieving the growth goal. In mathematics, the probabilities
- ranged between 0.4 and 0.7.
- • Median SGPs ranged from 38 to 51 in ELA and from 31 to 61 in
- mathematics.
+appears to be reasonable.
+• Transition probabilities in ELA ranged between 0.48 and 0.70 of
+achieving the growth goal. In mathematics, the probabilities
+ranged between 0.4 and 0.7.
+• Median SGPs ranged from 38 to 51 in ELA and from 31 to 61 in
+mathematics.
 • Results from both models confirm that on average, the goals for
- students are reasonable.</div>
+students are reasonable.</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -313,25 +223,23 @@ ELA/All Grades
 ```{=html}
 <div class="archive-text">Summary: Fairness
 • Fairness looks at the consistency of the AGPs across prior achievement levels as well
- as consistency of the AGPs within each of the prior achievement levels.
- • The results suggest that growth goals for higher achieving students is slightly
- easier than for lower achieving students.
- • Such a result is consistent with what has been found in several states that
- students who are behind need to do more to catch-up.
- • In some prior achievement levels (e.g., 1_1), there is a rather wide range of AGPs
- necessary to reach the growth goal. This suggest much greater difficulty for
- students at the bottom of the achievement level and much easier difficulty for
- students at the top.
- • In some cases, the targets appear unreasonable. Average across all students
- within a school, the results will likely “average” out and not be of concern.</div>
+as consistency of the AGPs within each of the prior achievement levels.
+• The results suggest that growth goals for higher achieving students is slightly
+easier than for lower achieving students.
+• Such a result is consistent with what has been found in several states that
+students who are behind need to do more to catch-up.
+• In some prior achievement levels (e.g., 1_1), there is a rather wide range of AGPs
+necessary to reach the growth goal. This suggest much greater difficulty for
+students at the bottom of the achievement level and much easier difficulty for
+students at the top.
+• In some cases, the targets appear unreasonable. Average across all students
+within a school, the results will likely “average” out and not be of concern.</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">Additional Results
-
- 18</div>
+<div class="archive-text">Additional Results</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -339,30 +247,9 @@ ELA/All Grades
 ```{=html}
 <div class="archive-text">Transition Probabilities
 Grades 4/ELA
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4_1 4_2 4_3
- 1_1 0.43 0.25 0.14 0.07 0.04 0.03 0.02 0.01 0.00 0.00 0.00 0.00
- 1_2 0.24 0.24 0.18 0.10 0.09 0.06 0.04 0.02 0.01 0.01 0.00 0.00
+Current Achievement Level
 
- 1_3 0.15 0.18 0.18 0.12 0.11 0.08 0.07 0.05 0.02 0.02 0.01 0.00
-
- Prior Achievement Level
- 2_1 0.08 0.13 0.15 0.13 0.13 0.12 0.10 0.07 0.05 0.02 0.02 0.00
-
- 2_2 0.04 0.09 0.12 0.11 0.13 0.12 0.11 0.11 0.08 0.06 0.03 0.01
-
- 2_3 0.03 0.05 0.10 0.10 0.11 0.11 0.13 0.11 0.11 0.07 0.06 0.02
-
- 3_1 0.01 0.03 0.07 0.07 0.08 0.10 0.14 0.14 0.13 0.10 0.08 0.04
-
- 3_2 0.01 0.01 0.04 0.05 0.08 0.09 0.13 0.15 0.14 0.12 0.11 0.08
-
- 3_3 0.00 0.01 0.02 0.03 0.05 0.07 0.10 0.13 0.15 0.16 0.17 0.11
-
- 4_1 0.00 0.01 0.01 0.02 0.04 0.06 0.08 0.10 0.15 0.17 0.20 0.19
-
- 4_2 0.00 0.00 0.01 0.01 0.02 0.02 0.04 0.08 0.11 0.17 0.25 0.29
- 4_3 0.00 0.00 0.00 0.00 0.00 0.00 0.02 0.03 0.05 0.11 0.22 0.55</div>
+Prior Achievement Level</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
@@ -370,30 +257,9 @@ Grades 4/ELA
 ```{=html}
 <div class="archive-text">Transition Probabilities
 Grades 5/ELA
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4_1 4_2 4_3
- 1_1 0.45 0.24 0.13 0.07 0.06 0.03 0.02 0.01 0.00 0.00 0.00 0.00
- 1_2 0.24 0.22 0.19 0.11 0.08 0.06 0.05 0.03 0.01 0.00 0.00 0.00
+Current Achievement Level
 
- 1_3 0.10 0.16 0.15 0.11 0.12 0.12 0.11 0.07 0.04 0.01 0.01 0.00
-
- Prior Achievement Level
- 2_1 0.05 0.10 0.13 0.12 0.13 0.12 0.13 0.10 0.07 0.02 0.02 0.00
-
- 2_2 0.03 0.06 0.10 0.10 0.12 0.13 0.15 0.13 0.09 0.04 0.02 0.02
-
- 2_3 0.01 0.03 0.06 0.08 0.11 0.11 0.16 0.15 0.13 0.08 0.04 0.02
-
- 3_1 0.01 0.02 0.06 0.05 0.07 0.11 0.17 0.18 0.15 0.08 0.06 0.04
-
- 3_2 0.01 0.01 0.03 0.04 0.06 0.08 0.15 0.17 0.18 0.11 0.11 0.06
-
- 3_3 0.00 0.00 0.02 0.02 0.05 0.05 0.11 0.15 0.20 0.14 0.14 0.10
-
- 4_1 0.00 0.01 0.01 0.01 0.02 0.03 0.09 0.15 0.17 0.17 0.16 0.18
-
- 4_2 0.00 0.00 0.00 0.00 0.01 0.02 0.05 0.08 0.14 0.16 0.23 0.30
- 4_3 0.00 0.00 0.00 0.00 0.00 0.01 0.02 0.04 0.09 0.10 0.22 0.52</div>
+Prior Achievement Level</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
@@ -401,30 +267,9 @@ Grades 5/ELA
 ```{=html}
 <div class="archive-text">Transition Probabilities
 Grades 6/ELA
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4_1 4_2 4_3
- 1_1 0.48 0.23 0.14 0.07 0.05 0.02 0.01 0.01 0.00 0.00 0.00 0.00
- 1_2 0.22 0.25 0.18 0.15 0.09 0.05 0.04 0.02 0.00 0.00 0.00 0.00
+Current Achievement Level
 
- 1_3 0.11 0.16 0.19 0.18 0.13 0.10 0.08 0.04 0.01 0.00 0.00 0.00
-
- Prior Achievement Level
- 2_1 0.07 0.11 0.15 0.18 0.16 0.11 0.12 0.06 0.03 0.01 0.00 0.00
-
- 2_2 0.03 0.08 0.11 0.15 0.16 0.13 0.15 0.12 0.05 0.02 0.01 0.00
-
- 2_3 0.02 0.05 0.08 0.14 0.16 0.15 0.15 0.13 0.08 0.03 0.02 0.00
-
- 3_1 0.01 0.03 0.05 0.11 0.13 0.14 0.17 0.18 0.11 0.04 0.04 0.01
-
- 3_2 0.00 0.01 0.03 0.05 0.09 0.12 0.17 0.19 0.18 0.06 0.05 0.04
-
- 3_3 0.00 0.00 0.01 0.02 0.05 0.08 0.15 0.22 0.20 0.09 0.10 0.07
-
- 4_1 0.00 0.00 0.01 0.02 0.04 0.05 0.09 0.18 0.23 0.12 0.15 0.10
-
- 4_2 0.00 0.00 0.00 0.01 0.02 0.03 0.07 0.13 0.21 0.13 0.18 0.21
- 4_3 0.00 0.00 0.00 0.00 0.00 0.01 0.02 0.06 0.15 0.12 0.23 0.42</div>
+Prior Achievement Level</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
@@ -432,30 +277,9 @@ Grades 6/ELA
 ```{=html}
 <div class="archive-text">Transition Probabilities
 Grades 7/ELA
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4_1 4_2 4_3
- 1_1 0.47 0.22 0.15 0.08 0.04 0.02 0.01 0.01 0.00 0.00 0.00 0.00
- 1_2 0.21 0.24 0.18 0.15 0.09 0.05 0.05 0.02 0.00 0.00 0.00 0.00
+Current Achievement Level
 
- 1_3 0.12 0.13 0.17 0.17 0.14 0.10 0.10 0.05 0.01 0.00 0.00 0.00
-
- Prior Achievement Level
- 2_1 0.06 0.10 0.13 0.16 0.14 0.12 0.14 0.09 0.03 0.01 0.01 0.00
-
- 2_2 0.02 0.05 0.09 0.14 0.14 0.14 0.17 0.14 0.07 0.01 0.01 0.00
-
- 2_3 0.02 0.03 0.06 0.10 0.12 0.14 0.20 0.17 0.11 0.02 0.02 0.01
-
- 3_1 0.00 0.01 0.03 0.05 0.08 0.13 0.20 0.20 0.18 0.05 0.04 0.02
-
- 3_2 0.00 0.00 0.02 0.03 0.05 0.08 0.16 0.22 0.22 0.09 0.07 0.05
-
- 3_3 0.00 0.00 0.00 0.01 0.02 0.05 0.11 0.18 0.27 0.14 0.13 0.09
-
- 4_1 0.00 0.00 0.00 0.00 0.01 0.02 0.06 0.15 0.26 0.15 0.17 0.18
-
- 4_2 0.00 0.00 0.00 0.00 0.01 0.01 0.05 0.10 0.20 0.15 0.19 0.29
- 4_3 0.00 0.00 0.00 0.00 0.00 0.00 0.02 0.04 0.12 0.13 0.21 0.49</div>
+Prior Achievement Level</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
@@ -463,30 +287,9 @@ Grades 7/ELA
 ```{=html}
 <div class="archive-text">Transition Probabilities
 Grades 8/ELA
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4_1 4_2 4_3
- 1_1 0.52 0.23 0.11 0.09 0.03 0.01 0.01 0.00 0.00 0.00 0.00 0.00
- 1_2 0.29 0.23 0.18 0.15 0.07 0.04 0.03 0.01 0.00 0.00 0.00 0.00
+Current Achievement Level
 
- 1_3 0.15 0.18 0.17 0.19 0.13 0.07 0.06 0.03 0.01 0.00 0.00 0.00
-
- Prior Achievement Level
- 2_1 0.08 0.12 0.13 0.21 0.17 0.11 0.11 0.06 0.02 0.00 0.00 0.00
-
- 2_2 0.05 0.08 0.12 0.14 0.16 0.16 0.15 0.09 0.03 0.01 0.00 0.00
-
- 2_3 0.03 0.06 0.08 0.14 0.15 0.15 0.17 0.12 0.07 0.01 0.01 0.00
-
- 3_1 0.01 0.03 0.05 0.08 0.14 0.15 0.20 0.19 0.11 0.02 0.02 0.01
-
- 3_2 0.00 0.01 0.02 0.04 0.08 0.12 0.19 0.23 0.18 0.06 0.04 0.03
-
- 3_3 0.00 0.00 0.01 0.02 0.04 0.06 0.14 0.21 0.24 0.10 0.10 0.07
-
- 4_1 0.00 0.00 0.00 0.01 0.02 0.03 0.07 0.17 0.25 0.15 0.15 0.14
-
- 4_2 0.00 0.00 0.00 0.00 0.01 0.02 0.06 0.12 0.22 0.13 0.19 0.24
- 4_3 0.00 0.00 0.00 0.00 0.00 0.00 0.02 0.06 0.15 0.11 0.19 0.45</div>
+Prior Achievement Level</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
@@ -494,30 +297,9 @@ Grades 8/ELA
 ```{=html}
 <div class="archive-text">Transition Probabilities
 Grades 4/Mathematics
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4_1 4_2 4_3
- 1_1 0.49 0.23 0.11 0.09 0.04 0.02 0.01 0.00 0.00 0.00 0.00 0.00
- 1_2 0.20 0.22 0.18 0.18 0.10 0.06 0.04 0.02 0.01 0.00 0.00 0.00
+Current Achievement Level
 
- 1_3 0.09 0.14 0.16 0.21 0.17 0.13 0.06 0.03 0.01 0.00 0.00 0.00
-
- Prior Achievement Level
- 2_1 0.04 0.08 0.12 0.20 0.20 0.15 0.10 0.06 0.03 0.02 0.00 0.00
-
- 2_2 0.03 0.04 0.07 0.17 0.19 0.19 0.11 0.10 0.06 0.02 0.01 0.00
-
- 2_3 0.01 0.03 0.06 0.12 0.17 0.18 0.16 0.13 0.09 0.04 0.02 0.01
-
- 3_1 0.01 0.01 0.02 0.08 0.12 0.15 0.15 0.16 0.15 0.07 0.05 0.01
-
- 3_2 0.00 0.01 0.01 0.04 0.07 0.13 0.14 0.18 0.18 0.11 0.09 0.04
-
- 3_3 0.00 0.00 0.00 0.01 0.05 0.08 0.12 0.16 0.21 0.14 0.14 0.07
-
- 4_1 0.00 0.00 0.00 0.00 0.02 0.05 0.08 0.12 0.19 0.18 0.20 0.16
-
- 4_2 0.00 0.00 0.00 0.00 0.01 0.02 0.04 0.08 0.17 0.16 0.25 0.27
- 4_3 0.00 0.00 0.00 0.00 0.00 0.01 0.01 0.03 0.07 0.11 0.22 0.55</div>
+Prior Achievement Level</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
@@ -525,30 +307,9 @@ Grades 4/Mathematics
 ```{=html}
 <div class="archive-text">Transition Probabilities
 Grades 5/Mathematics
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4_1 4_2 4_3
- 1_1 0.59 0.23 0.10 0.05 0.02 0.01 0.00 0.00 0.00 0.00 0.00 0.00
- 1_2 0.32 0.25 0.19 0.12 0.07 0.03 0.01 0.01 0.00 0.00 0.00 0.00
+Current Achievement Level
 
- 1_3 0.19 0.24 0.21 0.14 0.12 0.05 0.02 0.01 0.01 0.00 0.00 0.00
-
- Prior Achievement Level
- 2_1 0.09 0.19 0.20 0.18 0.15 0.09 0.04 0.03 0.02 0.01 0.00 0.00
-
- 2_2 0.04 0.10 0.14 0.17 0.18 0.15 0.08 0.07 0.04 0.02 0.01 0.00
-
- 2_3 0.02 0.06 0.10 0.13 0.19 0.16 0.11 0.10 0.07 0.05 0.02 0.01
-
- 3_1 0.01 0.02 0.05 0.09 0.16 0.17 0.12 0.14 0.10 0.08 0.05 0.02
-
- 3_2 0.00 0.01 0.03 0.05 0.09 0.15 0.11 0.15 0.13 0.13 0.09 0.05
-
- 3_3 0.00 0.00 0.01 0.02 0.06 0.09 0.10 0.15 0.15 0.17 0.16 0.08
-
- 4_1 0.00 0.00 0.00 0.01 0.02 0.05 0.07 0.10 0.13 0.20 0.24 0.16
-
- 4_2 0.00 0.00 0.00 0.00 0.01 0.03 0.04 0.06 0.11 0.16 0.29 0.28
- 4_3 0.00 0.00 0.00 0.00 0.00 0.01 0.01 0.03 0.04 0.09 0.23 0.60</div>
+Prior Achievement Level</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
@@ -556,30 +317,9 @@ Grades 5/Mathematics
 ```{=html}
 <div class="archive-text">Transition Probabilities
 Grades 6/Mathematics
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4_1 4_2 4_3
- 1_1 0.53 0.26 0.12 0.05 0.02 0.01 0.00 0.00 0.00 0.00 0.00 0.00
- 1_2 0.25 0.27 0.21 0.13 0.08 0.03 0.02 0.01 0.01 0.00 0.00 0.00
+Current Achievement Level
 
- 1_3 0.12 0.20 0.21 0.20 0.12 0.08 0.03 0.02 0.01 0.00 0.00 0.00
-
- Prior Achievement Level
- 2_1 0.05 0.14 0.17 0.19 0.18 0.12 0.05 0.04 0.03 0.01 0.01 0.00
-
- 2_2 0.02 0.07 0.11 0.17 0.19 0.16 0.09 0.08 0.05 0.03 0.01 0.00
-
- 2_3 0.01 0.03 0.08 0.13 0.17 0.18 0.12 0.11 0.09 0.05 0.03 0.01
-
- 3_1 0.00 0.02 0.03 0.09 0.15 0.17 0.13 0.14 0.12 0.07 0.05 0.02
-
- 3_2 0.00 0.01 0.02 0.06 0.12 0.15 0.12 0.14 0.14 0.11 0.09 0.04
-
- 3_3 0.00 0.00 0.01 0.04 0.09 0.11 0.12 0.15 0.17 0.13 0.12 0.06
-
- 4_1 0.00 0.00 0.01 0.02 0.04 0.08 0.08 0.12 0.16 0.18 0.18 0.14
-
- 4_2 0.00 0.00 0.00 0.01 0.01 0.05 0.05 0.09 0.15 0.16 0.25 0.23
- 4_3 0.00 0.00 0.00 0.00 0.00 0.01 0.01 0.03 0.08 0.13 0.22 0.51</div>
+Prior Achievement Level</div>
 ```
 
 ## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
@@ -587,30 +327,9 @@ Grades 6/Mathematics
 ```{=html}
 <div class="archive-text">Transition Probabilities
 Grades 7/Mathematics
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4_1 4_2 4_3
- 1_1 0.52 0.28 0.11 0.06 0.02 0.01 0.00 0.00 0.00 0.00 0.00 0.00
- 1_2 0.24 0.28 0.21 0.14 0.07 0.03 0.01 0.01 0.00 0.00 0.00 0.00
+Current Achievement Level
 
- 1_3 0.09 0.20 0.22 0.21 0.13 0.08 0.03 0.02 0.01 0.00 0.00 0.00
-
- Prior Achievement Level
- 2_1 0.05 0.10 0.16 0.19 0.18 0.14 0.08 0.06 0.03 0.01 0.00 0.00
-
- 2_2 0.02 0.05 0.10 0.15 0.18 0.18 0.12 0.10 0.06 0.02 0.01 0.00
-
- 2_3 0.01 0.03 0.06 0.10 0.16 0.18 0.14 0.14 0.10 0.05 0.03 0.01
-
- 3_1 0.01 0.01 0.03 0.06 0.12 0.15 0.14 0.16 0.16 0.09 0.05 0.01
-
- 3_2 0.00 0.01 0.02 0.04 0.08 0.11 0.14 0.18 0.19 0.12 0.08 0.04
-
- 3_3 0.00 0.00 0.01 0.02 0.04 0.09 0.11 0.14 0.21 0.15 0.15 0.08
-
- 4_1 0.00 0.00 0.00 0.01 0.03 0.04 0.07 0.13 0.20 0.19 0.17 0.16
-
- 4_2 0.00 0.00 0.00 0.00 0.01 0.02 0.05 0.08 0.13 0.18 0.24 0.29
- 4_3 0.00 0.00 0.00 0.00 0.00 0.00 0.01 0.03 0.07 0.09 0.23 0.57</div>
+Prior Achievement Level</div>
 ```
 
 ## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
@@ -618,30 +337,9 @@ Grades 7/Mathematics
 ```{=html}
 <div class="archive-text">Transition Probabilities
 Grades 8/Mathematics
- Current Achievement Level
- 1_1 1_2 1_3 2_1 2_2 2_3 3_1 3_2 3_3 4_1 4_2 4_3
- 1_1 0.58 0.26 0.10 0.04 0.02 0.01 0.00 0.00 0.00 0.00 0.00 0.00
- 1_2 0.30 0.29 0.21 0.10 0.05 0.03 0.01 0.00 0.00 0.00 0.00 0.00
+Current Achievement Level
 
- 1_3 0.16 0.24 0.24 0.13 0.11 0.07 0.03 0.01 0.00 0.00 0.00 0.00
-
- Prior Achievement Level
- 2_1 0.08 0.19 0.21 0.18 0.14 0.10 0.05 0.03 0.01 0.01 0.00 0.00
-
- 2_2 0.04 0.14 0.18 0.15 0.17 0.14 0.07 0.05 0.03 0.01 0.01 0.00
-
- 2_3 0.02 0.08 0.12 0.12 0.17 0.18 0.11 0.10 0.06 0.03 0.01 0.00
-
- 3_1 0.01 0.04 0.07 0.10 0.14 0.19 0.13 0.13 0.08 0.06 0.03 0.01
-
- 3_2 0.01 0.03 0.05 0.06 0.11 0.15 0.13 0.15 0.14 0.09 0.06 0.02
-
- 3_3 0.00 0.01 0.02 0.04 0.06 0.13 0.11 0.15 0.17 0.15 0.12 0.05
-
- 4_1 0.00 0.00 0.01 0.02 0.04 0.08 0.08 0.12 0.17 0.18 0.19 0.12
-
- 4_2 0.00 0.00 0.00 0.01 0.02 0.03 0.05 0.08 0.12 0.19 0.27 0.23
- 4_3 0.00 0.00 0.00 0.00 0.00 0.01 0.01 0.02 0.06 0.09 0.24 0.57</div>
+Prior Achievement Level</div>
 ```
 
 ## About this copy {.archive-about}

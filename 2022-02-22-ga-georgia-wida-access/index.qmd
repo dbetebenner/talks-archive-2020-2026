@@ -36,45 +36,42 @@ Scott
 • History of student growth in Georgia.
 • Analyses associated with the 2020-2021 academic year.
 • Analyses associated with the 2021-2022 academic year and
- beyond.
+beyond.
 
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Why Student Growth?
- If you care about student achievement,
- then you care about student growth.
- • Where you are is a function of where you
- started and how quickly you’ve travelled
- since.
- • Student growth and student attainment/
- achievement are related in this way.
- • Distance=Rate x Time
- • Those who start behind tend to stay
- behind and those that start ahead tend to
- stay ahead.
- 3</div>
+If you care about student achievement,
+then you care about student growth.
+• Where you are is a function of where you
+started and how quickly you’ve travelled
+since.
+• Student growth and student attainment/
+achievement are related in this way.
+• Distance=Rate x Time
+• Those who start behind tend to stay
+behind and those that start ahead tend to
+stay ahead.</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth: Introductory Concepts
- • The concept of student growth isn’t as difficult to understand and
- popular perception suggests.
- • Calculations may be complicated but knowing how to calculate student
- growth is not synonymous with understanding student growth:
- • The number π (pi=3.14159…) is difficult to calculate but is simple to
- understand conceptually.
- • Height and weight percentiles associated with children are difficult
- to calculate but are simple to understand conceptually.
- • Computational details are important but often obscure a simple
- conceptual basis.
-
- 4</div>
+• The concept of student growth isn’t as difficult to understand and
+popular perception suggests.
+• Calculations may be complicated but knowing how to calculate student
+growth is not synonymous with understanding student growth:
+• The number π (pi=3.14159…) is difficult to calculate but is simple to
+understand conceptually.
+• Height and weight percentiles associated with children are difficult
+to calculate but are simple to understand conceptually.
+• Computational details are important but often obscure a simple
+conceptual basis.</div>
 ```
 
 ::: notes
@@ -88,18 +85,16 @@ See agenda handout
 ```{=html}
 <div class="archive-text">Student Growth Introductory Concepts
 
- A Math Story Problem
+A Math Story Problem
 
- • Whose high jump changed more?
- Explain your answer.
+• Whose high jump changed more?
+Explain your answer.
 
- • Whose high jump change is more
- remarkable? Explain your answer.
+• Whose high jump change is more
+remarkable? Explain your answer.
 
- • Which high jumper improved more?
- Explain your answer.
-
- 5</div>
+• Which high jumper improved more?
+Explain your answer.</div>
 ```
 
 ::: notes
@@ -113,13 +108,11 @@ See agenda handout
 ```{=html}
 <div class="archive-text">Student Growth: Introductory Concepts
 
- • There are 3 general approaches of calculating/
- using student growth:
- • Growth as an amount of change (i.e., gain).
- • Growth as a norm/peer referenced quantity.
- • Growth as a criterion referenced quantity.
-
- 6</div>
+• There are 3 general approaches of calculating/
+using student growth:
+• Growth as an amount of change (i.e., gain).
+• Growth as a norm/peer referenced quantity.
+• Growth as a criterion referenced quantity.</div>
 ```
 
 ::: notes
@@ -133,15 +126,15 @@ See agenda handout
 ```{=html}
 <div class="archive-text">Student Growth: Introductory Concepts
 
- • Growth as an amount of change:
- • What could be more simple?
- • Like height or weight just calculate the amount of change.
- • Requires a vertical scale (which WIDA-ACCESS has)
- • Growth = Score Time 2 - Score Time 1
- • Not as simple as it seems:
- • Comparisons between students at different points of the scale often
- leads to wrong conclusions
- • Interpreting change requires context. 7</div>
+• Growth as an amount of change:
+• What could be more simple?
+• Like height or weight just calculate the amount of change.
+• Requires a vertical scale (which WIDA-ACCESS has)
+• Growth = Score Time 2 - Score Time 1
+• Not as simple as it seems:
+• Comparisons between students at different points of the scale often
+leads to wrong conclusions
+• Interpreting change requires context. 7</div>
 ```
 
 ::: notes
@@ -155,9 +148,7 @@ See agenda handout
 ```{=html}
 <div class="archive-text">Student Growth: Introductory Concepts
 
- Back to the story problem!
-
- 8</div>
+Back to the story problem!</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -165,70 +156,67 @@ See agenda handout
 ```{=html}
 <div class="archive-text">Student Growth: Introductory Concepts
 
- • Which high jumper improved
- more:
- – Judy improved 2 inches.
- – Anna improved 6 inches.
- – An inch is an inch!!!
- – But is an inch really
- an inch???
- – 2 inches for an elite
- jumper is far more
- remarkable than 6
- inches for a novice.
- 9</div>
+• Which high jumper improved
+more:
+– Judy improved 2 inches.
+– Anna improved 6 inches.
+– An inch is an inch!!!
+– But is an inch really
+an inch???
+– 2 inches for an elite
+jumper is far more
+remarkable than 6
+inches for a novice.</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth: Introductory Concepts
- • The same holds true for the vertically scaled tests like WIDA-ACCESS.
+• The same holds true for the vertically scaled tests like WIDA-ACCESS.
 
- Average Scale Score Change 2019 to 2020
+Average Scale Score Change 2019 to 2020
 
- Top 10% Reading Grade 4 2020 +25.2
- Bottom 10% Reading Grade 4 2020 +60.3
+Top 10% Reading Grade 4 2020 +25.2
+Bottom 10% Reading Grade 4 2020 +60.3
 
- • Just as an inch isn’t necessarily an inch; a scale score point isn’t necessarily a
- scale score point.
-
- 10</div>
+• Just as an inch isn’t necessarily an inch; a scale score point isn’t necessarily a
+scale score point.</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth: Introductory Concepts
- • This is analogous to height/weight measures for infants.
- • Growth amounts are tricky to interpret and require context.
- • Peer based comparisons used by growth analyses are a way to acquire that context.
+• This is analogous to height/weight measures for infants.
+• Growth amounts are tricky to interpret and require context.
+• Peer based comparisons used by growth analyses are a way to acquire that context.
 
- An infant male toddler is measured at 2 and 3 years of age
- and is shown to have grown 4 inches. The magnitude of
- increase—4 inches—is a well understood quantity that any
- parent can grasp and calculate at home using a simple
- yardstick. However, parents leaving their pediatrician’s office
- knowing only how much their child has grown would likely be
- wanting for more information: Parents are not interested in
- an absolute magnitude of growth, but instead in a norm-
- referenced quantity locating that 4 inch increase alongside 11
+An infant male toddler is measured at 2 and 3 years of age
+and is shown to have grown 4 inches. The magnitude of
+increase—4 inches—is a well understood quantity that any
+parent can grasp and calculate at home using a simple
+yardstick. However, parents leaving their pediatrician’s office
+knowing only how much their child has grown would likely be
+wanting for more information: Parents are not interested in
+an absolute magnitude of growth, but instead in a norm-
+referenced quantity locating that 4 inch increase alongside 11
 
- the height increases of similar children.</div>
+the height increases of similar children.</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">History of student growth in Georgia
- • Started under Melissa Fincher in 2011.
- • Originally associated with teacher
- evaluation.
- • Included the calculation of student growth
- percentiles and student growth projections.
- • Included analyses that corrected for
- measurement error.
- • Still going today with the Georgia Milestones</div>
+• Started under Melissa Fincher in 2011.
+• Originally associated with teacher
+evaluation.
+• Included the calculation of student growth
+percentiles and student growth projections.
+• Included analyses that corrected for
+measurement error.
+• Still going today with the Georgia Milestones</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -236,15 +224,15 @@ See agenda handout
 ```{=html}
 <div class="archive-text">Georgia WIDA ACCESS Testing in 2020 and 2021
 • As you are all aware, the pandemic has created a complicated
- assessment landscape for the past two years.
- • Georgia, like most states we work with in the WIDA consortium, was able to
- test EL students in early 2020 before state assessments were canceled in the
- spring.
+assessment landscape for the past two years.
+• Georgia, like most states we work with in the WIDA consortium, was able to
+test EL students in early 2020 before state assessments were canceled in the
+spring.
 • States that tested did not see 2021 test participation at levels normally
- observed (i.e., 95%).
- • ~15,000 fewer assessment scores in 2021 than 2021 for GA WIDA
+observed (i.e., 95%).
+• ~15,000 fewer assessment scores in 2021 than 2021 for GA WIDA
 
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -252,20 +240,20 @@ See agenda handout
 ```{=html}
 <div class="archive-text">SGP Operational Considerations in 2021
 • GA WIDA ACCESS growth analyses are consecutive-year growth from 2020 to 2021
- (using 2019 as an additional prior when available).
+(using 2019 as an additional prior when available).
 • Growth and subsequent impact analyses use the ACCESS “composite” scale
- scores.
+scores.
 • In 2021, four types of SGP analyses were conducted using GA WIDA ACCESS data:
- • Cohort referenced analyses: These analyses create growth norms from the 2020 to 2021
- students. These growth norms yield cohort means/median SGPs of 50 and obscure COVID-19
- academic impact.
- • Baseline referenced analyses: Historical growth norms were created using 2020 and prior
- data from all available WIDA ACCESS consortium members (states that the Center works with
- directly). These growth growth analyses don’t have mean/median SGPs of 50 and can be
- used to investigate overall COVID-19 academic impact.
+• Cohort referenced analyses: These analyses create growth norms from the 2020 to 2021
+students. These growth norms yield cohort means/median SGPs of 50 and obscure COVID-19
+academic impact.
+• Baseline referenced analyses: Historical growth norms were created using 2020 and prior
+data from all available WIDA ACCESS consortium members (states that the Center works with
+directly). These growth growth analyses don’t have mean/median SGPs of 50 and can be
+used to investigate overall COVID-19 academic impact.
 • Projections (lagged and straight) were calculated for 2021 data using baseline
- growth norms in case they were needed.
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+growth norms in case they were needed.
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -274,16 +262,16 @@ See agenda handout
 <div class="archive-text">SGP Operational Considerations in 2021
 • Growth associated with ELP (i.e., WIDA-ACCESS) testing is often growth-to-standard.
 • That is, growth is evaluated against a threshold that would put the student on track
- to reach a desirable achievement outcome (e.g., English Language Proficiency)
+to reach a desirable achievement outcome (e.g., English Language Proficiency)
 • For WIDA-ACCESS, the desirable achievement outcome is often the cutscore used to
- determine ELP proficiency (e.g., 5.0 on WIDA. Some states use 4.5, 4.3, or 4.2).
+determine ELP proficiency (e.g., 5.0 on WIDA. Some states use 4.5, 4.3, or 4.2).
 • In addition to the desired achievement outcome, there also needs to be a time
- frame to reach that outcome:
- • 5 years is a common time frame.
- • Some states fix that time frame other let the time frame roll-over each year and
- calculate a new target for the student based upon the time frame.
+frame to reach that outcome:
+• 5 years is a common time frame.
+• Some states fix that time frame other let the time frame roll-over each year and
+calculate a new target for the student based upon the time frame.
 
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -291,21 +279,21 @@ See agenda handout
 ```{=html}
 <div class="archive-text">SGP Summary of Cohort versus Baseline Referenced
 • Cohort referenced SGPs
- • Growth norms created from the current cohort of students.
- • Typical way that SGPs are calculated.
- • Mean/median will by 50 for all grade x content area analyses.
- • Cannot investigate overall impact of the pandemic on students.
- • Can investigate differential impact of the pandemic on students.
- • Does not require scale stability across years.
+• Growth norms created from the current cohort of students.
+• Typical way that SGPs are calculated.
+• Mean/median will by 50 for all grade x content area analyses.
+• Cannot investigate overall impact of the pandemic on students.
+• Can investigate differential impact of the pandemic on students.
+• Does not require scale stability across years.
 • Baseline referenced SGPs.
- • Growth norms created from historical (i.e., pre-COVID) cohorts of students.
- • Mean/median 50 for historical (consortium) cohort, not necessarily 50 for current cohort.
- • Extent of deviation from (i.e. below) 50 is indicative of less learning/pandemic related academic impact.
- • Mean SGP deviation of 5 corresponds to an effect size of 0.18.
- • Can investigate BOTH overall impact and differential impact.
- • Requires scale stability across years.
+• Growth norms created from historical (i.e., pre-COVID) cohorts of students.
+• Mean/median 50 for historical (consortium) cohort, not necessarily 50 for current cohort.
+• Extent of deviation from (i.e. below) 50 is indicative of less learning/pandemic related academic impact.
+• Mean SGP deviation of 5 corresponds to an effect size of 0.18.
+• Can investigate BOTH overall impact and differential impact.
+• Requires scale stability across years.
 
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -313,32 +301,23 @@ See agenda handout
 ```{=html}
 <div class="archive-text">SGP Calculations
 • SGP calculations were performed using the SGP package and R software
- environment based upon data supplied by GaDOE in January 2022.
+environment based upon data supplied by GaDOE in January 2022.
 • Analyses were conducted for 2020 (using 2019 as a single prior) as well
- to provide pre-COVID comparison measures.
+to provide pre-COVID comparison measures.
 • All analyses completed successfully, and no analytic issues were
- encountered that invalidated the results.
+encountered that invalidated the results.
 
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Data for spring 2020 &amp; 2021 by grade
- Elementary Middle/High School
- Grade Grade
- 2020 2021 2020 2021
- 6 8,155 7,765
- Overall 129,706 114,585
- 7 7,009 7,032
- K 15,454 12,784 8 6,007 5,842
- 1 16,313 13,915 --- --- ---
- 2 16,259 14,238 9 7,338 5,520
- 3 16,016 13,971 10 4,985 4,334
- 4 14,519 13,505 11 3,524 3,007
- 5 11,214 10,363 12 2,913 2,309
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+Elementary Middle/High School
+Grade Grade
+Overall 129,706 114,585
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -347,39 +326,27 @@ See agenda handout
 <div class="archive-text">SGP Results
 • The following slides show GA WIDA ACCESS SGP results for 2021.
 • We report only baseline referenced SGPs in these slides
- • Cohort referenced results fail to show overall impact.
- • Differential impact shown in baseline SGPs will mirror that found in
- cohort referenced SGPs.
- • Due to the highly skewed nature of the SGP results, we recommend
- median SGP over mean SGP in this instance.
+• Cohort referenced results fail to show overall impact.
+• Differential impact shown in baseline SGPs will mirror that found in
+cohort referenced SGPs.
+• Due to the highly skewed nature of the SGP results, we recommend
+median SGP over mean SGP in this instance.
 • We also provide 2020 results to understand pandemic related
- academic impact.
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+academic impact.
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">GA WIDA Growth: 2020 to 2021 Median SGP by Grade
- Elementary Middle/High School
+Elementary Middle/High School
 
- Median Baseline Median Baseline Difference Median Baseline Median Baseline Difference
+Median Baseline Median Baseline Difference Median Baseline Median Baseline Difference
 Grade SGP 2020 SGP 2021 Grade SGP 2020 SGP 2021
- K NA NA NA 6 52 (8,155) 40 (7,765) -12
+K NA NA NA 6 52 (8,155) 40 (7,765) -12
 
- 1 54 (16,313) 32 (13,915) -22 7 49 (7,009) 42 (7,032) -7
-
- 2 52 (16,259) 33 (14,238) -19 8 50 (6,007) 41 (5,842) -9
-
- 3 47 (16,016) 32 (13,971) -15 9 52 (7,338) 46 (5,520) -6
-
- 4 48 (14,519) 30 (13,505) -18 10 53 (4,985) 47 (4,334) -6
-
- 5 50 (11,214) 32 (10,363) -18 11 51 (3,524) 50 (3,007) -1
-
- 12 55 (2,913) 53 (2,309) -2
-
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
@@ -405,55 +372,48 @@ Level 1 – 2 cut.</div>
 ```{=html}
 <div class="archive-text">SGP Analyses and Academic Impact
 • 2020 to 2021 Status and Growth comparisons get at the same
- thing: deceleration in student learning due to the COVID-19
- pandemic “headwind”.
+thing: deceleration in student learning due to the COVID-19
+pandemic “headwind”.
 • Headwinds lead to deceleration. That manifests itself in two
- ways with our data:
- • Deceleration (i.e., decrease in velocity) implies lower rates of
- growth.
- • Decrease in (learning) velocity leads to lower achievement.
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+ways with our data:
+• Deceleration (i.e., decrease in velocity) implies lower rates of
+growth.
+• Decrease in (learning) velocity leads to lower achievement.
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview of Growth Impact Results by Grade
- WIDA−ACCESS Composite
+WIDA−ACCESS Composite
 WIDA GA 2020 to 2021 COVID−19 Academic Impact Grade &amp; Content Area
- Growth/Status Change Legend
-−40 −25 −15 −5 5 20
+Growth/Status Change Legend
 
-−0.55 −0.4 −0.25 −0.1 0.05 0.2
-
- Modest
- Calculations suppressed
- Severe Large Moderate to Improvement
- due to small group N (&lt; 50) WIDA−ACCESS Composite
+Modest
+Calculations suppressed
+Severe Large Moderate to Improvement
+due to small group N (&lt; 50) WIDA−ACCESS Composite
 WIDA GA 2020 to 2021 COVID−19 Academic Impact
- None
+None
 
- Grade, Content Area &amp; Achievement Quintile
- Composite
- Growth/Status Change Legend
+Grade, Content Area &amp; Achievement Quintile
+Composite
+Growth/Status Change Legend
 −40 −25 −15 −5 Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
- 5 20
 
-−0.55 −0.4 −0.25 −0.1 0.05 0.2
+Modest
+Calculations suppressed
+Severe Large Moderate to Improvement
+All Students None Large due to small group
+Large N (&lt; 50)
+Large Large Large Large Moderate Moderate Moderate Moderate Moderate Modest to None Modest to None
 
- Modest
- Calculations suppressed
- Severe Large Moderate to Improvement
- All Students None Large due to small group
- Large N (&lt; 50)
- Large Large Large Large Moderate Moderate Moderate Moderate Moderate Modest to None Modest to None
+Composite
+Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- Composite
- Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
-
- All Students</div>
+All Students</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
@@ -462,19 +422,19 @@ WIDA GA 2020 to 2021 COVID−19 Academic Impact
 <div class="archive-text">Discussion
 
 • Median baseline SGPs in WIDA ACCESS were in the low 30s in elementary grades
- and increase steadily from 40 in grade 6 to 53 in grade 12.
+and increase steadily from 40 in grade 6 to 53 in grade 12.
 • Deviation from normal growth (i.e., ~50 in 2020 using WIDA consortium norms)
- represents the extent to which academic growth slowed down from 2020 to 2021,
- that is, academic impact.
+represents the extent to which academic growth slowed down from 2020 to 2021,
+that is, academic impact.
 • Decreasing academic impact in middle and high school grades.
 • Given what we know about student growth, academic impact will likely require
- multiple years and additional educational supports/interventions to recover.
- • To have average progress (i.e., SGP = 50) over a time span, deviations below 50 must be
- compensated with commensurate deviations above 50.
- • For example, a median SGP of 35 would need to be followed by a median SGP of 65 to
- &quot;average out&quot; at 50.
+multiple years and additional educational supports/interventions to recover.
+• To have average progress (i.e., SGP = 50) over a time span, deviations below 50 must be
+compensated with commensurate deviations above 50.
+• For example, a median SGP of 35 would need to be followed by a median SGP of 65 to
+&quot;average out&quot; at 50.
 
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
@@ -482,12 +442,12 @@ WIDA GA 2020 to 2021 COVID−19 Academic Impact
 ```{=html}
 <div class="archive-text">Growth and Status by Prior Achievement Results
 • In examining results associated with SGP fit, we discovered that
- growth and associated impact varied considerably based upon
- the prior achievement of the student.
+growth and associated impact varied considerably based upon
+the prior achievement of the student.
 • The following slides illustrate academic impact by prior
- achievement.
+achievement.
 
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
@@ -495,140 +455,57 @@ WIDA GA 2020 to 2021 COVID−19 Academic Impact
 ```{=html}
 <div class="archive-text">WIDA−ACCESS Composite Grade 0
 WIDA GA 2020 to 2021 COVID−19 Academic Impact All Students
- Status: Grade 0 2020 to Grade 0 2021 Summary
+Status: Grade 0 2020 to Grade 0 2021 Summary
 
- 2020 Grade 0 Scaled Score
- Academic Impact: Overall and by Quintile
+2020 Grade 0 Scaled Score
+Academic Impact: Overall and by Quintile
 
- Grade 0 Scaled/Standardized Score and Achievement Level Cuts
- 100 175 250 325400
- 475 4
- 2020 Percentiles (Obser ved)
- Overall
- 450 2021 Percentiles (Obser ved)
- 3.5 2020 to 2021 Academic Impact Large
- 425 2020 and 2021 Mean Scaled Scores
- 3 Q1 Q2 Q3 Q4 Q5
- 400
- Moderate Severe Severe Large Moderate
- 375 2.5
+Grade 0 Scaled/Standardized Score and Achievement Level Cuts
+2020 Percentiles (Obser ved)
+Overall
+450 2021 Percentiles (Obser ved)
+3.5 2020 to 2021 Academic Impact Large
+425 2020 and 2021 Mean Scaled Scores
+Moderate Severe Severe Large Moderate
 
- 350 2
+1.5 Participation
+1 Total Status Growth
 
- 325
- 1.5 Participation
- 300
- 1 Total Status Growth
- 275
+250 0.5 2020 15,454 15,422 ( 99.8%) NA
 
- 250 0.5 2020 15,454 15,422 ( 99.8%) NA
+2021 12,764 12,727 ( 99.7%) NA
 
- 225 0 0.00
- 2021 12,764 12,727 ( 99.7%) NA
+No Growth Data:
+175 2020: 2.8% Proficient
 
- 200 −0.36
- −0.5
-
- No Growth Data:
- 175 2020: 2.8% Proficient
- −1
- 150
-
- −1.5
- 2021: 1.4% Proficient
- 125
- Growth/Status Change Legend
- 100
+2021: 1.4% Proficient
+Growth/Status Change Legend
 
 WIDA−ACCESS Composite 0 10 20 30 40 50
 
- Grade 0 Overall Percentile Rank
- 60 70 80 90 100
- −40
+Grade 0 Overall Percentile Rank
 
- −0.55
- −25
+Modest
+Severe Large Moderate to Improvement
 
- −0.4
- −15
+Grade 0 2020 Grade 0 Students
+2021 Grade 0 Students
+2020 &amp; 2021 Grade 0 Mean Scaled (Standardized) Scores by Quintile
+Overall
+200 (−0.36) Calculations suppressed
+None
 
- −0.25
- −5
+Change (Obser ved) −14 (−0.23) −29 (−0.47) −29 (−0.47) −24 (−0.39) −14 (−0.22) −22 (0.36)
+Count Observed 2020 3,054 3,094 3,063 3,152 3,059 15,422
+due to small group N (&lt; 50)
+Count Observed 2021 2,542 2,545 2,541 2,573 2,526 12,727
 
- −0.1
- 5
+2021 to 2020 Scaled/Standardized Score Difference
+0.30 2021 to 2020 Grade 0 Status Change (Obser ved)
 
- 0.05
- 20
+Grade 0 Percentile Rank and Scaled Scores (2020 Nor m)
 
- 0.2
-
- Modest
- Severe Large Moderate to Improvement
-
- Grade 0 2020 Grade 0 Students
- 2021 Grade 0 Students
- 2020 &amp; 2021 Grade 0 Mean Scaled (Standardized) Scores by Quintile
- Q1
- 130 (−1.49)
- 115 (−1.72)
- Q2
- 187 (−0.58)
- 158 (−1.04)
- Q3
- 227 ( 0.07)
- 198 (−0.40)
- Q4
- 263 ( 0.65)
- 239 ( 0.26)
- Q5
- 305 ( 1.33)
- 292 ( 1.11)
- Overall
- 223 (0.00)
- 200 (−0.36) Calculations suppressed
- None
-
- Change (Obser ved) −14 (−0.23) −29 (−0.47) −29 (−0.47) −24 (−0.39) −14 (−0.22) −22 (0.36)
- Count Observed 2020 3,054 3,094 3,063 3,152 3,059 15,422
- due to small group N (&lt; 50)
- Count Observed 2021 2,542 2,545 2,541 2,573 2,526 12,727
-
- 2021 to 2020 Scaled/Standardized Score Difference
- 20
- 0.30 2021 to 2020 Grade 0 Status Change (Obser ved)
-
- 15 0.25
-
- 0.20
- 10 0.15
-
- 0.10
- 5
- 0.05
-
- 0 0.00
-
- −0.05
- −5
- −0.10
-
- −10 −0.15
-
- −0.20
- −15 −0.25
-
- −0.30
- −20
- −0.35 −0.36
- −25 −0.40
- 100 175 250 325400
-
- 0 10 20 30 40 50 60 70 80 90 100
-
- Grade 0 Percentile Rank and Scaled Scores (2020 Nor m)
-
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
@@ -708,15 +585,15 @@ WIDA−ACCESS Composite 0 10 20 30 40 50
 ```{=html}
 <div class="archive-text">Participation Rates and Interpretation
 • An issue impacting the interpretation of growth (and status) results in
- 2021 is participation in the WIDA ACCESS assessment.
+2021 is participation in the WIDA ACCESS assessment.
 • Low participation doesn’t impact calculation of cohort referenced
- growth norms nor use of baseline referenced growth norms.
+growth norms nor use of baseline referenced growth norms.
 • Low participation does impact comparisons of group level results with
- historical (e.g., 2020) results based upon higher participation rates.
+historical (e.g., 2020) results based upon higher participation rates.
 • For example, how should one compare growth and status results for a
- district in 2020 and 2021 with very different rates of participation.
+district in 2020 and 2021 with very different rates of participation.
 
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/41.webp" background-size="contain" background-color="#14140f"}
@@ -724,17 +601,17 @@ WIDA−ACCESS Composite 0 10 20 30 40 50
 ```{=html}
 <div class="archive-text">SGP Analysis Plans post 2021 (2022 and beyond)
 • Spring 2021 represented an ideal time to get a snapshot of student attainment as
- we are presumably/hopefully at or near the point of maximal impact on student
- attainment.
- • That is, recovery has not really begun for most students in earnest.
- • It’s impossible to talk about recovery sensibly without understanding how
- big the impact is.
+we are presumably/hopefully at or near the point of maximal impact on student
+attainment.
+• That is, recovery has not really begun for most students in earnest.
+• It’s impossible to talk about recovery sensibly without understanding how
+big the impact is.
 • Analytics in 2022 will be keenly interested on whether or not recovery is
- occurring: Who, what, how much.
+occurring: Who, what, how much.
 • Monitoring recovery will be at least as critical as monitoring the impact of the
- pandemic on student achievement.
+pandemic on student achievement.
 • Beware the K-shaped recovery!
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/42.webp" background-size="contain" background-color="#14140f"}
@@ -742,17 +619,17 @@ WIDA−ACCESS Composite 0 10 20 30 40 50
 ```{=html}
 <div class="archive-text">Summary of Findings
 • SGP analyses were successfully conducted for Georgia WIDA ACCESS
- testing in February 2022
+testing in February 2022
 • Results of the analyses suggest varying academic impacts on students
- due to the pandemic.
- • Relatively large impact in the elementary grades
- • Moderate to no impact in the middle and high school grades
- • Unequal impact for prior achievement quintiles (e.g., high versus low
- achievers).
+due to the pandemic.
+• Relatively large impact in the elementary grades
+• Moderate to no impact in the middle and high school grades
+• Unequal impact for prior achievement quintiles (e.g., high versus low
+achievers).
 • Recovery from large impacts in lower grades will likely take multiple
- years and require additional supports beyond that provided by normal
- schooling.
- GaDOE WIDA Meeting – Feb, 22, 2022</div>
+years and require additional supports beyond that provided by normal
+schooling.
+GaDOE WIDA Meeting – Feb, 22, 2022</div>
 ```
 
 ## About this copy {.archive-about}

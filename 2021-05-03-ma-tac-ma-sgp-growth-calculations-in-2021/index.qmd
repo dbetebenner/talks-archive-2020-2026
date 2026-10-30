@@ -33,17 +33,17 @@ Scott
 ```{=html}
 <div class="archive-text">Calculation of SGPs in 2021
 • Not surprisingly 2021 presents numerous challenges in the
- administration of state assessments.
+administration of state assessments.
 • These challenges extend beyond just the administration of the
- assessments to the subsequent analysis of the data derived from the
- assessments.
+assessments to the subsequent analysis of the data derived from the
+assessments.
 • As Andrew Ho said, if there was ever a “put up or shut up moment” for
- large-scale, state summative assessment, now is that moment.
+large-scale, state summative assessment, now is that moment.
 • The following slides detail considerations associated with SGP
- calculations in 2021 and demonstrate a path by which large scale state
- summative assessments can rise to the current moment and
- demonstrate essential value.
- MA SGP Growth Calculations in 2021</div>
+calculations in 2021 and demonstrate a path by which large scale state
+summative assessments can rise to the current moment and
+demonstrate essential value.
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -51,15 +51,14 @@ Scott
 ```{=html}
 <div class="archive-text">Operational vs Investigative:
 A Useful Distinction
- • Though SGPs are used almost exclusively for investigative analyses, there are numerous
- operational considerations in their calculation necessary to make sure growth scores (i.e.
- SGPs) are suitable for investigative analyses.
- • Investigative analyses generally presume data derived is of sufficient quality for
- 1
- investigations.
+• Though SGPs are used almost exclusively for investigative analyses, there are numerous
+operational considerations in their calculation necessary to make sure growth scores (i.e.
+SGPs) are suitable for investigative analyses.
+• Investigative analyses generally presume data derived is of sufficient quality for
+investigations.
 
- 1 Table taken from Making Sense of 2021 Assessment Results by Dadey, Keng, Boyer, &amp; Marion (2021)
- MA SGP Growth Calculations in 2021</div>
+1 Table taken from Making Sense of 2021 Assessment Results by Dadey, Keng, Boyer, &amp; Marion (2021)
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -67,15 +66,15 @@ A Useful Distinction
 ```{=html}
 <div class="archive-text">SGP Operational Considerations in 2021
 • Spring 2021 administration of MCAS 2.0 presents numerous
- challenges that may impact the calculation of valid SGPs.
- • Requires skip-year growth (using 2019 as the prior year) due to no
- spring 2020 testing (this is not really an operational problem. MA has a
- long history of calculating skip-year growth from 8th to 10th grade)
- • Shortened forms that are possibly not parallel.
- • Supporting both in-person and remote test administration
+challenges that may impact the calculation of valid SGPs.
+• Requires skip-year growth (using 2019 as the prior year) due to no
+spring 2020 testing (this is not really an operational problem. MA has a
+long history of calculating skip-year growth from 8th to 10th grade)
+• Shortened forms that are possibly not parallel.
+• Supporting both in-person and remote test administration
 • Spring 2021 administration of WIDA-ACCESS does not present
- these challenges.
- MA SGP Growth Calculations in 2021</div>
+these challenges.
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -83,19 +82,19 @@ A Useful Distinction
 ```{=html}
 <div class="archive-text">SGP Analysis Plans for 2021
 • SGP analyses presume valid scale scores
- • Students forming the growth norm group are presumed to have taken the same (or
- equivalent) test at the same time. Scores have to mean the same thing.
- • SGPs, however, are often used as a post-hoc check of scale score validity/
- comparability via Reductio ad absurdum
- • In 2021, check form comparability and mode-of-administration comparability.
- • DESE has extensive experience (e.g., PARCC paper/pencil versus online) investigating
- and accommodating mode-effects.
- • If scores are not comparable then we either attempt to make them comparable or
- run separate analyses.
+• Students forming the growth norm group are presumed to have taken the same (or
+equivalent) test at the same time. Scores have to mean the same thing.
+• SGPs, however, are often used as a post-hoc check of scale score validity/
+comparability via Reductio ad absurdum
+• In 2021, check form comparability and mode-of-administration comparability.
+• DESE has extensive experience (e.g., PARCC paper/pencil versus online) investigating
+and accommodating mode-effects.
+• If scores are not comparable then we either attempt to make them comparable or
+run separate analyses.
 • Note: Low participation is considered an investigative challenge, not an
- operational challenge. We assume something close to population invariance
- with respect to IRT scaling.
- MA SGP Growth Calculations in 2021</div>
+operational challenge. We assume something close to population invariance
+with respect to IRT scaling.
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -103,19 +102,19 @@ A Useful Distinction
 ```{=html}
 <div class="archive-text">SGP Analysis Plans for 2021
 • MCAS 2.0
- • Cohort referenced and baseline referenced skip-year SGPs for MCAS 2.0.
- Baseline coefficient matrices are derived from pre-COVID MCAS 2.0 data.
- • Cohort referenced SGPs used for reporting.
- • Baseline referenced results used for supporting investigative analyses.
+• Cohort referenced and baseline referenced skip-year SGPs for MCAS 2.0.
+Baseline coefficient matrices are derived from pre-COVID MCAS 2.0 data.
+• Cohort referenced SGPs used for reporting.
+• Baseline referenced results used for supporting investigative analyses.
 • WIDA-ACCESS
- • Cohort and baseline referenced (consecutive-year &amp; skip-year) SGPs for
- WIDA-ACCESS. Baseline Coefficient matrices are derived from pre-COVID
- WIDA-ACCESS data.
- • Skip-year results on WIDA-ACCESS can be compared to consecutive-year results to see
- how well skip-year results capture the academic impact of the COVID-19 pandemic.
- • These results will help inform use of skip-year MCAS 2.0 results where consecutive-year
- results are not available.
- MA SGP Growth Calculations in 2021</div>
+• Cohort and baseline referenced (consecutive-year &amp; skip-year) SGPs for
+WIDA-ACCESS. Baseline Coefficient matrices are derived from pre-COVID
+WIDA-ACCESS data.
+• Skip-year results on WIDA-ACCESS can be compared to consecutive-year results to see
+how well skip-year results capture the academic impact of the COVID-19 pandemic.
+• These results will help inform use of skip-year MCAS 2.0 results where consecutive-year
+results are not available.
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -124,12 +123,12 @@ A Useful Distinction
 <div class="archive-text">SGP Investigative Considerations in 2021
 
 If we can overcome the operational challenges associated with administration
- of tests, the generation of valid scale scores, and the calculation of SGPs, the
- data derived from MCAS 2.0 and WIDA-ACCESS will be invaluable to DESE in
- understanding what has occurred to students academically during the
- pandemic.
+of tests, the generation of valid scale scores, and the calculation of SGPs, the
+data derived from MCAS 2.0 and WIDA-ACCESS will be invaluable to DESE in
+understanding what has occurred to students academically during the
+pandemic.
 
- MA SGP Growth Calculations in 2021</div>
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -137,20 +136,20 @@ If we can overcome the operational challenges associated with administration
 ```{=html}
 <div class="archive-text">SGP Analysis Plans for 2021
 • Cohort referenced SGPs
- • Growth norms created from the current cohort of students.
- • Mean/median will by 50 for all grade x content area analyses
- • Cannot investigate overall impact of the pandemic on students.
- • Can investigate differential impact of the pandemic on students.
- • Does not require scale stability across years.
+• Growth norms created from the current cohort of students.
+• Mean/median will by 50 for all grade x content area analyses
+• Cannot investigate overall impact of the pandemic on students.
+• Can investigate differential impact of the pandemic on students.
+• Does not require scale stability across years.
 • Baseline referenced SGPs.
- • Growth norms created from historical (i.e., pre-COVID) cohorts of students.
- • Mean/median 50 for historical cohort, not necessarily 50 for current cohort.
- • Extent of deviation from (i.e. below) 50 is indicative of less learning/pandemic related
- academic impact.
- • Mean SGP deviation of 5 corresponds to an effect size of 0.18.
- • Can investigate BOTH overall impact and differential impact
- • Requires scale stability across years.
- MA SGP Growth Calculations in 2021</div>
+• Growth norms created from historical (i.e., pre-COVID) cohorts of students.
+• Mean/median 50 for historical cohort, not necessarily 50 for current cohort.
+• Extent of deviation from (i.e. below) 50 is indicative of less learning/pandemic related
+academic impact.
+• Mean SGP deviation of 5 corresponds to an effect size of 0.18.
+• Can investigate BOTH overall impact and differential impact
+• Requires scale stability across years.
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -160,7 +159,7 @@ If we can overcome the operational challenges associated with administration
 Impact Scenarios
 with MCAS 2.0
 
- MA SGP Growth Calculations in 2021</div>
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -168,17 +167,17 @@ with MCAS 2.0
 ```{=html}
 <div class="archive-text">SGP Analysis Plans for 2021
 • Understanding pandemic related impact necessarily requires looking
- back to pre-pandemic results.
+back to pre-pandemic results.
 • The impulse of stakeholders to want to compare 2021 results with 2019
- results is the correct impulse at both the individual, school, district, and
- state level.
+results is the correct impulse at both the individual, school, district, and
+state level.
 • Wanting to look at 2019 to 2021 change is an attempt to investigate
- impact.
+impact.
 • The challenge is making 2019 to 2021 comparisons apples-to-apples
- comparisons.
+comparisons.
 • The first step toward supporting these comparisons is to have a
- complete understanding is who constitutes the missing data.
- MA SGP Growth Calculations in 2021</div>
+complete understanding is who constitutes the missing data.
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -186,15 +185,15 @@ with MCAS 2.0
 ```{=html}
 <div class="archive-text">SGP Analysis Plans for 2021
 • An issue impacting the interpretation of growth (and status) results in
- 2021 is participation in the state assessment.
+2021 is participation in the state assessment.
 • Low participation doesn’t impact calculation of cohort referenced
- growth norms nor use of baseline referenced growth norms.
+growth norms nor use of baseline referenced growth norms.
 • Low participation does impact comparisons of group level results with
- historical (e.g., 2019) results based upon higher participation rates.
+historical (e.g., 2019) results based upon higher participation rates.
 • For example, how should one compare growth and status results for
- school in 2019 and 2021 with very different rates of participation.
+school in 2019 and 2021 with very different rates of participation.
 
- MA SGP Growth Calculations in 2021</div>
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -204,15 +203,15 @@ with MCAS 2.0
 • Understanding who is missing is key.
 • State education data is exemplary in terms of identifying who should test.
 • For example, we could create worst/best case scenarios by substituting
- LOSS/HOSS values for missing students.
+LOSS/HOSS values for missing students.
 • More precisely, we empirically examine whether missing data is MCAR,
- MAR, or MNAR.
+MAR, or MNAR.
 • Apply imputation procedures based upon findings to create inferred
- values.
+values.
 • We are currently testing out various procedures and have strong
- evidence that inferences about group aggregates can be faithfully
- recovered (not for accountability).
- MA SGP Growth Calculations in 2021</div>
+evidence that inferences about group aggregates can be faithfully
+recovered (not for accountability).
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -220,15 +219,15 @@ with MCAS 2.0
 ```{=html}
 <div class="archive-text">SGP Analysis Plans for 2021
 • With comparable results in place we can quantify pandemic
- related academic impact:
- • At the state level
- • By region/district/school
- • By mode of education (remote/hybrid/in-person).
- • Attendance
- • Demographic subgroups including ethnicity, poverty
- • English Language Learner impact can be evaluated using WIDA-ACCESS
- results.
- MA SGP Growth Calculations in 2021</div>
+related academic impact:
+• At the state level
+• By region/district/school
+• By mode of education (remote/hybrid/in-person).
+• Attendance
+• Demographic subgroups including ethnicity, poverty
+• English Language Learner impact can be evaluated using WIDA-ACCESS
+results.
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -236,16 +235,16 @@ with MCAS 2.0
 ```{=html}
 <div class="archive-text">SGP Analysis Plans post 2021 (2022 and beyond)
 • Spring 2021 represents an ideal time to get a snapshot of student
- attainment as we are presumably at or near the point of maximal
- impact on student attainment.
+attainment as we are presumably at or near the point of maximal
+impact on student attainment.
 • That is, recovery has not really begun for most students in
- earnest.
+earnest.
 • It’s impossible to talk about recovery sensibly without
- understanding how big the impact is.
+understanding how big the impact is.
 • Monitoring recovery will be at least as critical as monitoring the impact of
- the pandemic on student achievement.
+the pandemic on student achievement.
 • Beware the K-shaped recovery!
- MA SGP Growth Calculations in 2021</div>
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -257,7 +256,7 @@ with MCAS 2.0: V-,
 U-, L-, and No-
 recovery
 
- MA SGP Growth Calculations in 2021</div>
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -265,16 +264,16 @@ recovery
 ```{=html}
 <div class="archive-text">Communication of Results in 2021
 • Technical challenges to the calculation of growth in 2021 are likely
- minor compared to communication challenges.
+minor compared to communication challenges.
 • State reporting is, in general, highly aligned with accountability.
 • Even though analyses outlined herein deal with status/growth, they
- don’t necessarily align with accountability narratives.
+don’t necessarily align with accountability narratives.
 • It is critical for leadership (at the highest level) to map out a
- communication plan and then build analytics and reporting to support
- that plan.
+communication plan and then build analytics and reporting to support
+that plan.
 • Without a well considered, disciplined and coordinated communication
- plan, accountability narratives are likely to take over.
- MA SGP Growth Calculations in 2021</div>
+plan, accountability narratives are likely to take over.
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -282,10 +281,10 @@ recovery
 ```{=html}
 <div class="archive-text">Odds-and-Ends to Consider
 • Rhode Island is giving the full form MCAS 2.0 to its students. Is
- there some way to utilize these results as part of a larger MA
- MCAS 2.0 validation effort?
+there some way to utilize these results as part of a larger MA
+MCAS 2.0 validation effort?
 
- MA SGP Growth Calculations in 2021</div>
+MA SGP Growth Calculations in 2021</div>
 ```
 
 ## About this copy {.archive-about}

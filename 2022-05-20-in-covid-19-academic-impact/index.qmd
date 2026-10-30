@@ -19,51 +19,27 @@ The National Center for the Improvement of Educational Assessment
 April 26, 2022
 RIDE Bi-weekly Update
 
- This work is licensed under a
- Creative Commons Attribution 4.0
- International License.</div>
+This work is licensed under a
+Creative Commons Attribution 4.0
+International License.</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">STAR Math Fall to Fall Median SGP results
- Grade Fall 2019 Fall 2020 Fall 2021
- 1 -- -- --
- 2 51 (3,390) 33 (3,509) 44 (3,172)
- 3 57 (5,077) 30 (4,209) 53 (4,036)
- 4 53 (5,143) 30 (4,739) 51 (5,351)
- 5 56 (5,346) 31 (4,926) 49 (4,540)
- 6 48 (5,386) 31 (4,675) 42 (4,328)
- 7 48 (5,915) 41 (5,374) 40 (4,808)
- 8 50 (6,032) 46 (5,483) 39 (5,013)
- 9 51 (4,229) 50 (4,007) 40 (4,321)
- 10 50 (4,102) 50 (3,544) 40 (3,681)
- 11 49 (2,984) 51 (2,643) 37 (3,205)
- 12 50 (1,632) 57 (1,792) 36 (1,992)
+Grade Fall 2019 Fall 2020 Fall 2021
 
- www.nciea.org 2</div>
+www.nciea.org 2</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">STAR Reading Fall to Fall Median SGP results
- Grade Fall 2019 Fall 2020 Fall 2021
- 1 60 (566) 49 (706) 45 (419)
- 2 58 (1,922) 60 (3,645) 59 (3,363)
- 3 57 (4,992) 46 (4,178) 53 (4,227)
- 4 54 (5,339) 45 (4,770) 56 (4,451)
- 5 50 (5,569) 45 (4,975) 52 (4,734)
- 6 46 (5,521) 45 (4,731) 45 (4,319)
- 7 47 (6,084) 49 (5,305) 46 (4,694)
- 8 49 (6,069) 51 (5,540) 47 (4,966)
- 9 48 (4,725) 52.5 (3,972) 45 (4,076)
- 10 49 (4,680) 55 (4,362) 47 (3,498)
- 11 47 (3,306) 53 (3,324) 44 (3,190)
- 12 47 (1,744) 55 (2,017) 41 (2,075)
+Grade Fall 2019 Fall 2020 Fall 2021
 
- www.nciea.org 3</div>
+www.nciea.org 3</div>
 ```
 
 ## About this copy {.archive-about}

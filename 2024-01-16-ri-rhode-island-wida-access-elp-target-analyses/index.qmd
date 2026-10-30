@@ -20,9 +20,9 @@ The National Center for the Improvement of Educational Assessment
 January 16th, 2024
 RIDE TAC Meeting
 
- This work is licensed under a
- Creative Commons Attribution 4.0
- International License.</div>
+This work is licensed under a
+Creative Commons Attribution 4.0
+International License.</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -30,18 +30,18 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">WIDA-ACCESS ELP Analyses
 • Growth models for ELP testing require students to grow at a rate sufficient
- to put them “on track” to reach English Language Proficiency (as
- determined by the test) within a set time frame.
+to put them “on track” to reach English Language Proficiency (as
+determined by the test) within a set time frame.
 • Currently, Rhode Island utilizes the WIDA-ACCESS assessment to determine
- English Language Proficiency
+English Language Proficiency
 • Students are required to reach 4.8 on the WIDA-ACCESS to be designated as
- English Language Proficient
+English Language Proficient
 • Students have 5 years to reach that level.
 • Given how few students reach that level, there is interest in possibly
- resetting the target.
- • States using WIDA-ACCESS use exit criteria ranging from 4.2 to 5.0
+resetting the target.
+• States using WIDA-ACCESS use exit criteria ranging from 4.2 to 5.0
 
- Pandemic Related Academic Recovery in Rhode Island 2</div>
+Pandemic Related Academic Recovery in Rhode Island 2</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -49,18 +49,18 @@ RIDE TAC Meeting
 ```{=html}
 <div class="archive-text">WIDA-ACCESS ELP Analyses
 • Several states use the criterion-referenced analysis associated with SGPs to
- determine targets for students.
+determine targets for students.
 • Rhode Island does not use this methodology, however the methodology can
- be used to investigate the growth necessary (in terms of a student SGP) to
- reach English Language Proficiency
+be used to investigate the growth necessary (in terms of a student SGP) to
+reach English Language Proficiency
 • WIDA-ACCESS data from 2023 was use to investigate the growth necessary
- for students to WIDA-ACCESS levels of 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, and 4.8
- across 1, 2, 3, 4, and 5 year time frames.
+for students to WIDA-ACCESS levels of 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, and 4.8
+across 1, 2, 3, 4, and 5 year time frames.
 • What is the correct exit criterion:
- • Content-referenced
- • Norm-referenced (Angoff: “Scratch a criterion and you find a norm.”)
+• Content-referenced
+• Norm-referenced (Angoff: “Scratch a criterion and you find a norm.”)
 
- Pandemic Related Academic Recovery in Rhode Island 3</div>
+Pandemic Related Academic Recovery in Rhode Island 3</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}

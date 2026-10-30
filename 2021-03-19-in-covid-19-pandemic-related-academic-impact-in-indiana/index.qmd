@@ -32,15 +32,15 @@ Scott
 ```{=html}
 <div class="archive-text">Previously (February 2021 and March 2021)
 • We are in the process of creating as much of the report as
- possible using a synthetic data set that will mirror (in format) the
- data we get from Indiana
+possible using a synthetic data set that will mirror (in format) the
+data we get from Indiana
 • We are actively investigating data scenarios (e.g., low
- participation) and developing processes for accommodating
+participation) and developing processes for accommodating
 • As we produce these synthetic reports we will review with IDOE
- staff to add additional features as necessary so the final report
- includes all necessary analyses/results.
+staff to add additional features as necessary so the final report
+includes all necessary analyses/results.
 
- Pandemic Related Academic Impact in Indiana 2</div>
+Pandemic Related Academic Impact in Indiana 2</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -48,13 +48,13 @@ Scott
 ```{=html}
 <div class="archive-text">Updates
 • We are currently creating historical ILEARN/ISTEP and ACCESS baseline matrices
- with which to calculate baseline referenced growth from 2019 to 2021.
+with which to calculate baseline referenced growth from 2019 to 2021.
 • We are conducting investigations using simulated historical data to understand
- robustness to modelling assumptions.
+robustness to modelling assumptions.
 • We have a report template set up and are beginning to write the introduction
- and methodology sections.
+and methodology sections.
 
- Pandemic Related Academic Impact in Indiana 3</div>
+Pandemic Related Academic Impact in Indiana 3</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -62,15 +62,15 @@ Scott
 ```{=html}
 <div class="archive-text">Data requirements (to discuss)
 • ILEARN data: We have a good understanding of this data and a
- process in place to get that data in a timely fashion
+process in place to get that data in a timely fashion
 • ACCESS data: We have a good understanding of this data and a
- process in place to get that data in a timely fashion
+process in place to get that data in a timely fashion
 • Interim Assessment data: We need to discuss what this data
- comprises. That will allow us to figure out what we need to run
- analyses and determine whether we can get those data.
+comprises. That will allow us to figure out what we need to run
+analyses and determine whether we can get those data.
 • Pandemic related data/OTL data: We need to discuss whether
- Indiana has these data.
- Pandemic Related Academic Impact in Indiana 4</div>
+Indiana has these data.
+Pandemic Related Academic Impact in Indiana 4</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -79,21 +79,21 @@ Scott
 <div class="archive-text">Outline of Report:
 Academic Related Impact of the Pandemic on Students in Indiana
 • Introduction
- • Background
- • Methods
- • Assessment data Sources (ILEARN, ACCESS, Interim Assessment Data)
+• Background
+• Methods
+• Assessment data Sources (ILEARN, ACCESS, Interim Assessment Data)
 • Student population in Indiana
- • Overview of Indiana student population
- • Who participated in each of the assessments
- • Mode of education for students
- • Student attendance (chronic, mostly, totally absent statistics)
- • COVID-19 related closure information
+• Overview of Indiana student population
+• Who participated in each of the assessments
+• Mode of education for students
+• Student attendance (chronic, mostly, totally absent statistics)
+• COVID-19 related closure information
 • Academic Impact of the Pandemic
- • Analyses of Attainment to determine academic impact
- • Analyses of Growth to determine academic impact
- • Synthesis of attainment and growth results
+• Analyses of Attainment to determine academic impact
+• Analyses of Growth to determine academic impact
+• Synthesis of attainment and growth results
 • Discussion and analysis of results
- Pandemic Related Academic Impact in Indiana 5</div>
+Pandemic Related Academic Impact in Indiana 5</div>
 ```
 
 ## About this copy {.archive-about}

@@ -15,11 +15,11 @@ format:
 <div class="archive-text">COVID-19 Academic Impact
 Conceptual Basis and Results
 
- Damian Betebenner
- Center for Assessment
+Damian Betebenner
+Center for Assessment
 
- Center for Assessment Staff Meeting
- November 10th, 2021</div>
+Center for Assessment Staff Meeting
+November 10th, 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -27,15 +27,14 @@ Conceptual Basis and Results
 ```{=html}
 <div class="archive-text">Academic Impact
 • Suggesting that the pandemic has impacted students academically
- implies that had the pandemic not happened there would have
- been a different (better?) outcome for the students.
+implies that had the pandemic not happened there would have
+been a different (better?) outcome for the students.
 • This alternate outcome suggests a counter-factual:
- • Outcome Pandemic: Academic status of student(s) where the
- pandemic occurs.
- • Outcome No-pandemic: Academic status of student(s) where
- the pandemic does not occur.
-• We use educational assessments to detect this impact.
- 2</div>
+• Outcome Pandemic: Academic status of student(s) where the
+pandemic occurs.
+• Outcome No-pandemic: Academic status of student(s) where
+the pandemic does not occur.
+• We use educational assessments to detect this impact.</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -43,15 +42,14 @@ Conceptual Basis and Results
 ```{=html}
 <div class="archive-text">Academic Impact
 • Suggesting that the pandemic has impacted students academically
- implies that had the pandemic not happened there would have
- been a different (better?) outcome for the students.
+implies that had the pandemic not happened there would have
+been a different (better?) outcome for the students.
 • This alternate outcome suggests a counter-factual:
- • Outcome Pandemic: Academic status of student(s) where the
- pandemic occurs.
- • Outcome No-pandemic: Academic status of student(s) where
- the pandemic does not occur.
-• We use educational assessments to detect this impact.
- 3</div>
+• Outcome Pandemic: Academic status of student(s) where the
+pandemic occurs.
+• Outcome No-pandemic: Academic status of student(s) where
+the pandemic does not occur.
+• We use educational assessments to detect this impact.</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -59,24 +57,18 @@ Conceptual Basis and Results
 ```{=html}
 <div class="archive-text">Academic Impact
 • The pandemic and all the various, ensuing disruptions functions as a kind of “academic
- headwind”, impeding (in general) the academic progress of students.
+headwind”, impeding (in general) the academic progress of students.
 • Headwinds impede progress in two ways:
- • They slow one’s rate of progress
- • The slower rate of progress leads to less distance being travelled.
+• They slow one’s rate of progress
+• The slower rate of progress leads to less distance being travelled.
 • In education these two impediments manifest themselves (roughly) with assessments as:
- • Decrease in student growth (decrease in learning velocity).
- • Decrease in student attainment (decrease in amount learned).
+• Decrease in student growth (decrease in learning velocity).
+• Decrease in student attainment (decrease in amount learned).
 • In some states, understanding this phenomenon requires special consideration of low
- participation/changing demographics.
-
- 4</div>
+participation/changing demographics.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
-
-```{=html}
-<div class="archive-text">5</div>
-```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
@@ -90,10 +82,7 @@ Judging School
 Quality and
 Progress
 
-Dale Carlson
-2002
-
- 6</div>
+Dale Carlson</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -101,46 +90,37 @@ Dale Carlson
 ```{=html}
 <div class="archive-text">Academic Impact vis-à-vis Status
 • Decrease in attainment (as a decrease in percent proficient) between 2019 and 2021 by grade and
- content area is the most often reported statistic related to state testing in 2021.
+content area is the most often reported statistic related to state testing in 2021.
 • Other metrics are possible:
- • Decrease in mean scale score (with a vertical scale)
- • Decrease in percentile rank (NWEA reports this)
- • Decrease/increase in percent of students below some threshold (iReady reports this)
+• Decrease in mean scale score (with a vertical scale)
+• Decrease in percentile rank (NWEA reports this)
+• Decrease/increase in percent of students below some threshold (iReady reports this)
 • Using 2019 cohort status as a counterfactual for where students would have been in 2021 had the
- pandemic not occurred is problematic for several reasons including:
- • Changes in student cohort composition are not accounted for.
- • Improvement between 2019 and 2021 that would have occurred is not accounted for.
- • Missing data in 2021 is not accounted for.
-•
-
- 7</div>
+pandemic not occurred is problematic for several reasons including:
+• Changes in student cohort composition are not accounted for.
+• Improvement between 2019 and 2021 that would have occurred is not accounted for.
+• Missing data in 2021 is not accounted for.</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Wisconsin (WSAS)
-Status Change:
-
- 8</div>
+Status Change:</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">MAP Status Change:
-Ethnicity by Grade
-
- 9</div>
+Ethnicity by Grade</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">iReady Status Change:
-By Grade (Reading)
-
- 10</div>
+By Grade (Reading)</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -148,15 +128,15 @@ By Grade (Reading)
 ```{=html}
 <div class="archive-text">Discussion
 • Across the dozen states I’ve looked at, larger status drops, in general,
- in mathematics than ELA.
+in mathematics than ELA.
 • At grade by content area level, decreases in math usually between 10
- and 20 percentage points, ELA between 5 and 15 percentage points.
+and 20 percentage points, ELA between 5 and 15 percentage points.
 • Effect sizes decreases between -0.2 and -0.4 in math, -0.05 to -0.3 in
- ELA.
+ELA.
 • Drops are unambiguously large.
 • There are differences in identifying which groups are impacted more
- than others.
- Pandemic Related Academic Impact in Indiana 10/29/21 11</div>
+than others.
+Pandemic Related Academic Impact in Indiana 10/29/21 11</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -164,15 +144,15 @@ By Grade (Reading)
 ```{=html}
 <div class="archive-text">Academic Impact vis-à-vis Growth
 • Conditional status is a sharper way to investigate impact.
- • SGPs are conditional status.
- • Ho’s Fair Trend is conditional status.
- • Gain scores
+• SGPs are conditional status.
+• Ho’s Fair Trend is conditional status.
+• Gain scores
 • Consistent with the SGP results, ILEARN gain scores were, in general,
- less than what is traditionally observed across a two-year time span.
+less than what is traditionally observed across a two-year time span.
 • The following figures show gain/loss by prior achievement (i.e., scale
- score) with B-spline curves of best fit for both 2019 to 2021 and 2017
- to 2021.
- Pandemic Related Academic Impact in Indiana 10/29/21 12</div>
+score) with B-spline curves of best fit for both 2019 to 2021 and 2017
+to 2021.
+Pandemic Related Academic Impact in Indiana 10/29/21 12</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -180,20 +160,9 @@ By Grade (Reading)
 ```{=html}
 <div class="archive-text">All Students: 2019 to 2021 Gain/Loss by 2019 Prior Achievement: ELA Grade 5
 
- 100
-
- 50
-
 Gain/Loss Score
- 0
 
- −50
-
- −100
-
- 5200 5400 5600 5800
- 13
- 2019 Scale Score (with prior score deciles indicated)</div>
+2019 Scale Score (with prior score deciles indicated)</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -201,20 +170,9 @@ Gain/Loss Score
 ```{=html}
 <div class="archive-text">All Students: 2019 to 2021 Gain/Loss by 2019 Prior Achievement: ELA Grade 5
 
- 100
-
- 50
-
 Gain/Loss Score
- 0
 
- −50
-
- −100
-
- 5200 5400 5600 5800
- 14
- 2019 Scale Score (with prior score deciles indicated)</div>
+2019 Scale Score (with prior score deciles indicated)</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -222,20 +180,9 @@ Gain/Loss Score
 ```{=html}
 <div class="archive-text">All Students: 2019 to 2021 Gain/Loss by 2019 Prior Achievement: ELA Grade 5
 
- 100
-
- 50
-
 Gain/Loss Score
- 0
 
- −50
-
- −100
-
- 5200 5400 5600 5800
- 15
- 2019 Scale Score (with prior score deciles indicated)</div>
+2019 Scale Score (with prior score deciles indicated)</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -243,27 +190,17 @@ Gain/Loss Score
 ```{=html}
 <div class="archive-text">All Students: 2019 to 2021 Gain/Loss by 2019 Prior Achievement: ELA Grade 5
 
- 100
-
- 50
-
 Gain/Loss Score
- 0
 
- −50
+2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
+2019 to 2021 Baseline P50 Growth
+2019 to 2021 OLS Growth
+2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
+2019 to 2021 Average Gains (2−Year COVID Gains)
 
- 2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
- 2019 to 2021 Baseline P50 Growth
- 2019 to 2021 OLS Growth
- 2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
- 2019 to 2021 Average Gains (2−Year COVID Gains)
+Pre−COVID to COVID Decrease
 
- −100
- Pre−COVID to COVID Decrease
-
- 5200 5400 5600 5800
- 16
- 2019 Scale Score (with prior score deciles indicated)</div>
+2019 Scale Score (with prior score deciles indicated)</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -271,27 +208,17 @@ Gain/Loss Score
 ```{=html}
 <div class="archive-text">All Students: 2019 to 2021 Gain/Loss by 2019 Prior Achievement: ELA Grade 5
 
- 100
-
- 50
-
 Gain/Loss Score
- 0
 
- −50
+2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
+2019 to 2021 Baseline P50 Growth
+2019 to 2021 OLS Growth
+2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
+2019 to 2021 Average Gains (2−Year COVID Gains)
 
- 2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
- 2019 to 2021 Baseline P50 Growth
- 2019 to 2021 OLS Growth
- 2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
- 2019 to 2021 Average Gains (2−Year COVID Gains)
+Pre−COVID to COVID Decrease
 
- −100
- Pre−COVID to COVID Decrease
-
- 5200 5400 5600 5800
- 17
- 2019 Scale Score (with prior score deciles indicated)</div>
+2019 Scale Score (with prior score deciles indicated)</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
@@ -299,20 +226,9 @@ Gain/Loss Score
 ```{=html}
 <div class="archive-text">All Students: 2019 to 2021 Gain/Loss by 2019 Prior Achievement: ELA Grade 5
 
- 100
-
- 50
-
 Gain/Loss Score
- 0
 
- −50
-
- −100
-
- 5200 5400 5600 5800
- 18
- 2019 Scale Score (with prior score deciles indicated)</div>
+2019 Scale Score (with prior score deciles indicated)</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -320,27 +236,17 @@ Gain/Loss Score
 ```{=html}
 <div class="archive-text">All Students: 2019 to 2021 Gain/Loss by 2019 Prior Achievement: ELA Grade 5
 
- 100
-
- 50
-
 Gain/Loss Score
- 0
 
- −50
+2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
+2019 to 2021 Baseline P50 Growth
+2019 to 2021 OLS Growth
+2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
+2019 to 2021 Average Gains (2−Year COVID Gains)
 
- 2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
- 2019 to 2021 Baseline P50 Growth
- 2019 to 2021 OLS Growth
- 2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
- 2019 to 2021 Average Gains (2−Year COVID Gains)
+Pre−COVID to COVID Decrease
 
- −100
- Pre−COVID to COVID Decrease
-
- 5200 5400 5600 5800
- 19
- 2019 Scale Score (with prior score deciles indicated)</div>
+2019 Scale Score (with prior score deciles indicated)</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
@@ -348,27 +254,17 @@ Gain/Loss Score
 ```{=html}
 <div class="archive-text">All Students: 2019 to 2021 Gain/Loss by 2019 Prior Achievement: ELA Grade 6
 
- 100
-
- 50
-
 Gain/Loss Score
- 0
 
- −50
+2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
+2019 to 2021 Baseline P50 Growth
+2019 to 2021 OLS Growth
+2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
+2019 to 2021 Average Gains (2−Year COVID Gains)
 
- 2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
- 2019 to 2021 Baseline P50 Growth
- 2019 to 2021 OLS Growth
- 2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
- 2019 to 2021 Average Gains (2−Year COVID Gains)
+Pre−COVID to COVID Decrease
 
- −100
- Pre−COVID to COVID Decrease
-
- 5200 5400 5600 5800
- 20
- 2019 Scale Score (with prior score deciles indicated)</div>
+2019 Scale Score (with prior score deciles indicated)</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
@@ -376,27 +272,17 @@ Gain/Loss Score
 ```{=html}
 <div class="archive-text">All Students: 2019 to 2021 Gain/Loss by 2019 Prior Achievement: ELA Grade 7
 
- 100
-
- 50
-
 Gain/Loss Score
- 0
 
- −50
+2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
+2019 to 2021 Baseline P50 Growth
+2019 to 2021 OLS Growth
+2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
+2019 to 2021 Average Gains (2−Year COVID Gains)
 
- 2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
- 2019 to 2021 Baseline P50 Growth
- 2019 to 2021 OLS Growth
- 2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
- 2019 to 2021 Average Gains (2−Year COVID Gains)
+Pre−COVID to COVID Decrease
 
- −100
- Pre−COVID to COVID Decrease
-
- 5200 5400 5600 5800
- 21
- 2019 Scale Score (with prior score deciles indicated)</div>
+2019 Scale Score (with prior score deciles indicated)</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
@@ -404,27 +290,17 @@ Gain/Loss Score
 ```{=html}
 <div class="archive-text">All Students: 2019 to 2021 Gain/Loss by 2019 Prior Achievement: ELA Grade 8
 
- 100
-
- 50
-
 Gain/Loss Score
- 0
 
- −50
+2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
+2019 to 2021 Baseline P50 Growth
+2019 to 2021 OLS Growth
+2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
+2019 to 2021 Average Gains (2−Year COVID Gains)
 
- 2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
- 2019 to 2021 Baseline P50 Growth
- 2019 to 2021 OLS Growth
- 2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
- 2019 to 2021 Average Gains (2−Year COVID Gains)
+Pre−COVID to COVID Decrease
 
- −100
- Pre−COVID to COVID Decrease
-
- 5200 5400 5600 5800
- 22
- 2019 Scale Score (with prior score deciles indicated)</div>
+2019 Scale Score (with prior score deciles indicated)</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
@@ -432,27 +308,17 @@ Gain/Loss Score
 ```{=html}
 <div class="archive-text">All Students: 2019 to 2021 Gain/Loss by 2019 Prior Achievement: MATHEMATICS Grade 5
 
- 100
-
- 50
-
 Gain/Loss Score
- 0
 
- −50
+2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
+2019 to 2021 Baseline P50 Growth
+2019 to 2021 OLS Growth
+2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
+2019 to 2021 Average Gains (2−Year COVID Gains)
 
- 2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
- 2019 to 2021 Baseline P50 Growth
- 2019 to 2021 OLS Growth
- 2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
- 2019 to 2021 Average Gains (2−Year COVID Gains)
+Pre−COVID to COVID Decrease
 
- −100
- Pre−COVID to COVID Decrease
-
- 6200 6400 6600 6800
- 23
- 2019 Scale Score (with prior score deciles indicated)</div>
+2019 Scale Score (with prior score deciles indicated)</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
@@ -460,27 +326,17 @@ Gain/Loss Score
 ```{=html}
 <div class="archive-text">All Students: 2019 to 2021 Gain/Loss by 2019 Prior Achievement: MATHEMATICS Grade 6
 
- 100
-
- 50
-
 Gain/Loss Score
- 0
 
- −50
+2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
+2019 to 2021 Baseline P50 Growth
+2019 to 2021 OLS Growth
+2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
+2019 to 2021 Average Gains (2−Year COVID Gains)
 
- 2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
- 2019 to 2021 Baseline P50 Growth
- 2019 to 2021 OLS Growth
- 2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
- 2019 to 2021 Average Gains (2−Year COVID Gains)
+Pre−COVID to COVID Decrease
 
- −100
- Pre−COVID to COVID Decrease
-
- 6200 6400 6600 6800
- 24
- 2019 Scale Score (with prior score deciles indicated)</div>
+2019 Scale Score (with prior score deciles indicated)</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
@@ -488,27 +344,17 @@ Gain/Loss Score
 ```{=html}
 <div class="archive-text">All Students: 2019 to 2021 Gain/Loss by 2019 Prior Achievement: MATHEMATICS Grade 7
 
- 100
-
- 50
-
 Gain/Loss Score
- 0
 
- −50
+2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
+2019 to 2021 Baseline P50 Growth
+2019 to 2021 OLS Growth
+2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
+2019 to 2021 Average Gains (2−Year COVID Gains)
 
- 2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
- 2019 to 2021 Baseline P50 Growth
- 2019 to 2021 OLS Growth
- 2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
- 2019 to 2021 Average Gains (2−Year COVID Gains)
+Pre−COVID to COVID Decrease
 
- −100
- Pre−COVID to COVID Decrease
-
- 6200 6400 6600 6800
- 25
- 2019 Scale Score (with prior score deciles indicated)</div>
+2019 Scale Score (with prior score deciles indicated)</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
@@ -516,27 +362,17 @@ Gain/Loss Score
 ```{=html}
 <div class="archive-text">All Students: 2019 to 2021 Gain/Loss by 2019 Prior Achievement: MATHEMATICS Grade 8
 
- 100
-
- 50
-
 Gain/Loss Score
- 0
 
- −50
+2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
+2019 to 2021 Baseline P50 Growth
+2019 to 2021 OLS Growth
+2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
+2019 to 2021 Average Gains (2−Year COVID Gains)
 
- 2017 to 2019 Average Gains (2−Year Pre−COVID Gains)
- 2019 to 2021 Baseline P50 Growth
- 2019 to 2021 OLS Growth
- 2018 to 2019 Average Gains (1−Year Pre−COVID Gains)
- 2019 to 2021 Average Gains (2−Year COVID Gains)
+Pre−COVID to COVID Decrease
 
- −100
- Pre−COVID to COVID Decrease
-
- 6200 6400 6600 6800
- 26
- 2019 Scale Score (with prior score deciles indicated)</div>
+2019 Scale Score (with prior score deciles indicated)</div>
 ```
 
 ## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
@@ -544,7 +380,7 @@ Gain/Loss Score
 ```{=html}
 <div class="archive-text">Questions
 
- Pandemic Related Academic Impact in Indiana 10/29/21 27</div>
+Pandemic Related Academic Impact in Indiana 10/29/21 27</div>
 ```
 
 ## About this copy {.archive-about}

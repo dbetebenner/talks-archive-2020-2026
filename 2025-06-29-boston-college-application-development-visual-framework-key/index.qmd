@@ -22,63 +22,40 @@ Damian Betebenner, June 28th, 2025</div>
 
 ```{=html}
 <div class="archive-text">Application Development Framework
- Current
+Current
 
- GitHub
+GitHub
 
- R p ck ge inst ll tion
+R p ck ge inst ll tion
 
- R p ck ge
- document tion
- R Qu rto
+R p ck ge
+document tion
+R Qu rto
 
- Version Control
-
- a
- a
- a
- a
- a
- a
-a
-a</div>
+Version Control</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Application Development Framework
- Future (proposed)
- Rich D t
- Visu liz tions/
- NextJS Experiences with
- AI integr tion
+Future (proposed)
+Rich D t
+Visu liz tions/
+NextJS Experiences with
+AI integr tion
 
- Model Context
- GitHub Protocol (MCP)
+Model Context
+GitHub Protocol (MCP)
 
- P ck ge
- R p ck ge inst ll tion Document tion
+P ck ge
+R p ck ge inst ll tion Document tion
 
- R p ck ge
- document tion
- R Qu rto Web APIs
+R p ck ge
+document tion
+R Qu rto Web APIs
 
- Version Control
-
- a
- a
- a
- a
- a
- a
- a
- a
- a
- a
- a
-a a a a
- a</div>
+Version Control</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -87,75 +64,29 @@ a a a a
 <div class="archive-text">dataimago
 Mission, Vision, Philosophy, Ch llenge, Govern nce
 
- sgpFlow Civilytics
-
- …
-
- a
- a</div>
+sgpFlow Civilytics</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Application Development Framework
- Goals
+Goals
 
- • Inst nti te, with the ssist nce of AI NextJS b sed d t science pplic tion development
- fr mework round which in initely sc l ble pps c n be cre ted.
+• Inst nti te, with the ssist nce of AI NextJS b sed d t science pplic tion development
+fr mework round which in initely sc l ble pps c n be cre ted.
 
- • Integr te AI into every level of pp development to perfect both the fr mework itself s well
- s the pps th t re built using the fr mework. Improving the fr mework s we le rn from its
- implement tion.
+• Integr te AI into every level of pp development to perfect both the fr mework itself s well
+s the pps th t re built using the fr mework. Improving the fr mework s we le rn from its
+implement tion.
 
- • Allow AI systems to st rt from the fr mework nd completely build out d t science
- pplic tion prototypes th t c n be r pidly re ined nd published.
+• Allow AI systems to st rt from the fr mework nd completely build out d t science
+pplic tion prototypes th t c n be r pidly re ined nd published.
 
- • Cre te n ecosystem of such d t science pplic tions th t AI c n utilize to build more
- tools.
+• Cre te n ecosystem of such d t science pplic tions th t AI c n utilize to build more
+tools.
 
- aa a
- a
- a
- a
- a
- a
- a
- a
- a
- a
- a
- a
- a
- a
- f
- a
- a
- a a a
- a
- a
- a
- a
- a
- a
- a
- f
- a
- a
- a
- a
- a
- a
- a
- a
- a a
- a
- a
- a
- a a a a
- a
-a
-a a</div>
+aa a</div>
 ```
 
 ## About this copy {.archive-about}

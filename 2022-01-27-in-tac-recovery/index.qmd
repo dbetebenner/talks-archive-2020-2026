@@ -16,29 +16,23 @@ format:
 
 • Given the negative pandemic impacts, any recovery implies learning acceleration.
 • However, not all acceleration can be considered recovery
- • Acceleration versus 2021 versus acceleration versus 2019
- 99
- 90
- 80
- 70
- V-Shaped Recovery (&gt; 60)
- 60 U-Shaped Recovery (50 to 60)
+• Acceleration versus 2021 versus acceleration versus 2019
+V-Shaped Recovery (&gt; 60)
+60 U-Shaped Recovery (50 to 60)
 
- Median 2021 Baseline SGP 50 Median 2022 Baseline SGP
- L-Shaped “Recovery” (40 to 50)
- 40
+Median 2021 Baseline SGP 50 Median 2022 Baseline SGP
+L-Shaped “Recovery” (40 to 50)
 
- 30 30 Note: Any median SGP above 30
- Downward Spiral (&lt; 40)
- in 2022 would be considered
- 20
- acceleration. But only values
- 10 above 50 would be su cient to
- 1 catch up to where students
- would have been absent the
- pandemic.
+30 30 Note: Any median SGP above 30
+Downward Spiral (&lt; 40)
+in 2022 would be considered
+acceleration. But only values
+10 above 50 would be su cient to
+1 catch up to where students
+would have been absent the
+pandemic.
 
- ffi</div>
+ffi</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -47,7 +41,7 @@ format:
 <div class="archive-text">Baseline- versus Cohort-Referenced Targets
 • Growth Targets presume a desired achievement outcome (e.g., pro ciency) and a time frame to reach it.
 • The achievement outcome and the time frame are the same regardless of whether we use baseline or cohort-referenced
- norms
+norms
 
 • Reality 1: Speed Limit 55mph • Reality 2: Speed Limit 75mph
 • Destination is 150 miles away • Destination is 150 miles away
@@ -55,12 +49,12 @@ format:
 
 • We don’t know which reality we are in right now.
 • If the goal is to reach our destination in 2 hours, (pre-pandemic) rates of travel show this is typical. (Pandemic) rates of
- travel show this is extraordinary.
+travel show this is extraordinary.
 
 • The destination and time frame is still the same. The baseline SGP would be relative to Reality 2 and the cohort-
- referenced SGP would be relative to Reality 1.
+referenced SGP would be relative to Reality 1.
 
- fi</div>
+fi</div>
 ```
 
 ## About this copy {.archive-about}

@@ -17,17 +17,13 @@ Where did we go wrong with accountability
 Damian Betebenner
 Center for Assessment
 
-July 9th, 2024
-
- 1</div>
+July 9th, 2024</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">Introduction
-
- 2</div>
+<div class="archive-text">Introduction</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -35,19 +31,17 @@ July 9th, 2024
 ```{=html}
 <div class="archive-text">An Unfulfilled Promise
 • I think that most experts (and non-experts) would agree that educational
- accountability has not lived up to its promise since it was introduced more than two
- decades ago as part of NCLB.
+accountability has not lived up to its promise since it was introduced more than two
+decades ago as part of NCLB.
 • There are many takes on why accountability didn’t work. I’ll be discussing mine today.
- • What was the promise?
- • What would have happened had accountability systems “worked”.
+• What was the promise?
+• What would have happened had accountability systems “worked”.
 • My argument is that current systems are incoherent: The desired outcomes implicit
- in the accountability indicator system do not connect with the actions (broadly) of
- the actors in the system.
+in the accountability indicator system do not connect with the actions (broadly) of
+the actors in the system.
 • My argument is not that accountability systems would have fulfilled their promise had
- they been designed in a coherent fashion. I can’t re-live the past and find out.
- However, building incoherent systems dooms the project from the outset.
-
- 3</div>
+they been designed in a coherent fashion. I can’t re-live the past and find out.
+However, building incoherent systems dooms the project from the outset.</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -55,17 +49,15 @@ July 9th, 2024
 ```{=html}
 <div class="archive-text">An Unfulfilled Promise
 • I see evidence of this incoherence in almost every interaction that I have
- with clients when discussing accountability and growth.
- • These interactions take me back to my time when I was a teacher and
- I’d hear students mis-use terms in discussions.
- • This misuse reveals a lack of understanding.
- • What are some of these terms: “Improvement”, “Growth”,
- “Performance”, “Continuous Improvement”
+with clients when discussing accountability and growth.
+• These interactions take me back to my time when I was a teacher and
+I’d hear students mis-use terms in discussions.
+• This misuse reveals a lack of understanding.
+• What are some of these terms: “Improvement”, “Growth”,
+“Performance”, “Continuous Improvement”
 • This misuse rarely gets corrected.
 • I would argue that accountability systems have matured to a point that if
- we don’t nail down vocabulary, systems will continue to be incoherent.
-
- 4</div>
+we don’t nail down vocabulary, systems will continue to be incoherent.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -73,24 +65,21 @@ July 9th, 2024
 ```{=html}
 <div class="archive-text">An Unfulfilled Promise
 • Can we use systematically derived evidence (data) to improve
- education for students?
- • This is the technocratic mission at the heart of educational
- accountability.
- • Some argue that if we used different data than what is
- currently collected, then we’d have a better chance of fulfilling
- that mission.
- • My argument is that we haven’t even used the data we collect
- coherently, so I am skeptical that using other data (often of
- lower quality) will lead to a different outcome.
- 5</div>
+education for students?
+• This is the technocratic mission at the heart of educational
+accountability.
+• Some argue that if we used different data than what is
+currently collected, then we’d have a better chance of fulfilling
+that mission.
+• My argument is that we haven’t even used the data we collect
+coherently, so I am skeptical that using other data (often of
+lower quality) will lead to a different outcome.</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">Background Concepts
-
- 6</div>
+<div class="archive-text">Background Concepts</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -98,15 +87,13 @@ July 9th, 2024
 ```{=html}
 <div class="archive-text">Carlson’s 2x2 Table
 • Dale Carlson, former assessment director for the California
- Department of Education and former Center board member wrote a
- paper more than 20 years ago for the Center that stands (I believe) as
- an under-appreciated seminal work in our field.
+Department of Education and former Center board member wrote a
+paper more than 20 years ago for the Center that stands (I believe) as
+an under-appreciated seminal work in our field.
 • Titled Focusing on State Educational Accountability Systems: Four
- Methods of Judging School Quality and Progress, at the heart of the
- paper is a 2x2 table that describes indicators at the heart of
- educational accountability.
-
- 7</div>
+Methods of Judging School Quality and Progress, at the heart of the
+paper is a 2x2 table that describes indicators at the heart of
+educational accountability.</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -114,24 +101,22 @@ July 9th, 2024
 ```{=html}
 <div class="archive-text">Carlson’s 2x2 Table (modified slightly by me)
 
- Point in Time: Over time:
- Classroom, school, district, state (or Classroom, school, district, state (or
- subgroup thereof) subgroup thereof)
+Point in Time: Over time:
+Classroom, school, district, state (or Classroom, school, district, state (or
+subgroup thereof) subgroup thereof)
 
- Status Improvement
- What is the level of achievement of students in Is the level of achievement of students in this
- this classroom, school, district, state (or classroom, school, district, state (or subgroup
- subgroup thereof) at this point in time? thereof) increasing/decreasing over time?
- Achievement
+Status Improvement
+What is the level of achievement of students in Is the level of achievement of students in this
+this classroom, school, district, state (or classroom, school, district, state (or subgroup
+subgroup thereof) at this point in time? thereof) increasing/decreasing over time?
+Achievement
 
- Growth Acceleration
- What is the level of growth/learning of Is the level of growth/learning of students in
- students in this classroom, school, district, this classroom, school, district, state (or
- state (or subgroup thereof) at this point in subgroup thereof) increasing/decreasing over
- time? time?
- Growth/Learning
-
- 8</div>
+Growth Acceleration
+What is the level of growth/learning of Is the level of growth/learning of students in
+students in this classroom, school, district, this classroom, school, district, state (or
+state (or subgroup thereof) at this point in subgroup thereof) increasing/decreasing over
+time? time?
+Growth/Learning</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -139,16 +124,15 @@ July 9th, 2024
 ```{=html}
 <div class="archive-text">What is the desired outcome
 • Improvement is a word often used to describe the goal.
- • The term has a common meaning
- • The term also has a specific technical meaning that is indicated in
- Carlson’s 2x2 table
+• The term has a common meaning
+• The term also has a specific technical meaning that is indicated in
+Carlson’s 2x2 table
 • Accountability system discussions rarely align with the technical
- definitions of these terms (e.g., student growth and improvement are
- often conflated — all change isn’t growth)
+definitions of these terms (e.g., student growth and improvement are
+often conflated — all change isn’t growth)
 • I would argue that accountability systems have matured to a point that
- if we don’t adhere to technical definitions we will continue to create
- incoherent accountability systems.
- 9</div>
+if we don’t adhere to technical definitions we will continue to create
+incoherent accountability systems.</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -157,16 +141,15 @@ July 9th, 2024
 <div class="archive-text">Mind the Gap
 • It’s all about closing gaps:
 • Two types of gaps:
- • Aspirational achievement gaps (e.g., percent proficient lags behind what
- we aspire to).
- • Subgroup achievement gaps (e.g., demographic subgroups differ in
- terms of outcomes).
+• Aspirational achievement gaps (e.g., percent proficient lags behind what
+we aspire to).
+• Subgroup achievement gaps (e.g., demographic subgroups differ in
+terms of outcomes).
 • Improvement is synonymous with the closing of these gaps. NCLB, for
- example, mapped out long term goals to reach universal proficiency. ESSA
- mapped out more modest long term goals.
+example, mapped out long term goals to reach universal proficiency. ESSA
+mapped out more modest long term goals.
 • But what does improvement entail besides a number (e.g., percent
- proficient) just going up over time?
- 10</div>
+proficient) just going up over time?</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -175,15 +158,14 @@ July 9th, 2024
 <div class="archive-text">Improvement
 • What needs to happen in order for percent proficient to increase?
 • For a state education system (or school or district) to improve
- (demonstrate higher rates of achievement over time) at least one of
- following two things needs to happen:
- • Students entering the system need to be higher achieving and/or
- • Students in the system need to demonstrate higher rates of
- learning.
+(demonstrate higher rates of achievement over time) at least one of
+following two things needs to happen:
+• Students entering the system need to be higher achieving and/or
+• Students in the system need to demonstrate higher rates of
+learning.
 • The latter is the implicit goal of improvement.
 • That is, improvement is synonymous with acceleration in student
- learning.
- 11</div>
+learning.</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -191,47 +173,41 @@ July 9th, 2024
 ```{=html}
 <div class="archive-text">Carlson’s 2x2 Table (modified slightly by me)
 
- Point in Time: Over time:
- Classroom, school, district, state (or Classroom, school, district, state (or
- subgroup thereof) subgroup thereof)
+Point in Time: Over time:
+Classroom, school, district, state (or Classroom, school, district, state (or
+subgroup thereof) subgroup thereof)
 
- Status Improvement
- What is the level of achievement of students in Is the level of achievement of students in this
- this classroom, school, district, state (or classroom, school, district, state (or subgroup
- subgroup thereof) at this point in time? thereof) increasing/decreasing over time?
- Achievement
+Status Improvement
+What is the level of achievement of students in Is the level of achievement of students in this
+this classroom, school, district, state (or classroom, school, district, state (or subgroup
+subgroup thereof) at this point in time? thereof) increasing/decreasing over time?
+Achievement
 
- Growth Acceleration
- What is the level of growth/learning of Is the level of growth/learning of students in
- students in this classroom, school, district, this classroom, school, district, state (or
- state (or subgroup thereof) at this point in subgroup thereof) increasing/decreasing over
- time? time?
- Growth/Learning
-
- 12</div>
+Growth Acceleration
+What is the level of growth/learning of Is the level of growth/learning of students in
+students in this classroom, school, district, this classroom, school, district, state (or
+state (or subgroup thereof) at this point in subgroup thereof) increasing/decreasing over
+time? time?
+Growth/Learning</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Two achievement gap scenarios for schools potentially
- leading to incorrect inferences regarding school quality
+leading to incorrect inferences regarding school quality
 
- Expanding aspirational achievement gaps at School X Persistent, large subgroup achievement gaps at School Y
+Expanding aspirational achievement gaps at School X Persistent, large subgroup achievement gaps at School Y
 
- White
- State
+White
+State
 
- Percent Pro cient Percent Pro cient
- African American
+Percent Pro cient Percent Pro cient
+African American
 
- School X
+School X
 
- 2022 2023 2024 2025 2022 2023 2024 2025
-
- Time Time
-
- 13
+Time Time
 
 fi
 fi</div>
@@ -242,12 +218,10 @@ fi</div>
 ```{=html}
 <div class="archive-text">Improvement
 • By definition, School X is not
- improving.
+improving.
 • School X’s “performance is
- stagnant”.
-• Is that bad? Why?
-
- 14</div>
+stagnant”.
+• Is that bad? Why?</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -255,24 +229,20 @@ fi</div>
 ```{=html}
 <div class="archive-text">Two Axioms
 1. Achievement and Growth (i.e., learning) are different but are
- connected: Learning precedes achievement. Learning is a proximal
- indicator whereas achievement is distal.
+connected: Learning precedes achievement. Learning is a proximal
+indicator whereas achievement is distal.
 2. Students enter and exit the education system (and its schools and
- districts)
+districts)
 
 • Despite the obviousness of these two statements, I don’t believe that
- current accountability systems take account of them. Two things are
- changing at one time making it hard to conceptualize.
-
- 15</div>
+current accountability systems take account of them. Two things are
+changing at one time making it hard to conceptualize.</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">An illustration
-
- 16</div>
+<div class="archive-text">An illustration</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -281,16 +251,14 @@ fi</div>
 <div class="archive-text">An illustration
 
 • Achievement is to water
- temperature as growth is to the
- heat supplied.
+temperature as growth is to the
+heat supplied.
 • Status based accountability
- systems judge the systems
- based upon “water
- temperature.”
+systems judge the systems
+based upon “water
+temperature.”
 • What the school provides is the
- heat!
-
- 17</div>
+heat!</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
@@ -299,16 +267,14 @@ fi</div>
 <div class="archive-text">An illustration
 
 • These systems will reach a state
- of thermal equilibrium.
+of thermal equilibrium.
 • This is similar to schools: If the
- achievement level of students
- entering the school and the
- rates of learning remain
- constant over time,
- achievement will reach
- equilibrium.
-
- 18</div>
+achievement level of students
+entering the school and the
+rates of learning remain
+constant over time,
+achievement will reach
+equilibrium.</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -316,19 +282,18 @@ fi</div>
 ```{=html}
 <div class="archive-text">Improvement
 • School X’s low achievement MAY mask
- high rates of student learning.
+high rates of student learning.
 • Demanding that School X improve is
- equivalent to demanding that they
- increase rates of student learning (i.e.,
- acceleration)
+equivalent to demanding that they
+increase rates of student learning (i.e.,
+acceleration)
 • If the students at School X are already
- learning a lot (i.e., high velocity), there
- is no room for improvement (i.e.,
- acceleration).
+learning a lot (i.e., high velocity), there
+is no room for improvement (i.e.,
+acceleration).
 • Status based systems are incoherent
- with what the education system and
- its components do: Support learning.
- 19</div>
+with what the education system and
+its components do: Support learning.</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
@@ -345,14 +310,12 @@ Systems</div>
 • There is no shortage of criticisms of current accountability systems.
 • Two prominent classes of criticisms include:
 1. Indicators: There is significant criticism regarding the narrow
- range of indicators, primarily state summative assessment data,
- that are heavily relied upon to assess educational quality.
+range of indicators, primarily state summative assessment data,
+that are heavily relied upon to assess educational quality.
 2. Design: The design of accountability systems has also been
- widely critiqued for lacking inclusivity in the development
- process, consequently detaching the system from the realities
- faced by educational practitioners.
-
- 21</div>
+widely critiqued for lacking inclusivity in the development
+process, consequently detaching the system from the realities
+faced by educational practitioners.</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
@@ -360,13 +323,11 @@ Systems</div>
 ```{=html}
 <div class="archive-text">Indicators
 • Solutions to the over-reliance on state summative testing have
- centered on reducing their weight and/or supplementing them with
- additional indicators:
+centered on reducing their weight and/or supplementing them with
+additional indicators:
 • With regard to supplementation, I focus on two classes of indicators)
- • Student level indicators (e.g., student perseverance/grit)
- • System level indicators (parental satisfaction)
-
- 22</div>
+• Student level indicators (e.g., student perseverance/grit)
+• System level indicators (parental satisfaction)</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
@@ -374,12 +335,10 @@ Systems</div>
 ```{=html}
 <div class="archive-text">Student Level Indicators
 • The difficulty with adding additional student level indicators is that
- these indicators need to obey the logic of Carlson’s 2x2 table just as
- summative assessment results.
+these indicators need to obey the logic of Carlson’s 2x2 table just as
+summative assessment results.
 • As I have argued, we don’t have a coherent system with the high
- quality indicators from status summative tests. Adding
-
- 23</div>
+quality indicators from status summative tests. Adding</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
@@ -387,16 +346,15 @@ Systems</div>
 ```{=html}
 <div class="archive-text">System Level Indicators
 • Though system level indicators don’t obey the same “Carlson logic”,
- they add another layer of complexity:
+they add another layer of complexity:
 1. Are they included because they are believed to positively influence
- student-level performance indicators, such as academic achievement
- or growth? If so, is there credible evidence to validate these claims.
+student-level performance indicators, such as academic achievement
+or growth? If so, is there credible evidence to validate these claims.
 2. Are they valued independently of their impact on academic
- outcomes—appreciated for their intrinsic benefits to the educational
- environment?
+outcomes—appreciated for their intrinsic benefits to the educational
+environment?
 3. How susceptible are these indicators to being manipulated within the
- system?
- 24</div>
+system?</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
@@ -404,10 +362,8 @@ Systems</div>
 ```{=html}
 <div class="archive-text">Design
 • Though I am wholeheartedly committed to inclusive and purposeful
- design, I am skeptical that a better and more inclusive process alone
- will yield a coherent accountability system.
-
- 25</div>
+design, I am skeptical that a better and more inclusive process alone
+will yield a coherent accountability system.</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
@@ -424,17 +380,13 @@ Principle 1: Learning/growth is the foundation:
 
 Principle 2. Extend Accountability to include Equity &amp; Justice:
 
-Principle 3: Design Purposively and with Inclusivity:
-
- 27</div>
+Principle 3: Design Purposively and with Inclusivity:</div>
 ```
 
 ## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">Equity &amp; Justice
-
- 28</div>
+<div class="archive-text">Equity &amp; Justice</div>
 ```
 
 ## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
@@ -442,19 +394,18 @@ Principle 3: Design Purposively and with Inclusivity:
 ```{=html}
 <div class="archive-text">Growth/Learning is Key
 “My point here is that we won’t fall o an information cli without state test
- scores for every student every year; in fact, we can deliver much better
- information about student learning.”
- Scott Marion
- Do We Really Need to Test All Students Every Year?
+scores for every student every year; in fact, we can deliver much better
+information about student learning.”
+Scott Marion
+Do We Really Need to Test All Students Every Year?
 
 • Student learning ≠ Student Achievement (i.e. attainment)
 • Assessments measure achievement, not learning
 • Learning is an unobserved process that takes place over time.
 • We infer learning via multiple observations/assessments taken over time.
- 29
 
- ff
- ff</div>
+ff
+ff</div>
 ```
 
 ## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
@@ -462,37 +413,34 @@ Principle 3: Design Purposively and with Inclusivity:
 ```{=html}
 <div class="archive-text">Toward Statistical Process Control
 • The achievement of students (i.e., status) is the ultimate criterion by which
- we should judge our education system.
+we should judge our education system.
 • There are two levers to increase achievement of students:
- • Increase initial levels of achievement of students (early childhood
- education)
- • Accelerate rates of learning of students.
+• Increase initial levels of achievement of students (early childhood
+education)
+• Accelerate rates of learning of students.
 • Goal is to provide a system level view for leadership and policy makers to
- understand how growth (i.e., learning) and achievement are related.
+understand how growth (i.e., learning) and achievement are related.
 • Desired achievement outcomes can be aligned with the rates of learning
- necessary to reach them.
-• Learning/growth is key.
- 30</div>
+necessary to reach them.
+• Learning/growth is key.</div>
 ```
 
 ## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">“This is the difference between a retrospective question of
- identifying fault as opposed to a prospective strategy to engineer
- some corrective measure, almost independent of considering
- whether there was blame-worthiness. And to move away from the
- blame-worthiness paradigm toward something that is more
- regulatory in nature where one might seize upon disparities or
- circumstances that are for some reason deemed unacceptable and
- engineer the interventions needed to bring about the necessary
- change. . . . It’s the no-fault gap closing strategy in which the effort
- is to build a consensus about a vision of an improved society rather
- than gure out where’s the person we want to pillory.”
+identifying fault as opposed to a prospective strategy to engineer
+some corrective measure, almost independent of considering
+whether there was blame-worthiness. And to move away from the
+blame-worthiness paradigm toward something that is more
+regulatory in nature where one might seize upon disparities or
+circumstances that are for some reason deemed unacceptable and
+engineer the interventions needed to bring about the necessary
+change. . . . It’s the no-fault gap closing strategy in which the effort
+is to build a consensus about a vision of an improved society rather
+than gure out where’s the person we want to pillory.”
 
- Christopher Edley (2006)
-
- 31
+Christopher Edley (2006)
 
 fi</div>
 ```
@@ -500,9 +448,7 @@ fi</div>
 ## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">Questions
-
- 32</div>
+<div class="archive-text">Questions</div>
 ```
 
 ## About this copy {.archive-about}

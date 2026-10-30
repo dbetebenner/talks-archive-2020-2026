@@ -21,9 +21,9 @@ Challenges and Opportunities in Policy and Practice
 Dr. Damian Betebenner
 National Center for the Improvement of Educational Assessment
 
- This work is licensed under a
- Creative Commons Attribution 4.0
- International License.</div>
+This work is licensed under a
+Creative Commons Attribution 4.0
+International License.</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -34,7 +34,7 @@ National Center for the Improvement of Educational Assessment
 • At the Center for Assessment since 2007
 • Developed student growth percentile (SGP) methodology.
 • Currently live just outside of Boston, Massachusetts
- (Needham, MA) with wife, daughter, and dog.</div>
+(Needham, MA) with wife, daughter, and dog.</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -60,16 +60,16 @@ National Center for the Improvement of Educational Assessment
 ```{=html}
 <div class="archive-text">It’s not just semantics
 • Nitpicking over the meaning of words may seem trivial, but for
- complicated topics, it’s essential to understand exactly what
- we’re talking about.
- • In education, terminology carries weight because it shapes how we
- think, communicate, and make decisions.
- • Misunderstandings or differing interpretations of key terms can lead
- to misaligned policies, ineffective practices, or even public mistrust in
- the system.
- • For example, what do we mean by “assessment”? Is it a test, a
- portfolio, an observation? How we define it determines how we
- design it and what we expect from it.</div>
+complicated topics, it’s essential to understand exactly what
+we’re talking about.
+• In education, terminology carries weight because it shapes how we
+think, communicate, and make decisions.
+• Misunderstandings or differing interpretations of key terms can lead
+to misaligned policies, ineffective practices, or even public mistrust in
+the system.
+• For example, what do we mean by “assessment”? Is it a test, a
+portfolio, an observation? How we define it determines how we
+design it and what we expect from it.</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -77,17 +77,17 @@ National Center for the Improvement of Educational Assessment
 ```{=html}
 <div class="archive-text">It’s not just semantics
 • Over the last decade (and even further), the term &quot;assessment&quot; has
- expanded far beyond its traditional scope—a shift many of you have
- likely observed.
- • Historically, &quot;assessment&quot; primarily referred to standardized testing,
- often used for accountability purposes or to evaluate large-scale trends
- in student achievement.
- • The term, however, encompasses a wide range of tools and practices:
- formative assessments, performance tasks, classroom checks for
- understanding, adaptive assessments, through-course assessments, and
- even measures of non-academic skills like social-emotional learning.
- • I embrace this broader application of the term &quot;assessment&quot; as it reflects
- the reality of the diverse ways we assess in education.</div>
+expanded far beyond its traditional scope—a shift many of you have
+likely observed.
+• Historically, &quot;assessment&quot; primarily referred to standardized testing,
+often used for accountability purposes or to evaluate large-scale trends
+in student achievement.
+• The term, however, encompasses a wide range of tools and practices:
+formative assessments, performance tasks, classroom checks for
+understanding, adaptive assessments, through-course assessments, and
+even measures of non-academic skills like social-emotional learning.
+• I embrace this broader application of the term &quot;assessment&quot; as it reflects
+the reality of the diverse ways we assess in education.</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -95,15 +95,15 @@ National Center for the Improvement of Educational Assessment
 ```{=html}
 <div class="archive-text">So what’s the big deal?
 • Assessments, I would argue, regardless of what type, are point in
- time exercises in data collection.
+time exercises in data collection.
 • The term assessment data often connotes something quantitative,
- derived through standardized procedures.
+derived through standardized procedures.
 • However, assessment data can encompass qualitative data as well.
 • As many of you are aware, current assessments often promise
- much more than just reporting data on what student know and
- can do.
+much more than just reporting data on what student know and
+can do.
 • Current assessments often claim to inform instruction.
- • Is this assessment or assessment use</div>
+• Is this assessment or assessment use</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -111,17 +111,17 @@ National Center for the Improvement of Educational Assessment
 ```{=html}
 <div class="archive-text">Assessment &amp; Learning
 • The term assessment has been and is currently used in some ways unfamiliar
- (and wrong) to me. A case in point:
- • The terms Assessment and Learning are appearing more frequently together:
- Assessment of Learning, Assessments to measure student learning.
- • Learning is an unobserved process that happens over time whereas an
- assessment indicates what a student knows and can do at a given point in
- time.
- • We infer that learning has occurred by changes in what a student knows and
- can do (which is what assessments, at their best, tell us). I do not think that
- assessments measure learning.
- • We make inferences about learning based upon observations (i.e.,
- assessments, plural) over time.</div>
+(and wrong) to me. A case in point:
+• The terms Assessment and Learning are appearing more frequently together:
+Assessment of Learning, Assessments to measure student learning.
+• Learning is an unobserved process that happens over time whereas an
+assessment indicates what a student knows and can do at a given point in
+time.
+• We infer that learning has occurred by changes in what a student knows and
+can do (which is what assessments, at their best, tell us). I do not think that
+assessments measure learning.
+• We make inferences about learning based upon observations (i.e.,
+assessments, plural) over time.</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -129,17 +129,17 @@ National Center for the Improvement of Educational Assessment
 ```{=html}
 <div class="archive-text">Time
 
- Learning to walk
+Learning to walk
 
 Observation Time 1 Observation Time 2
 
- Child can crawl Child can walk
+Child can crawl Child can walk
 
- The combination of the two observations allows us to conclude that
- learning occurred where the child learned to walk.
+The combination of the two observations allows us to conclude that
+learning occurred where the child learned to walk.
 
- If the time span is short we say the “child learned quickly” emphasizing
- the fact that learning is something that occurs over time.</div>
+If the time span is short we say the “child learned quickly” emphasizing
+the fact that learning is something that occurs over time.</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -147,29 +147,29 @@ Observation Time 1 Observation Time 2
 ```{=html}
 <div class="archive-text">One last peeve
 • If I had a dollar for every time I’ve heard:
- “That assessment wasn’t designed for that
- purpose and therefore can’t be used that way.”
+“That assessment wasn’t designed for that
+purpose and therefore can’t be used that way.”
 
 • It’s the quick and easy way for “experts” to shut down the use of an assessment that they
- find questionable.
+find questionable.
 • Yes, design is important, however, life is filled with examples of tools originally designed for
- one purpose being “validated” for others (my wife uses a screw driver to open tight jar lids)
+one purpose being “validated” for others (my wife uses a screw driver to open tight jar lids)
 • And note, tools designed for a purpose don’t always work for that purpose (who
- remembers Clippy?).
+remembers Clippy?).
 • That said, assessment use absolutely does need to be validated (regardless if it was
- designed or not designed for that purpose).</div>
+designed or not designed for that purpose).</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Evolving Assessments
- Having set the stage with the complexi es of assessment terminology and
- applica on, let’s now explore how assessments are evolving to meet the
- demands of today’s educa on landscape.
+Having set the stage with the complexi es of assessment terminology and
+applica on, let’s now explore how assessments are evolving to meet the
+demands of today’s educa on landscape.
 
- ti
- ti
+ti
+ti
 ti</div>
 ```
 
@@ -178,17 +178,17 @@ ti</div>
 ```{=html}
 <div class="archive-text">Innovation in Assessment
 • Assessments have evolved significantly in the last two decades:
- • Modality: Transition from traditional paper-and-pencil tests to online platforms,
- enabling greater efficiency, flexibility, and accessibility.
- • Adaptivity: Emergence of adaptive testing, where items are dynamically adjusted
- based on student responses, providing more precise measures of ability.
- • Automated Scoring: Advances in technology have enabled automated scoring for
- written responses, offering faster feedback and reducing human scoring biases.
- • Complex Item Types: Incorporation of interactive and multimedia-rich items that
- assess higher-order skills and mirror real-world problem-solving.
- • Intererim &amp; Through-Course Assessment: Introduction of modular assessment
- designs that evaluate student progress throughout the course, rather than relying
- solely on end-of-course exams.</div>
+• Modality: Transition from traditional paper-and-pencil tests to online platforms,
+enabling greater efficiency, flexibility, and accessibility.
+• Adaptivity: Emergence of adaptive testing, where items are dynamically adjusted
+based on student responses, providing more precise measures of ability.
+• Automated Scoring: Advances in technology have enabled automated scoring for
+written responses, offering faster feedback and reducing human scoring biases.
+• Complex Item Types: Incorporation of interactive and multimedia-rich items that
+assess higher-order skills and mirror real-world problem-solving.
+• Intererim &amp; Through-Course Assessment: Introduction of modular assessment
+designs that evaluate student progress throughout the course, rather than relying
+solely on end-of-course exams.</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -196,13 +196,13 @@ ti</div>
 ```{=html}
 <div class="archive-text">Accountability &amp; Assessment
 • Due to the way in which NCLB inextricably linked assessment
- results and accountability, the two are often conflated.
+results and accountability, the two are often conflated.
 • Dislike of accountability systems often overlaps with dislike of
- the assessments that provide the data for the accountability
- systems.
+the assessments that provide the data for the accountability
+systems.
 • Innovations in large scale assessment, particularly over the
- last decade, have been in large part driven by frustration
- associated with their (ab)use in accountability systems.</div>
+last decade, have been in large part driven by frustration
+associated with their (ab)use in accountability systems.</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -210,14 +210,13 @@ ti</div>
 ```{=html}
 <div class="archive-text">What’s the problem?
 • Criticisms of current large scale assessments include:
- • Delayed feedback: Results aren’t timely to impact
- instruction.
- • Lack of instructional utility: Results aren’t instructionally
- useful.
- • Unintended consequences: Teaching to the test,
- narrowing/altering the scope and sequence of the
- curriculum. High stakes and stress.
- •…</div>
+• Delayed feedback: Results aren’t timely to impact
+instruction.
+• Lack of instructional utility: Results aren’t instructionally
+useful.
+• Unintended consequences: Teaching to the test,
+narrowing/altering the scope and sequence of the
+curriculum. High stakes and stress.</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -225,14 +224,14 @@ ti</div>
 ```{=html}
 <div class="archive-text">What’s the problem?
 • Is the problem the assessment or the way in which the
- assessment is used (or both in some measure).
- • The likely answer is both.
- • I’m of the opinion that the much bigger issue is the way in
- which the data derived from the assessments is used.
- • Accountability being the driving force for how data gets
- used is largely to blame for this.
- • I’m skeptical that the “right” assessment will correct the
- woes associated with inadequate or faulty data use.</div>
+assessment is used (or both in some measure).
+• The likely answer is both.
+• I’m of the opinion that the much bigger issue is the way in
+which the data derived from the assessments is used.
+• Accountability being the driving force for how data gets
+used is largely to blame for this.
+• I’m skeptical that the “right” assessment will correct the
+woes associated with inadequate or faulty data use.</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -240,85 +239,85 @@ ti</div>
 ```{=html}
 <div class="archive-text">Example: Through Course Assessment (TCA)
 • One of the latest ideas to improve large scale education
- assessment is with through course assessment designs.
+assessment is with through course assessment designs.
 • Through-course assessment refers to a system where
- students complete multiple assessments spaced throughout
- the academic year, as opposed to a single, end-of-year
- summative test.
+students complete multiple assessments spaced throughout
+the academic year, as opposed to a single, end-of-year
+summative test.
 • These assessments are designed to collectively measure the
- same standards and competencies typically addressed by a
- traditional summative assessment.</div>
+same standards and competencies typically addressed by a
+traditional summative assessment.</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Example: Through Course Assessment (TCA)
- Modular Assessments
- • The curriculum is divided into units or instruc onal segments, each aligned to speci c standards or learning objec ves.
- • Students take an assessment a er comple ng each segment.
+Modular Assessments
+• The curriculum is divided into units or instruc onal segments, each aligned to speci c standards or learning objec ves.
+• Students take an assessment a er comple ng each segment.
 
- Integrated Timing
- • Assessments are strategically scheduled at various points during the academic year, o en ed to instruc onal pacing.
+Integrated Timing
+• Assessments are strategically scheduled at various points during the academic year, o en ed to instruc onal pacing.
 
- Cumula ve Measurement
- • Each through-course assessment contributes to an overall evalua on of student pro ciency, aggrega ng results into a nal score
- or report.
- • The system provides both forma ve (to inform instruc on) and summa ve (to measure outcomes) informa on.
+Cumula ve Measurement
+• Each through-course assessment contributes to an overall evalua on of student pro ciency, aggrega ng results into a nal score
+or report.
+• The system provides both forma ve (to inform instruc on) and summa ve (to measure outcomes) informa on.
 
- Diverse Item Types
- • Includes a mix of tradi onal (e.g., mul ple choice) and innova ve (e.g., performance tasks, wri en responses, or project-based
- tasks) items.
- • Emphasizes real-world applica ons and cri cal thinking.
+Diverse Item Types
+• Includes a mix of tradi onal (e.g., mul ple choice) and innova ve (e.g., performance tasks, wri en responses, or project-based
+tasks) items.
+• Emphasizes real-world applica ons and cri cal thinking.
 
- Alignment with Instruc on
- • Each assessment is designed to mirror the instruc onal content recently covered, ensuring close alignment with what students
- have been taught.
- ti
- ti
- ti
- tt ti
- ft
- fi
- fi
- ti
- ti
- ti
- ti
- ti
- ti
- ti
- ti
- ti
- ti
- ti ft
- ti
- ti
+Alignment with Instruc on
+• Each assessment is designed to mirror the instruc onal content recently covered, ensuring close alignment with what students
+have been taught.
+ti
+ti
+ti
+tt ti
+ft
+fi
+fi
+ti
+ti
+ti
+ti
+ti
+ti
+ti
+ti
+ti
+ti
+ti ft
+ti
+ti
 ti fi
- ti</div>
+ti</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Example: Through Course Assessment (TCA)
- Con nuous Feedback: Provides mely data to inform instruc on, allowing
- teachers to address gaps in understanding throughout the year.
- Reduced Test-Day Pressure: Spreading assessments across the year reduces
- the high stakes and anxiety associated with a single end-of-year test.
- Enhanced Curriculum Alignment: Encourages teaching the full breadth of the
- curriculum by assessing standards throughout the year.
- Opportuni es for Deeper Assessment: Enables the inclusion of complex
- tasks that might be imprac cal in a single summa ve test.
- Support for Forma ve Use: Interim results can help students and teachers
- understand progress and adjust learning strategies.
+Con nuous Feedback: Provides mely data to inform instruc on, allowing
+teachers to address gaps in understanding throughout the year.
+Reduced Test-Day Pressure: Spreading assessments across the year reduces
+the high stakes and anxiety associated with a single end-of-year test.
+Enhanced Curriculum Alignment: Encourages teaching the full breadth of the
+curriculum by assessing standards throughout the year.
+Opportuni es for Deeper Assessment: Enables the inclusion of complex
+tasks that might be imprac cal in a single summa ve test.
+Support for Forma ve Use: Interim results can help students and teachers
+understand progress and adjust learning strategies.
 
- ti
- ti
- ti
- ti
- ti
- ti
+ti
+ti
+ti
+ti
+ti
+ti
 ti</div>
 ```
 
@@ -333,15 +332,15 @@ ti</div>
 ```{=html}
 <div class="archive-text">What’s the problem?
 • Criticisms of current large scale assessments include:
- • Delayed feedback: Results aren’t timely to impact interventions
- and instruction.
- • Lack of instructional utility: Results aren’t instructionally useful
- due to curricular (mis)alignment, grain size of results, etc.
- • Unintended consequences: Teaching to the test, narrowing/
- altering the scope and sequence of the curriculum. High stakes
- and stress. Shaming of schools.
- • Time allotted to testing and test-prep takes away from
- instruction.</div>
+• Delayed feedback: Results aren’t timely to impact interventions
+and instruction.
+• Lack of instructional utility: Results aren’t instructionally useful
+due to curricular (mis)alignment, grain size of results, etc.
+• Unintended consequences: Teaching to the test, narrowing/
+altering the scope and sequence of the curriculum. High stakes
+and stress. Shaming of schools.
+• Time allotted to testing and test-prep takes away from
+instruction.</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
@@ -349,15 +348,15 @@ ti</div>
 ```{=html}
 <div class="archive-text">What’s the solution?
 • To some extent, assessment design can solve some of these
- problems.
- • Delayed feedback: Use of technology to expedite scoring can
- greatly decrease turn-around time.
+problems.
+• Delayed feedback: Use of technology to expedite scoring can
+greatly decrease turn-around time.
 • However, it isn’t clear that large scale assessment design will solve:
- • Lack of instructional utility: Results aren’t instructionally useful
- due to curricular (mis)alignment, grain size of results,
- • Unintended consequences: Teaching to the test, narrowing/
- altering the scope and sequence of the curriculum. High stakes
- and stress.</div>
+• Lack of instructional utility: Results aren’t instructionally useful
+due to curricular (mis)alignment, grain size of results,
+• Unintended consequences: Teaching to the test, narrowing/
+altering the scope and sequence of the curriculum. High stakes
+and stress.</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
@@ -365,16 +364,16 @@ ti</div>
 ```{=html}
 <div class="archive-text">Instructional Utility
 • Instructional utility has become a focus of many debates regarding
- assessment and accountability.
+assessment and accountability.
 • Two of my colleagues Carla Evans and Scott Marion wrote a book on the
- topic, Understanding Instructionally Useful Assessment
+topic, Understanding Instructionally Useful Assessment
 • Whereas my colleagues take a more micro-view of instructional utility
- (useful for day-to-day instructional decision making), I take a more macro-
- view (useful for instructional decision making across some time frame).
+(useful for day-to-day instructional decision making), I take a more macro-
+view (useful for instructional decision making across some time frame).
 • Clearly, large scale, annual summative assessments are not useful for day-
- to-day instructional decision making.
+to-day instructional decision making.
 • However, across larger time frames, those tests can be used for more
- coarse grained instructional decisions.</div>
+coarse grained instructional decisions.</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
@@ -382,14 +381,14 @@ ti</div>
 ```{=html}
 <div class="archive-text">Instructional Utility
 • Do current assessment designs solve the instructional utility
- problem?
- • Instructional utility is NOT a property of an assessment. It’s a
- function of how the assessment (if properly designed) is used.
- • I would argue that current assessments are not utilized even
- close to their full potential.
- • I’m skeptical that new assessments will change that.
- • TCAs still only occur 3 times a year — rather infrequent for
- instructional decision making.</div>
+problem?
+• Instructional utility is NOT a property of an assessment. It’s a
+function of how the assessment (if properly designed) is used.
+• I would argue that current assessments are not utilized even
+close to their full potential.
+• I’m skeptical that new assessments will change that.
+• TCAs still only occur 3 times a year — rather infrequent for
+instructional decision making.</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
@@ -397,13 +396,13 @@ ti</div>
 ```{=html}
 <div class="archive-text">Opportunity to Learn
 • Assessment designs that aren’t strictly summative (e.g., TCAs)
- involve components that are more formative/benchmark.
- • For example, an assessment might be administered early
- in the year to see where students are in terms of
- knowledge and skills (before they’ve been formally
- instructed)
+involve components that are more formative/benchmark.
+• For example, an assessment might be administered early
+in the year to see where students are in terms of
+knowledge and skills (before they’ve been formally
+instructed)
 • How does accountability utilize student results where
- opportunity to learn is questionable?</div>
+opportunity to learn is questionable?</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
@@ -411,15 +410,15 @@ ti</div>
 ```{=html}
 <div class="archive-text">Assessment as Intervention
 • Earlier I mentioned that, at their core, assessments are data
- collection activities.
+collection activities.
 • Assessments, especially those claiming to be instructionally
- useful, are both data collection and intervention.
+useful, are both data collection and intervention.
 • Without a THOROUGH explication of how intervention is
- coupled with the assessment results, I remain skeptical that
- new assessment designs will improve assessment results any
- more than previous annual summative designs.
+coupled with the assessment results, I remain skeptical that
+new assessment designs will improve assessment results any
+more than previous annual summative designs.
 • Due to accountability systems that emphasize student
- attainment, our use of data to inform student learning is stuck.</div>
+attainment, our use of data to inform student learning is stuck.</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
@@ -427,13 +426,13 @@ ti</div>
 ```{=html}
 <div class="archive-text">Assessment as Intervention
 • As an intervention, such assessment systems should be
- evaluated with regard to whether student performance
- improves in comparison to other (e.g., annual, summative
- assessments) systems.
+evaluated with regard to whether student performance
+improves in comparison to other (e.g., annual, summative
+assessments) systems.
 • Given that new assessment systems often involve resetting
- performance standards, a dubious outcome would be to see
- higher student performance (e.g., % proficient) based solely
- upon new (possible lower) standards being established.</div>
+performance standards, a dubious outcome would be to see
+higher student performance (e.g., % proficient) based solely
+upon new (possible lower) standards being established.</div>
 ```
 
 ## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
@@ -447,15 +446,15 @@ ti</div>
 ```{=html}
 <div class="archive-text">Equity in Education: A Shared Understanding
 • Definition: Equity in education means ensuring that every student
- has access to the resources and opportunities they need to succeed,
- recognizing and addressing disparities caused by systemic inequities.
+has access to the resources and opportunities they need to succeed,
+recognizing and addressing disparities caused by systemic inequities.
 • Key Aspects of Equity:
- • Fairness: Providing what students need to achieve comparable
- outcomes, rather than treating everyone identically.
- • Inclusion: Ensuring all students, regardless of background or
- circumstances, have meaningful access to learning.
- • Responsiveness: Identifying and addressing the unique barriers
- faced by different student groups.</div>
+• Fairness: Providing what students need to achieve comparable
+outcomes, rather than treating everyone identically.
+• Inclusion: Ensuring all students, regardless of background or
+circumstances, have meaningful access to learning.
+• Responsiveness: Identifying and addressing the unique barriers
+faced by different student groups.</div>
 ```
 
 ## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
@@ -475,14 +474,14 @@ ti</div>
 ```{=html}
 <div class="archive-text">Equity as a Guiding Principle for Decisions
 • Impact of Equity on Decision-Making:
- • Shapes resource allocation (e.g., funding, staffing, and materials).
- • Informs the design and use of assessments to highlight disparities.
- • Ensures policies and practices are inclusive and culturally relevant.
+• Shapes resource allocation (e.g., funding, staffing, and materials).
+• Informs the design and use of assessments to highlight disparities.
+• Ensures policies and practices are inclusive and culturally relevant.
 • The Stakes:
- • Inequitable systems perpetuate disparities in achievement,
- opportunity, and outcomes.
- • Equitable decision-making can close gaps and improve success for
- marginalized groups.</div>
+• Inequitable systems perpetuate disparities in achievement,
+opportunity, and outcomes.
+• Equitable decision-making can close gaps and improve success for
+marginalized groups.</div>
 ```
 
 ## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
@@ -490,14 +489,14 @@ ti</div>
 ```{=html}
 <div class="archive-text">Challenges in Operationalizing Equity
 • Common Challenges:
- • Access: Digital divide or lack of resources for technology-
- based assessments.
- • Bias: Cultural and linguistic bias in test design or
- administration.
- • Opportunity to Learn: Holding students accountable for
- content they haven’t had the chance to learn.
- • Standardization vs. Individualization: Balancing the need for
- comparability with the need for personalized approaches.</div>
+• Access: Digital divide or lack of resources for technology-
+based assessments.
+• Bias: Cultural and linguistic bias in test design or
+administration.
+• Opportunity to Learn: Holding students accountable for
+content they haven’t had the chance to learn.
+• Standardization vs. Individualization: Balancing the need for
+comparability with the need for personalized approaches.</div>
 ```
 
 ## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
@@ -506,15 +505,15 @@ ti</div>
 <div class="archive-text">Equity-Focused Decision-Making in Action
 • Practical Strategies to Promote Equity
 • Data-Driven Decisions:
- • Use disaggregated data to identify and address disparities.
- • Focus on root causes, not just symptoms, of inequities.
+• Use disaggregated data to identify and address disparities.
+• Focus on root causes, not just symptoms, of inequities.
 • Inclusive Policies:
- • Include diverse stakeholders in decision-making processes.
- • Develop policies that prioritize underrepresented or underserved groups.
+• Include diverse stakeholders in decision-making processes.
+• Develop policies that prioritize underrepresented or underserved groups.
 • Iterative Improvement:
- • Regularly review assessment tools and policies for unintended
- consequences.
- • Adjust based on feedback and outcomes.</div>
+• Regularly review assessment tools and policies for unintended
+consequences.
+• Adjust based on feedback and outcomes.</div>
 ```
 
 ## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
@@ -530,11 +529,11 @@ ti</div>
 Why Policy and Practice Matter
 
 • Key Point: Policies shape the frameworks within which
- assessments are designed, implemented, and interpreted.
- Practices determine how those policies affect students and
- educators.
+assessments are designed, implemented, and interpreted.
+Practices determine how those policies affect students and
+educators.
 • Objective: Explore how evolving assessments require shifts in
- policy and practice to maximize their potential.</div>
+policy and practice to maximize their potential.</div>
 ```
 
 ## {.archive-slide background-image="slides/36.webp" background-size="contain" background-color="#14140f"}
@@ -544,13 +543,13 @@ Why Policy and Practice Matter
 Key Policy Drivers
 
 • Federal policies like ESSA (Every Student Succeeds Act)
- emphasize flexibility in assessments, including innovative
- designs.
+emphasize flexibility in assessments, including innovative
+designs.
 • State Initiatives: Many states are piloting competency-based
- or through-course assessments to move beyond traditional
- summative tests.
+or through-course assessments to move beyond traditional
+summative tests.
 • Equity Mandates: Increasing attention to ensuring that
- assessments are accessible and meaningful for all students.</div>
+assessments are accessible and meaningful for all students.</div>
 ```
 
 ## {.archive-slide background-image="slides/37.webp" background-size="contain" background-color="#14140f"}
@@ -559,15 +558,15 @@ Key Policy Drivers
 <div class="archive-text">Challenges for Policymakers
 Barriers to Policy Implementation
 • Scalability: Pilots of innovative assessments are difficult to
- scale while maintaining quality and equity.
+scale while maintaining quality and equity.
 • Cost: Developing and implementing innovative assessments
- require significant investment in technology, training, and
- scoring.
+require significant investment in technology, training, and
+scoring.
 • Standardization vs. Innovation: Balancing the need for
- comparability across districts with the flexibility to innovate.
+comparability across districts with the flexibility to innovate.
 • Example: Challenges faced by states implementing
- performance-based or through-course assessments under ESSA
- waivers.</div>
+performance-based or through-course assessments under ESSA
+waivers.</div>
 ```
 
 ## {.archive-slide background-image="slides/38.webp" background-size="contain" background-color="#14140f"}
@@ -577,13 +576,13 @@ Barriers to Policy Implementation
 Impacts on Teaching and Learning
 
 • Instructional Alignment: Ensuring that innovative
- assessments align with curriculum and teaching practices.
+assessments align with curriculum and teaching practices.
 • Professional Development: Teachers need training to
- interpret results and integrate them into instruction
- effectively.
+interpret results and integrate them into instruction
+effectively.
 • Shifts in Practice: Moving from test-prep-centered teaching
- to a more holistic approach that emphasizes deeper learning
- and skill development.</div>
+to a more holistic approach that emphasizes deeper learning
+and skill development.</div>
 ```
 
 ## {.archive-slide background-image="slides/39.webp" background-size="contain" background-color="#14140f"}
@@ -593,9 +592,9 @@ Impacts on Teaching and Learning
 Leveraging Technology for Better Outcomes
 
 • Technology enables adaptive assessments, automated
- scoring, and real-time feedback.
+scoring, and real-time feedback.
 • Data systems must be robust to handle disaggregated
- reporting and privacy concerns.
+reporting and privacy concerns.
 • Access equity is critical to ensure no student is left behind.</div>
 ```
 
@@ -606,13 +605,13 @@ Leveraging Technology for Better Outcomes
 Rethinking Accountability Systems
 
 • Shift focus from punitive to improvement-based
- accountability.
+accountability.
 • Use multiple measures of success, including formative and
- through-course assessments.
+through-course assessments.
 • Incorporate growth metrics to evaluate student learning (as
- opposed to student attainment).
+opposed to student attainment).
 • Use growth data to help identify what works as well as
- impediments to student learning.</div>
+impediments to student learning.</div>
 ```
 
 ## {.archive-slide background-image="slides/41.webp" background-size="contain" background-color="#14140f"}
@@ -622,12 +621,12 @@ Rethinking Accountability Systems
 Designing Policies for Evolving Assessments
 
 • Provide funding for innovative pilot programs and scaling
- successful designs.
+successful designs.
 • Require equity audits to ensure all assessments meet
- accessibility and cultural relevance standards.
+accessibility and cultural relevance standards.
 • Foster collaboration between policymakers, educators, and
- assessment designers to create cohesive and coherent
- systems.</div>
+assessment designers to create cohesive and coherent
+systems.</div>
 ```
 
 ## {.archive-slide background-image="slides/42.webp" background-size="contain" background-color="#14140f"}
@@ -637,11 +636,11 @@ Designing Policies for Evolving Assessments
 Bridging Policy and Practice
 
 • Establish feedback loops where policy decisions are informed
- by classroom realities and vice versa.
+by classroom realities and vice versa.
 • Invest in professional learning communities to share best
- practices for assessment use.
+practices for assessment use.
 • Pilot innovative practices in diverse contexts to identify
- scalable solutions.</div>
+scalable solutions.</div>
 ```
 
 ## {.archive-slide background-image="slides/43.webp" background-size="contain" background-color="#14140f"}
@@ -651,11 +650,11 @@ Bridging Policy and Practice
 Bridging Policy and Practice
 
 • Establish feedback loops where policy decisions are informed
- by classroom realities and vice versa.
+by classroom realities and vice versa.
 • Invest in professional learning communities to share best
- practices for assessment use.
+practices for assessment use.
 • Pilot innovative practices in diverse contexts to identify
- scalable solutions.</div>
+scalable solutions.</div>
 ```
 
 ## {.archive-slide background-image="slides/44.webp" background-size="contain" background-color="#14140f"}
@@ -672,9 +671,9 @@ Reflecting on What We’ve Explored
 
 • The evolving landscape of educational assessments.
 • What an assessment does versus what is done with the
- results from the assessment.
+results from the assessment.
 • The critical interplay between assessment design and
- accountability.
+accountability.
 • Opportunities and challenges in policy and practice.</div>
 ```
 
@@ -685,14 +684,14 @@ Reflecting on What We’ve Explored
 Key Takeaways
 
 • Assessment Design: Innovative approaches must balance
- validity, reliability, and accessibility.
+validity, reliability, and accessibility.
 • Accountability Systems: Should shift from punitive to
- improvement-oriented frameworks.
+improvement-oriented frameworks.
 • Equity: Disaggregated data and inclusive practices are
- essential for addressing disparities.
+essential for addressing disparities.
 • Utility: Assessments are most impactful when their results
- TRULY inform (as opposed to potentially inform in some
- dream scenario) beneficial, educational decisions.</div>
+TRULY inform (as opposed to potentially inform in some
+dream scenario) beneficial, educational decisions.</div>
 ```
 
 ## {.archive-slide background-image="slides/47.webp" background-size="contain" background-color="#14140f"}
@@ -702,14 +701,14 @@ Key Takeaways
 Key Takeaways
 
 • Assessment Design: Innovative approaches must balance
- validity, reliability, and accessibility.
+validity, reliability, and accessibility.
 • Accountability Systems: Should shift from punitive to
- improvement-oriented frameworks.
+improvement-oriented frameworks.
 • Equity: Disaggregated data and inclusive practices are
- essential for addressing disparities.
+essential for addressing disparities.
 • Utility: Assessments are most impactful when their results
- TRULY inform (as opposed to potentially inform in some
- dream scenario) beneficial, educational decisions.</div>
+TRULY inform (as opposed to potentially inform in some
+dream scenario) beneficial, educational decisions.</div>
 ```
 
 ## {.archive-slide background-image="slides/48.webp" background-size="contain" background-color="#14140f"}
@@ -719,12 +718,12 @@ Key Takeaways
 The Future of Assessments
 
 • Innovations to Watch: Personalization in assessments,
- adaptive assessments, real-time reporting systems, the role
- of AI in assessment generation and reporting.
+adaptive assessments, real-time reporting systems, the role
+of AI in assessment generation and reporting.
 • Policy Directions: Investments in scalable pilots, alignment
- with instructional goals, and increased focus on equity audits.
+with instructional goals, and increased focus on equity audits.
 • Role of Stakeholders: Collaboration among educators,
- policymakers, and assessment designers is critical.</div>
+policymakers, and assessment designers is critical.</div>
 ```
 
 ## {.archive-slide background-image="slides/49.webp" background-size="contain" background-color="#14140f"}
@@ -734,9 +733,9 @@ The Future of Assessments
 • What would true innovation in assessment design look like
 • Would such an assessment be practical?
 • What does meaningful equity look like in large-scale
- assessments?
+assessments?
 • How do we ensure that assessments drive improvements in
- teaching and learning?</div>
+teaching and learning?</div>
 ```
 
 ## About this copy {.archive-about}

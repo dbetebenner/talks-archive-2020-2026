@@ -23,9 +23,7 @@ June 23rd, 2025</div>
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">Background
-
- 2</div>
+<div class="archive-text">Background</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -33,9 +31,8 @@ June 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">How Times Change
 • I came up with the idea and title for this presentation in the
- before times: Before when the term “equity” was considered
- a good thing.
-•</div>
+before times: Before when the term “equity” was considered
+a good thing.</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -43,78 +40,74 @@ June 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">SGP: Scale agnosticism
 • SGPs, being norm-referenced, are, in general, immune to assessment transitions:
- • As long as all students take the “same” assessment at the “same” time, we can calculate
- growth-norms associated with those students.
- • NOTE: SGPs referred to here are cohort-referenced and not baseline-referenced.
+• As long as all students take the “same” assessment at the “same” time, we can calculate
+growth-norms associated with those students.
+• NOTE: SGPs referred to here are cohort-referenced and not baseline-referenced.
 • In addition, the analytic methodology behind SGP calculation is designed to be invariant to
- mono-tone transformations of scale.
- • In theory, if there is a mono-tone transformation of scale between two assessments, then
- SGPs will be invariant to that transformation.
+mono-tone transformations of scale.
+• In theory, if there is a mono-tone transformation of scale between two assessments, then
+SGPs will be invariant to that transformation.
 • SGPs have been successfully calculated across numerous assessment transitions (state transition
- to PARCC and SBAC, for example)
+to PARCC and SBAC, for example)
 • The following student growth report from Hawaii in 2016 helps illustrate what an assessment
- transition entails.</div>
+transition entails.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Olivia Norris Sample School
- Exceeded
- How to interpret this student
- growth &amp; achievement report Exceeds High Met
- SBA Typical
- ● ●
- Scale Score Nearly Met
- Meets ● Low
+Exceeded
+How to interpret this student
+growth &amp; achievement report Exceeds High Met
+SBA Typical
+Scale Score Nearly Met
+Meets ● Low
 
- SBA
- Achievement ●
- Approaches
- Levels Not Met
+SBA
+Achievement ●
+Approaches
+Levels Not Met
 
- Well Below HSA SBA SBA SBA
- Student Math Math Math Math
+Well Below HSA SBA SBA SBA
+Student Math Math Math Math
 
- Growth Grade 3 Grade 4 Grade 5 Grade 6
- 2014 2015 2016 2017
- Percentile Scale Score 290 2493 2549
- Achievement Level Approaches Met Met Achievement
- Growth Percentile 92 86
- Growth Level High High Growth
- Suggested Uses
+Growth Grade 3 Grade 4 Grade 5 Grade 6
+Percentile Scale Score 290 2493 2549
+Achievement Level Approaches Met Met Achievement
+Growth Percentile 92 86
+Growth Level High High Growth
+Suggested Uses
 
- Exceeded
+Exceeded
 ● Review past growth to assess
- student academic progress toward
- SBA achievement goals.
- Exceeds Met
+student academic progress toward
+SBA achievement goals.
+Exceeds Met
 ● Develop remediation or enrich−
- High
- ment plans based on rate of
- growth needed to reach higher Nearly Met
- SBA achievement levels. Typical
+High
+ment plans based on rate of
+growth needed to reach higher Nearly Met
+SBA achievement levels. Typical
 
 ● Identify the rate of progress ●
- Meets ●
- needed in order to reach or Low
- ●
- maintain proficient status
- on the SBA next year. Not Met
- Approaches
+Meets ●
+needed in order to reach or Low
+maintain proficient status
+on the SBA next year. Not Met
+Approaches
 
- Well Below HSA SBA SBA SBA
- ELA ELA ELA ELA
- Grade 3 Grade 4 Grade 5 Grade 6
- 2014 2015 2016 2017
+Well Below HSA SBA SBA SBA
+ELA ELA ELA ELA
+Grade 3 Grade 4 Grade 5 Grade 6
 
- Scale Score 313 2424 2465
- Achievement Level Meets Nearly Met Nearly Met Achievement
- Growth Percentile 23 30
- Growth Level Low Low Growth
+Scale Score 313 2424 2465
+Achievement Level Meets Nearly Met Nearly Met Achievement
+Growth Percentile 23 30
+Growth Level Low Low Growth
 
- For more information please visit the Hawaii State Department of Education (HIDOE) at www.doe.k12.hi.us or contact 808−586−3230
- Cooperatively developed by the HIDOE &amp; the Center for Assessment, Inc. Distributed by the HIDOE.</div>
+For more information please visit the Hawaii State Department of Education (HIDOE) at www.doe.k12.hi.us or contact 808−586−3230
+Cooperatively developed by the HIDOE &amp; the Center for Assessment, Inc. Distributed by the HIDOE.</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -122,14 +115,14 @@ June 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">Other Concerns
 • Despite superior analytic properties and a history of successful
- assessment transitions, one concern about the transition from
- the College Board to ACT suite of assessments has to do with
- scale granularity.
+assessment transitions, one concern about the transition from
+the College Board to ACT suite of assessments has to do with
+scale granularity.
 • By granularity we mean the number and distribution of scale
- score outcomes realizable by the given assessment.
+score outcomes realizable by the given assessment.
 • SGP calculations require sufficient scale granularity in order to
- calculate the 99 conditional quantile curves associated with the
- multivariate test data.</div>
+calculate the 99 conditional quantile curves associated with the
+multivariate test data.</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -137,15 +130,15 @@ June 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">Score Granularity
 • College Board Assessments:
- • SAT: Reported on a scale of 200 to 800 in multiples of 10.
- • PSAT: Reported on a scale of 160 to 760 in multiples of 10.
- • PSAT9: Reported on a scale of 120 to 720 in multiples of 10.
+• SAT: Reported on a scale of 200 to 800 in multiples of 10.
+• PSAT: Reported on a scale of 160 to 760 in multiples of 10.
+• PSAT9: Reported on a scale of 120 to 720 in multiples of 10.
 • ACT Assessments:
- • ACT: Reported on a scale of 1 to 36 in integers.
- • PreACT: Reported on a scale of 1 to 35 in integers.
- • PreACT9: Reported on a scale of 1 to 35 in integers.
+• ACT: Reported on a scale of 1 to 36 in integers.
+• PreACT: Reported on a scale of 1 to 35 in integers.
+• PreACT9: Reported on a scale of 1 to 35 in integers.
 • When examining scale score distributions, there are substantially fewer reported
- scale scores for the ACT suite of assessments than the SAT suite of assessments.</div>
+scale scores for the ACT suite of assessments than the SAT suite of assessments.</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -153,23 +146,21 @@ June 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">Implications
 • Though there are several states that have run SGP analyses using ACT
- as the dependent variable (current assessment) with state assessment
- priors, no state we have worked with has calculated growth using ACT
- assessments both as current and prior assessments.
+as the dependent variable (current assessment) with state assessment
+priors, no state we have worked with has calculated growth using ACT
+assessments both as current and prior assessments.
 • There is a concern that the lack of scale granularity may lead to poor
- model fit and corrupt the intended uses for the SGPs.
+model fit and corrupt the intended uses for the SGPs.
 • To provide guidance to Illinois as they transition to ACT assessments,
- we utilized historical Illinois SAT data combined with scale
- concordances from SAT to ACT to simulate what outcomes will look
- like for ACT assessments.</div>
+we utilized historical Illinois SAT data combined with scale
+concordances from SAT to ACT to simulate what outcomes will look
+like for ACT assessments.</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">ACT Simulation Study
-
- 9</div>
+<div class="archive-text">ACT Simulation Study</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -177,13 +168,13 @@ June 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">Data
 • ISBE provided historical student data for both IAR grades 3 to
- 8 and PAST9/PSAT/SAT.
- • Data was provided for both ELA and Mathematics
- • Data was provided for 2017, 2018, 2019, 2022, 2023, 2024.
+8 and PAST9/PSAT/SAT.
+• Data was provided for both ELA and Mathematics
+• Data was provided for 2017, 2018, 2019, 2022, 2023, 2024.
 • For the purposes of these analyses we utilize 2022, 2023 and
- 2024 data.
+2024 data.
 • Individual tested student counts range from approximately
- 100,000 to 110,000 per grade</div>
+100,000 to 110,000 per grade</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -191,17 +182,17 @@ June 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">SAT to ACT Concordance
 • SAT to ACT: Scores were converted to the ACT scale using the published, readily
- available concordance table.
- • For conversions from the lowest reported score in the concordance table to the
- LOSS, linear interpolation was used.
+available concordance table.
+• For conversions from the lowest reported score in the concordance table to the
+LOSS, linear interpolation was used.
 • PSAT to PreACT: Scores were converted using the concordance table where PSAT
- scores ranged from 160 to 760 and PreACT scores ranged from 1 to 35 with the same
- linear interpolation at the bottom of the scale.
+scores ranged from 160 to 760 and PreACT scores ranged from 1 to 35 with the same
+linear interpolation at the bottom of the scale.
 • PSAT9 to PreACT9: Scores were converted using the concordance table where PSAT
- scores ranged from 120 to 720 and the PreACT9 scores were assumed to range from 1
- to 35.
+scores ranged from 120 to 720 and the PreACT9 scores were assumed to range from 1
+to 35.
 • Though the latter two concordances are not “official”, they suffice for the investigation
- to see whether score granularity will be a problem with SGP calculation.</div>
+to see whether score granularity will be a problem with SGP calculation.</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -209,13 +200,13 @@ June 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">SGP Analyses
 • With PSAT9, PSAT, and SAT scores converted to the ACT scale
- via the concordances, 3 analyses each in ELA and
- Mathematics were performed:
- • IAR7/2022, IAR8/2023, PreACT9/2024
- • IAR8/2022, PreACT9/2023, PreACT10/2024
- • PreACT9/2022, PreACT10/2023, ACT/2024
+via the concordances, 3 analyses each in ELA and
+Mathematics were performed:
+• IAR7/2022, IAR8/2023, PreACT9/2024
+• IAR8/2022, PreACT9/2023, PreACT10/2024
+• PreACT9/2022, PreACT10/2023, ACT/2024
 • NOTE: All references to ACT tests above refer to SAT scores
- translated to the ACT scale.</div>
+translated to the ACT scale.</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -223,13 +214,13 @@ June 23rd, 2025</div>
 ```{=html}
 <div class="archive-text">SGP Analyses
 • All SGP analyses were conducted using the R software environment
- together with the SGP package (v2.2-1.9995).
+together with the SGP package (v2.2-1.9995).
 • Knots and boundaries utilized for b-spline calculation were derived
- from the translated SAT scores for use in the calculations.
+from the translated SAT scores for use in the calculations.
 • Achievement level cuts associate with the ACT scores were derived
- via the cut-scores currently employed by Illinois for the SAT.
+via the cut-scores currently employed by Illinois for the SAT.
 • All analyses executed without error providing SGP results for all
- students with suitable longitudinal scale scores.
+students with suitable longitudinal scale scores.
 • Goodness of fit plots are shown on the next several pages.</div>
 ```
 
@@ -237,254 +228,180 @@ June 23rd, 2025</div>
 
 ```{=html}
 <div class="archive-text">ELA Goodness of Fit
- Student Growth Percentile Goodness−of−Fit Descriptives Student Growth Percentile Goodness−of−Fit Descriptives Student Growth Percentile Goodness−of−Fit Descriptives
- 2024 English Language Arts SGP, Grade 9 (N = 107,831) 2024 English Language Arts SGP, Grade 10 (N = 101,265) 2024 English Language Arts SGP, Grade 11 (N = 104,714)
+Student Growth Percentile Goodness−of−Fit Descriptives Student Growth Percentile Goodness−of−Fit Descriptives Student Growth Percentile Goodness−of−Fit Descriptives
+2024 English Language Arts SGP, Grade 9 (N = 107,831) 2024 English Language Arts SGP, Grade 10 (N = 101,265) 2024 English Language Arts SGP, Grade 11 (N = 104,714)
 
- SGP Deciles by Prior Achievement Level (ELA) SGP Deciles by Prior Achievement Level (ELA) SGP Deciles by Prior Achievement Level (ELA)
- Level 5 (0%) Level 5 (0%)
- Level 5 (7.1%)
- Level 4 (19.4%) Level 4 (14.9%)
+SGP Deciles by Prior Achievement Level (ELA) SGP Deciles by Prior Achievement Level (ELA) SGP Deciles by Prior Achievement Level (ELA)
+Level 5 (0%) Level 5 (0%)
+Level 5 (7.1%)
+Level 4 (19.4%) Level 4 (14.9%)
 
- Prior Achievement Level Prior Achievement Level Prior Achievement Level
- Level 4 (35.8%)
- Level 3 (27.9%)
- Level 3 (31.6%)
+Prior Achievement Level Prior Achievement Level Prior Achievement Level
+Level 4 (35.8%)
+Level 3 (27.9%)
+Level 3 (31.6%)
 
- Level 3 (25.5%)
- Level 2 (38.9%)
- Level 2 (41.4%)
- Level 2 (18.4%)
+Level 3 (25.5%)
+Level 2 (38.9%)
+Level 2 (41.4%)
+Level 2 (18.4%)
 
- Level 1 (13.1%) Level 1 (18.3%)
- Level 1 (7.7%)
+Level 1 (13.1%) Level 1 (18.3%)
+Level 1 (7.7%)
 
- 1 10 20 30 40 50 60 70 80 90 99 1 10 20 30 40 50 60 70 80 90 99 1 10 20 30 40 50 60 70 80 90 99
- Median Student Growth Percentile Median Student Growth Percentile Median Student Growth Percentile
+Median Student Growth Percentile Median Student Growth Percentile Median Student Growth Percentile
 
- Ceiling / Floor Effects Test Ceiling / Floor Effects Test Ceiling / Floor Effects Test
- Student Growth Percentile Range Student Growth Percentile Range Student Growth Percentile Range
+Ceiling / Floor Effects Test Ceiling / Floor Effects Test Ceiling / Floor Effects Test
+Student Growth Percentile Range Student Growth Percentile Range Student Growth Percentile Range
 
- Current Observed Score 5 9 to
- 19 29
- to to
- 39
- to
- 49
- to
- 59
- to
- 69 79
- to to
- 89
- to
- 94
- to
- 99 Current Observed Score 5 9 to
- 19 29
- to to
- 39
- to
- 49
- to
- 59
- to
- 69
- to
- 79
- to
- 89
- to
- 94
- to
- 99 Current Observed Score 5 9 to
- 19 29
- to to
- 39
- to
- 49
- to
- 59
- to
- 69 79
- to to
- 89
- to
- 94
- to
- 99
- to to 10 20 30 40 50 60 70 80 90 95 to to 10 20 30 40 50 60 70 80 90 95 to to 10 20 30 40 50 60 70 80 90 95
- 1 5 1 5 1 5
+Current Observed Score 5 9 to
+to to
+to
+to
+to
+to to
+to
+to
+99 Current Observed Score 5 9 to
+to to
+to
+to
+to
+to
+to
+to
+to
+99 Current Observed Score 5 9 to
+to to
+to
+to
+to
+to to
+to
+to
+to to 10 20 30 40 50 60 70 80 90 95 to to 10 20 30 40 50 60 70 80 90 95 to to 10 20 30 40 50 60 70 80 90 95
 
- Lowest OSS: [1] 95.2 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 1091 Lowest OSS: [1] 83.7 11.4 4.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 1237 Lowest OSS: [1] 85.1 11.7 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 1466
+Lowest OSS: [1] 95.2 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 1091 Lowest OSS: [1] 83.7 11.4 4.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 1237 Lowest OSS: [1] 85.1 11.7 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 1466
 
- Extremes (Range) Highest OSS: [ 71 ] 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.2 11.3 26.0 60.5 N = 1271 Extremes (Range) Highest OSS: [ 71 ] 0.0 0.0 0.0 1.3 2.7 1.5 2.1 7.9 10.3 20.5 17.5 36.3 N = 673 Extremes (Range) Highest OSS: [ 72 ] 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 17.2 82.8 N = 93
+Extremes (Range) Highest OSS: [ 71 ] 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.2 11.3 26.0 60.5 N = 1271 Extremes (Range) Highest OSS: [ 71 ] 0.0 0.0 0.0 1.3 2.7 1.5 2.1 7.9 10.3 20.5 17.5 36.3 N = 673 Extremes (Range) Highest OSS: [ 72 ] 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 17.2 82.8 N = 93
 
- Student Growth Percentile Range QQ−Plot: Student Growth Percentiles Student Growth Percentile Range QQ−Plot: Student Growth Percentiles Student Growth Percentile Range QQ−Plot: Student Growth Percentiles
- 19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution 19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution 19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution
- 9 to to to to to to to to to 9 to to to to to to to to to 9 to to to to to to to to to
- 1
- to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100 1
- to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100 1
- to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100
+Student Growth Percentile Range QQ−Plot: Student Growth Percentiles Student Growth Percentile Range QQ−Plot: Student Growth Percentiles Student Growth Percentile Range QQ−Plot: Student Growth Percentiles
+19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution 19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution 19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution
+9 to to to to to to to to to 9 to to to to to to to to to 9 to to to to to to to to to
+to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100 1
+to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100 1
+to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100
 
- 1st/[650,691) 9.56 10.15 10.00 10.20 10.14 9.87 9.85 10.11 9.77 10.35 (8.7%) 100 1st/[1,26) 10.19 8.95 10.13 10.19 10.01 9.95 9.88 10.19 9.99 10.50 (7.7%) 100 1st/[1,23) 10.07 10.14 10.34 10.13 9.96 9.77 9.88 9.55 9.76 10.39 (7.7%) 100
+1st/[650,691) 9.56 10.15 10.00 10.20 10.14 9.87 9.85 10.11 9.77 10.35 (8.7%) 100 1st/[1,26) 10.19 8.95 10.13 10.19 10.01 9.95 9.88 10.19 9.99 10.50 (7.7%) 100 1st/[1,23) 10.07 10.14 10.34 10.13 9.96 9.77 9.88 9.55 9.76 10.39 (7.7%) 100
 
- 90 90 90
- 2nd/[691,710) 9.45 9.75 9.93 9.85 9.62 10.13 10.14 10.21 10.41 10.51 (11%) 2nd/[26,29) 9.85 10.54 10.50 10.21 9.89 9.80 9.52 9.72 10.21 9.75 (10.4%) 2nd/[23,26) 9.70 10.56 10.31 9.92 10.06 9.89 9.38 10.31 9.76 10.12 (10.6%)
+2nd/[691,710) 9.45 9.75 9.93 9.85 9.62 10.13 10.14 10.21 10.41 10.51 (11%) 2nd/[26,29) 9.85 10.54 10.50 10.21 9.89 9.80 9.52 9.72 10.21 9.75 (10.4%) 2nd/[23,26) 9.70 10.56 10.31 9.92 10.06 9.89 9.38 10.31 9.76 10.12 (10.6%)
 
 Prior Scale Score Decile/Range * Prior Scale Score Decile/Range * Prior Scale Score Decile/Range *
- 80 80 80
- 3rd/[710,722) 9.56 10.21 10.30 10.00 10.31 9.72 10.16 9.61 9.49 10.63 (9.3%) 3rd/[29,32) 8.51 10.68 9.62 9.61 9.88 10.07 10.50 10.52 9.49 11.12 (11.6%) 3rd/[26,29) 9.35 10.04 9.66 9.90 10.07 10.09 10.43 9.95 10.00 10.49 (11.5%)
+3rd/[710,722) 9.56 10.21 10.30 10.00 10.31 9.72 10.16 9.61 9.49 10.63 (9.3%) 3rd/[29,32) 8.51 10.68 9.62 9.61 9.88 10.07 10.50 10.52 9.49 11.12 (11.6%) 3rd/[26,29) 9.35 10.04 9.66 9.90 10.07 10.09 10.43 9.95 10.00 10.49 (11.5%)
 
- Empirical SGP Distribution Empirical SGP Distribution Empirical SGP Distribution
- 70 70 70
- 4th/[722,734) 9.51 9.99 9.64 10.08 10.21 10.30 9.79 10.07 9.95 10.46 (10.8%) 4th/[32,34) 8.91 9.82 8.91 9.92 10.33 11.24 10.48 9.62 9.68 11.11 (7.9%) 4th/[29,31) 10.18 9.40 10.32 10.04 10.21 9.92 9.69 10.29 9.73 10.21 (7%)
- 60 60 60
- 5th/[734,744) 9.47 9.86 10.30 9.76 9.54 10.04 10.14 10.03 10.30 10.57 (9.7%) 5th/[34,38) 10.37 9.33 10.50 10.40 10.09 9.32 9.81 10.01 10.18 9.99 (11.5%) 5th/[31,34) 9.86 10.40 9.89 10.52 9.77 9.92 10.15 9.33 9.75 10.41 (10.3%)
- 50 50 50
- 6th/[744,753) 9.60 10.19 10.26 9.85 9.95 9.76 9.95 9.96 10.07 10.42 (10.1%) 6th/[38,42) 10.02 10.78 10.66 9.67 9.52 9.91 9.23 9.68 10.65 9.89 (10.5%) 6th/[34,38) 9.81 10.29 10.40 9.75 9.83 9.14 10.46 10.00 9.99 10.34 (10.1%)
- 40 40 40
- 7th/[753,762) 9.42 10.29 9.96 10.28 10.20 10.07 10.12 9.95 9.88 9.82 (9.7%) 7th/[42,45) 9.14 9.96 9.31 10.65 10.35 9.40 10.49 10.53 9.46 10.73 (10%) 7th/[38,43) 9.44 9.99 9.60 10.13 10.13 10.40 9.98 10.25 9.64 10.43 (12.6%)
- 30 30 30
- 8th/[762,772) 9.66 9.58 9.28 9.86 10.00 10.18 10.07 10.03 10.06 11.29 (9.7%) 8th/[45,50) 8.58 9.19 9.47 8.99 10.53 11.63 10.52 9.60 9.96 11.53 (8.6%) 8th/[43,47) 9.13 9.49 10.25 10.20 10.08 10.54 9.64 9.58 10.12 10.98 (8.3%)
- 20 20 20
- 9th/[772,788) 9.61 9.82 10.46 10.03 10.16 9.84 9.99 10.01 9.43 10.65 (10.4%) 9th/[50,57) 10.01 10.56 10.73 10.38 9.36 9.04 9.67 10.14 10.33 9.78 (11.3%) 9th/[47,54) 10.08 10.35 10.41 9.79 9.56 9.85 9.92 10.03 10.10 9.91 (10.6%)
- 10 10 10
- 10th/[788,850] 9.34 10.37 9.88 10.06 9.80 10.02 9.93 9.91 10.38 10.29 (10.5%) 10th/[57,71] 9.56 9.63 9.83 10.05 10.05 10.41 10.08 10.03 9.67 10.69 (10.6%) 10th/[54,71] 9.44 9.82 9.91 10.09 10.02 10.16 9.96 10.02 10.00 10.57 (11.3%)
- 0 0 0
- *Prior score deciles can be uneven depending upon the prior score distribution *Prior score deciles can be uneven depending upon the prior score distribution *Prior score deciles can be uneven depending upon the prior score distribution</div>
+Empirical SGP Distribution Empirical SGP Distribution Empirical SGP Distribution
+4th/[722,734) 9.51 9.99 9.64 10.08 10.21 10.30 9.79 10.07 9.95 10.46 (10.8%) 4th/[32,34) 8.91 9.82 8.91 9.92 10.33 11.24 10.48 9.62 9.68 11.11 (7.9%) 4th/[29,31) 10.18 9.40 10.32 10.04 10.21 9.92 9.69 10.29 9.73 10.21 (7%)
+5th/[734,744) 9.47 9.86 10.30 9.76 9.54 10.04 10.14 10.03 10.30 10.57 (9.7%) 5th/[34,38) 10.37 9.33 10.50 10.40 10.09 9.32 9.81 10.01 10.18 9.99 (11.5%) 5th/[31,34) 9.86 10.40 9.89 10.52 9.77 9.92 10.15 9.33 9.75 10.41 (10.3%)
+6th/[744,753) 9.60 10.19 10.26 9.85 9.95 9.76 9.95 9.96 10.07 10.42 (10.1%) 6th/[38,42) 10.02 10.78 10.66 9.67 9.52 9.91 9.23 9.68 10.65 9.89 (10.5%) 6th/[34,38) 9.81 10.29 10.40 9.75 9.83 9.14 10.46 10.00 9.99 10.34 (10.1%)
+7th/[753,762) 9.42 10.29 9.96 10.28 10.20 10.07 10.12 9.95 9.88 9.82 (9.7%) 7th/[42,45) 9.14 9.96 9.31 10.65 10.35 9.40 10.49 10.53 9.46 10.73 (10%) 7th/[38,43) 9.44 9.99 9.60 10.13 10.13 10.40 9.98 10.25 9.64 10.43 (12.6%)
+8th/[762,772) 9.66 9.58 9.28 9.86 10.00 10.18 10.07 10.03 10.06 11.29 (9.7%) 8th/[45,50) 8.58 9.19 9.47 8.99 10.53 11.63 10.52 9.60 9.96 11.53 (8.6%) 8th/[43,47) 9.13 9.49 10.25 10.20 10.08 10.54 9.64 9.58 10.12 10.98 (8.3%)
+9th/[772,788) 9.61 9.82 10.46 10.03 10.16 9.84 9.99 10.01 9.43 10.65 (10.4%) 9th/[50,57) 10.01 10.56 10.73 10.38 9.36 9.04 9.67 10.14 10.33 9.78 (11.3%) 9th/[47,54) 10.08 10.35 10.41 9.79 9.56 9.85 9.92 10.03 10.10 9.91 (10.6%)
+10th/[788,850] 9.34 10.37 9.88 10.06 9.80 10.02 9.93 9.91 10.38 10.29 (10.5%) 10th/[57,71] 9.56 9.63 9.83 10.05 10.05 10.41 10.08 10.03 9.67 10.69 (10.6%) 10th/[54,71] 9.44 9.82 9.91 10.09 10.02 10.16 9.96 10.02 10.00 10.57 (11.3%)
+*Prior score deciles can be uneven depending upon the prior score distribution *Prior score deciles can be uneven depending upon the prior score distribution *Prior score deciles can be uneven depending upon the prior score distribution</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Mathematics Goodness of Fit
- Student Growth Percentile Goodness−of−Fit Descriptives Student Growth Percentile Goodness−of−Fit Descriptives Student Growth Percentile Goodness−of−Fit Descriptives
- 2024 Math SGP, Grade 9 (N = 107,677) 2024 Math SGP, Grade 10 (N = 101,111) 2024 Math SGP, Grade 11 (N = 104,476)
+Student Growth Percentile Goodness−of−Fit Descriptives Student Growth Percentile Goodness−of−Fit Descriptives Student Growth Percentile Goodness−of−Fit Descriptives
+2024 Math SGP, Grade 9 (N = 107,677) 2024 Math SGP, Grade 10 (N = 101,111) 2024 Math SGP, Grade 11 (N = 104,476)
 
- SGP Deciles by Prior Achievement Level (Mathematics) SGP Deciles by Prior Achievement Level (Mathematics) SGP Deciles by Prior Achievement Level (Mathematics)
- Level 5 (4.5%) Level 5 (0%) Level 5 (0%)
- Level 4 (9.2%)
- Level 4 (16.5%)
- Level 4 (22.8%)
+SGP Deciles by Prior Achievement Level (Mathematics) SGP Deciles by Prior Achievement Level (Mathematics) SGP Deciles by Prior Achievement Level (Mathematics)
+Level 5 (4.5%) Level 5 (0%) Level 5 (0%)
+Level 4 (9.2%)
+Level 4 (16.5%)
+Level 4 (22.8%)
 
- Prior Achievement Level Prior Achievement Level Prior Achievement Level
- Level 3 (25.6%)
+Prior Achievement Level Prior Achievement Level Prior Achievement Level
+Level 3 (25.6%)
 
- Level 3 (33.8%)
- Level 3 (22.7%)
+Level 3 (33.8%)
+Level 3 (22.7%)
 
- Level 2 (23.2%)
- Level 2 (58.7%)
- Level 2 (44.3%)
+Level 2 (23.2%)
+Level 2 (58.7%)
+Level 2 (44.3%)
 
- Level 1 (26.8%)
+Level 1 (26.8%)
 
- Level 1 (5.4%) Level 1 (6.5%)
+Level 1 (5.4%) Level 1 (6.5%)
 
- 1 10 20 30 40 50 60 70 80 90 99 1 10 20 30 40 50 60 70 80 90 99 1 10 20 30 40 50 60 70 80 90 99
- Median Student Growth Percentile Median Student Growth Percentile Median Student Growth Percentile
+Median Student Growth Percentile Median Student Growth Percentile Median Student Growth Percentile
 
- Ceiling / Floor Effects Test Ceiling / Floor Effects Test Ceiling / Floor Effects Test
- Student Growth Percentile Range Student Growth Percentile Range Student Growth Percentile Range
+Ceiling / Floor Effects Test Ceiling / Floor Effects Test Ceiling / Floor Effects Test
+Student Growth Percentile Range Student Growth Percentile Range Student Growth Percentile Range
 
- Current Observed Score 5 9 to
- 19 29
- to to
- 39
- to
- 49
- to
- 59
- to
- 69
- to
- 79
- to
- 89
- to
- 94
- to
- 99 Current Observed Score 5 9 to
- 19 29
- to to
- 39
- to
- 49
- to
- 59
- to
- 69 79
- to to
- 89
- to
- 94
- to
- 99 Current Observed Score 5 9 to
- 19 29
- to to
- 39
- to
- 49
- to
- 59
- to
- 69 79
- to to
- 89
- to
- 94
- to
- 99
- to to 10 20 30 40 50 60 70 80 90 95 to to 10 20 30 40 50 60 70 80 90 95 to to 10 20 30 40 50 60 70 80 90 95
- 1 5 1 5 1 5
+Current Observed Score 5 9 to
+to to
+to
+to
+to
+to
+to
+to
+to
+99 Current Observed Score 5 9 to
+to to
+to
+to
+to
+to to
+to
+to
+99 Current Observed Score 5 9 to
+to to
+to
+to
+to
+to to
+to
+to
+to to 10 20 30 40 50 60 70 80 90 95 to to 10 20 30 40 50 60 70 80 90 95 to to 10 20 30 40 50 60 70 80 90 95
 
- Lowest OSS: [1] 89.1 9.7 1.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 1808 Lowest OSS: [1] 90.0 8.5 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 1560 Lowest OSS: [1] 98.9 1.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 1316
+Lowest OSS: [1] 89.1 9.7 1.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 1808 Lowest OSS: [1] 90.0 8.5 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 1560 Lowest OSS: [1] 98.9 1.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 N = 1316
 
- Extremes (Range) Highest OSS: [ 35 ] 0.0 0.0 0.0 0.0 3.7 1.6 7.1 6.3 13.7 21.1 14.6 31.9 N = 630 Extremes (Range) Highest OSS: [ 35 ] 0.0 0.0 0.0 0.0 0.0 0.0 21.4 1.9 7.3 21.8 17.6 30.1 N = 482 Extremes (Range) Highest OSS: [ 36 ] 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 20.4 79.6 N = 54
+Extremes (Range) Highest OSS: [ 35 ] 0.0 0.0 0.0 0.0 3.7 1.6 7.1 6.3 13.7 21.1 14.6 31.9 N = 630 Extremes (Range) Highest OSS: [ 35 ] 0.0 0.0 0.0 0.0 0.0 0.0 21.4 1.9 7.3 21.8 17.6 30.1 N = 482 Extremes (Range) Highest OSS: [ 36 ] 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 20.4 79.6 N = 54
 
- Student Growth Percentile Range QQ−Plot: Student Growth Percentiles Student Growth Percentile Range QQ−Plot: Student Growth Percentiles Student Growth Percentile Range QQ−Plot: Student Growth Percentiles
- 19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution 19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution 19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution
- 9 to to to to to to to to to 9 to to to to to to to to to 9 to to to to to to to to to
- 1
- to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100 1
- to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100 1
- to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100
+Student Growth Percentile Range QQ−Plot: Student Growth Percentiles Student Growth Percentile Range QQ−Plot: Student Growth Percentiles Student Growth Percentile Range QQ−Plot: Student Growth Percentiles
+19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution 19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution 19 29 39 49 59 69 79 89 99 Theoretical SGP Distribution
+9 to to to to to to to to to 9 to to to to to to to to to 9 to to to to to to to to to
+to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100 1
+to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100 1
+to 10 20 30 40 50 60 70 80 90 0 10 20 30 40 50 60 70 80 90 100
 
- 1st/[650,678) 9.47 10.51 10.69 9.91 8.64 9.73 9.91 11.54 9.60 9.99 (8.2%) 100 1st/[1,15) 10.25 10.15 8.26 9.44 12.08 11.03 11.53 5.74 8.88 12.63 (9.4%) 100 1st/[1,14] 10.77 7.79 11.95 10.40 5.63 14.41 10.98 7.85 9.72 10.49 (6.5%) 100
+1st/[650,678) 9.47 10.51 10.69 9.91 8.64 9.73 9.91 11.54 9.60 9.99 (8.2%) 100 1st/[1,15) 10.25 10.15 8.26 9.44 12.08 11.03 11.53 5.74 8.88 12.63 (9.4%) 100 1st/[1,14] 10.77 7.79 11.95 10.40 5.63 14.41 10.98 7.85 9.72 10.49 (6.5%) 100
 
- 90 90 90
- 2nd/[678,688) 10.07 9.61 9.58 10.80 11.78 10.47 9.41 9.09 8.67 10.51 (8.8%) 2nd/15 8.66 10.59 10.45 11.38 11.02 8.38 6.85 12.85 12.83 6.99 (16.6%) 2nd/(14,15) 10.82 10.26 11.87 3.64 18.39 4.61 10.44 13.73 7.49 8.75 (11.6%)
+2nd/[678,688) 10.07 9.61 9.58 10.80 11.78 10.47 9.41 9.09 8.67 10.51 (8.8%) 2nd/15 8.66 10.59 10.45 11.38 11.02 8.38 6.85 12.85 12.83 6.99 (16.6%) 2nd/(14,15) 10.82 10.26 11.87 3.64 18.39 4.61 10.44 13.73 7.49 8.75 (11.6%)
 
 Prior Scale Score Decile/Range * Prior Scale Score Decile/Range * Prior Scale Score Decile/Range *
- 80 80 80
- 3rd/[688,703) 9.71 9.37 10.15 10.30 10.89 9.75 10.28 9.11 9.55 10.90 (9.7%) 3rd/(16,17] 10.82 9.96 9.78 10.90 11.01 11.70 11.28 7.34 5.98 11.22 (12.5%) 3rd/15 9.54 12.73 7.43 17.07 3.33 13.28 6.28 11.49 9.84 9.01 (15.9%)
+3rd/[688,703) 9.71 9.37 10.15 10.30 10.89 9.75 10.28 9.11 9.55 10.90 (9.7%) 3rd/(16,17] 10.82 9.96 9.78 10.90 11.01 11.70 11.28 7.34 5.98 11.22 (12.5%) 3rd/15 9.54 12.73 7.43 17.07 3.33 13.28 6.28 11.49 9.84 9.01 (15.9%)
 
- Empirical SGP Distribution Empirical SGP Distribution Empirical SGP Distribution
- 70 70 70
- 4th/[703,715) 8.58 11.63 10.63 8.84 7.99 9.73 9.73 12.64 10.59 9.66 (12.5%) 4th/(17,19] 11.22 14.78 12.17 6.86 8.58 7.03 7.38 7.79 12.62 11.57 (11.2%) 4th/(16,17) 12.16 10.56 12.05 7.84 11.91 5.17 12.41 7.73 10.51 9.65 (15%)
- 60 60 60
- 5th/[715,721) 11.52 9.15 8.83 8.69 10.22 11.50 9.96 9.67 9.30 11.16 (8.1%) 5th/(19,21] 7.22 2.61 6.60 14.02 10.85 12.97 14.05 12.29 9.21 10.17 (9%) 5th/17 9.17 7.89 10.46 11.10 8.11 14.23 8.70 10.67 9.14 10.53 (11.7%)
- 50 50 50
- 6th/[721,734) 9.26 8.26 11.33 12.40 11.80 9.73 8.57 8.08 9.70 10.88 (11.3%) 6th/(21,22] 5.55 15.06 8.37 8.71 13.07 14.98 8.50 8.08 7.97 9.70 (3.7%) 6th/(17,20] 7.32 11.65 8.91 11.57 11.88 8.49 9.94 9.43 9.67 11.15 (8.2%)
- 40 40 40
- 7th/[734,746) 8.04 11.59 11.08 10.02 9.42 9.46 9.98 10.56 9.92 9.93 (10%) 7th/(22,24] 11.95 12.58 12.26 8.24 8.14 7.13 7.98 10.40 10.76 10.56 (17%) 7th/(20,22] 13.35 13.26 11.00 8.35 6.72 8.35 8.58 10.00 11.21 9.17 (8.4%)
- 30 30 30
- 8th/[746,763) 11.47 9.56 8.25 8.13 9.11 10.66 11.14 10.71 10.33 10.63 (11.2%) 8th/(24,26] 10.11 8.44 7.60 10.78 10.68 11.49 10.85 9.73 10.01 10.31 (8%) 8th/(22,24] 10.87 8.30 8.32 10.16 9.82 11.55 11.00 9.86 10.51 9.61 (10%)
- 20 20 20
- 9th/[763,782) 8.82 9.95 10.24 10.80 10.49 9.48 9.41 10.26 10.36 10.19 (10%) 9th/(26,35] 8.18 9.58 10.32 10.31 10.83 10.92 10.27 9.66 9.92 10.02 (12.6%) 9th/(24,35] 8.08 10.43 10.73 9.98 11.08 11.15 9.85 9.21 8.74 10.75 (12.6%)
- 10 10 10
- 10th/[782,850] 9.29 10.20 10.29 10.19 10.10 10.35 10.04 9.42 9.52 10.60 (10%)
- 0 0 0
- *Prior score deciles can be uneven depending upon the prior score distribution *Prior score deciles can be uneven depending upon the prior score distribution *Prior score deciles can be uneven depending upon the prior score distribution</div>
+Empirical SGP Distribution Empirical SGP Distribution Empirical SGP Distribution
+4th/[703,715) 8.58 11.63 10.63 8.84 7.99 9.73 9.73 12.64 10.59 9.66 (12.5%) 4th/(17,19] 11.22 14.78 12.17 6.86 8.58 7.03 7.38 7.79 12.62 11.57 (11.2%) 4th/(16,17) 12.16 10.56 12.05 7.84 11.91 5.17 12.41 7.73 10.51 9.65 (15%)
+5th/[715,721) 11.52 9.15 8.83 8.69 10.22 11.50 9.96 9.67 9.30 11.16 (8.1%) 5th/(19,21] 7.22 2.61 6.60 14.02 10.85 12.97 14.05 12.29 9.21 10.17 (9%) 5th/17 9.17 7.89 10.46 11.10 8.11 14.23 8.70 10.67 9.14 10.53 (11.7%)
+6th/[721,734) 9.26 8.26 11.33 12.40 11.80 9.73 8.57 8.08 9.70 10.88 (11.3%) 6th/(21,22] 5.55 15.06 8.37 8.71 13.07 14.98 8.50 8.08 7.97 9.70 (3.7%) 6th/(17,20] 7.32 11.65 8.91 11.57 11.88 8.49 9.94 9.43 9.67 11.15 (8.2%)
+7th/[734,746) 8.04 11.59 11.08 10.02 9.42 9.46 9.98 10.56 9.92 9.93 (10%) 7th/(22,24] 11.95 12.58 12.26 8.24 8.14 7.13 7.98 10.40 10.76 10.56 (17%) 7th/(20,22] 13.35 13.26 11.00 8.35 6.72 8.35 8.58 10.00 11.21 9.17 (8.4%)
+8th/[746,763) 11.47 9.56 8.25 8.13 9.11 10.66 11.14 10.71 10.33 10.63 (11.2%) 8th/(24,26] 10.11 8.44 7.60 10.78 10.68 11.49 10.85 9.73 10.01 10.31 (8%) 8th/(22,24] 10.87 8.30 8.32 10.16 9.82 11.55 11.00 9.86 10.51 9.61 (10%)
+9th/[763,782) 8.82 9.95 10.24 10.80 10.49 9.48 9.41 10.26 10.36 10.19 (10%) 9th/(26,35] 8.18 9.58 10.32 10.31 10.83 10.92 10.27 9.66 9.92 10.02 (12.6%) 9th/(24,35] 8.08 10.43 10.73 9.98 11.08 11.15 9.85 9.21 8.74 10.75 (12.6%)
+10th/[782,850] 9.29 10.20 10.29 10.19 10.10 10.35 10.04 9.42 9.52 10.60 (10%)
+*Prior score deciles can be uneven depending upon the prior score distribution *Prior score deciles can be uneven depending upon the prior score distribution *Prior score deciles can be uneven depending upon the prior score distribution</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">Conclusions
-
- 16</div>
+<div class="archive-text">Conclusions</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -492,15 +409,15 @@ Prior Scale Score Decile/Range * Prior Scale Score Decile/Range * Prior Scale Sc
 ```{=html}
 <div class="archive-text">Conclusions
 • Despite the coarseness of the ACT scale, the SGP analyses featured very
- good fit.
+good fit.
 • Any misfit shown in the data would what compensated for by adjacent cells
- in the goodness of fit plots suggesting the coarseness of the data making it
- impossible to subdivide a point mass of students at a particular scale score.
+in the goodness of fit plots suggesting the coarseness of the data making it
+impossible to subdivide a point mass of students at a particular scale score.
 • The grade 10 ELA scores did show some evidence of a ceiling leading to
- students (likely with successive perfect scores) having low SGPs.
+students (likely with successive perfect scores) having low SGPs.
 • Overall, based upon the results of this study we believe that Illinois will be
- able to calculate SGPs using ACT data with sufficient technical quality for
- use.</div>
+able to calculate SGPs using ACT data with sufficient technical quality for
+use.</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}

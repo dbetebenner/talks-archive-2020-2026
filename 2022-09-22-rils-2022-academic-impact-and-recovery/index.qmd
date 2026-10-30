@@ -16,9 +16,9 @@ format:
 Conceptualization and Results
 Damian Betebenner — Center for Assessment
 
- Reidy Interactive Lecture Series
- Portsmouth, New Hampshire
- September 21st, 2022</div>
+Reidy Interactive Lecture Series
+Portsmouth, New Hampshire
+September 21st, 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -26,16 +26,16 @@ Damian Betebenner — Center for Assessment
 ```{=html}
 <div class="archive-text">COVID-19 Pandemic
 • The COVID-19 Pandemic lead to, arguably, the largest educational
- disruption in the history of the United States.
+disruption in the history of the United States.
 • Two-and-a-half years into the pandemic and the impacts of the
- pandemic are still being investigated.
+pandemic are still being investigated.
 • The pandemic impacted students academically, emotionally, physically,
- and financially.
+and financially.
 • In the brief overview I’ll focus on academic impact and discuss what is
- meant by academic impact and recovery as well as present results
- compiled across multiple states.
+meant by academic impact and recovery as well as present results
+compiled across multiple states.
 
- Rhode Island SGP Growth Calculations in 2021 &amp; 2022</div>
+Rhode Island SGP Growth Calculations in 2021 &amp; 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -43,17 +43,17 @@ Damian Betebenner — Center for Assessment
 ```{=html}
 <div class="archive-text">What is Academic Impact?
 • The pandemic and all the ensuing disruptions functioned/
- functions as an “academic headwind”, impeding (in general)
- the academic progress of students.
+functions as an “academic headwind”, impeding (in general)
+the academic progress of students.
 • Headwinds impede progress in two ways:
- ▪ They slow one’s rate of progress (speedometer)
- ▪ And by slowing one’s rate of progress they lead to less distance being travelled
- (odometer).
+▪ They slow one’s rate of progress (speedometer)
+▪ And by slowing one’s rate of progress they lead to less distance being travelled
+(odometer).
 • In education these two impediments manifest as:
- ▪ Decrease in student growth (i.e. decrease in velocity = deceleration).
- ▪ Decrease in student attainment.
+▪ Decrease in student growth (i.e. decrease in velocity = deceleration).
+▪ Decrease in student attainment.
 
- Pandemic Related Academic Impact in Indiana 3</div>
+Pandemic Related Academic Impact in Indiana 3</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -61,20 +61,20 @@ Damian Betebenner — Center for Assessment
 ```{=html}
 <div class="archive-text">Learning acceleration/deceleration
 • Summarization of assessment data (either for diagnostic or
- accountability purposes) emphasizes two types of data results: Status
- (i.e. student attainment) and Growth (i.e., student academic progress)
+accountability purposes) emphasizes two types of data results: Status
+(i.e. student attainment) and Growth (i.e., student academic progress)
 • With the pandemic, emphasis has changed to look at academic
- impact
+impact
 • We emphasize that Impact is synonymous with decleration and
- Recovery is synonymous with acceleration
- ▪ Deceleration, by definition, is the change in (i.e. decrease) velocity (i.e.
- growth)
- ▪ Acceleration, by definition, is the change in (i.e., increase) velocity (i.e.,
- growth
+Recovery is synonymous with acceleration
+▪ Deceleration, by definition, is the change in (i.e. decrease) velocity (i.e.
+growth)
+▪ Acceleration, by definition, is the change in (i.e., increase) velocity (i.e.,
+growth
 ▪ To understand whether and the extent to which recovery is occurring, one must
- understand the magnitude of impact.
+understand the magnitude of impact.
 
- Pandemic Related Academic Impact in Indiana 4</div>
+Pandemic Related Academic Impact in Indiana 4</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -82,382 +82,317 @@ Damian Betebenner — Center for Assessment
 ```{=html}
 <div class="archive-text">Assessment Data
 • To investigate impact we utilized two primary sources of data
- • State summative assessment data
- • State English Language Proficiency Data
+• State summative assessment data
+• State English Language Proficiency Data
 • We investigated academic impact by using two complementary
- analyses:
- • Change in attainment: Equi-percentile scale score change (all
- grades)
- • Change in growth: Baseline referenced student growth percentile
- change (grades with growth)
+analyses:
+• Change in attainment: Equi-percentile scale score change (all
+grades)
+• Change in growth: Baseline referenced student growth percentile
+change (grades with growth)
 
- Pandemic Related Academic Impact in Indiana 5</div>
+Pandemic Related Academic Impact in Indiana 5</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">ILEARN Mathematics Grade 7
- Indiana 2019 to 2021 COVID⌧19 Academic Impact All Students
- Growth: Grade 5 2019 to Grade 7 2021 Status: Grade 7 2019 to Grade 7 2021 Summary
+Indiana 2019 to 2021 COVID⌧19 Academic Impact All Students
+Growth: Grade 5 2019 to Grade 7 2021 Status: Grade 7 2019 to Grade 7 2021 Summary
 
- 2019 Grade 5 Scaled Score Decile Cuts 2019 Grade 7 Scaled Score
- Academic Impact: Overall and by Quintile
+2019 Grade 5 Scaled Score Decile Cuts 2019 Grade 7 Scaled Score
+Academic Impact: Overall and by Quintile
 
- Grade 7 Scaled/Standardized Score and Achievement Level Cuts
- 10 20 30 40 50 60 70 80 90 6300 6400 6500 6600 6700
- 6800
- 2017 to 2019 Mean Conditional Status
- 6800
- 2.5 2019 Percentiles (Observed)
- Overall
- 2019 to 2021 Mean Conditional Status (Observed) 2021 Percentiles (Observed)
+Grade 7 Scaled/Standardized Score and Achievement Level Cuts
+2017 to 2019 Mean Conditional Status
+2.5 2019 Percentiles (Observed)
+Overall
+2019 to 2021 Mean Conditional Status (Observed) 2021 Percentiles (Observed)
 
- Observed + Imputed
- 2019 to 2021 Mean Conditional Status (+ Imputed) 2021 Percentiles (+ Imputed) Large
- 2019 to 2021 Growth Impact 2019 to 2021 Status Impact
- 2
- 2019 and 2021 Mean Scaled Scores
- Q1 Q2 Q3 Q4 Q5
- Observed
- 6700 6700
+Observed + Imputed
+2019 to 2021 Mean Conditional Status (+ Imputed) 2021 Percentiles (+ Imputed) Large
+2019 to 2021 Growth Impact 2019 to 2021 Status Impact
+2019 and 2021 Mean Scaled Scores
+Observed
 
- 2021 Grade 7 Scaled Score Decile Cuts
- 1.5 Large Large Large Large Large
+2021 Grade 7 Scaled Score Decile Cuts
+1.5 Large Large Large Large Large
 
- 2021 Grade 7 Scaled Score
- 90 1
+2021 Grade 7 Scaled Score
 
- 6600 80 6600
- 0.5
- Participation
- 70
- Total Status Growth
- 60 0 0.00
- 50 −0.23
- 6500 6500 2019 84,696 84,578 ( 99.9%) 78,762 (93.0%)
- 40 −0.5
- 30
- 2021 83,308 82,883 (99.5%) 78,561 (94.3%)
+Participation
+Total Status Growth
 
- −1
- 20
+2019: 41.4% Proficient
 
- 6400 6400
- −1.5
- 2019: 41.4% Proficient
- 10
+2021: 30.5% Proficient
+Growth/Status Change Legend
+2019 Grade 5 Scaled Score with Achievement Level Cuts Grade 7 Overall Percentile Ranks
 
- −2
- 2021: 30.5% Proficient
- Growth/Status Change Legend
- 6300 6300
- 6300 6400 6500 6600 6700 6800 −40 −25 −15 −5 5 20
- 0 10 20 30 40 50 60 70 80 90 100
- 2019 Grade 5 Scaled Score with Achievement Level Cuts Grade 7 Overall Percentile Ranks
- −0.55 −0.4 −0.25 −0.1 0.05 0.2
+Modest
+Severe Large Moderate to Improvement
+2019 &amp; 2021 Grade 7 Median SGPs by Quintile 2019 &amp; 2021 Grade 7 Mean Scaled (Standardized) Scores by Quintile None
+Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+2019 Grade 7 Students 50.0 50.0 50.0 50.0 50.0 50.0 2019 Grade 7 Students 6394 (−1.45) 6486 (−0.51) 6540 ( 0.04) 6591 ( 0.57) 6667 ( 1.35) 6536 (0.00)
+2021 Grade 7 Students 37.0 33.0 28.0 27.0 34.0 32.0 2021 Grade 7 Students 6377 (−1.63) 6462 (−0.76) 6514 (−0.22) 6564 ( 0.29) 6647 ( 1.14) 6513 (−0.23) Calculations suppressed
+Academic Impact (Observed) −13.0 −17.0 −22.0 −23.0 −16.0 −18.0 Change (Observed) −17 (−0.18) −24 (−0.25) −26 (−0.26) −27 (−0.27) −20 (−0.20) −23 (−0.23)
+Academic Impact (+ Imputed) −13.0 −17.0 −22.0 −23.0 −16.0 −18.0 Change (+ Imputed) −17 ( 2.22) −24 ( 1.45) −26 ( 1.00) −27 ( 0.58) −20 (−0.03) −23 (−0.24)
+due to small group N (&lt; 50)
+Count Observed 2019 15,509 15,848 15,723 15,831 15,851 78,762 Count Observed 2019 16,896 16,948 16,777 17,044 16,913 84,578
+Count Observed 2021 15,622 15,664 15,720 15,739 15,816 78,561 Count Observed 2021 16,535 16,496 16,735 16,561 16,556 82,883
 
- Modest
- Severe Large Moderate to Improvement
- 2019 &amp; 2021 Grade 7 Median SGPs by Quintile 2019 &amp; 2021 Grade 7 Mean Scaled (Standardized) Scores by Quintile None
- Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
- 2019 Grade 7 Students 50.0 50.0 50.0 50.0 50.0 50.0 2019 Grade 7 Students 6394 (−1.45) 6486 (−0.51) 6540 ( 0.04) 6591 ( 0.57) 6667 ( 1.35) 6536 (0.00)
- 2021 Grade 7 Students 37.0 33.0 28.0 27.0 34.0 32.0 2021 Grade 7 Students 6377 (−1.63) 6462 (−0.76) 6514 (−0.22) 6564 ( 0.29) 6647 ( 1.14) 6513 (−0.23) Calculations suppressed
- Academic Impact (Observed) −13.0 −17.0 −22.0 −23.0 −16.0 −18.0 Change (Observed) −17 (−0.18) −24 (−0.25) −26 (−0.26) −27 (−0.27) −20 (−0.20) −23 (−0.23)
- Academic Impact (+ Imputed) −13.0 −17.0 −22.0 −23.0 −16.0 −18.0 Change (+ Imputed) −17 ( 2.22) −24 ( 1.45) −26 ( 1.00) −27 ( 0.58) −20 (−0.03) −23 (−0.24)
- due to small group N (&lt; 50)
- Count Observed 2019 15,509 15,848 15,723 15,831 15,851 78,762 Count Observed 2019 16,896 16,948 16,777 17,044 16,913 84,578
- Count Observed 2021 15,622 15,664 15,720 15,739 15,816 78,561 Count Observed 2021 16,535 16,496 16,735 16,561 16,556 82,883
+2021 to 2019 Scaled/Standardized Score Difference
+2021 to 2019 SGP Difference (Observed) 2021 to 2019 Grade 7 Status Change (Observed)
+30 2021 to 2019 SGP Difference (+ Imputed) 30 0.30 2021 to 2019 Grade 7 Status Change (+ Imputed)
+0.83: Correlation SGP and Status Percentile Change
 
- 2021 to 2019 Scaled/Standardized Score Difference
- 35 35 0.35
- 2021 to 2019 SGP Difference (Observed) 2021 to 2019 Grade 7 Status Change (Observed)
- 30 2021 to 2019 SGP Difference (+ Imputed) 30 0.30 2021 to 2019 Grade 7 Status Change (+ Imputed)
- 0.83: Correlation SGP and Status Percentile Change
-
- Conditional Status/Growth Change
- 2021 to 2019 Conditional Status Difference (Observed)
- 25 25 0.25
- 0.66: Correlation SGP and Conditional Status Difference
- 20 20 0.20
-
- 15 15 0.15
-
- 10 10 0.10
+Conditional Status/Growth Change
+2021 to 2019 Conditional Status Difference (Observed)
+0.66: Correlation SGP and Conditional Status Difference
 
 2019 to 2021
- 5 5 0.05
 
- 0 0 0.00
-
- −5 −5 −0.05
-
- −10 −10 −0.10
-
- −15 −15 −0.15
-
- −20 −20 −0.20
- −0.23
- −25 −25 −0.25
-
- −30 −30 −0.30
-
- −35 −35 −0.35
- 10 20 30 40 50 60 70 80 90 6300 6400 6500 6600 6700
-
- 6300 6400 6500 6600 6700 6800 0 10 20 30 40 50 60 70 80 90 100
-
- 2019 Grade 5 Scaled Score with Decile &amp; Achievement Level Cuts Grade 7 Percentile Ranks and Scaled Scores (2019 Norm) 6</div>
+2019 Grade 5 Scaled Score with Decile &amp; Achievement Level Cuts Grade 7 Percentile Ranks and Scaled Scores (2019 Norm) 6</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">2020-2021: Academic Impact
- ILEARN ELA and Mathematics
- Indiana 2019 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
- Impact Recovery
- −40 −25 −15 −5 5 20 Growth Change
+ILEARN ELA and Mathematics
+Indiana 2019 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
+Impact Recovery
+−40 −25 −15 −5 5 20 Growth Change
 
- −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
+−0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
 
- Modest
- Calculations suppressed
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+Modest
+Calculations suppressed
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- All Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Large Large
+All Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Large Large
 
- Economically Disadvantaged Students Large Moderate Moderate Moderate Moderate Moderate Large Large Large Large Large Large
+Economically Disadvantaged Students Large Moderate Moderate Moderate Moderate Moderate Large Large Large Large Large Large
 
- Non−Economically Disadvantaged Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Large
+Non−Economically Disadvantaged Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Large
 
- African American Students Large Large Moderate Large Moderate Moderate Severe Severe Severe Severe Large Large
+African American Students Large Large Moderate Large Moderate Moderate Severe Severe Severe Severe Large Large
 
- Asian Students Moderate Moderate Moderate Moderate Moderate Modest to None Moderate Moderate Large Severe Severe Large
+Asian Students Moderate Moderate Moderate Moderate Moderate Modest to None Moderate Moderate Large Severe Severe Large
 
- White Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Large
+White Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Large
 
- Hispanic Students Large Moderate Large Large Moderate Moderate Large Large Large Severe Large Large
+Hispanic Students Large Moderate Large Large Moderate Moderate Large Large Large Severe Large Large
 
- ELL Students Large Moderate Large Large Moderate Large Large Large Large Large Moderate Large
+ELL Students Large Moderate Large Large Moderate Large Large Large Large Large Moderate Large
 
- Special Education Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate
+Special Education Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate
 
- Female Students Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Severe Large Large
+Female Students Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Severe Large Large
 
- Male Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Large
+Male Students Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Large
 
- Pandemic Related Academic Impact in Indiana 7</div>
+Pandemic Related Academic Impact in Indiana 7</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">2020-2021: Academic Impact
- ELA And Mathematics
- Indiana 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
- Impact Recovery
- −40 −25 −15 −5 5 20 Growth Change
- NOTE: Quintiles for each student
- −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change subgroup are based upon quintile
- Modest
- Calculations suppressed
- cuts defined for All Students.
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50) Box width indicates group proportion.
+ELA And Mathematics
+Indiana 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
+Impact Recovery
+−40 −25 −15 −5 5 20 Growth Change
+NOTE: Quintiles for each student
+−0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change subgroup are based upon quintile
+Modest
+Calculations suppressed
+cuts defined for All Students.
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50) Box width indicates group proportion.
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged Students
+Economically Disadvantaged Students
 
- Non−Economically Disadvantaged Students
+Non−Economically Disadvantaged Students
 
- African American Students
+African American Students
 
- Asian Students
+Asian Students
 
- White Students
+White Students
 
- Hispanic Students
+Hispanic Students
 
- ELL Students
+ELL Students
 
- Special Education Students
+Special Education Students
 
- Female Students
+Female Students
 
- Male Students
+Male Students
 
- Pandemic Related Academic Impact in Indiana 8</div>
+Pandemic Related Academic Impact in Indiana 8</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">2020-2021: A Year of Disruptions
- WIDA ACCESS WIDA⌧ACCESS Composite
- WIDA IN 2020 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
- Impact Recovery
- −40 −25 −15 −5 5 20 Growth Change
+WIDA ACCESS WIDA⌧ACCESS Composite
+WIDA IN 2020 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
+Impact Recovery
+−40 −25 −15 −5 5 20 Growth Change
 
- −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
+−0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
 
- Modest
- Calculations suppressed
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+Modest
+Calculations suppressed
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- WIDA−ACCESS Composite
- Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+WIDA−ACCESS Composite
+Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
 
- All Students Moderate Large Moderate Large Large Moderate Moderate Moderate Moderate Moderate Modest to None Modest to None Improvement
+All Students Moderate Large Moderate Large Large Moderate Moderate Moderate Moderate Moderate Modest to None Modest to None Improvement
 
- WIDA⌧ACCESS Composite
- WIDA IN 2020 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
- Impact Recovery
- −40 −25 −15 −5 5 20 Growth Change
+WIDA⌧ACCESS Composite
+WIDA IN 2020 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
+Impact Recovery
+−40 −25 −15 −5 5 20 Growth Change
 
- −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
+−0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
 
- Modest
- Calculations suppressed
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+Modest
+Calculations suppressed
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- WIDA−ACCESS Composite
- Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+WIDA−ACCESS Composite
+Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Pandemic Related Academic Impact in Indiana 9</div>
+Pandemic Related Academic Impact in Indiana 9</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">2020-2021: Multi-State Impact
- ELA And Mathematics
- Multi⌧State 2019 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area: All Students
- Growth/Status Change Legend
- −40 −25 −15 −5 5 20
+ELA And Mathematics
+Multi⌧State 2019 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area: All Students
+Growth/Status Change Legend
 
- −0.55 −0.4 −0.25 −0.1 0.05 0.2
+Modest
+Calculations suppressed
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- Modest
- Calculations suppressed
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+State A Moderate Moderate Large Moderate Moderate Moderate Large Large Large Severe Large Severe
 
- State A Moderate Moderate Large Moderate Moderate Moderate Large Large Large Severe Large Severe
+State B Moderate Moderate Large Large Large Large Large Moderate Severe Severe Large Severe
 
- State B Moderate Moderate Large Large Large Large Large Moderate Severe Severe Large Severe
+State C Moderate Moderate Modest to None Moderate Modest to None Moderate Large Large Large Large Large Large
 
- State C Moderate Moderate Modest to None Moderate Modest to None Moderate Large Large Large Large Large Large
+State D Moderate Moderate Large Moderate Moderate Moderate Severe Large Severe Large Large Large
 
- State D Moderate Moderate Large Moderate Moderate Moderate Severe Large Severe Large Large Large
+State E Large Moderate Large Moderate Large Moderate Severe Large Large Severe Large Large
 
- State E Large Moderate Large Moderate Large Moderate Severe Large Large Severe Large Large
+State F Moderate Moderate Large Large Large Large Severe Severe Severe Severe Large Severe
 
- State F Moderate Moderate Large Large Large Large Severe Severe Severe Severe Large Severe
+State G Large Large Large Moderate Large Moderate Large Severe Large Large Moderate Moderate
 
- State G Large Large Large Moderate Large Moderate Large Severe Large Large Moderate Moderate
+State H Moderate Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Large Large
 
- State H Moderate Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Large Large
+State I Moderate Large Moderate Moderate Modest to None Moderate Moderate Moderate Moderate Moderate Moderate Moderate
 
- State I Moderate Large Moderate Moderate Modest to None Moderate Moderate Moderate Moderate Moderate Moderate Moderate
-
- Pandemic Related Academic Impact in Indiana 10</div>
+Pandemic Related Academic Impact in Indiana 10</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">2020-2021: Multi-State Impact
- ELA And Mathematics
- Multi⌧State 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
- Growth/Status Change Legend
- −40 −25 −15 −5 5 20
- NOTE: Quintiles for each
- −0.55 −0.4 −0.25 −0.1 0.05 0.2
- state are based upon quintile
- Modest
- Calculations suppressed cuts for that state.
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+ELA And Mathematics
+Multi⌧State 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
+Growth/Status Change Legend
+NOTE: Quintiles for each
+state are based upon quintile
+Modest
+Calculations suppressed cuts for that state.
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- State A
+State A
 
- State B
+State B
 
- State C
+State C
 
- State D
+State D
 
- State E
+State E
 
- State F
+State F
 
- State G
+State G
 
- State H
+State H
 
- State I
- Pandemic Related Academic Impact in Indiana 11</div>
+State I
+Pandemic Related Academic Impact in Indiana 11</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">2020-2021: Multi-State Impact (WIDA-ACCESS)
- WIDA⌧ACCESS Composite
- Multi⌧State 2020 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area: All Students
- Growth/Status Change Legend
- −40 −25 −15 −5 5 20
+WIDA⌧ACCESS Composite
+Multi⌧State 2020 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area: All Students
+Growth/Status Change Legend
 
- −0.55 −0.4 −0.25 −0.1 0.05 0.2
+Modest
+Calculations suppressed
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- Modest
- Calculations suppressed
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+Composite
+Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
 
- Composite
- Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+State A Moderate Moderate Moderate Large Large Large Large Moderate Large Moderate Moderate Modest to None Modest to None
 
- State A Moderate Moderate Moderate Large Large Large Large Moderate Large Moderate Moderate Modest to None Modest to None
+State B Large Large Large Large Large Large Moderate Moderate Moderate Moderate Moderate Modest to None Modest to None
 
- State B Large Large Large Large Large Large Moderate Moderate Moderate Moderate Moderate Modest to None Modest to None
+State C Moderate Large Moderate Large Large Moderate Moderate Moderate Moderate Moderate Modest to None Modest to None Improvement
 
- State C Moderate Large Moderate Large Large Moderate Moderate Moderate Moderate Moderate Modest to None Modest to None Improvement
+State D Moderate Large Large Large Large Large Moderate Modest to None Modest to None Moderate Modest to None Modest to None Modest to None
 
- State D Moderate Large Large Large Large Large Moderate Modest to None Modest to None Moderate Modest to None Modest to None Modest to None
+State E Large Large Moderate Large Large Large Large Moderate Moderate Modest to None Modest to None Modest to None Modest to None
 
- State E Large Large Moderate Large Large Large Large Moderate Moderate Modest to None Modest to None Modest to None Modest to None
+State F Modest to None Moderate Moderate Large Large Large Large Moderate Moderate Moderate Moderate Modest to None Modest to None
 
- State F Modest to None Moderate Moderate Large Large Large Large Moderate Moderate Moderate Moderate Modest to None Modest to None
+State G Modest to None Modest to None Large Large Large Severe Large Moderate Moderate Moderate Moderate Modest to None Modest to None
 
- State G Modest to None Modest to None Large Large Large Severe Large Moderate Moderate Moderate Moderate Modest to None Modest to None
-
- Pandemic Related Academic Impact in Indiana 12</div>
+Pandemic Related Academic Impact in Indiana 12</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -465,61 +400,61 @@ Damian Betebenner — Center for Assessment
 ```{=html}
 <div class="archive-text">Academic Recovery 2021-2022
 • Education during the 2021-2022 academic year was much closer to
- normal for students.
+normal for students.
 • With school closer to normal, an explicit goal was to try and help
- students recover from losses incurred during the initial phase of the
- pandemic.
+students recover from losses incurred during the initial phase of the
+pandemic.
 • Our primary goal with analyses in 2021-2022 is to accurately distinguish
- between three situations:
- • Deterioration: Continued decreased rates of learning
- • Stabilization: A return to normal rates of learning
- • Recovery: Acceleration to above normal rates of learning sufficient
- to catch students up from last year’s impacts.
+between three situations:
+• Deterioration: Continued decreased rates of learning
+• Stabilization: A return to normal rates of learning
+• Recovery: Acceleration to above normal rates of learning sufficient
+to catch students up from last year’s impacts.
 
- Pandemic Related Academic Impact in Indiana 13</div>
+Pandemic Related Academic Impact in Indiana 13</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">2021-2022: Recovery (or not)
- ILEARN ELA and Mathematics
- Indiana 2021 to 2022 COVID⌧19 Academic Recovery Grade &amp; Content Area
- Deterioration Recovery
- −30 −7 10 30 Growth Change
+ILEARN ELA and Mathematics
+Indiana 2021 to 2022 COVID⌧19 Academic Recovery Grade &amp; Content Area
+Deterioration Recovery
+−30 −7 10 30 Growth Change
 
- −0.55 −0.07 0.1 0.2 Status Change
+−0.55 −0.07 0.1 0.2 Status Change
 
- Calculations suppressed
- Deterioration Stabilization Recovery
- due to small group N (&lt; 50)
+Calculations suppressed
+Deterioration Stabilization Recovery
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- All Students Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+All Students Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
 
- Economically Disadvantaged Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+Economically Disadvantaged Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
 
- Non−Economically Disadvantaged Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+Non−Economically Disadvantaged Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
 
- African American Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization Recovery Stabilization Stabilization Stabilization Stabilization Stabilization
+African American Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization Recovery Stabilization Stabilization Stabilization Stabilization Stabilization
 
- Asian Stabilization Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+Asian Stabilization Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
 
- White Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+White Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
 
- Hispanic Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization Recovery Stabilization Stabilization Stabilization Stabilization Stabilization
+Hispanic Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization Recovery Stabilization Stabilization Stabilization Stabilization Stabilization
 
- ELL Stabilization Stabilization Stabilization Deterioration Stabilization Deterioration Recovery Stabilization Stabilization Stabilization Stabilization Stabilization
+ELL Stabilization Stabilization Stabilization Deterioration Stabilization Deterioration Recovery Stabilization Stabilization Stabilization Stabilization Stabilization
 
- Special Education Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+Special Education Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
 
- Female Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization
+Female Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization
 
- Male Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
+Male Stabilization Stabilization Stabilization Deterioration Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization
 
- Pandemic Related Academic Impact in Indiana 14</div>
+Pandemic Related Academic Impact in Indiana 14</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -527,16 +462,16 @@ Damian Betebenner — Center for Assessment
 ```{=html}
 <div class="archive-text">Recovery
 • We are in the middle of compiling 2022 results across multiple
- states looking at academic recovery
+states looking at academic recovery
 • Most results thus far for states suggest a return to typical rates of
- learning which suggests something between stabilization bordering
- on recovery to stabilization bordering on deterioration.
+learning which suggests something between stabilization bordering
+on recovery to stabilization bordering on deterioration.
 • This does not mean students are returning to levels of achievement
- they would have reached under typical learning scenarios
+they would have reached under typical learning scenarios
 • Acceleration of learning necessary to get students to recover will be
- difficult to produce without dramatic interventions
+difficult to produce without dramatic interventions
 
- Pandemic Related Academic Impact in Indiana 15</div>
+Pandemic Related Academic Impact in Indiana 15</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -544,16 +479,16 @@ Damian Betebenner — Center for Assessment
 ```{=html}
 <div class="archive-text">Cautions going forward
 • Maintaining scales to pre-pandemic years will increasingly become
- challenging for states.
+challenging for states.
 • Two views of returning to “normal”
- • Is the system returning to normal.
- • Are students impacted by the pandemic returning to normal.
+• Is the system returning to normal.
+• Are students impacted by the pandemic returning to normal.
 • System can return to “normal” without student returning to normal
- — students eventually leave the system.
+— students eventually leave the system.
 • Status comparison increasingly become misleading: Grade 3
- students in 2022-2023 were in kindergarten in 2019-2020 —
+students in 2022-2023 were in kindergarten in 2019-2020 —
 
- Pandemic Related Academic Impact in Indiana 16</div>
+Pandemic Related Academic Impact in Indiana 16</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -562,7 +497,7 @@ Damian Betebenner — Center for Assessment
 <div class="archive-text">State Leaders
 • Darin Nielsen, Utah Department of Education
 • Robert Lee, Massachusetts Department of Elementary and
- Secondary Education
+Secondary Education
 • Charity Flores, Indiana Department of Education</div>
 ```
 

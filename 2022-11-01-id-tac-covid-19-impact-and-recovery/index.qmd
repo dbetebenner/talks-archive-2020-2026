@@ -32,17 +32,17 @@ Introductory Concepts and Terminology</div>
 ```{=html}
 <div class="archive-text">COVID-19 Pandemic
 • The COVID-19 Pandemic led to, arguably, the largest educational disruption in
- the history of the United States.
+the history of the United States.
 • Two-and-a-half years into the pandemic and the impacts of the pandemic are
- still being felt.
+still being felt.
 • The pandemic impacted students academically, emotionally, physically, and
- financially.
+financially.
 • In this overview, we focus address three things:
- • Academic Impact: What is it and what was happened to students in Hawaii?
- • Academic Recovery: What is it and what is happening to students in Hawaii
- currently?
- • Now What?: How can impact and recovery data be leveraged to help
- students going forward? Evidence-based investigations of what is working.</div>
+• Academic Impact: What is it and what was happened to students in Hawaii?
+• Academic Recovery: What is it and what is happening to students in Hawaii
+currently?
+• Now What?: How can impact and recovery data be leveraged to help
+students going forward? Evidence-based investigations of what is working.</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -50,16 +50,14 @@ Introductory Concepts and Terminology</div>
 ```{=html}
 <div class="archive-text">What is Academic Impact?
 • The pandemic and all the ensuing disruptions functioned/
- functions as an “academic headwind”, impeding (in general)
- the academic progress of students.
+functions as an “academic headwind”, impeding (in general)
+the academic progress of students.
 • Headwinds impede progress in two ways:
- ▪ They slow one’s rate of progress (speedometer)
- ▪ And by slowing one’s rate of progress, less distance is traveled (odometer).
+▪ They slow one’s rate of progress (speedometer)
+▪ And by slowing one’s rate of progress, less distance is traveled (odometer).
 • In education, these two impediments manifest as:
- ▪ Decrease in student growth (i.e., decrease in velocity = deceleration).
- ▪ Decrease in student attainment.
-
- 4</div>
+▪ Decrease in student growth (i.e., decrease in velocity = deceleration).
+▪ Decrease in student attainment.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -67,18 +65,16 @@ Introductory Concepts and Terminology</div>
 ```{=html}
 <div class="archive-text">Learning acceleration/deceleration
 • Summarization of assessment data (either for diagnostic or
- accountability purposes) emphasizes two types of data results: Status
- (i.e., student attainment) and Growth (i.e., student academic progress)
+accountability purposes) emphasizes two types of data results: Status
+(i.e., student attainment) and Growth (i.e., student academic progress)
 • With the pandemic, the emphasis has changed to look at the
- academic impact
+academic impact
 • Impact is synonymous with declaration
 • Recovery is synonymous with acceleration
- ▪ Deceleration, by definition, is the change in velocity (i.e., a decrease in growth)
- ▪ Acceleration, by definition, is the change in velocity (i.e., increase in growth
+▪ Deceleration, by definition, is the change in velocity (i.e., a decrease in growth)
+▪ Acceleration, by definition, is the change in velocity (i.e., increase in growth
 ▪ To understand whether and the extent to which recovery is occurring,
- one must understand the magnitude of impact.
-
- 5</div>
+one must understand the magnitude of impact.</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -86,17 +82,16 @@ Introductory Concepts and Terminology</div>
 ```{=html}
 <div class="archive-text">Assessment Data
 • We investigated the impacts of the pandemic across two time frames:
- • Impact: Spring 2020 through Summer 2021
- • Recovery: Fall 2021 through Summer 2022
+• Impact: Spring 2020 through Summer 2021
+• Recovery: Fall 2021 through Summer 2022
 • To investigate the impact, we utilized two primary sources of data
- • State summative assessment data (Smarter Balanced)
- • Impact: SBA Spring 2019 to Spring 2021 (Smarter Balanced
- testing canceled in 2020)
- • Recovery: Smarter Balanced Spring 2021 to Spring 2022
- • State English Language Proficiency Data (ACCESS)
- • Impact: ACCESS Winter 2020 to Winter 2021
- • Recovery: ACCESS Winter 2021 to Winter 2022
- 6</div>
+• State summative assessment data (Smarter Balanced)
+• Impact: SBA Spring 2019 to Spring 2021 (Smarter Balanced
+testing canceled in 2020)
+• Recovery: Smarter Balanced Spring 2021 to Spring 2022
+• State English Language Proficiency Data (ACCESS)
+• Impact: ACCESS Winter 2020 to Winter 2021
+• Recovery: ACCESS Winter 2021 to Winter 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -104,13 +99,11 @@ Introductory Concepts and Terminology</div>
 ```{=html}
 <div class="archive-text">Assessment Data
 • We investigated academic impact by using two complementary
- analyses:
- • Change in attainment (odometer): Equi-percentile scale score
- change (all grades)
- • Change in growth (speedometer): Baseline referenced student
- growth percentile change (grades for which growth is calculated)
-
- 7</div>
+analyses:
+• Change in attainment (odometer): Equi-percentile scale score
+change (all grades)
+• Change in growth (speedometer): Baseline referenced student
+growth percentile change (grades for which growth is calculated)</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -169,7 +162,6 @@ lower-achieving students.</div>
 <div class="archive-text">Growth Impact
 Black Line: (pre-covid) conditional scaled-score
 distribution — Grade 7/2019 conditioned on Grade
-5/2017
 Red line: conditional scaled-score distribution — Grade
 7/2021 conditioned on Grade 5/2019
 The impact of the pandemic on student achievement
@@ -208,7 +200,6 @@ overall and by achievement quintile
 For Grade 7 mathematics, the overall
 academic impact for students was large (z
 decrease = -0.18 and median SGP decrease
-= -20)
 Academic impact was not uniform across
 students. For this grade/content area,
 higher-achieving students were more
@@ -221,18 +212,18 @@ students.</div>
 ```{=html}
 <div class="archive-text">Overall Impact
 • ELA
- • Decreases in the percent proficient ranged from upper single digits in lower grades to
- lower single digits in higher grades.
- • Median (baseline) SGPs ranged from mid-30s (lower grades) to lower 40s (higher
- grades)
- • Impacts were categorized as moderate to large
+• Decreases in the percent proficient ranged from upper single digits in lower grades to
+lower single digits in higher grades.
+• Median (baseline) SGPs ranged from mid-30s (lower grades) to lower 40s (higher
+grades)
+• Impacts were categorized as moderate to large
 • Mathematics
- • Decreases in percent proficient were in the lower teens
- • Median (baseline) SGPs ranged from the mid-teens to the upper 20s.
- • Impacts were categorized as large to severe
+• Decreases in percent proficient were in the lower teens
+• Median (baseline) SGPs ranged from the mid-teens to the upper 20s.
+• Impacts were categorized as large to severe
 • Moderate, large, and severe impacts likely require multiple years of above-average (pre-
- pandemic) growth to recover to where students would have been had the pandemic not
- occurred.</div>
+pandemic) growth to recover to where students would have been had the pandemic not
+occurred.</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -259,15 +250,15 @@ ACCESS: Winter 2021 and Winter 2022 Assessments</div>
 ```{=html}
 <div class="archive-text">Recovery Phase
 • During the 2021-2022 academic year, schooling returned to normal for most
- students.
+students.
 • The hope was that a return to normal would lead to recovery of the academic
- losses incurred by students.
+losses incurred by students.
 • Because learning slowed during the initial phase of the pandemic, to make up for
- those losses, learning must accelerate to rates above normal in order to catch up
- for those losses.
+those losses, learning must accelerate to rates above normal in order to catch up
+for those losses.
 • Data from two sources was utilized to examine whether recovery is occurring:
- • Smarter Balanced data from 2021 and 2022
- • WIDA-ACCESS data from 2021 and 2022</div>
+• Smarter Balanced data from 2021 and 2022
+• WIDA-ACCESS data from 2021 and 2022</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
@@ -285,29 +276,21 @@ No-recovery</div>
 ```{=html}
 <div class="archive-text">Baseline SGP: What is Recovery?
 • Given the negative pandemic impacts, any recovery implies learning
- acceleration.
+acceleration.
 • However, not all acceleration can be considered recovery
 • Acceleration versus 2021 versus acceleration versus 2019
- 99
- 90
- 80
- V-Shaped Recovery (&gt; 60)
- 70
- 60 U-Shaped Recovery (50 to 60)
+V-Shaped Recovery (&gt; 60)
+60 U-Shaped Recovery (50 to 60)
 
- Median 2021 Baseline SGP 50 Median 2022 Baseline SGP
- L-Shaped “Recovery” (40 to 50)
- 40
- Note: Any median SGP above 30
- 30 30
- Downward Spiral (&lt; 40) in 2022 would be considered
- 20 acceleration. But only values
- 10
- above 50 would be sufficient to
- begin catching students up to
- 1
- where they would have been
- absent the pandemic.</div>
+Median 2021 Baseline SGP 50 Median 2022 Baseline SGP
+L-Shaped “Recovery” (40 to 50)
+Note: Any median SGP above 30
+Downward Spiral (&lt; 40) in 2022 would be considered
+20 acceleration. But only values
+above 50 would be sufficient to
+begin catching students up to
+where they would have been
+absent the pandemic.</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
@@ -391,7 +374,6 @@ overall and by achievement quintile
 For Grade 7 mathematics, the overall
 academic impact for students was large (z
 decrease = -0.18 and median SGP decrease =
--24)
 Academic impact was not uniform across
 students. For this grade/content area,
 higher-achieving students were more
@@ -410,15 +392,15 @@ students.</div>
 ```{=html}
 <div class="archive-text">Overall Recovery
 • Analysis of 2022 Smarter Balanced and ACCESS data indicates many
- trends in Hawaii to be happy about.
+trends in Hawaii to be happy about.
 • In both ELA and mathematics, learning acceleration was at least at the
- level of stabilization and, in many cases, could be considered genuine
- recovery.
+level of stabilization and, in many cases, could be considered genuine
+recovery.
 • Compared to a dozen other states where the Center conducted these
- analyses, Hawaii comes out as the best in terms of pandemic recovery.
+analyses, Hawaii comes out as the best in terms of pandemic recovery.
 • Results from the 2023 data will be critical to assess whether these
- exemplary rates of learning (beyond what the state experience pre-
- COVID) are being maintained.</div>
+exemplary rates of learning (beyond what the state experience pre-
+COVID) are being maintained.</div>
 ```
 
 ## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
@@ -427,48 +409,44 @@ students.</div>
 <div class="archive-text">Academic Impact/Recovery Across 6 States
 
 Impact &amp; Recovery
- 20
- Mathematics
- HI4 ELA
- 15 HI6
- HI5
+Mathematics
+HI4 ELA
+15 HI6
+HI5
 
 Hawaii showed large impacts 10
- HI8
- HI7
+HI8
+HI7
 
- Recovery
- HI4
+Recovery
+HI4
 
 and large recovery 5
- HI3
- HI5
- HI6
- HI8
+HI3
+HI5
+HI6
+HI8
 
- HI7
+HI7
 
 Hawaii’s academic recovery 0 HI3
 
- Academic Recovery
+Academic Recovery
 results are the best I have seen −5
 
 nationally −10
-
- −15
 
 A critical “test” of this recovery −20
 
 will be the 2023 results. If rates −25
 
- Deterioration
+Deterioration
 of learning in 2023 extend those −30
 
 of 2022, then Hawaii will have −35
 come out of the pandemic −40
 better than before it started
- −40 −35 −30 −25 −20 −15 −10 −5 0 5 10 15 20
- Large Impact Academic Impact Improvement</div>
+Large Impact Academic Impact Improvement</div>
 ```
 
 ## {.archive-slide background-image="slides/35.webp" background-size="contain" background-color="#14140f"}
@@ -487,17 +465,17 @@ Leveraging Assessment Data to Help Students Overcome COVID-19 Academic Impacts</
 ```{=html}
 <div class="archive-text">Exemplar Schools: Impact &amp; Recovery
 • Original discussions about examining ROI were redirected to examine Return on
- Activities:
- • Identify outlier schools in terms of impact/recovery.
- • Investigate whether activities (or lack thereof) could potentially be responsible
- for the school’s outlier status.
- • For schools with plausible activities leading to exemplary recovery, investigate
- links to relevant investment/funding.
+Activities:
+• Identify outlier schools in terms of impact/recovery.
+• Investigate whether activities (or lack thereof) could potentially be responsible
+for the school’s outlier status.
+• For schools with plausible activities leading to exemplary recovery, investigate
+links to relevant investment/funding.
 • Step 1 is to find these outlier schools.
 • We investigated schools along two dimensions:
- • Academic Impact (2019 to 2021 decrease in student learning)
- • Academic Recovery (2021 to 2022 increase in student learning relative to pre-
- pandemic 2018-2019 learning)</div>
+• Academic Impact (2019 to 2021 decrease in student learning)
+• Academic Recovery (2021 to 2022 increase in student learning relative to pre-
+pandemic 2018-2019 learning)</div>
 ```
 
 ## {.archive-slide background-image="slides/39.webp" background-size="contain" background-color="#14140f"}
@@ -508,12 +486,12 @@ Leveraging Assessment Data to Help Students Overcome COVID-19 Academic Impacts</
 <div class="archive-text">Exemplar Schools: Impact &amp; Recovery
 • As can be seen, Hawaii and its schools experienced a largely positive 2021-2022
 • We’ve created Excel spreadsheets with the identified schools to help to sort
- through the many potential criteria to use to select exemplar schools
+through the many potential criteria to use to select exemplar schools
 • As we discussed in Portsmouth, there was some concern that of low motivation
- leading to poor results. To examine we filtered on students with very low to very
- high and very high to very low growth.
- • Filtering out these students led to non-appreciable changes to the impact-
- recovery examinations of schools.</div>
+leading to poor results. To examine we filtered on students with very low to very
+high and very high to very low growth.
+• Filtering out these students led to non-appreciable changes to the impact-
+recovery examinations of schools.</div>
 ```
 
 ## {.archive-slide background-image="slides/41.webp" background-size="contain" background-color="#14140f"}

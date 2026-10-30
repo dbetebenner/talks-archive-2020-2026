@@ -13,14 +13,14 @@ format:
 
 ```{=html}
 <div class="archive-text">Using Growth Norms to
- (in)Validate
- Years of Learning
+(in)Validate
+Years of Learning
 Damian Betebenner, Center for Assessment
 Charlie DePascale, Psychometric Confections
 
- NCME Annual Meeting
- Philadelphia, PA
- April 13, 2024</div>
+NCME Annual Meeting
+Philadelphia, PA
+April 13, 2024</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -30,19 +30,18 @@ Charlie DePascale, Psychometric Confections
 Performance of fourth-grade students on the
 2022 NAEP Reading test dropped 7 points from Educational measurement is
 2018 to the lowest point it has been since arbitrary.
-1990.
- Learning is illusive.
+Learning is illusive.
 
 Can we use the illusion to
 interpret the arbitrary so that we
 better understand the illusive? The 8th grade average score of 500 in 2023 is equal
- to the average score of 6th students in 2019.
+to the average score of 6th students in 2019.
 
- Four Perspectives
- • Semantics
- • Technical Foundations
- • Empirical Validation Students are two years behind, a half-
- • Utility year behind, six weeks behind…</div>
+Four Perspectives
+• Semantics
+• Technical Foundations
+• Empirical Validation Students are two years behind, a half-
+• Utility year behind, six weeks behind…</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -57,7 +56,7 @@ better understand the illusive? The 8th grade average score of 500 in 2023 is eq
 • Time-based estimates are inherently focused on the group
 • Time is rarely the most important variable affecting learning
 • Time is out of favor as a relevant factor when discussing
- learning or achievement</div>
+learning or achievement</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -67,30 +66,30 @@ better understand the illusive? The 8th grade average score of 500 in 2023 is eq
 • We’ve travelled this road before
 
 • At their core, there is little difference between today’s time-based
- estimates and the grade equivalent scores soundly rejected by the
- measurement field and educators in the NRT era
+estimates and the grade equivalent scores soundly rejected by the
+measurement field and educators in the NRT era
 
 • Prima facie, converting a quasi-interval scale to a ratio scale is akin to
- psychometric alchemy</div>
+psychometric alchemy</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Technical Foundations
- Measurement is never better than the empirical operations by which it is carried
- out, and operations range from bad to good. – S.S. Stevens (1946)
+Measurement is never better than the empirical operations by which it is carried
+out, and operations range from bad to good. – S.S. Stevens (1946)
 
- Vertical Time-
- Student Theta Scaled Standard Effect
+Vertical Time-
+Student Theta Scaled Standard Effect
 Test Scale Based
- Response Score Score Deviation Size
- Score Estimate
+Response Score Score Deviation Size
+Score Estimate
 
- Even accepting that each individual operation along the way is
- good, the conceptual and empirical distance travelled is simply
- too great to support technically sound, interpretable, useful time-
- based reporting of student test scores.</div>
+Even accepting that each individual operation along the way is
+good, the conceptual and empirical distance travelled is simply
+too great to support technically sound, interpretable, useful time-
+based reporting of student test scores.</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -98,13 +97,13 @@ Test Scale Based
 ```{=html}
 <div class="archive-text">Empirical Validation
 • Do the vertical scales we have in education support time based
- interpretations of learning?
+interpretations of learning?
 • The original question motivating this line of inquiry was:
 
- How common is it to see students making
- two years worth of learning in a single year?
+How common is it to see students making
+two years worth of learning in a single year?
 • We used growth norms derived through the SGP framework to answer
- this question.
+this question.
 • To see how we need a little background.</div>
 ```
 
@@ -112,69 +111,30 @@ Test Scale Based
 
 ```{=html}
 <div class="archive-text">Background
- •Following Yen (1986) and Dadey and Briggs (2012), cross-grade, effect size is
- defined as the standardized mean difference between grade x content
- area means ( 1) and ( 2) using the pooled standard deviation:
+•Following Yen (1986) and Dadey and Briggs (2012), cross-grade, effect size is
+defined as the standardized mean difference between grade x content
+area means ( 1) and ( 2) using the pooled standard deviation:
 
- 1− 2
- Effect Size ≡
- ̂ ̂
- 2 2
- 1+ 2
+Effect Size ≡
 
- 2
-
- •There are several aspects of this definition worth noting
- 𝜎
- 𝑔
-
- 𝜎
- 𝑔
-
- 𝑔
- 𝑔
-
- 𝑋
- 𝑋
-
-𝑔
-𝑔</div>
+•There are several aspects of this definition worth noting</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Background
- 1− 2
- Effect Size ≡
- ̂ ̂
- 2 2
- 1+ 2
+Effect Size ≡
 
- 2
-
- •The effect size associated with a year’s worth of learning is standardized, average distance.
- That is, it’s largely a normative definition.
- •To calculate this effect size requires that the numerator be on the same scale so that
- subtraction makes sense. That is, we require a vertical scale.
- •The effect size quantifies the extent to which the mean has shifted between the two scaled
- score distributions.
- •There will be considerable overlap in the students in 1 and 2 in most applications of the
- above Equation to state summative assessment data.
- •However, there is no requirement that 1 and 2 consist of the same students (e.g., NAEP).
- 𝑔 𝑔
-
- 𝜎 𝜎
-
-𝑔
-𝑔
-𝑔
-𝑔
-
- 𝑔
- 𝑔
-
- 𝑋 𝑋</div>
+•The effect size associated with a year’s worth of learning is standardized, average distance.
+That is, it’s largely a normative definition.
+•To calculate this effect size requires that the numerator be on the same scale so that
+subtraction makes sense. That is, we require a vertical scale.
+•The effect size quantifies the extent to which the mean has shifted between the two scaled
+score distributions.
+•There will be considerable overlap in the students in 1 and 2 in most applications of the
+above Equation to state summative assessment data.
+•However, there is no requirement that 1 and 2 consist of the same students (e.g., NAEP).</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -194,18 +154,18 @@ Test Scale Based
 ```{=html}
 <div class="archive-text">Illustration
 • Note that the effect-size definition of
- a year’s worth of learning doesn’t
- translate well to the individual level
+a year’s worth of learning doesn’t
+translate well to the individual level
 • Due to the well known negative
- correlation between prior score and
- gain, there are large disparities of
- students making a year’s worth of
- learning
- • 1st Decile: 74.4%
- • 10th Decile: 15.7%
+correlation between prior score and
+gain, there are large disparities of
+students making a year’s worth of
+learning
+• 1st Decile: 74.4%
+• 10th Decile: 15.7%
 • Using regression we can extend the
- initial definition to accommodate
- this.</div>
+initial definition to accommodate
+this.</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -213,16 +173,16 @@ Test Scale Based
 ```{=html}
 <div class="archive-text">Illustration
 • The extension of the concept of a
- year’s worth of learning using the
- SGP framework sets 50th percentile
- growth to be a year’s worth of
- learning.
+year’s worth of learning using the
+SGP framework sets 50th percentile
+growth to be a year’s worth of
+learning.
 • Note that an SGP is a percentile and
- indicates a (conditional) probability.
+indicates a (conditional) probability.
 • In the year in which the SGP norms
- are established, 50% of student will
- be above/below the year of learning
- threshold</div>
+are established, 50% of student will
+be above/below the year of learning
+threshold</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -231,10 +191,10 @@ Test Scale Based
 <div class="archive-text">Data &amp; Analyses
 •We utilize vertically scaled data from 4 different states.
 •Using this data we create growth norms (coefficient matrices in two
- ways)
- •Consecutive grade growth norms (e.g., grade 3 to 4 growth norms).
- •Growth norms extending across two years (e.g., grade 3 to 5 growth
- norms)
+ways)
+•Consecutive grade growth norms (e.g., grade 3 to 4 growth norms).
+•Growth norms extending across two years (e.g., grade 3 to 5 growth
+norms)
 •Using these growth norms we:</div>
 ```
 
@@ -243,19 +203,19 @@ Test Scale Based
 ```{=html}
 <div class="archive-text">Analyses
 •We calculate SGPs in various ways to determine the probability associated with growth across
- different time spans using actual, student longitudinal data:
+different time spans using actual, student longitudinal data:
 
- •0 Years of Growth: Assume identical scores for students from one grade to the next and feed
- those data into the 1 year growth norms
- •2 Years of Growth: Use scores for individual students spanning two years (e.g., grade 3 and
- grade 5) and feed those data into the 1 year growth norms.
- •3 Years of Growth: Use scores for individual students spanning three years (e.g., grade 3 and
- grade 6) and feed those data into the 1 year growth norms.
- •1/2 Years of Growth: Use scores for individual students spanning one year (e.g., grade 3 and
- grade 4) and feed those data into the 2 year growth norms.
+•0 Years of Growth: Assume identical scores for students from one grade to the next and feed
+those data into the 1 year growth norms
+•2 Years of Growth: Use scores for individual students spanning two years (e.g., grade 3 and
+grade 5) and feed those data into the 1 year growth norms.
+•3 Years of Growth: Use scores for individual students spanning three years (e.g., grade 3 and
+grade 6) and feed those data into the 1 year growth norms.
+•1/2 Years of Growth: Use scores for individual students spanning one year (e.g., grade 3 and
+grade 4) and feed those data into the 2 year growth norms.
 •For example, we wish to know what is the average of the one year SGPs when we feed into
- growth representing two years of learning for students.
- •Is two years worth of learning an SGP of 90, 80, 70, …?</div>
+growth representing two years of learning for students.
+•Is two years worth of learning an SGP of 90, 80, 70, …?</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -269,14 +229,14 @@ Test Scale Based
 ```{=html}
 <div class="archive-text">What does this all mean?
 •The results, in general, are not believable.
- •For example, from grades 3 to 4, two years worth of learning was
- observed about 35% of the time.
- •Put another way, of those students making at least a year’s worth of
- learning, about two-thirds of them make two or more year’s worth of
- growth!
+•For example, from grades 3 to 4, two years worth of learning was
+observed about 35% of the time.
+•Put another way, of those students making at least a year’s worth of
+learning, about two-thirds of them make two or more year’s worth of
+growth!
 •The results are more absurd in higher grades!
 •Our conclusion is that the scales we have cannot support a mapping of
- elapsed time onto them. They just can’t
+elapsed time onto them. They just can’t
 •That doesn’t mean all is lost.</div>
 ```
 
@@ -285,17 +245,17 @@ Test Scale Based
 ```{=html}
 <div class="archive-text">Is there any hope?
 •Perhaps a more modest utilization of time is possible without jumping to talking
- about weeks, months, years of learning.
+about weeks, months, years of learning.
 •For example, taking 50th percentile growth as “a year’s worth of learning”, it is
- likely defensible to produce either a dichotomy or trichotomy:
+likely defensible to produce either a dichotomy or trichotomy:
 
- •Dichotomy:
- •Below a year’s worth of learning.
- •At/Above a year’s worth of learning
- •Trichotomy:
- •Substantially below a year’s worth of learning,
- •At or Near a Year’s worth of Learning,
- •Substantially above a year’s worth of learning.</div>
+•Dichotomy:
+•Below a year’s worth of learning.
+•At/Above a year’s worth of learning
+•Trichotomy:
+•Substantially below a year’s worth of learning,
+•At or Near a Year’s worth of Learning,
+•Substantially above a year’s worth of learning.</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
@@ -303,9 +263,9 @@ Test Scale Based
 ```{=html}
 <div class="archive-text">Utility
 • I used to say, &quot;it is better to be complicated than wrong.” But recently I've relaxed
- this perspective when engaging with the public about measurement. I'd rather
- people be interested and learn more than tune out entirely. This comes with risks.
- I'll accept them. – Andrew Ho (Sept 1, 2022)</div>
+this perspective when engaging with the public about measurement. I'd rather
+people be interested and learn more than tune out entirely. This comes with risks.
+I'll accept them. – Andrew Ho (Sept 1, 2022)</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -317,11 +277,11 @@ Test Scale Based
 1. Time-based reporting is devoid of content.
 
 2. Time-based reporting leads stakeholders toward time-based
- solutions.
+solutions.
 
 3. The aggregate-level results which are at the core of time-based
- reporting are not representative of what is taking place at the
- individual level.</div>
+reporting are not representative of what is taking place at the
+individual level.</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}

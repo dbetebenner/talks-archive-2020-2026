@@ -13,13 +13,13 @@ format:
 
 ```{=html}
 <div class="archive-text">Student Growth Percentiles:
- Concepts and Calculation
- Damian Betebenner
- Center for Assessment
+Concepts and Calculation
+Damian Betebenner
+Center for Assessment
 
 A presentation for the Arizona Department of Education
 
- May 18th, 2023</div>
+May 18th, 2023</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -28,13 +28,13 @@ A presentation for the Arizona Department of Education
 <div class="archive-text">Overview
 
 • History of student academic growth calculations in
- Arizona.
+Arizona.
 • What is student academic growth?
- • What are Student Growth Percentiles (SGPs)
- • What are Student Growth Projections?
+• What are Student Growth Percentiles (SGPs)
+• What are Student Growth Projections?
 • How are SGPs calculated?
 
- Student Growth Percentiles: Concepts and Calculation 2</div>
+Student Growth Percentiles: Concepts and Calculation 2</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -42,17 +42,17 @@ A presentation for the Arizona Department of Education
 ```{=html}
 <div class="archive-text">History
 
- • Initiated by the Arizona Charter School Association
- and Dr. Sarah Polasky in 2009.
- • Included the calculation of student growth
- percentiles and student growth projections (which
- provide SGTs).
- • Used (and not used) in different ways over the last
- decade.
- • Currently implemented by Dr. Xiaoyuan Tan as a
- growth-to-proficiency methodology.
+• Initiated by the Arizona Charter School Association
+and Dr. Sarah Polasky in 2009.
+• Included the calculation of student growth
+percentiles and student growth projections (which
+provide SGTs).
+• Used (and not used) in different ways over the last
+decade.
+• Currently implemented by Dr. Xiaoyuan Tan as a
+growth-to-proficiency methodology.
 
- Student Growth Percentiles: Concepts and Calculation 3</div>
+Student Growth Percentiles: Concepts and Calculation 3</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -60,32 +60,31 @@ A presentation for the Arizona Department of Education
 ```{=html}
 <div class="archive-text">SGP Concepts
 
- A Conceptual Introduction to Student
- Growth Percentiles (SGP)
+A Conceptual Introduction to Student
+Growth Percentiles (SGP)
 
- Student Growth Percentiles: Concepts and Calculation 4</div>
+Student Growth Percentiles: Concepts and Calculation 4</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Why Student Growth?
- If you care about student
- achievement, then you care about
- student growth.
+If you care about student
+achievement, then you care about
+student growth.
 
 • Where you are is a function of
- where you started and how
- quickly you’ve travelled since.
+where you started and how
+quickly you’ve travelled since.
 • Student growth and student
- attainment/achievement are
- related in this way.
+attainment/achievement are
+related in this way.
 • Distance=Rate x Time
 • Those who start behind tend to
- stay behind and those that start
- ahead tend to stay ahead.
- 5
- Student Growth Percentiles: Concepts and Calculation 5</div>
+stay behind and those that start
+ahead tend to stay ahead.
+Student Growth Percentiles: Concepts and Calculation 5</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -93,18 +92,17 @@ A presentation for the Arizona Department of Education
 ```{=html}
 <div class="archive-text">Student Growth: Introductory Concepts
 • The concept of student growth isn’t as difficult to understand and popular
- perception suggests.
+perception suggests.
 • Calculations may be complicated but knowing how to calculate student
- growth is not synonymous with understanding student growth:
- – The number π (pi=3.14159…) is difficult to calculate but is simple to
- understand conceptually.
- – Height and weight percentiles associated with children are difficult to
- calculate but are simple to understand conceptually.
+growth is not synonymous with understanding student growth:
+– The number π (pi=3.14159…) is difficult to calculate but is simple to
+understand conceptually.
+– Height and weight percentiles associated with children are difficult to
+calculate but are simple to understand conceptually.
 • Computational details are important but often obscure a simple conceptual
- basis.
+basis.
 
- Student Growth Percentiles: Concepts and Calculation
- 6</div>
+Student Growth Percentiles: Concepts and Calculation</div>
 ```
 
 ::: notes
@@ -117,19 +115,18 @@ See agenda handout
 
 ```{=html}
 <div class="archive-text">Student Growth Introductory Concepts
- A Math Story Problem
+A Math Story Problem
 
 • Whose high jump changed more?
- Explain your answer.
+Explain your answer.
 
 • Whose high jump change is more
- remarkable? Explain your answer.
+remarkable? Explain your answer.
 
 • Which high jumper improved more?
- Explain your answer.
+Explain your answer.
 
- Student Growth Percentiles: Concepts and Calculation
- 7</div>
+Student Growth Percentiles: Concepts and Calculation</div>
 ```
 
 ::: notes
@@ -143,13 +140,12 @@ See agenda handout
 ```{=html}
 <div class="archive-text">Student Growth: Introductory Concepts
 • There are 3 general approaches of
- calculating student growth:
- – Growth as an amount of change (i.e., gain).
- – Growth as a norm/peer referenced quantity.
- – Growth as a criterion referenced quantity.
+calculating student growth:
+– Growth as an amount of change (i.e., gain).
+– Growth as a norm/peer referenced quantity.
+– Growth as a criterion referenced quantity.
 
- Student Growth Percentiles: Concepts and Calculation
- 8</div>
+Student Growth Percentiles: Concepts and Calculation</div>
 ```
 
 ::: notes
@@ -163,16 +159,15 @@ See agenda handout
 ```{=html}
 <div class="archive-text">Student Growth: Introductory Concepts
 • Growth as an amount of change:
- – What could be more simple?
- – Like height or weight just calculate the amount of change.
- – Requires a vertical scale (which Arizona now has)
- – Growth = Score Time 2 - Score Time 1
+– What could be more simple?
+– Like height or weight just calculate the amount of change.
+– Requires a vertical scale (which Arizona now has)
+– Growth = Score Time 2 - Score Time 1
 • Not as simple as it seems:
- – Comparisons between students often leads to wrong conclusions
- – Interpreting change requires context.
+– Comparisons between students often leads to wrong conclusions
+– Interpreting change requires context.
 
- Student Growth Percentiles: Concepts and Calculation
- 9</div>
+Student Growth Percentiles: Concepts and Calculation</div>
 ```
 
 ::: notes
@@ -188,7 +183,7 @@ See agenda handout
 
 Back to the story problem!
 
- Student Growth Percentiles: Concepts and Calculation 10</div>
+Student Growth Percentiles: Concepts and Calculation 10</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -197,17 +192,17 @@ Back to the story problem!
 <div class="archive-text">Student Growth: Introductory Concepts
 
 • Which high jumper improved more:
- – Judy improved 2 inches.
- – Anna improved 6 inches.
- – An inch is an inch!!!
- – But is an inch really
- an inch???
- – 2 inches for an elite
- jumper is far more
- remarkable than 6
- inches for a novice.
+– Judy improved 2 inches.
+– Anna improved 6 inches.
+– An inch is an inch!!!
+– But is an inch really
+an inch???
+– 2 inches for an elite
+jumper is far more
+remarkable than 6
+inches for a novice.
 
- Student Growth Percentiles: Concepts and Calculation 11</div>
+Student Growth Percentiles: Concepts and Calculation 11</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -217,18 +212,18 @@ Back to the story problem!
 
 • The same holds true for the vertically scaled tests (e.g., AzMERIT).
 
- Average Scale Score Change 2018 to 2019
+Average Scale Score Change 2018 to 2019
 
- Top 10% ELA Grade 4 2016 +8.76
- Bottom 10% ELA Grade 4 2016 +31.5
+Top 10% ELA Grade 4 2016 +8.76
+Bottom 10% ELA Grade 4 2016 +31.5
 
- Top 10% Mathematic Grade 4 2016 +16.7
- Bottom 10% Mathematics Grade 4 2016 +44.5
+Top 10% Mathematic Grade 4 2016 +16.7
+Bottom 10% Mathematics Grade 4 2016 +44.5
 
 • Just as an inch isn’t necessarily an inch; a scale score point isn’t necessarily a
- scale score point.
+scale score point.
 
- Student Growth Percentiles: Concepts and Calculation 12</div>
+Student Growth Percentiles: Concepts and Calculation 12</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -239,19 +234,18 @@ Back to the story problem!
 • Growth amounts are tricky to interpret and require context.
 • Peer based comparisons used by growth analyses are a way to acquire that context.
 
- An infant male toddler is measured at 2 and 3 years of age
- and is shown to have grown 4 inches. The magnitude of
- increase—4 inches—is a well understood quantity that any
- parent can grasp and calculate at home using a simple
- yardstick. However, parents leaving their pediatrician’s office
- knowing only how much their child has grown would likely be
- wanting for more information: Parents are not interested in
- an absolute magnitude of growth, but instead in a norm-
- referenced quantity locating that 4 inch increase alongside
- the height increases of similar children.
+An infant male toddler is measured at 2 and 3 years of age
+and is shown to have grown 4 inches. The magnitude of
+increase—4 inches—is a well understood quantity that any
+parent can grasp and calculate at home using a simple
+yardstick. However, parents leaving their pediatrician’s office
+knowing only how much their child has grown would likely be
+wanting for more information: Parents are not interested in
+an absolute magnitude of growth, but instead in a norm-
+referenced quantity locating that 4 inch increase alongside
+the height increases of similar children.
 
- Student Growth Percentiles: Concepts and Calculation
- 13</div>
+Student Growth Percentiles: Concepts and Calculation</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -261,20 +255,19 @@ Back to the story problem!
 
 • Peer-based analyses are also called norm-referenced analyses.
 • Like with infant height/weight charts, peers are children/student
- with similar characteristics.
+with similar characteristics.
 • For growth analyses using large scale assessments, peers are
- students with (at least) the same scale score history on the same
- tests.
+students with (at least) the same scale score history on the same
+tests.
 • Peer based norms are invaluable in providing context for
- stakeholders to understand student growth.
+stakeholders to understand student growth.
 • The Arizona SGP Model (i.e., the Colorado Growth Model) creates
- growth norms for all students using regression (i.e., peer-based)
- analyses.
+growth norms for all students using regression (i.e., peer-based)
+analyses.
 • These norms allow stakeholders to understand what an ambitious yet
- reasonable expectation is for each student.
+reasonable expectation is for each student.
 
- Student Growth Percentiles: Concepts and Calculation
- 14</div>
+Student Growth Percentiles: Concepts and Calculation</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -282,20 +275,19 @@ Back to the story problem!
 ```{=html}
 <div class="archive-text">Growth Model: Other Options
 • Almost all current growth model use large amounts of
- data to create “norms” against which student growth is
- judged.
+data to create “norms” against which student growth is
+judged.
 • Absent large amounts of data (&gt;1,000 grade/content
- area), professional judgment (usually based upon a
- “norm”) replaces large-scale data-based norms.
+area), professional judgment (usually based upon a
+“norm”) replaces large-scale data-based norms.
 • Value-tables can be used to monitor progress of
- students between achievement bands established for
- year-to-year assessments.
+students between achievement bands established for
+year-to-year assessments.
 • Some states (e.g., Alaska) use value-tables, particularly
- with smaller scale assessments for evaluating student
- growth for accountability purposes.
+with smaller scale assessments for evaluating student
+growth for accountability purposes.
 
- Student Growth Percentiles: Concepts and Calculation
- 15</div>
+Student Growth Percentiles: Concepts and Calculation</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -303,7 +295,7 @@ Back to the story problem!
 ```{=html}
 <div class="archive-text">Growth and Achievement Plot
 
- Student Growth Percentiles: Concepts and Calculation 16</div>
+Student Growth Percentiles: Concepts and Calculation 16</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -311,7 +303,7 @@ Back to the story problem!
 ```{=html}
 <div class="archive-text">Growth and Achievement Plot
 
- Student Growth Percentiles: Concepts and Calculation 17</div>
+Student Growth Percentiles: Concepts and Calculation 17</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
@@ -319,10 +311,10 @@ Back to the story problem!
 ```{=html}
 <div class="archive-text">SGP Calculation
 
- An Introduction to the calculation of
- Student Growth Percentiles (SGP)
+An Introduction to the calculation of
+Student Growth Percentiles (SGP)
 
- Student Growth Percentiles: Concepts and Calculation 18</div>
+Student Growth Percentiles: Concepts and Calculation 18</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -332,17 +324,17 @@ Back to the story problem!
 
 • Research on the SGP model began in 2007.
 • Based upon work in Colorado, the norm-referenced model
- was extended to include a criterion-referenced
- component.
+was extended to include a criterion-referenced
+component.
 • Work in other states incorporating the model into state
- reporting and accountability systems occurred in
- subsequent years and student growth became more
- common across state assessment systems.
+reporting and accountability systems occurred in
+subsequent years and student growth became more
+common across state assessment systems.
 • Goal or the model is to create an individual level growth
- metric that is informative to different stakeholders ranging
- from parents to policy makers.
+metric that is informative to different stakeholders ranging
+from parents to policy makers.
 
- Student Growth Percentiles: Concepts and Calculation 19</div>
+Student Growth Percentiles: Concepts and Calculation 19</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
@@ -351,16 +343,16 @@ Back to the story problem!
 <div class="archive-text">Student Growth Percentiles
 
 • Methodology for SGPs is open source. Goal is to
- work with experts like Dr. Tan to build capacity.
+work with experts like Dr. Tan to build capacity.
 • SGPs are calculated using the open source R
- statistical software environment.
+statistical software environment.
 • SGPs utilize an R package created and developed by
- us (Damian Betebenner and Adam VanIwaarden) to
- calculate all the quantities associated with SGPs.
- https://cran.r-project.org/web/packages/SGP/
- index.html
+us (Damian Betebenner and Adam VanIwaarden) to
+calculate all the quantities associated with SGPs.
+https://cran.r-project.org/web/packages/SGP/
+index.html
 
- Student Growth Percentiles: Concepts and Calculation 20</div>
+Student Growth Percentiles: Concepts and Calculation 20</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
@@ -369,19 +361,19 @@ Back to the story problem!
 <div class="archive-text">What is R?
 
 • Interpreted programming language tailored for statistics.
- – Instructions/commands are entered at a prompt, interpreted and
- executed before moving on to the next
- – In contrast to C, C++, FORTRAN, etc. that are compiled before execution.
- Note: Some R functions use these languages in the background to
- provide more efficiency.
- – A set of instructions can be combined into an R script (usually with
- the .R extension) and “sourced” to run the entire set of commands at
- once.
+– Instructions/commands are entered at a prompt, interpreted and
+executed before moving on to the next
+– In contrast to C, C++, FORTRAN, etc. that are compiled before execution.
+Note: Some R functions use these languages in the background to
+provide more efficiency.
+– A set of instructions can be combined into an R script (usually with
+the .R extension) and “sourced” to run the entire set of commands at
+once.
 • Graphical engine.
- – Produce plots and reports such as those shown here.
+– Produce plots and reports such as those shown here.
 • Data manipulation and management to a lesser extent.
 
- Student Growth Percentiles: Concepts and Calculation 21</div>
+Student Growth Percentiles: Concepts and Calculation 21</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
@@ -390,18 +382,18 @@ Back to the story problem!
 <div class="archive-text">What is R?
 
 • Object oriented language. Everything is an object.
- – Single characters or numbers.
- – Functions (which are often composed of other, more ‘primitive’
- functions – R is mostly written in R).
- – Data
- • Data structures include vectors, matrices, arrays, data frames (an important
- variation of this is the data.table)
- • User can have multiple datasets open at one time unlike other stats
- software.
- – Results (model summaries, predictions, residuals). Probably the most
- important. In the end we want some product (statistics, graphics, etc.).
+– Single characters or numbers.
+– Functions (which are often composed of other, more ‘primitive’
+functions – R is mostly written in R).
+– Data
+• Data structures include vectors, matrices, arrays, data frames (an important
+variation of this is the data.table)
+• User can have multiple datasets open at one time unlike other stats
+software.
+– Results (model summaries, predictions, residuals). Probably the most
+important. In the end we want some product (statistics, graphics, etc.).
 
- Student Growth Percentiles: Concepts and Calculation 22</div>
+Student Growth Percentiles: Concepts and Calculation 22</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
@@ -411,18 +403,18 @@ Back to the story problem!
 
 • R is highly extensible through the creation of R packages.
 • A “package” is a collection of functions, documentation, data and
- other things that are often tailored for a particular purpose. A user
- loads a package into R in order to use these functions. A collection
- of packages makes a “library”.
+other things that are often tailored for a particular purpose. A user
+loads a package into R in order to use these functions. A collection
+of packages makes a “library”.
 • R has a BASE package of statistical and graphical functions upon
- which many more can be added.
+which many more can be added.
 • Many R packages depend on other packages in order to work. That
- is, many R functions are built upon other R functions. This is one of
- the main advantages of open source R. You are free to build on,
- change or borrow other peoples work in order to create your own
- software.
+is, many R functions are built upon other R functions. This is one of
+the main advantages of open source R. You are free to build on,
+change or borrow other peoples work in order to create your own
+software.
 
- Student Growth Percentiles: Concepts and Calculation 23</div>
+Student Growth Percentiles: Concepts and Calculation 23</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
@@ -432,17 +424,17 @@ Back to the story problem!
 
 • First version available on CRAN in October, 2008.
 • Now uses functions from 30 other R packages.
- – Functions from these packages (and data) are imported and used in SGP’s
- functions.
- – Most essential dependency is rq function from quantreg – the quantile
- regression package developed by R. Koenker.
+– Functions from these packages (and data) are imported and used in SGP’s
+functions.
+– Most essential dependency is rq function from quantreg – the quantile
+regression package developed by R. Koenker.
 • Stable version is available on CRAN:
- http://cran.r-project.org/web/packages/SGP/index.html
+http://cran.r-project.org/web/packages/SGP/index.html
 • Development version (and visible code) is available on GitHub:
- – www.SGP.io
- – https://github.com/CenterForAssessment/SGP
+– www.SGP.io
+– https://github.com/CenterForAssessment/SGP
 
- Student Growth Percentiles: Concepts and Calculation 24</div>
+Student Growth Percentiles: Concepts and Calculation 24</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
@@ -451,19 +443,19 @@ Back to the story problem!
 <div class="archive-text">SGP Package
 
 • 84 functions in the package (27 exported).
- – Two key functions are studentGrowthPercentiles and
- studentGrowthProjections.
- – “Wrapper” functions for analyzing data. Higher level functions that do a
- lot of data management and bookkeeping, but are largely built around
- the two key lower level functions and their output.
- – Utility and convenience functions that perform tasks that are often
- repeated. These help with the bookkeeping mentioned above, and are
- largely only used internally (they are not “exported” functions).
- – Visualization and data export functions.
- – meta-data for state level assessment programs is embedded in a data
- object inside the SGP package: SGPstateData.
+– Two key functions are studentGrowthPercentiles and
+studentGrowthProjections.
+– “Wrapper” functions for analyzing data. Higher level functions that do a
+lot of data management and bookkeeping, but are largely built around
+the two key lower level functions and their output.
+– Utility and convenience functions that perform tasks that are often
+repeated. These help with the bookkeeping mentioned above, and are
+largely only used internally (they are not “exported” functions).
+– Visualization and data export functions.
+– meta-data for state level assessment programs is embedded in a data
+object inside the SGP package: SGPstateData.
 
- Student Growth Percentiles: Concepts and Calculation 25</div>
+Student Growth Percentiles: Concepts and Calculation 25</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
@@ -472,12 +464,12 @@ Back to the story problem!
 <div class="archive-text">Other Packages
 
 • Two “exemplar” data sets (sgpData and
- sgpData_LONG) can be found in the SGPdata package
+sgpData_LONG) can be found in the SGPdata package
 
 • randomNames package (creates random names for
- simulated individual student reports)
+simulated individual student reports)
 
- Student Growth Percentiles: Concepts and Calculation 26</div>
+Student Growth Percentiles: Concepts and Calculation 26</div>
 ```
 
 ## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
@@ -488,9 +480,9 @@ Back to the story problem!
 • To install from CRAN simply start R and type:
 install.packages(“SGP”)
 • To install from Github you need:
- – Windows: Rtools (http://cran.r-project.org/bin/windows/Rtools/),
- – OS X: xcode (from the app store)
- – Linux: apt-get install r-base-dev (or similar)
+– Windows: Rtools (http://cran.r-project.org/bin/windows/Rtools/),
+– OS X: xcode (from the app store)
+– Linux: apt-get install r-base-dev (or similar)
 install.packages(&quot;devtools&quot;)
 require(devtools)
 install_github(”centerforassessment/SGP&quot;)
@@ -498,7 +490,7 @@ require(SGP)
 
 • Installation instructions are also available HERE.
 
- Student Growth Percentiles: Concepts and Calculation 27</div>
+Student Growth Percentiles: Concepts and Calculation 27</div>
 ```
 
 ## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
@@ -507,17 +499,17 @@ require(SGP)
 <div class="archive-text">Package Development
 
 • The raw source code for the SGP package can be downloaded
- or browsed from the GitHub site. GitHub is a cloud based
- version control system now owned by Microsoft.
- – https://github.com/CenterForAssessment/SGP
- – This raw source code can be modified and built into your
- own private package.
- – If you have a Github account you can fork the repository
- and join our development effort (preferred!)
- – GitHub allows for immediate updates to the package so that
- others can access and install those updates instantaneously.
+or browsed from the GitHub site. GitHub is a cloud based
+version control system now owned by Microsoft.
+– https://github.com/CenterForAssessment/SGP
+– This raw source code can be modified and built into your
+own private package.
+– If you have a Github account you can fork the repository
+and join our development effort (preferred!)
+– GitHub allows for immediate updates to the package so that
+others can access and install those updates instantaneously.
 
- Student Growth Percentiles: Concepts and Calculation 28</div>
+Student Growth Percentiles: Concepts and Calculation 28</div>
 ```
 
 ## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
@@ -526,17 +518,17 @@ require(SGP)
 <div class="archive-text">Package Development
 
 • In addition, R source code for state analyses are place on
- Github.
- – Arizona has a (private) repo on GitHub housing all the
- source code for SGP analyses. https://github.com/
- CenterForAssessment/Arizona
- – Allows for instantaneous sharing of code being used to
- conduct analyses.
- – If anyone on your team wants access to the site, let me
- know and I’ll add you to the list of collaborators (you’ll need
- to create a GitHub account if you don’t have one).
+Github.
+– Arizona has a (private) repo on GitHub housing all the
+source code for SGP analyses. https://github.com/
+CenterForAssessment/Arizona
+– Allows for instantaneous sharing of code being used to
+conduct analyses.
+– If anyone on your team wants access to the site, let me
+know and I’ll add you to the list of collaborators (you’ll need
+to create a GitHub account if you don’t have one).
 
- Student Growth Percentiles: Concepts and Calculation 29</div>
+Student Growth Percentiles: Concepts and Calculation 29</div>
 ```
 
 ## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
@@ -545,13 +537,13 @@ require(SGP)
 <div class="archive-text">Conclusion
 
 • This hopefully gave you a detailed understanding of:
- – The growth/SGP analyses conducted by ADE.
- – How these analyses are actually conducted.
- – How you can participate to refine/improve those analyses.
+– The growth/SGP analyses conducted by ADE.
+– How these analyses are actually conducted.
+– How you can participate to refine/improve those analyses.
 • Of course, if you have any questions, comments, or
- criticisms, feel free to contact me about them.
+criticisms, feel free to contact me about them.
 
- Student Growth Percentiles: Concepts and Calculation 30</div>
+Student Growth Percentiles: Concepts and Calculation 30</div>
 ```
 
 ## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}

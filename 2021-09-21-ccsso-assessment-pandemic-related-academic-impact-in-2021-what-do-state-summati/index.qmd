@@ -34,17 +34,17 @@ Scott
 ```{=html}
 <div class="archive-text">Pandemic Related Academic Impact
 • As we are all aware, the pandemic greatly disrupted the lives of
- people worldwide over the last 18 months.
+people worldwide over the last 18 months.
 • The impact on education was dramatic with millions of students
- receiving education in new ways.
+receiving education in new ways.
 • A concern of many is to what extent the pandemic impacted
- students: Academically, emotionally, physically.
+students: Academically, emotionally, physically.
 • The Center has been working with a dozen states to investigate the
- extent to which the pandemic has impacted student learning.
+extent to which the pandemic has impacted student learning.
 • My colleagues and I wrote a blog detailing some early findings:
- https://www.nciea.org/blog/covid-19-disruptions/assessing-
- academic-impact-covid-19-summer-2021
- CCSSO State Assessment Directory September 2021 Meeting</div>
+https://www.nciea.org/blog/covid-19-disruptions/assessing-
+academic-impact-covid-19-summer-2021
+CCSSO State Assessment Directory September 2021 Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -52,18 +52,18 @@ Scott
 ```{=html}
 <div class="archive-text">Pandemic Related Academic Impact
 • The pandemic and all the ensuing disruptions functions as a kind of
- “academic headwind”, impeding (in general) the academic progress of
- students.
+“academic headwind”, impeding (in general) the academic progress of
+students.
 • Headwinds impede progress in two ways:
- • They slow one’s rate of progress
- • The slower rate of progress leads to less distance being travelled.
+• They slow one’s rate of progress
+• The slower rate of progress leads to less distance being travelled.
 • In education these two outcomes represent themselves as:
- • Decrease in student growth.
- • Decrease in student attainment.
+• Decrease in student growth.
+• Decrease in student attainment.
 • Special consideration must be given to accommodate low participation/
- changing demographics (multiple imputation and propensity score
- matching)
- CCSSO State Assessment Directory September 2021 Meeting</div>
+changing demographics (multiple imputation and propensity score
+matching)
+CCSSO State Assessment Directory September 2021 Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -71,18 +71,18 @@ Scott
 ```{=html}
 <div class="archive-text">Pandemic related academic impact
 • Understanding pandemic related impact necessarily requires looking
- back to pre-pandemic results.
+back to pre-pandemic results.
 • The impulse of stakeholders to want to compare 2021 results with 2019
- results is the correct impulse at both the individual, school, district, and
- state level.
+results is the correct impulse at both the individual, school, district, and
+state level.
 • Wanting to look at 2019 to 2021 change is an attempt to investigate
- impact.
+impact.
 • The challenge is making 2019 to 2021 comparisons apples-to-apples
- comparisons.
+comparisons.
 • Supporting these comparisons requires having a complete
- understanding is who constitutes the missing data. More on that after
- some initial comparisons.
- CCSSO State Assessment Directory September 2021 Meeting</div>
+understanding is who constitutes the missing data. More on that after
+some initial comparisons.
+CCSSO State Assessment Directory September 2021 Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -90,19 +90,19 @@ Scott
 ```{=html}
 <div class="archive-text">Data to assess academic impact
 • During the 2020-2021 academic year, student achievement data from
- achievement vendors (primarily Renaissance Star, NWEA MAP, and Curriculum
- Associates iReady) was all that was available to investigate pandemic related
- academic impact.
+achievement vendors (primarily Renaissance Star, NWEA MAP, and Curriculum
+Associates iReady) was all that was available to investigate pandemic related
+academic impact.
 • States summative assessments (cancelled in 2020) were broadly administered
- nationwide in 2021.
+nationwide in 2021.
 • Participation rates ranged from normal (&gt; 95%) to poor.
 • Given their technical quality, alignment with state standards, coverage of the
- state student population, and long-term history, for nearly all states, 2021
- state summative assessment data provides excellent data on which to begin
- investigating academic impact.
+state student population, and long-term history, for nearly all states, 2021
+state summative assessment data provides excellent data on which to begin
+investigating academic impact.
 • Many states have ELP assessments from 2020 as 2021 with which to
- investigate academic impact on the ELL subgroup.
- CCSSO State Assessment Directory September 2021 Meeting</div>
+investigate academic impact on the ELL subgroup.
+CCSSO State Assessment Directory September 2021 Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -110,16 +110,16 @@ Scott
 ```{=html}
 <div class="archive-text">Analyses for 2020-2021
 • With comparable results we can quantify pandemic related
- academic impact:
- • At the state level
- • Demographic subgroups including ethnicity, poverty
- • Academic subgroups (special education, low/high achievers)
- • By region/district/school
- • By mode of education (remote/hybrid/in-person).
- • Attendance
- • English Language Learner impact can be evaluated using WIDA-ACCESS
- results.
- CCSSO State Assessment Directory September 2021 Meeting</div>
+academic impact:
+• At the state level
+• Demographic subgroups including ethnicity, poverty
+• Academic subgroups (special education, low/high achievers)
+• By region/district/school
+• By mode of education (remote/hybrid/in-person).
+• Attendance
+• English Language Learner impact can be evaluated using WIDA-ACCESS
+results.
+CCSSO State Assessment Directory September 2021 Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -127,15 +127,15 @@ Scott
 ```{=html}
 <div class="archive-text">Student attainment
 • Across the dozen states we’ve examined thus far:
- • Decreases in percent proficient are most often reported (thought
- percent proficient can mask changes in the distribution)
- • Decreases in ELA generally in the upper single digits but sometimes in the teens.
- • Decreases in Math generally in the lower teens.
- • In terms of mean scale score decreases, effect sizes are large ranging
- from 0.2 to 0.4.
- • These are large effect sizes, especially when seen at the state level.
+• Decreases in percent proficient are most often reported (thought
+percent proficient can mask changes in the distribution)
+• Decreases in ELA generally in the upper single digits but sometimes in the teens.
+• Decreases in Math generally in the lower teens.
+• In terms of mean scale score decreases, effect sizes are large ranging
+from 0.2 to 0.4.
+• These are large effect sizes, especially when seen at the state level.
 
- CCSSO State Assessment Directory September 2021 Meeting</div>
+CCSSO State Assessment Directory September 2021 Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -144,15 +144,15 @@ Scott
 <div class="archive-text">Student growth
 • States we’ve worked with utilize SGPs to measure growth.
 • States created baseline growth norms using pre-pandemic
- student data.
+student data.
 • By grade/content area median SGPs in ELA between low 40s to
- low 30s. In Mathematics between mid 30s to low 20s.
+low 30s. In Mathematics between mid 30s to low 20s.
 • Academic impact by grade is relatively uniform.
 • These decreases in student learning (i.e., growth) corroborate
- losses seen in attainment.
+losses seen in attainment.
 • Decreases of this magnitude in student learning will likely require
- multiple years
- CCSSO State Assessment Directory September 2021 Meeting</div>
+multiple years
+CCSSO State Assessment Directory September 2021 Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -160,16 +160,16 @@ Scott
 ```{=html}
 <div class="archive-text">Demographic/Academic Subgroup Impact
 • By ethnicity, academic impacts are, in general, relatively uniform.
- • Asian students showed slightly larger impacts in mathematics
+• Asian students showed slightly larger impacts in mathematics
 • ELL status on state summative show fairly uniform academic
- impact.
- • On ELP assessments, larger impact in lower grades than in middle/
- upper school grades.
+impact.
+• On ELP assessments, larger impact in lower grades than in middle/
+upper school grades.
 • Special education/IEP status in some states showed lesser impact
- that their non-special education counterparts
+that their non-special education counterparts
 • In middle school mathematics, several states show higher
- achievers demonstrating larger impacts than low achievers.
- CCSSO State Assessment Directory September 2021 Meeting</div>
+achievers demonstrating larger impacts than low achievers.
+CCSSO State Assessment Directory September 2021 Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -177,13 +177,13 @@ Scott
 ```{=html}
 <div class="archive-text">Demographic/Academic Subgroup Impact
 • States collecting data of mode of education during the pandemic
- (e.g., in-person, hybrid, remote) show more impact for students
- receiving remote instruction versus in-person instruction.
+(e.g., in-person, hybrid, remote) show more impact for students
+receiving remote instruction versus in-person instruction.
 • Given these findings many states have prioritized efforts to get
- students back to in-person learning as quickly and safely as
- possible.
+students back to in-person learning as quickly and safely as
+possible.
 
- CCSSO State Assessment Directory September 2021 Meeting</div>
+CCSSO State Assessment Directory September 2021 Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -191,18 +191,18 @@ Scott
 ```{=html}
 <div class="archive-text">Looking forward to 2021-2022
 • As we (hopefully) transition from pandemic to recovery, data from
- 2021-2022 will provide an excellent basis to understand whether what
- type of recovery systems are demonstrating:
- • V-shaped, U-Shaped, L-Shaped, or no recovery
+2021-2022 will provide an excellent basis to understand whether what
+type of recovery systems are demonstrating:
+• V-shaped, U-Shaped, L-Shaped, or no recovery
 • States with compromised 2021 assessments (low participation, fall
- testing, no testing) will have tradeoffs to make in terms of using
- 2021-2022 data to assess recovery.
+testing, no testing) will have tradeoffs to make in terms of using
+2021-2022 data to assess recovery.
 • Using data for these purposes is not the typical use of data for
- “accountability” and requires states to promote results in ways not
- related to accountability. This can be a delicate balancing act.
+“accountability” and requires states to promote results in ways not
+related to accountability. This can be a delicate balancing act.
 • Overall, I’m optimistic about the use of 2020-2021 data for academic
- impact as well as to inform recovery in 2021-2022.
- CCSSO State Assessment Directory September 2021 Meeting</div>
+impact as well as to inform recovery in 2021-2022.
+CCSSO State Assessment Directory September 2021 Meeting</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}

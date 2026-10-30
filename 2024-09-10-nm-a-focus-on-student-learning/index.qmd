@@ -27,7 +27,7 @@ September 10th, 2024</div>
 <div class="archive-text">Success is a journey, not a destination.
 The doing is often more important
 than the outcome.
- Arthur Ashe</div>
+Arthur Ashe</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -36,7 +36,7 @@ than the outcome.
 <div class="archive-text">Know what you want to accomplish
 and focus on the process rather
 than the outcome.
- Nick Saban</div>
+Nick Saban</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -45,7 +45,7 @@ than the outcome.
 <div class="archive-text">Know what you want to accomplish
 and focus on the process rather
 than the outcome.
- Nick Saban</div>
+Nick Saban</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -54,7 +54,7 @@ than the outcome.
 <div class="archive-text">Education is not the filling of a pail,
 but the lighting of a fire.
 
- William Butler Yeats</div>
+William Butler Yeats</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -62,26 +62,26 @@ but the lighting of a fire.
 ```{=html}
 <div class="archive-text">Outcomes, outcomes, outcomes!
 
- • I want to be successful.
- • I want to be thin.
- • I want to be admired.
- We live in a society • I want to be powerful.
+• I want to be successful.
+• I want to be thin.
+• I want to be admired.
+We live in a society • I want to be powerful.
 
- obsessed with ends • I want to be famous.
- • I want to have a million followers.
- • I want to be the best.
- • I want to be liked.
- • I want to have it all.
- • I want to be the fastest.
- • I want to have the perfect family.
- • I want to win.</div>
+obsessed with ends • I want to be famous.
+• I want to have a million followers.
+• I want to be the best.
+• I want to be liked.
+• I want to have it all.
+• I want to be the fastest.
+• I want to have the perfect family.
+• I want to win.</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Just win, baby!
- Al Davis</div>
+Al Davis</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -90,25 +90,24 @@ but the lighting of a fire.
 <div class="archive-text">A Focus on Outcomes
 (at the expense of a focus on process)
 
- Process vs. Product
+Process vs. Product
 
- Means vs. Ends
+Means vs. Ends
 
- Journey vs. Destination
+Journey vs. Destination
 
- Development vs. Result
+Development vs. Result
 
- Learning vs. Attainment
+Learning vs. Attainment
 
- Growth Vs. Achievement</div>
+Growth Vs. Achievement</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">?
-So what does all of this have to do
- with student academic growth?</div>
+<div class="archive-text">So what does all of this have to do
+with student academic growth?</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -117,17 +116,17 @@ So what does all of this have to do
 <div class="archive-text">A Focus on Outcomes
 (at the expense of a focus on process)
 
- Process vs. Product
+Process vs. Product
 
- Means vs. Ends
+Means vs. Ends
 
- Journey vs. Destination
+Journey vs. Destination
 
- Development vs. Result
+Development vs. Result
 
- Learning vs. Attainment
+Learning vs. Attainment
 
- Growth Vs. Achievement</div>
+Growth Vs. Achievement</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -141,17 +140,17 @@ So what does all of this have to do
 ```{=html}
 <div class="archive-text">Accountability and Outcomes
 • The central focus of educational accountability systems since NCLB has been academic outcomes,
- largely derived from large scale, state administered summative assessments.
+largely derived from large scale, state administered summative assessments.
 • Student academic proficiency has been the main determinant of education quality.
- • NCLB mandated universal proficiency (100% proficient) by 2014
- • ESSA mandates more modest proficiency targets.
+• NCLB mandated universal proficiency (100% proficient) by 2014
+• ESSA mandates more modest proficiency targets.
 • I am highly critical of the way that educational accountability has been conceived over the last two
- decades, but not for the reasons you might think:
- • I am a strong proponent of annual, large scale, summative assessments.
- • I am a strong proponent of reporting achievement outcomes like student academic proficiency (I.e.,
- percent proficient)
+decades, but not for the reasons you might think:
+• I am a strong proponent of annual, large scale, summative assessments.
+• I am a strong proponent of reporting achievement outcomes like student academic proficiency (I.e.,
+percent proficient)
 • Outcomes from large scale, standardized summative assessments like academic proficiency are
- important, but there’s a rub.</div>
+important, but there’s a rub.</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -159,18 +158,18 @@ So what does all of this have to do
 ```{=html}
 <div class="archive-text">The Problem
 • Not all outcomes derived from state summative assessments are created equal.
- • Distal outcomes: Achievement/attainment such as academic proficiency
- • Proximal outcomes: Growth/learning such as student growth percentiles (SGP)
+• Distal outcomes: Achievement/attainment such as academic proficiency
+• Proximal outcomes: Growth/learning such as student growth percentiles (SGP)
 • Growth &amp; Achievement (Learning &amp; Attainment) are often treated as conceptually separate but they are
- intricately related: Growth/Learning leads to Achievement/Attainment
+intricately related: Growth/Learning leads to Achievement/Attainment
 • A desire for high achieving students is necessarily a desire for students who grow/learn a lot and vice-
- versa.
+versa.
 • I often say Growth/Learning and Achievement/Attainment are opposite sides of the same coin.
 • Current accountability systems ignore this relationship between growth and achievement and often
- present growth and achievement as a value-laden choice (“Which do you prefer, growth or
- achievement?”)
+present growth and achievement as a value-laden choice (“Which do you prefer, growth or
+achievement?”)
 • Treating growth and achievement separately leads to system incoherence: Desired outcomes (proficiency)
- are divorced from the efforts of teachers, schools, … to support and maximize the learning of students.</div>
+are divorced from the efforts of teachers, schools, … to support and maximize the learning of students.</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -181,7 +180,7 @@ So what does all of this have to do
 Know what you want to accomplish
 and focus on the process rather
 than the outcome.
- Nick Saban</div>
+Nick Saban</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -192,18 +191,18 @@ than the outcome.
 Know what you want to accomplish
 and focus on the process rather
 than the outcome.
- Nick Saban
+Nick Saban
 
- • Yes, we want all students to be proficient.
- • That’s analogous to declaring that we want to win all
- of our games.
- • Accomplishing such goals requires a focus on process
- (highly effective processes).
- • The process by which students become proficient is
- learning.
- • Coherent accountability focuses on student learning
- without losing sight of the end goal of student
- proficiency.</div>
+• Yes, we want all students to be proficient.
+• That’s analogous to declaring that we want to win all
+of our games.
+• Accomplishing such goals requires a focus on process
+(highly effective processes).
+• The process by which students become proficient is
+learning.
+• Coherent accountability focuses on student learning
+without losing sight of the end goal of student
+proficiency.</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -214,7 +213,7 @@ than the outcome.
 • Student growth is to learning as student attainment is to achievement.
 • It is important to note that no single assessment measures student learning/growth.
 • Assessments (plural), including MSSA, measure achievement/attainment: What a student knows
- and can do at a given point in time.
+and can do at a given point in time.
 • Learning is a process that happens over time.
 • We use multiple assessments of achievement to infer whether or not learning has occurred.</div>
 ```
@@ -231,18 +230,18 @@ than the outcome.
 <div class="archive-text">Student Growth/Learning:
 
 If you care about student achievement,
- then you care about student growth.
+then you care about student growth.
 
 • Where you are is a function of
- where you started and how quickly
- you’ve travelled since.
+where you started and how quickly
+you’ve travelled since.
 • Student growth and student
- attainment/achievement are
- related in this way.
+attainment/achievement are
+related in this way.
 • Distance=Rate x Time
 • Those who start behind tend to stay
- behind and those that start ahead
- tend to stay ahead.</div>
+behind and those that start ahead
+tend to stay ahead.</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -250,14 +249,14 @@ If you care about student achievement,
 ```{=html}
 <div class="archive-text">Student Growth - Calculations
 • There is a common misconception that because student growth can be difficult to calculate it is difficult to
- understand.
+understand.
 
 • Calculations may be complicated but knowing how to calculate student growth is not synonymous with
- understanding student growth:
- – The number π (pi=3.14159…) is difficult to calculate but is simple to understand conceptually.
- – Height and weight percentiles associated with children are difficult to calculate but are simple to
- understand conceptually.
- – Credit scores are difficult to calculate but we all know what they mean practically.
+understanding student growth:
+– The number π (pi=3.14159…) is difficult to calculate but is simple to understand conceptually.
+– Height and weight percentiles associated with children are difficult to calculate but are simple to
+understand conceptually.
+– Credit scores are difficult to calculate but we all know what they mean practically.
 
 • Computational details are important but often obscure a simple conceptual basis.
 • Not knowing how something is calculated does not imply that one cannot understand the quantities.</div>
@@ -268,28 +267,25 @@ If you care about student achievement,
 ```{=html}
 <div class="archive-text">A Math Story Problem
 • Whose high jump changed more? Personal Bests in 2023 and 2024 for Two High Jumpers
- Explain your answer. World Record: 6 feet, 10 1/2 inches
+Explain your answer. World Record: 6 feet, 10 1/2 inches
 
 • Whose high jump change is more
- 8
 
- remarkable? Explain your answer. 7
- 6 feet, 6 inches Judy
+remarkable? Explain your answer. 7
+6 feet, 6 inches Judy
 • Which hit jumper improved more?
- Height (feet)
- 6 6 feet, 4 inches
- Explain your answer.
- 5
+Height (feet)
+6 6 feet, 4 inches
+Explain your answer.
 
- 4 feet, 0 inches
- 4 Anna
+4 feet, 0 inches
+4 Anna
 
- 3 feet, 6 inches
- 3
+3 feet, 6 inches
 
- Spring 2023 Spring 2024
+Spring 2023 Spring 2024
 
- Track Season</div>
+Track Season</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
@@ -297,15 +293,15 @@ If you care about student achievement,
 ```{=html}
 <div class="archive-text">Student Growth
 • Growth as an amount of change:
- – What could be more simple?
- – Like height or weight just calculate the amount of change.
- – Requires a vertical scale (which New Mexico DOESN’T have).
- – Growth = Score Time 2 - Score Time 1
+– What could be more simple?
+– Like height or weight just calculate the amount of change.
+– Requires a vertical scale (which New Mexico DOESN’T have).
+– Growth = Score Time 2 - Score Time 1
 • Not as simple as it seems:
- – Comparisons between students often leads to wrong conclusions.
- – Interpreting change requires context.
- – Even if New Mexico MSSA had a vertical scale, you’ll see that it doesn’t give you want you
- think.</div>
+– Comparisons between students often leads to wrong conclusions.
+– Interpreting change requires context.
+– Even if New Mexico MSSA had a vertical scale, you’ll see that it doesn’t give you want you
+think.</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
@@ -314,27 +310,22 @@ If you care about student achievement,
 <div class="archive-text">Student Growth
 Back to the story problem!
 
- Personal Bests in 2023 and 2024 for Two High Jumpers
- World Record: 6 feet, 10 1/2 inches
- 8
+Personal Bests in 2023 and 2024 for Two High Jumpers
+World Record: 6 feet, 10 1/2 inches
 
- 7
- 6 feet, 6 inches Judy
+6 feet, 6 inches Judy
 
- Height (feet)
- 6 6 feet, 4 inches
+Height (feet)
+6 6 feet, 4 inches
 
- 5
+4 feet, 0 inches
+4 Anna
 
- 4 feet, 0 inches
- 4 Anna
+3 feet, 6 inches
 
- 3 feet, 6 inches
- 3
+Spring 2023 Spring 2024
 
- Spring 2023 Spring 2024
-
- Track Season</div>
+Track Season</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
@@ -342,30 +333,28 @@ Back to the story problem!
 ```{=html}
 <div class="archive-text">Student Growth
 • Which high jumper improved more:
- – Judy improved 2 inches. Personal Bests in 2023 and 2024 for Two High Jumpers
- World Record: 6 feet, 10 1/2 inches
- – Anna improved 6 inches. 8
+– Judy improved 2 inches. Personal Bests in 2023 and 2024 for Two High Jumpers
+World Record: 6 feet, 10 1/2 inches
+– Anna improved 6 inches. 8
 
- – An inch is an inch!!!
- 7
- 6 feet, 6 inches
- – But is an inch really an inch??? Judy
+– An inch is an inch!!!
+6 feet, 6 inches
+– But is an inch really an inch??? Judy
 
- Height (feet)
- – 2 inches for an elite jumper is far more
- 6 6 feet, 4 inches
+Height (feet)
+– 2 inches for an elite jumper is far more
+6 6 feet, 4 inches
 
- remarkable than 6 5
+remarkable than 6 5
 
- inches for a novice. 4 feet, 0 inches
- 4 Anna
+inches for a novice. 4 feet, 0 inches
+4 Anna
 
- 3 feet, 6 inches
- 3
+3 feet, 6 inches
 
- Spring 2023 Spring 2024
+Spring 2023 Spring 2024
 
- Track Season</div>
+Track Season</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
@@ -374,17 +363,17 @@ Back to the story problem!
 <div class="archive-text">Student Growth
 • The same holds true for the vertically scaled tests (e.g., SBAC).
 
- Average Scale Score Change 2022 to 2023
+Average Scale Score Change 2022 to 2023
 
- Top 10% ELA Grade 4 2023: -7.5
- Bottom 10% ELA Grade 4 2023: +24.5
- Top 10% Mathematic Grade 4 2023: -12.6
- Bottom 10% Mathematics Grade 4 2023: +18.4
+Top 10% ELA Grade 4 2023: -7.5
+Bottom 10% ELA Grade 4 2023: +24.5
+Top 10% Mathematic Grade 4 2023: -12.6
+Bottom 10% Mathematics Grade 4 2023: +18.4
 
 • Large increases for the lowest 10% of achievers, small (negative) increases for high achievers.
 • Just as an inch isn’t necessarily an inch; a scale score point isn’t necessarily a scale score point.
 • Moral of the story: There’s more to student growth than subtraction (and in New Mexico you
- aren’t supposed to subtract student scores with the MSSA)</div>
+aren’t supposed to subtract student scores with the MSSA)</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
@@ -394,17 +383,17 @@ Back to the story problem!
 • This is analogous to height/weight measures for infants.
 • Growth amounts are tricky to interpret and require context.
 • Peer based comparisons used by growth analyses are a way to acquire
- that context.
+that context.
 
- An infant male toddler is measured at 2 and 3 years of age
- and is shown to have grown 4 inches. The magnitude of increase—4
- inches—is a well understood quantity that any parent can grasp and
- calculate at home using a simple yardstick. However, parents
- leaving their pediatrician’s office knowing only how much their child
- has grown would likely be wanting for more information: Parents are
- not interested in an absolute magnitude of growth, but instead in a
- norm-referenced quantity locating that 4 inch increase alongside the
- height increases of similar children.</div>
+An infant male toddler is measured at 2 and 3 years of age
+and is shown to have grown 4 inches. The magnitude of increase—4
+inches—is a well understood quantity that any parent can grasp and
+calculate at home using a simple yardstick. However, parents
+leaving their pediatrician’s office knowing only how much their child
+has grown would likely be wanting for more information: Parents are
+not interested in an absolute magnitude of growth, but instead in a
+norm-referenced quantity locating that 4 inch increase alongside the
+height increases of similar children.</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
@@ -413,15 +402,15 @@ Back to the story problem!
 <div class="archive-text">Student Growth
 • Peer-based analyses are also called norm-referenced analyses.
 • Like with infant height/weight charts, peers are children/student with
- similar characteristics.
+similar characteristics.
 • For growth analyses using large scale assessments, peers are students with
- (at least) the same scale score history on the same tests.
+(at least) the same scale score history on the same tests.
 • Peer based norms are invaluable in providing context for stakeholders to
- understand student growth.
+understand student growth.
 • Peer based norms are possible even across test content areas or test
- transitions.
+transitions.
 • This is the mathematical basis of Student Growth Percentiles, as the
- following slides illustrate.</div>
+following slides illustrate.</div>
 ```
 
 ## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
@@ -429,22 +418,13 @@ Back to the story problem!
 ```{=html}
 <div class="archive-text">Student Growth Percentiles - Academic Peers
 
- 300
- 490
- 330
- 460 co
- 20
- 23 360 re
- 430
- S le S
- ca
- le ca
- S
- 390
- 400
- S re 24
- 20
- co</div>
+460 co
+23 360 re
+S le S
+ca
+le ca
+S re 24
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
@@ -452,22 +432,13 @@ Back to the story problem!
 ```{=html}
 <div class="archive-text">Student Growth Percentiles - Academic Peers
 
- 300
- 490
- 330
- 460 co
- 20
- 23 360 re
- 430
- S le S
- ca
- le ca
- S
- 390
- 400
- S re 24
- 20
- co</div>
+460 co
+23 360 re
+S le S
+ca
+le ca
+S re 24
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
@@ -475,22 +446,13 @@ Back to the story problem!
 ```{=html}
 <div class="archive-text">Student Growth Percentiles - Academic Peers
 
- 300
- 490
- 330
- 460 co
- 20
- 23 360 re
- 430
- S le S
- ca
- le ca
- S
- 390
- 400
- S re 24
- 20
- co</div>
+460 co
+23 360 re
+S le S
+ca
+le ca
+S re 24
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
@@ -498,27 +460,19 @@ Back to the story problem!
 ```{=html}
 <div class="archive-text">Student Growth Percentiles - Academic Peers
 
- 75% 75
- th
- er
- 300 P
- nt i
+th
+er
+nt i
 
- 490
- ce le G
- wth
- ro
- 330
- 460 co
- 20
- 23 360 re
- 430
- S le S
- ca le S ca
- 390
- 400
- S re 20 24
- co</div>
+ce le G
+wth
+ro
+460 co
+23 360 re
+S le S
+ca le S ca
+S re 20 24
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
@@ -526,34 +480,23 @@ Back to the story problem!
 ```{=html}
 <div class="archive-text">Student Growth Percentiles - Academic Peers
 
- e r s: 6 0
- Pe 3
- c
- i re =
- de m co
- a S
- Ac cale
- 3 S
- 202 75% 75th
- er
- 300 P
- nt i
+Pe 3
+i re =
+de m co
+Ac cale
+202 75% 75th
+er
+nt i
 
- 490
- ce le G
- wth
- ro
- 330
- 460 co
- 20
- 23 360 re
- 430
- S le S
- ca le S ca
- 390
- 400
- S re 20 24
- co</div>
+ce le G
+wth
+ro
+460 co
+23 360 re
+S le S
+ca le S ca
+S re 20 24
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
@@ -561,44 +504,31 @@ Back to the story problem!
 ```{=html}
 <div class="archive-text">Student Growth Percentiles - Academic Peers
 
- Th
- e
- is d 7 5 t h
+Th
+is d 7 5 t h
 
- e r s: 6 0 dat erive perc
- d e
- acaa and from ntile
- Pe 3 dem co a cu
- c
- i re = ic p vers ll the t
- de m co eer a ll
- g ro
- a S
- Ac cale
- ups
+e r s: 6 0 dat erive perc
+acaa and from ntile
+Pe 3 dem co a cu
+i re = ic p vers ll the t
+de m co eer a ll
+g ro
+Ac cale
+ups
 
- 3 S
- 202 75% 75
- th
- er
- 300 P
- nt i
+th
+er
+nt i
 
- 490
- ce le G
- wth
- ro
- 330
- 460 co
- 20
- 23 360 re
- 430
- S le S
- ca le S ca
- 390
- 400
- S re 20 24
- co</div>
+ce le G
+wth
+ro
+460 co
+23 360 re
+S le S
+ca le S ca
+S re 20 24
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
@@ -606,46 +536,32 @@ Back to the story problem!
 ```{=html}
 <div class="archive-text">Student Growth Percentiles - Academic Peers
 
- e r s: 3 0
- Pe 3 Th
- c
- i re = e
- is d 7 5 t h
- de m co dat erive perc
- a S d e
- acaa and from ntile
- Ac cale dem co a cu
- ic p vers ll the t
- 3 S eer a ll
+Pe 3 Th
+i re = e
+is d 7 5 t h
+de m co dat erive perc
+acaa and from ntile
+Ac cale dem co a cu
+ic p vers ll the t
+3 S eer a ll
 
- 20 2 g ro
- ups
+20 2 g ro
+ups
 
- 75% 75th
- er
- 300
- P i
- nt
+75% 75th
+er
+nt
 
- 490
- ce le G
- wth
- ro
+ce le G
+wth
+ro
 
- 330
- 460 co
- 20
- 23 360 re
- 430
- S S
- le
- ca le ca
- S
- 390
- 400
- S re 24
- 20
- co</div>
+460 co
+23 360 re
+le
+ca le ca
+S re 24
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
@@ -653,13 +569,13 @@ Back to the story problem!
 ```{=html}
 <div class="archive-text">Student Growth
 • Peer-based growth calculations are only as good as the assessments on which they are
- based.
+based.
 • With quality assessments, peer based analyses can allow for all students to
- demonstrate growth.
+demonstrate growth.
 • However, ceiling or floor effects on a test can impede the analysis of growth for students
- at the extremes.
+at the extremes.
 • The goal is to be able to allow various stakeholders groups to investigates student
- growth/learning and answer questions relevant to them.
+growth/learning and answer questions relevant to them.
 • What are some of these questions (Yen, 2007).</div>
 ```
 
@@ -682,27 +598,27 @@ Back to the story problem!
 • How close are my students to becoming Pro cient?
 • Are there students with unusually low growth who need special a en on?
 
- ti
- tt
- ti
- fi</div>
+ti
+tt
+ti
+fi</div>
 ```
 
 ## {.archive-slide background-image="slides/37.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Relevant Questions for Administrators
- • Did the students in our district/school make a year’s worth of progress in
- all content areas?
- • Are our students growing appropriately toward mee ng state standards?
- • Does this school/program show as much growth as that one?
- • Can I measure student growth even for students who do not change
- pro ciency categories?
- • Can I pool together results from di erent grades to draw summary
- conclusions?
+• Did the students in our district/school make a year’s worth of progress in
+all content areas?
+• Are our students growing appropriately toward mee ng state standards?
+• Does this school/program show as much growth as that one?
+• Can I measure student growth even for students who do not change
+pro ciency categories?
+• Can I pool together results from di erent grades to draw summary
+conclusions?
 
- ti
- ff
+ti
+ff
 fi</div>
 ```
 
@@ -717,16 +633,16 @@ fi</div>
 ```{=html}
 <div class="archive-text">Growth is achievement over time
 • The figure depicts a student’s ELA
- achievement in Grade 3/2022 and
- Grade 4/2023.
+achievement in Grade 3/2022 and
+Grade 4/2023.
 • The student was Near Proficient in
- both years but their growth (SGP =
- 72) was high (&gt; 1 year of learning).
+both years but their growth (SGP =
+72) was high (&gt; 1 year of learning).
 • Evidence suggests the student in on
- fire in ELA (remember the Yeats
- quote).
+fire in ELA (remember the Yeats
+quote).
 • Compare this with the student’s
- mathematics performance.</div>
+mathematics performance.</div>
 ```
 
 ## {.archive-slide background-image="slides/40.webp" background-size="contain" background-color="#14140f"}
@@ -740,15 +656,15 @@ fi</div>
 ```{=html}
 <div class="archive-text">Growth is achievement over time
 • Like ELA, the student’s is Near
- Proficient in both Grade 3/2022 and
- Grade 4/2023.
+Proficient in both Grade 3/2022 and
+Grade 4/2023.
 • Yet their growth from 2022 to 2023 is
- &lt; 1 year.
+&lt; 1 year.
 • Why robust learning in ELA but not in
- math?
+math?
 • What strategies can 5th grade
- teachers use to continue the ELA
- trend and reverse the math trend?</div>
+teachers use to continue the ELA
+trend and reverse the math trend?</div>
 ```
 
 ## {.archive-slide background-image="slides/42.webp" background-size="contain" background-color="#14140f"}
@@ -757,63 +673,61 @@ fi</div>
 <div class="archive-text">Carina Roper Sample School
 
 How to interpret this student
- Advanced
- English
+Advanced
+English
 growth &amp; achievement report Language Arts
- Achievement
- Proficient MSSA
- MSSA English
- Language Arts
- &gt; 1 Year
- Scale Score Scale Score
+Achievement
+Proficient MSSA
+MSSA English
+Language Arts
+&gt; 1 Year
+Scale Score Scale Score
 
- Growth
- Level Percentiles
- About 1 Year
- MSSA Near Proficient &gt; 1 Year 66th − 99th
- Achievement
- Levels &lt; 1 Year
- About 1 Year35th − 65th
+Growth
+Level Percentiles
+About 1 Year
+MSSA Near Proficient &gt; 1 Year 66th − 99th
+Achievement
+Levels &lt; 1 Year
+About 1 Year35th − 65th
 
- &lt; 1 Year 1st − 34th
- Novice
- Student
- Growth Grade 3 Grade 4 Grade 5
- 2022 2023 2024
- Percentile Scale Score 341 453
- Achievement Level Near Proficient Near Proficient Achievement
- Growth Percentile 72
- Growth Level &gt; 1 Year Growth
- Suggested Uses
+&lt; 1 Year 1st − 34th
+Novice
+Student
+Growth Grade 3 Grade 4 Grade 5
+Percentile Scale Score 341 453
+Achievement Level Near Proficient Near Proficient Achievement
+Growth Percentile 72
+Growth Level &gt; 1 Year Growth
+Suggested Uses
 
- Advanced
- Review past growth to assess
- student academic progress toward Math
- MSSA achievement goals.
- Achievement
- Proficient
- Develop remediation or enrich− MSSA Math
- ment plans based on rate of Scale Score
- &gt; 1 Year
- growth needed to reach higher
- MSSA achievement levels. Growth
- Level Percentiles
- Identify the rate of progress
- Near Proficient
- needed in order to reach or About 1 Year &gt; 1 Year 66th − 99th
- maintain proficient status
- on the MSSA next year. About 1 Year35th − 65th
- &lt; 1 Year
+Advanced
+Review past growth to assess
+student academic progress toward Math
+MSSA achievement goals.
+Achievement
+Proficient
+Develop remediation or enrich− MSSA Math
+ment plans based on rate of Scale Score
+&gt; 1 Year
+growth needed to reach higher
+MSSA achievement levels. Growth
+Level Percentiles
+Identify the rate of progress
+Near Proficient
+needed in order to reach or About 1 Year &gt; 1 Year 66th − 99th
+maintain proficient status
+on the MSSA next year. About 1 Year35th − 65th
+&lt; 1 Year
 
- Novice &lt; 1 Year 1st − 34th
+Novice &lt; 1 Year 1st − 34th
 
- Grade 3 Grade 4 Grade 5
- 2022 2023 2024
+Grade 3 Grade 4 Grade 5
 
- Scale Score 352 448
- Achievement Level Near Proficient Near Proficient Achievement
- Growth Percentile 34
- Growth Level &lt; 1 Year Growth
+Scale Score 352 448
+Achievement Level Near Proficient Near Proficient Achievement
+Growth Percentile 34
+Growth Level &lt; 1 Year Growth
 
 For more information please visit the New Mexico Public Education Department (NMPED) at http://ped.state.nm.us or contact 505−827−5800
 Cooperatively developed by NMPED &amp; the Center for Assessment, Inc. Distributed by NMPED.</div>
@@ -823,35 +737,26 @@ Cooperatively developed by NMPED &amp; the Center for Assessment, Inc. Distribut
 
 ```{=html}
 <div class="archive-text">Changing conversations about education
- • Accountability together with disconnected point in me assessments have
- led to a focus on outcomes (achievement) at the expense of learning/
- growth.
- • This focus has led to incoherence in the way we understand the
- performance of our educa on systems and the way in which we hold them
- accountable.
- • How much students grow/learn is directly connected to later levels of
- achievement in the same way velocity is related to distance traveled.
- • The purpose of New Mexico’s Growth Model/SGPs is to make these
- connec ons apparent and change stakeholder conversa ons about
- educa on and student performance.
+• Accountability together with disconnected point in me assessments have
+led to a focus on outcomes (achievement) at the expense of learning/
+growth.
+• This focus has led to incoherence in the way we understand the
+performance of our educa on systems and the way in which we hold them
+accountable.
+• How much students grow/learn is directly connected to later levels of
+achievement in the same way velocity is related to distance traveled.
+• The purpose of New Mexico’s Growth Model/SGPs is to make these
+connec ons apparent and change stakeholder conversa ons about
+educa on and student performance.
 
- ti
- ti
- ti
- ti
+ti
+ti
+ti
+ti
 ti</div>
 ```
 
 ## {.archive-slide background-image="slides/44.webp" background-size="contain" background-color="#14140f"}
-
-```{=html}
-<div class="archive-text">e t ?
- e y
- h e r
- e t
- e w
-A r</div>
-```
 
 ## {.archive-slide background-image="slides/45.webp" background-size="contain" background-color="#14140f"}
 
@@ -863,7 +768,7 @@ A r</div>
 
 ```{=html}
 <div class="archive-text">Thank you for
- Inviting me</div>
+Inviting me</div>
 ```
 
 ## {.archive-slide background-image="slides/47.webp" background-size="contain" background-color="#14140f"}

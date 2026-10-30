@@ -14,10 +14,10 @@ format:
 ```{=html}
 <div class="archive-text">Student Academic Growth and COVID-19
 
- Damian Betebenner &amp; Adam VanIwaarden
- Reidy Interactive Lecture Series 2020
+Damian Betebenner &amp; Adam VanIwaarden
+Reidy Interactive Lecture Series 2020
 
- August 21st, 2020</div>
+August 21st, 2020</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -26,18 +26,18 @@ format:
 <div class="archive-text">The Scene
 
 • We all know the situation
- – Global pandemic
- – Education interrupted worldwide with widespread cancellation
- of in person education in the US beginning in March, 2020
- – Suspension of state summative testing and accountability for
- 2019-2020 school year
- – Unclear about the scope and format of K-12 education for the
- 2020-2021 school year even as Fall 2020 is upon us
- – Lack of clarity on state summative testing and accountability for
- 2020-2021 including the use and calculation of academic student
- growth
+– Global pandemic
+– Education interrupted worldwide with widespread cancellation
+of in person education in the US beginning in March, 2020
+– Suspension of state summative testing and accountability for
+2019-2020 school year
+– Unclear about the scope and format of K-12 education for the
+2020-2021 school year even as Fall 2020 is upon us
+– Lack of clarity on state summative testing and accountability for
+2020-2021 including the use and calculation of academic student
+growth
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -46,21 +46,21 @@ format:
 <div class="archive-text">Spoiler Alert
 
 • Should states calculate student growth? Yes!
- – The calculation of student growth has never been more important than now.
- – Student growth can be used in dozens of ways (not usually done for
- accountability) to help schools, districts, states assess and ameliorate the
- impact of COVID-19.
+– The calculation of student growth has never been more important than now.
+– Student growth can be used in dozens of ways (not usually done for
+accountability) to help schools, districts, states assess and ameliorate the
+impact of COVID-19.
 • Should states use student growth for education accountability in
- 2021? Problematic!
- – Need to substitute skip-year growth (two year growth from 2019 to 2021) for
- usual one-year growth. We discuss this in greater detail today.
- – Besides school interruption in spring 2020, student’s education will non-normal
- and disparate in the 2020-2021 academic year -- likely impacting opportunity to
- learn.
- – There are more beneficial applications of student growth for the coming year
- than just typical school accountability
+2021? Problematic!
+– Need to substitute skip-year growth (two year growth from 2019 to 2021) for
+usual one-year growth. We discuss this in greater detail today.
+– Besides school interruption in spring 2020, student’s education will non-normal
+and disparate in the 2020-2021 academic year -- likely impacting opportunity to
+learn.
+– There are more beneficial applications of student growth for the coming year
+than just typical school accountability
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -69,13 +69,13 @@ format:
 <div class="archive-text">Overview of Today’s Presentation
 
 1. Calculating skip-year (i.e. two-year) academic
- student growth
+student growth
 2. Using skip-year growth for “business as usual”
- accountability.
+accountability.
 3. Using skip-year growth for in depth investigations of
- the impact of COVID-19
+the impact of COVID-19
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -85,15 +85,15 @@ format:
 
 • There are several growth models in use by states.
 • The Data Quality Campaign (DQC, 2019) put together a good
- summary of growth model use by states. In order of use:
- – SGP (norm- and/or criterion-referenced/growth-to-standard)
- – Value-Tables
- – Value-Added
- – Gain scores
+summary of growth model use by states. In order of use:
+– SGP (norm- and/or criterion-referenced/growth-to-standard)
+– Value-Tables
+– Value-Added
+– Gain scores
 • I’ll try to address issues/possibilities with all models
- however most data I present will be SGP specific.
+however most data I present will be SGP specific.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -102,15 +102,15 @@ format:
 <div class="archive-text">Calculating Skip-Year Growth
 
 • It is straight forward to calculate growth across a two-
- year span.
+year span.
 • Such analyses have been common for years in several
- states:
- – where a grade level is skipped as part of annual summative
- testing (e.g., growth from grade 8 to grade 10)
- – where end-of-course tests are administered and the prior test is
- two or more years earlier.
+states:
+– where a grade level is skipped as part of annual summative
+testing (e.g., growth from grade 8 to grade 10)
+– where end-of-course tests are administered and the prior test is
+two or more years earlier.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -119,17 +119,17 @@ format:
 <div class="archive-text">Calculating Skip-Year Growth
 
 • Assuming state summative testing occurs as usual in Spring
- 2021, calculating skip-year growth from 2019 to 2021
- should be fairly routine.
+2021, calculating skip-year growth from 2019 to 2021
+should be fairly routine.
 • Student growth cohorts in most states will be:
- – ELA and Math Grade 3 to 5, 4 to 6, 5 to 7, 6 to 8
+– ELA and Math Grade 3 to 5, 4 to 6, 5 to 7, 6 to 8
 • Additional priors from 2018 can be used in some models.
 • Interpretation may be far from routine.
- – Two-year academic student growth instead of a single year
- – Growth for 4th graders won’t exist because of no prior test from 2019
- – EOCT analyses might not be available (e.g., 8th grade to Algebra I)
+– Two-year academic student growth instead of a single year
+– Growth for 4th graders won’t exist because of no prior test from 2019
+– EOCT analyses might not be available (e.g., 8th grade to Algebra I)
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -138,19 +138,19 @@ format:
 <div class="archive-text">Calculating Skip-Year Growth
 
 • There are a couple of ways that state testing might
- not occur as usual in 2021.
- – Testing might be cancelled as it was in 2020. No testing in 2021
- means no calculation of skip-year growth.
- – Testing might only occur with a (non-random) subset of the
- entire population of students. Later in the presentation we
- discuss how states can calculate growth in this situation.
- – State tests might be modified to accommodate pandemic related
- constraints in 2021 (e.g., abbreviated forms).
- – Some other option between no-test and census testing.
+not occur as usual in 2021.
+– Testing might be cancelled as it was in 2020. No testing in 2021
+means no calculation of skip-year growth.
+– Testing might only occur with a (non-random) subset of the
+entire population of students. Later in the presentation we
+discuss how states can calculate growth in this situation.
+– State tests might be modified to accommodate pandemic related
+constraints in 2021 (e.g., abbreviated forms).
+– Some other option between no-test and census testing.
 • What follows assumes some sort of testing takes
- place in Spring 2021.
+place in Spring 2021.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -160,20 +160,20 @@ format:
 
 • States need to validate the use of skip-year growth in lieu of annual growth.
 • One approach to supporting claims of using skip-year growth would be to use
- historical data to compare skip-year to one-year growth.
- – Many states are looking at student growth from 2017 to 2019/2016 to 2018
+historical data to compare skip-year to one-year growth.
+– Many states are looking at student growth from 2017 to 2019/2016 to 2018
 • However, historical data provides evidence during much different educational
- circumstances than we have today.
- – A recent study by Burbio (2020) found that 52% of students will go to school remote only, 25%
- will attend in person every day, 19% will have some hybrid plan, the remaining 4% are
- undecided.
+circumstances than we have today.
+– A recent study by Burbio (2020) found that 52% of students will go to school remote only, 25%
+will attend in person every day, 19% will have some hybrid plan, the remaining 4% are
+undecided.
 • However, if it doesn’t work under standard circumstances, it shouldn’t be used
- under non-standard (i.e., current) circumstances.
+under non-standard (i.e., current) circumstances.
 • Perhaps even more important are practical/pragmatic/political considerations
- of implementing an accountability system using summative assessment data
- during a pandemic.
+of implementing an accountability system using summative assessment data
+during a pandemic.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -182,20 +182,20 @@ format:
 <div class="archive-text">Using Growth for Accountability
 
 • There are some data and analysis requirements so
- that the results inform the presumed 2019 to 2021
- growth results.
- – Need data from 2017 to 2019 or some other two-year span in
- the same grades and content areas as the 2019 to 2021 span.
- – Data from 2017 to 2019 should provide similarly interpretable
- growth results as 2019 to 2021.
- • No change in test or test-scale helpful
- • If test or test scale change, a norm-referenced model is less
- restrictive.
- – Norm-referenced models (SGP, value-tables and value-added)
- easier to apply but growth-to-standard possible (more on this
- later).
+that the results inform the presumed 2019 to 2021
+growth results.
+– Need data from 2017 to 2019 or some other two-year span in
+the same grades and content areas as the 2019 to 2021 span.
+– Data from 2017 to 2019 should provide similarly interpretable
+growth results as 2019 to 2021.
+• No change in test or test-scale helpful
+• If test or test scale change, a norm-referenced model is less
+restrictive.
+– Norm-referenced models (SGP, value-tables and value-added)
+easier to apply but growth-to-standard possible (more on this
+later).
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -204,17 +204,17 @@ format:
 <div class="archive-text">An aside about growth-to-standard
 
 • Several states use some form of growth-to-standard (i.e.,
- criterion-referenced growth, adequate growth) as part of
- their growth analyses.
+criterion-referenced growth, adequate growth) as part of
+their growth analyses.
 • With SGP, growth-to-standard targets can be calculated in
- 2021 with the skip year.
+2021 with the skip year.
 • Gain-score based trajectories will be (I think) more
- problematic
+problematic
 • Analyses that follow can be conducted with, for example,
- percentage of students meeting or exceeded their growth
- target (one-year and skip-year).
+percentage of students meeting or exceeded their growth
+target (one-year and skip-year).
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -223,17 +223,17 @@ format:
 <div class="archive-text">An aside about non-census testing
 
 • It’s unclear to what extent and in what way state
- summative testing will occur in spring 2021.
+summative testing will occur in spring 2021.
 • One possibility is no-testing. Another possibility is
- testing as usual. A third possibility is something in
- between – testing of some students (probably not
- randomly selected)
+testing as usual. A third possibility is something in
+between – testing of some students (probably not
+randomly selected)
 • For this situation, historical/baseline growth norms
- can be employed (more on this later) or sampling
- weights can be applied to create state representative
- growth norms.
+can be employed (more on this later) or sampling
+weights can be applied to create state representative
+growth norms.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -242,19 +242,19 @@ format:
 <div class="archive-text">Using Growth for Accountability: Analyses
 
 • Broadly investigate whether skip-year growth
- (dis)advantages certain types of students.
+(dis)advantages certain types of students.
 • If calculating individual level growth as part of growth
- model (e.g., SGP or gain scores)
- – summary statistics between one-year and skip-year growth
- values.
- • Counts/percentages (total and by demographic subgroup) of one-
- year versus skip-year growth
- • Mean/standard deviation of one-year and skip-year growth values.
- • Mean/standard deviation of prior attainment for one-year and skip-
- year growth students. Mean/standard deviation of one-year and
- skip-year growth values for relevant demographic subgroups
+model (e.g., SGP or gain scores)
+– summary statistics between one-year and skip-year growth
+values.
+• Counts/percentages (total and by demographic subgroup) of one-
+year versus skip-year growth
+• Mean/standard deviation of one-year and skip-year growth values.
+• Mean/standard deviation of prior attainment for one-year and skip-
+year growth students. Mean/standard deviation of one-year and
+skip-year growth values for relevant demographic subgroups
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -263,19 +263,19 @@ format:
 <div class="archive-text">Using Growth for Accountability: Analyses
 
 • Broadly investigate whether skip-year growth
- (dis)advantages certain types of schools/districts/
- teachers.
+(dis)advantages certain types of schools/districts/
+teachers.
 • For school/district/teacher level aggregates/effects:
- – summary statistics between one-year and skip-year growth
- values.
- • Counts/percentages (total and by demographic subgroup)
- • Mean/standard deviation of one-year and skip-year growth values.
- • Correlation between one-year and skip-year growth values and
- average prior attainment.
- • Correlation between one-year and skip-year growth values and
- school demographic characteristics (e.g., percent FRL)
+– summary statistics between one-year and skip-year growth
+values.
+• Counts/percentages (total and by demographic subgroup)
+• Mean/standard deviation of one-year and skip-year growth values.
+• Correlation between one-year and skip-year growth values and
+average prior attainment.
+• Correlation between one-year and skip-year growth values and
+school demographic characteristics (e.g., percent FRL)
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -284,13 +284,13 @@ format:
 <div class="archive-text">Using Growth for Accountability: Results
 
 • Results depicted here are only for the SGP related
- analyses.
+analyses.
 • Results are based upon ongoing due-diligence work
- with 10 states in preparation for 2021.
+with 10 states in preparation for 2021.
 • Most of the results could be replicated using other
- growth model methodologies.
+growth model methodologies.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -301,21 +301,21 @@ format:
 Individual Level Results (SGP): Who gets left out when using skip-year growth versus one-
 year growth.
 • For each state, in normal years, approximately 90 to 95 percent of students tested
- receive a one-year SGP. That is, 5 to 10 percent of students are missing the prior from
- the previous year.
+receive a one-year SGP. That is, 5 to 10 percent of students are missing the prior from
+the previous year.
 • Fourth graders don’t (usually) have a score from two-years prior (i.e., 2nd Grade) and
- thus won’t have an SGP. Also, some EOCT test sequences are not possible (e.g., 8th grade
- math to Algebra I).
+thus won’t have an SGP. Also, some EOCT test sequences are not possible (e.g., 8th grade
+math to Algebra I).
 • For the 2017-2019 skip year analyses of students potentially having a two-year prior,
- approximately 5% of students have no skip-year SGP but have a one-year SGP.
+approximately 5% of students have no skip-year SGP but have a one-year SGP.
 • Thus, approximately 85 to 90 percent of students tested (and who could potentially have
- a skip-year SGP) receive a skip-year SGP.
+a skip-year SGP) receive a skip-year SGP.
 • Students with no skip-year SGP tend to be slightly lower achieving than those with
- (mean prior standardized score ~-0.1)
+(mean prior standardized score ~-0.1)
 • Demographic characteristics associated with students with no skip-year SGP are not
- appreciably different than one-year SGP students.
+appreciably different than one-year SGP students.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -323,27 +323,21 @@ year growth.
 ```{=html}
 <div class="archive-text">Using Growth for Accountability: Results
 
- Individual Level Results (SGP): Are there systematic differences
- between the skip-year and one-year SGPs.
- • Mean/standard deviation of one-year and skip-year growth SGPs
- are almost identical (which is what you’d expect since they are
- created that way).
- • Correlations between one-year and skip-year SGPs are very high
- ranging from 0.85 to 0.95.
- • Correlations are not appreciably impacted by grade, content area,
- ethnicity, free-reduced lunch status, or special education status.
+Individual Level Results (SGP): Are there systematic differences
+between the skip-year and one-year SGPs.
+• Mean/standard deviation of one-year and skip-year growth SGPs
+are almost identical (which is what you’d expect since they are
+created that way).
+• Correlations between one-year and skip-year SGPs are very high
+ranging from 0.85 to 0.95.
+• Correlations are not appreciably impacted by grade, content area,
+ethnicity, free-reduced lunch status, or special education status.
 
- • − &lt; 10 for ~95% of students.
- • In general, at the individual level one-year and skip-year SGPs
- tend to be highly aligned.
+• − &lt; 10 for ~95% of students.
+• In general, at the individual level one-year and skip-year SGPs
+tend to be highly aligned.
 
-𝑆 𝐺 𝑃
- 𝑠 𝑘 𝑖 𝑝
-
- 𝑆 𝐺 𝑃
- 𝑁 𝑂 𝑆 𝐾 𝐼 𝑃
-
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
@@ -354,19 +348,19 @@ year growth.
 School Level Results (SGP): Are there systematic differences between school level skip-year
 versus school level one-year SGP.
 • Using just school identifiers, the correlations (ranging across states) between median/
- mean skip-year and one-year SGPs are between 0.85 and 0.9.
+mean skip-year and one-year SGPs are between 0.85 and 0.9.
 • Because elementary schools don’t have 4th graders with growth, correlations between
- median/mean skip-year and one-year SGPs for those schools are between 0.8 and 0.9.
+median/mean skip-year and one-year SGPs for those schools are between 0.8 and 0.9.
 • For middle schools, the correlations between median/mean skip-year and one-year SGPs
- are between 0.9 and 0.97.
+are between 0.9 and 0.97.
 • Median absolute differences for median/mean skip-year and one-year SGPs for schools
- are &lt; 2 for middle schools and &lt; 4 for elementary schools (due to missing 4th grade
- growth).
+are &lt; 2 for middle schools and &lt; 4 for elementary schools (due to missing 4th grade
+growth).
 • However, 0.95 quantile of absolute differences for median/mean skip-year and one-year
- SGPs for schools are ~10 for elementary schools and ~6 for middle schools. These are
- substantial fluctuations with respect to most state accountability systems.
+SGPs for schools are ~10 for elementary schools and ~6 for middle schools. These are
+substantial fluctuations with respect to most state accountability systems.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -378,13 +372,13 @@ School Level Results (SGP): Are there systematic
 differences between school level skip-year versus school
 level one-year SGP.
 • Correlations between mean/median SGP and mean
- prior achievement (standardized) were, in general,
- slightly lower for skip year than non-skip year.
+prior achievement (standardized) were, in general,
+slightly lower for skip year than non-skip year.
 • Correlations between mean/median SGP and percent
- free/reduced lunch were, in general, about the same
- for skip year and non-skip year.
+free/reduced lunch were, in general, about the same
+for skip year and non-skip year.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
@@ -393,23 +387,23 @@ level one-year SGP.
 <div class="archive-text">Using Growth for Accountability: Summary
 
 • Results for one-year versus skip-year results at both the individual- and
- school-level were showed similarity.
+school-level were showed similarity.
 • Absolute difference in mean/median SGPs for schools are likely large
- enough to change accountability growth scores for schools.
+enough to change accountability growth scores for schools.
 • These results, alone, don’t disqualify skip-year growth use in 2021.
- However, these results also don’t qualify their use:
- – 2019 to 2021 conditions are far different than 2017 to 2019.
- – Opportunity to learn is likely a significant issue due to varying levels of parental and
- school support during the pandemic. This will likely substantially impact Spring 2021
- test results (status and growth).
- – States should plan on calculating skip-year growth again in 2021 and comparing the
- results to 2017-2019 skip-year growth as part of ongoing validation efforts with
- respect to accountability use.
+However, these results also don’t qualify their use:
+– 2019 to 2021 conditions are far different than 2017 to 2019.
+– Opportunity to learn is likely a significant issue due to varying levels of parental and
+school support during the pandemic. This will likely substantially impact Spring 2021
+test results (status and growth).
+– States should plan on calculating skip-year growth again in 2021 and comparing the
+results to 2017-2019 skip-year growth as part of ongoing validation efforts with
+respect to accountability use.
 • In addition to calculating skip-year growth, states should run
- accountability calculations for 2019 over to see to what extent school
- grades/categorizations changed.
+accountability calculations for 2019 over to see to what extent school
+grades/categorizations changed.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
@@ -418,18 +412,18 @@ level one-year SGP.
 <div class="archive-text">Going Beyond Accountability
 
 • As part of due diligence in the use of growth, states
- should calculate skip-year, academic student using
- Spring 2021 data.
+should calculate skip-year, academic student using
+Spring 2021 data.
 • Depending upon the growth model, states can
- investigate numerous issues related to COVID-19
- – Is there differential impact of the COVID-19 pandemic on student
- groups impacting opportunity to learn?
- – What is the overall impact of the COVID-19 pandemic on the
- learning of students?
+investigate numerous issues related to COVID-19
+– Is there differential impact of the COVID-19 pandemic on student
+groups impacting opportunity to learn?
+– What is the overall impact of the COVID-19 pandemic on the
+learning of students?
 • To illustrate we show how SGPs can be used to
- address these two questions.
+address these two questions.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
@@ -448,9 +442,9 @@ the accountability system as the sole determiner of sanctions for
 schools, they could be used to flag schools that need more
 intensive investigation to reach sound conclusions about needed
 improvements or judgments about quality
- Robert Linn, 2008, p. 21
+Robert Linn, 2008, p. 21
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
@@ -459,15 +453,15 @@ improvements or judgments about quality
 <div class="archive-text">Going Beyond Accountability
 
 • Skip-year growth data in 2021 opens the door to
- numerous analytic investigations that go beyond
- accountability calculations most states perform.
+numerous analytic investigations that go beyond
+accountability calculations most states perform.
 • Two important investigative tracks states can pursue:
- – Investigate different impact on student learning for various
- student groups.
- – Investigate the overall impact on student learning for the state
- and for various student groups.
+– Investigate different impact on student learning for various
+student groups.
+– Investigate the overall impact on student learning for the state
+and for various student groups.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
@@ -476,23 +470,23 @@ improvements or judgments about quality
 <div class="archive-text">Going Beyond Accountability
 
 • For SGP a common investigative technique is to look at “growth gaps”: Group mean/
- median SGP differences to identify issues worth investigating more deeply.
- – Issues related to opportunity to learn can be examined by looking at growth gaps for relevant demographic
- subgroups.
- – Issues related to program efficacy can be examined by looking at growth gaps for relevant groups receiving
- different “treatments”.
- – With good meta-data associated with student education in the 2020-2021 school year it’s possible to examine
- differential growth of students subjected to remote versus in person learning.
+median SGP differences to identify issues worth investigating more deeply.
+– Issues related to opportunity to learn can be examined by looking at growth gaps for relevant demographic
+subgroups.
+– Issues related to program efficacy can be examined by looking at growth gaps for relevant groups receiving
+different “treatments”.
+– With good meta-data associated with student education in the 2020-2021 school year it’s possible to examine
+differential growth of students subjected to remote versus in person learning.
 • Extending this idea states can compare growth gaps over time (i.e., skip-year growth
- gaps in 2019 versus skip-year growth gaps in 2021) to examine whether growth gaps
- have waned or extended with the COVID-19 pandemic.
- – In most states there has always been a growth gap between FRL/non-FRL. Has the growth-gap widened? Is the
- the same in ELA and Mathematics? Is it the same across grades?
- – These ”over time” investigation will allow states to rigorously examine changes in opportunity to learn that
- have occurred during the COVID-19 pandemic.
+gaps in 2019 versus skip-year growth gaps in 2021) to examine whether growth gaps
+have waned or extended with the COVID-19 pandemic.
+– In most states there has always been a growth gap between FRL/non-FRL. Has the growth-gap widened? Is the
+the same in ELA and Mathematics? Is it the same across grades?
+– These ”over time” investigation will allow states to rigorously examine changes in opportunity to learn that
+have occurred during the COVID-19 pandemic.
 • For SGPs, mean SGP group deviations of 5 correspond to an effect size of 0.18.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
@@ -501,18 +495,18 @@ improvements or judgments about quality
 <div class="archive-text">Going Beyond Accountability
 
 • A critical component of utilizing growth data to its potential is to have
- all the relevant grouping variables at your disposal.
+all the relevant grouping variables at your disposal.
 • To investigate the impact of different 2020-2021 school/district
- implemented COVID-19 educational programs, one needs to know what
- those programs are.
- – Remote, hybrid, concurrent, in-person. These are likely to change throughout the
- year so observing these on multiple occasion is likely required.
- – COVID-19 postponement/cancellation at school requiring shift to remote learning.
- – School start day, number of days of instruction
- – District/school autonomy to implement policies (e.g., masks, social distancing).
+implemented COVID-19 educational programs, one needs to know what
+those programs are.
+– Remote, hybrid, concurrent, in-person. These are likely to change throughout the
+year so observing these on multiple occasion is likely required.
+– COVID-19 postponement/cancellation at school requiring shift to remote learning.
+– School start day, number of days of instruction
+– District/school autonomy to implement policies (e.g., masks, social distancing).
 • It’s critical to start preparing to collect this data NOW!
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
@@ -521,17 +515,17 @@ improvements or judgments about quality
 <div class="archive-text">Going Beyond Accountability
 
 • A limitation of norm-referenced analyses is that year-to-year fluctuation
- in overall student learning is masked by the re-norming from year to
- year.
+in overall student learning is masked by the re-norming from year to
+year.
 • Given that we believe student learning is severely impacted by the
- COVID-19 pandemic, this is a serious limitation as it prevents examining
- the impact to student learning at the state level and might mask
- extremely poor learning overall for groups.
+COVID-19 pandemic, this is a serious limitation as it prevents examining
+the impact to student learning at the state level and might mask
+extremely poor learning overall for groups.
 • One way to overcome this limitation is to use pre-COVID-19 skip-year
- baseline growth norms to calculate 2019-2021 growth:
+baseline growth norms to calculate 2019-2021 growth:
 • 2019-2021 growth will be normed relative to pre-COVID-19 growth.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
@@ -540,18 +534,17 @@ improvements or judgments about quality
 <div class="archive-text">Going Beyond Accountability
 
 • All growth in 2021 would be placed on the previous two-
- year growth rates to better understand student learning.
+year growth rates to better understand student learning.
 • Baseline two-year growth will have mean/median of 50 at
- the state level so 2021 growth can be examined relative to
- 50.
+the state level so 2021 growth can be examined relative to
 • All growth gaps can be examined using the baseline growth
- as well.
+as well.
 • Baseline analyses require no scale change between baseline
- years and 2021.
+years and 2021.
 • States should produce both cohort referenced as well as
- baseline referenced SGPs if they can.
+baseline referenced SGPs if they can.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
@@ -560,21 +553,21 @@ improvements or judgments about quality
 <div class="archive-text">Spoiler Redux
 
 • Should states calculate student growth? Yes!
- – The calculation of student growth has never been more important than now.
- – Student growth can be used in dozens of ways (not usually done for
- accountability) to help schools, districts, states assess and ameliorate the
- impact of COVID-19.
+– The calculation of student growth has never been more important than now.
+– Student growth can be used in dozens of ways (not usually done for
+accountability) to help schools, districts, states assess and ameliorate the
+impact of COVID-19.
 • Should states use student growth for education accountability in
- 2021? Problematic!
- – Need to substitute skip-year growth (two year growth from 2019 to 2021) for
- usual one-year growth. We discuss this in greater detail today.
- – Besides school interruption in spring 2020, student’s education will non-normal
- and disparate in the 2020-2021 academic year -- likely impacting opportunity to
- learn.
- – There are more beneficial applications of student growth for the coming year
- than just typical school accountability
+2021? Problematic!
+– Need to substitute skip-year growth (two year growth from 2019 to 2021) for
+usual one-year growth. We discuss this in greater detail today.
+– Besides school interruption in spring 2020, student’s education will non-normal
+and disparate in the 2020-2021 academic year -- likely impacting opportunity to
+learn.
+– There are more beneficial applications of student growth for the coming year
+than just typical school accountability
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
@@ -583,17 +576,17 @@ improvements or judgments about quality
 <div class="archive-text">Resources
 
 • Source code for skip-year SGP analyses that simulate
- the COVID-19 test cancellation are available at:
- https://github.com/CenterForAssessment/
- SGP_Research/tree/master/Demonstration/
- Skip_Year_Analysi
+the COVID-19 test cancellation are available at:
+https://github.com/CenterForAssessment/
+SGP_Research/tree/master/Demonstration/
+Skip_Year_Analysi
 • Betebenner &amp; VanIwaarden blog https://
- www.nciea.org/blog/sgp/issues-and-considerations-
- covid-19-pandemic-presents-measuring-student-
- growth
+www.nciea.org/blog/sgp/issues-and-considerations-
+covid-19-pandemic-presents-measuring-student-
+growth
 • Detailed paper forthcoming
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
@@ -608,7 +601,7 @@ Campaign, January, 2019 (Available here)
 Linn, R. L. (2008) Educational accountability systems. In The Future of Test-
 Based Educational Accountability, pages 3–24. Taylor &amp; Francis, New York.
 
- Student Academic Growth and COVID-19</div>
+Student Academic Growth and COVID-19</div>
 ```
 
 ## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
@@ -619,9 +612,9 @@ Based Educational Accountability, pages 3–24. Taylor &amp; Francis, New York.
 Center for Assessment
 www.nciea.org
 
- If you have any questions,
- feel free to email me:
- dbetebenner@nciea.org</div>
+If you have any questions,
+feel free to email me:
+dbetebenner@nciea.org</div>
 ```
 
 ## About this copy {.archive-about}

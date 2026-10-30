@@ -33,12 +33,11 @@ Scott
 <div class="archive-text">Hawaii Testing in 2021
 • Hawaii administered both SBA and WIDA-ACCESS in spring 2021.
 • Both assessments were full form, in person administrations.
- • SBA administered in Grades 3 to 8 and 11 in ELA and Mathematics. NOT
- administered in spring 2020.
- • WIDA-ACCESS administered in K to 12. It was administered in spring
- 2020.
+• SBA administered in Grades 3 to 8 and 11 in ELA and Mathematics. NOT
+administered in spring 2020.
+• WIDA-ACCESS administered in K to 12. It was administered in spring
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -46,17 +45,17 @@ Scott
 ```{=html}
 <div class="archive-text">SBA SGP Operational Considerations in 2021
 • Due to no SBA testing in Spring 2020, SBA growth analyses will be skip-
- year/gap year growth from 2019 to 2021.
+year/gap year growth from 2019 to 2021.
 • Two types of SGP analyses were conducted for SBA data:
- • Cohort referenced analyses: These analyses create growth norms from the
- 2019 to 2021 students. These growth norms yield cohort means/median
- SGPs of 50 and obscure COVID-19 academic impact.
- • Baseline referenced analyses: Historical growth norms were created using
- 2019 and prior data. These growth growth analyses don’t have mean/median
- SGPs of 50 and can be used to investigate overall COVID-19 academic impact
+• Cohort referenced analyses: These analyses create growth norms from the
+2019 to 2021 students. These growth norms yield cohort means/median
+SGPs of 50 and obscure COVID-19 academic impact.
+• Baseline referenced analyses: Historical growth norms were created using
+2019 and prior data. These growth growth analyses don’t have mean/median
+SGPs of 50 and can be used to investigate overall COVID-19 academic impact
 • Projections (lagged and straight) were calculated for 2021 data using
- baseline growth norms in case they were needed.
- Hawaii SGP Calculations 2021</div>
+baseline growth norms in case they were needed.
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -64,17 +63,17 @@ Scott
 ```{=html}
 <div class="archive-text">WIDA-ACCESS SGP Operational Considerations in 2021
 • Two types of SGP analyses were conducted for WIDA-ACCESS data:
- • Cohort referenced analyses: These analyses create growth norms from the
- 2020 to 2021 students. These growth norms yield cohort mean/median SGPs
- of 50 and obscure COVID-19 academic impact.
- • Baseline referenced analyses: Historical growth norms were created using
- 2020 and prior data. These growth growth analyses don’t have mean/median
- SGPs of 50 and can be used to investigate overall COVID-19 academic impact.
+• Cohort referenced analyses: These analyses create growth norms from the
+2020 to 2021 students. These growth norms yield cohort mean/median SGPs
+of 50 and obscure COVID-19 academic impact.
+• Baseline referenced analyses: Historical growth norms were created using
+2020 and prior data. These growth growth analyses don’t have mean/median
+SGPs of 50 and can be used to investigate overall COVID-19 academic impact.
 • Use composite score from WIDA-ACCESS data. No analyses performed
- using sub-scores.
+using sub-scores.
 • Projections (lagged and straight) were calculated for 2021 data using
- both cohort and baseline growth norms in case they were needed.
- Hawaii SGP Calculations 2021</div>
+both cohort and baseline growth norms in case they were needed.
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -82,20 +81,20 @@ Scott
 ```{=html}
 <div class="archive-text">SGP Summary of Cohort versus Baseline Referenced
 • Cohort referenced SGPs
- • Growth norms created from the current cohort of students.
- • Mean/median will by 50 for all grade x content area analyses
- • Cannot investigate overall impact of the pandemic on students.
- • Can investigate differential impact of the pandemic on students.
- • Does not require scale stability across years.
+• Growth norms created from the current cohort of students.
+• Mean/median will by 50 for all grade x content area analyses
+• Cannot investigate overall impact of the pandemic on students.
+• Can investigate differential impact of the pandemic on students.
+• Does not require scale stability across years.
 • Baseline referenced SGPs.
- • Growth norms created from historical (i.e., pre-COVID) cohorts of students.
- • Mean/median 50 for historical cohort, not necessarily 50 for current cohort.
- • Extent of deviation from (i.e. below) 50 is indicative of less learning/pandemic related
- academic impact.
- • Mean SGP deviation of 5 corresponds to an effect size of 0.18.
- • Can investigate BOTH overall impact and differential impact
- • Requires scale stability across years.
- Hawaii SGP Calculations 2021</div>
+• Growth norms created from historical (i.e., pre-COVID) cohorts of students.
+• Mean/median 50 for historical cohort, not necessarily 50 for current cohort.
+• Extent of deviation from (i.e. below) 50 is indicative of less learning/pandemic related
+academic impact.
+• Mean SGP deviation of 5 corresponds to an effect size of 0.18.
+• Can investigate BOTH overall impact and differential impact
+• Requires scale stability across years.
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -103,44 +102,30 @@ Scott
 ```{=html}
 <div class="archive-text">SGP Assumptions
 • SGP analyses presume valid scale scores
- • Students forming the growth norm group are presumed to have taken the same (or
- equivalent) test at the same time. Scores have to mean the same thing.
- • SGPs, however, are often used as a post-hoc check of scale score validity/
- comparability via Reductio ad absurdum
- • In 2021, check form comparability and mode-of-administration comparability.
- • RIDE has extensive experience (e.g., PARCC paper/pencil versus online) investigating
- and accommodating mode-effects.
- • If scores are not comparable then we either attempt to make them comparable or
- run separate analyses.
+• Students forming the growth norm group are presumed to have taken the same (or
+equivalent) test at the same time. Scores have to mean the same thing.
+• SGPs, however, are often used as a post-hoc check of scale score validity/
+comparability via Reductio ad absurdum
+• In 2021, check form comparability and mode-of-administration comparability.
+• RIDE has extensive experience (e.g., PARCC paper/pencil versus online) investigating
+and accommodating mode-effects.
+• If scores are not comparable then we either attempt to make them comparable or
+run separate analyses.
 • We assume something close to population invariance with respect to IRT
- scaling.
+scaling.
 • The population of students tested in 2021 and differences to 2019 is a concern
- so we begin with data on the population of students tested.
- Hawaii SGP Calculations 2021</div>
+so we begin with data on the population of students tested.
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">SBA Participation
- ELA Mathematics
- Grade
- 2021 2021
+ELA Mathematics
+Grade
 
- 3 90.5% (13,455) 91.2% (13,439)
-
- 4 91.1% (13,573) 91.6% (13,567)
-
- 5 90.9% (13,868) 91.5% (13,865)
-
- 6 87.8% (10,767) 88.6% (10,755)
-
- 7 81.1% (13,652) 81.9% (13,640)
-
- 8 79.6% (13,343) 80.4% (13,335)
-
- 11 66.9% (11,626) 66.7% (11,624)
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -148,25 +133,11 @@ Scott
 ```{=html}
 <div class="archive-text">WIDA-ACCESS Participation (Not sure I have all data for
 this)
- Overall
- Overall Grade
- Grade 2021
- 2021
- 6 98.0% (1,133)
- K 99.1% (1,338)
- 7 96.8% (1,272)
- 1 95.9% (1,597)
- 8 96.8% (943)
- 2 96.4% (1,805)
- 9 97.2% (752)
- 3 95.4% (1,793)
- 10 97.5% (716)
- 4 96.5% (1,732)
- 11 98.0% (550)
- 5 97.0% (1,525)
- 12 96.3% (464)
+Overall
+Overall Grade
+Grade 2021
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -174,16 +145,16 @@ this)
 ```{=html}
 <div class="archive-text">SGP Calculations
 • SGP calculations were performed using the SGP package and R
- software environment based upon data supplied by the Hawaii
- Department of Education.
+software environment based upon data supplied by the Hawaii
+Department of Education.
 • To facilitate the calculation of baseline SGPs across multiple
- states, we created an additional R package, SGPmatrices, that
- contains Hawaii matrices, amongst many others.
- • https://centerforassessment.github.io/SGPmatrices/
+states, we created an additional R package, SGPmatrices, that
+contains Hawaii matrices, amongst many others.
+• https://centerforassessment.github.io/SGPmatrices/
 • Source code associated with calculations are available on GitHub:
- • SBA: https://github.com/CenterForAssessment/Hawaii
- • WIDA-ACCESS: https://github.com/CenterForAssessment/WIDA_HI
- Hawaii SGP Calculations 2021</div>
+• SBA: https://github.com/CenterForAssessment/Hawaii
+• WIDA-ACCESS: https://github.com/CenterForAssessment/WIDA_HI
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -192,14 +163,14 @@ this)
 <div class="archive-text">SGP Results
 • The following slides show SGP results for 2021.
 • We report only baseline referenced SGPs in these slides
- • Differential impact shown in baseline SGPs will mirror that found in
- cohort referenced SGPs.
- • Due to the highly skewed nature of the SGP results, we recommend
- median SGP over mean SGP in this instance.
+• Differential impact shown in baseline SGPs will mirror that found in
+cohort referenced SGPs.
+• Due to the highly skewed nature of the SGP results, we recommend
+median SGP over mean SGP in this instance.
 • We also provide 2019 results to understand pandemic related
- academic impact.
+academic impact.
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -207,18 +178,18 @@ this)
 ```{=html}
 <div class="archive-text">SGP Analyses and Academic Impact
 • Understanding pandemic related impact necessarily requires looking
- back to pre-pandemic results.
+back to pre-pandemic results.
 • The impulse of stakeholders to want to compare 2021 results with 2019
- results is the correct impulse at both the individual, school, district, and
- state level.
+results is the correct impulse at both the individual, school, district, and
+state level.
 • Wanting to look at 2019 to 2021 change is an attempt to investigate
- impact.
+impact.
 • The challenge is making 2019 to 2021 comparisons apples-to-apples
- comparisons.
+comparisons.
 • Supporting these comparisons requires having a complete
- understanding is who constitutes the missing data. More on that after
- some initial comparisons.
- Hawaii SGP Calculations 2021</div>
+understanding is who constitutes the missing data. More on that after
+some initial comparisons.
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -226,66 +197,40 @@ this)
 ```{=html}
 <div class="archive-text">SGP Analyses for 2021
 • With comparable results we can quantify pandemic related
- academic impact:
- • At the state level
- • Demographic subgroups including ethnicity, poverty
- • Academic subgroups (special education, low/high achievers)
- • By region/district/school
- • By mode of education (remote/hybrid/in-person).
- • Attendance
- • English Language Learner impact can be evaluated using WIDA-ACCESS
- results.
- Hawaii SGP Calculations 2021</div>
+academic impact:
+• At the state level
+• Demographic subgroups including ethnicity, poverty
+• Academic subgroups (special education, low/high achievers)
+• By region/district/school
+• By mode of education (remote/hybrid/in-person).
+• Attendance
+• English Language Learner impact can be evaluated using WIDA-ACCESS
+results.
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">SBA Percent Proficient by Grade
- ELA Mathematics
- Grade
- 2019 2021 2019 2021
+ELA Mathematics
+Grade
 
- 3 52.3% (14,396) 43.0% (12,173) 55.8% (14,452) 40.5% (12,262)
-
- 4 51.2% (11,357) 46.3% (12,367) 48.1% (11,422) 36.1% (12,427)
-
- 5 56.7% (14,752) 50.7% (12,611) 44.0% (14,812) 31.7% (12,680)
-
- 6 52.3% (14,128) 46.5% (9,452) 40.6% (14,183) 28.9% (9,527)
-
- 7 52.7% (13,541) 51.9% (11,073) 38.2% (13,611) 29.2% (11,167)
-
- 8 51.4% (12,853) 51.2% (10,622) 37.8% (12,921) 24.7% (10,717)
-
- 11 58.9% (10,730) 64.7% (7,777) 30.1% (10,775) 27.8% (7,758)
-
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">SBA Median Skip-Year SGPs by Grade
- ELA Mathematics
- Grade
- 2019 2021 2019 2021
+ELA Mathematics
+Grade
 
- 3 NA NA NA NA
+3 NA NA NA NA
 
- 4 NA NA NA NA
+4 NA NA NA NA
 
- 5 50 (12,884) 35 (11,269) 50 (12,923) 23 (11,369)
-
- 6 50 (12,348) 36 (8,209) 51 (12,398) 27 (8,303)
-
- 7 51 (11,619) 42 (9,836) 50 (11,671) 30 (9,975)
-
- 8 50 (11,283) 42 (9,511) 50 (11,283) 27 (9,625)
-
- 11 50 (8,918) 42 (6,595) 50 (8,933) 38 (6,585)
-
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -293,41 +238,28 @@ this)
 ```{=html}
 <div class="archive-text">Discussion
 • Median baseline SGPs in ELA were in the mid 30s/lower 40s and
- median baseline SGPs in mathematics were in the 20s (grade 11
- median SGP of 38).
+median baseline SGPs in mathematics were in the 20s (grade 11
+median SGP of 38).
 • Deviation from normal growth (i.e., 50) represents the extent to
- which academic growth slowed down from 2019 to 2021, that is,
- academic impact.
+which academic growth slowed down from 2019 to 2021, that is,
+academic impact.
 • Larger academic impact in ELA than mathematics.
 • Academic impact is fairly uniform across grades.
 • Academic impact is very large likely requiring multiple years and
- additional educational supports/interventions to recover.
- Hawaii SGP Calculations 2021</div>
+additional educational supports/interventions to recover.
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">WIDA-ACCESS Median SGPs by Grade
- Overall Overall
- Grade Grade
- 2020 2021 2020 2021
+Overall Overall
+Grade Grade
 
- K NA NA 6 52 (1,268) 38 (1,008)
+K NA NA 6 52 (1,268) 38 (1,008)
 
- 1 50 (1,694) 26 (1,370) 7 50 (882) 46 (1,137)
-
- 2 51 (1,747) 33 (1,606) 8 50 (720) 48 (833)
-
- 3 51 (1,716) 33 (1,611) 9 51 (705) 39 (576)
-
- 4 51 (1,776) 31 (1,562) 10 49 (662) 47 (594)
-
- 5 52 (1,228) 32 (1,404) 11 50 (538) 49 (460)
-
- 12 52 (541) 56 (376)
-
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -335,35 +267,34 @@ this)
 ```{=html}
 <div class="archive-text">Discussion of Grade Level Results
 • Median baseline SGPs are low in elementary school grades and
- are close to 50 in the high school grades.
+are close to 50 in the high school grades.
 • Deviation from normal growth (i.e., 50) represents the extent to
- which academic growth slowed down from 2020 to 2021, that is,
- academic impact.
+which academic growth slowed down from 2020 to 2021, that is,
+academic impact.
 • Academic impact is very large in elementary and middle school
- and close to non-existent in high school.
+and close to non-existent in high school.
 • Lack of impact is consistent with:
- • Great academic support for the group during the pandemic.
- • Impoverished learning conditions prior to the pandemic such that the pandemic
- didn’t alter the status quo.
- Hawaii SGP Calculations 2021</div>
+• Great academic support for the group during the pandemic.
+• Impoverished learning conditions prior to the pandemic such that the pandemic
+didn’t alter the status quo.
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">SBA Median/Mean Skip-Year SGPs by Ethnicity
- ELA Mathematics
- Ethnicity
- 2019 2021 2019 2021
+ELA Mathematics
+Ethnicity
 Am. In./AL Native
- Asian
- African American
- Hispanic or Lat.
+Asian
+African American
+Hispanic or Lat.
 Multiple Ethnicities
- Native HI/PI
+Native HI/PI
 No Race reported
- White
- Hawaii SGP Calculations 2021</div>
+White
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -371,7 +302,7 @@ No Race reported
 ```{=html}
 <div class="archive-text">Discussion of Ethnicity Results
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
@@ -379,16 +310,15 @@ No Race reported
 ```{=html}
 <div class="archive-text">SBA Median/Mean Skip-Year SGPs by Free/Reduced Lunch
 Status
- ELA Mathematics
+ELA Mathematics
 Free/Reduced Lunch
- Status
- 2019 2021 2019 2021
+Status
 
- FRL Yes
+FRL Yes
 
- FRL No
+FRL No
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
@@ -396,7 +326,7 @@ Free/Reduced Lunch
 ```{=html}
 <div class="archive-text">Discussion of Free/Reduced Lunch Results
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
@@ -404,17 +334,16 @@ Free/Reduced Lunch
 ```{=html}
 <div class="archive-text">SBA Median/Mean Skip-Year SGPs by IEP Status
 
- ELA Mathematics
- IEP Status
- 2019 2021 2019 2021
+ELA Mathematics
+IEP Status
 
- Non-IEP
+Non-IEP
 
- IEP
+IEP
 
 Students with 504
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
@@ -422,7 +351,7 @@ Students with 504
 ```{=html}
 <div class="archive-text">Discussion of IEP Results
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
@@ -430,15 +359,14 @@ Students with 504
 ```{=html}
 <div class="archive-text">SBA Median/Mean Skip-Year SGPs by ELL Status
 
- ELA Mathematics
- ELL Status
- 2019 2021 2019 2021
+ELA Mathematics
+ELL Status
 
- ELL No
+ELL No
 
- ELL Yes
+ELL Yes
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
@@ -446,7 +374,7 @@ Students with 504
 ```{=html}
 <div class="archive-text">Discussion of ELL Results
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
@@ -454,15 +382,14 @@ Students with 504
 ```{=html}
 <div class="archive-text">SBA Median/Mean Skip-Year SGPs by Gender
 
- ELA Mathematics
- Gender
- 2019 2021 2019 2021
+ELA Mathematics
+Gender
 
- Female
+Female
 
- Male
+Male
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
@@ -470,7 +397,7 @@ Students with 504
 ```{=html}
 <div class="archive-text">Discussion of Gender Results
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
@@ -479,7 +406,7 @@ Students with 504
 <div class="archive-text">SBA Median Skip-Year SGPs by Prior Achievement: Grade 5
 &amp; 6 Mathematics
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
@@ -488,7 +415,7 @@ Students with 504
 <div class="archive-text">SBA Median Skip-Year SGPs by Prior Achievement: Grade 7
 &amp; 8 Mathematics
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
@@ -497,7 +424,7 @@ Students with 504
 <div class="archive-text">SBA Median Skip-Year SGPs by Prior Achievement: Grade
 11 Mathematics
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
@@ -506,7 +433,7 @@ Students with 504
 <div class="archive-text">SBA Median Skip-Year SGPs by Prior Achievement: Grade 5
 &amp; 6 ELA
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
@@ -515,7 +442,7 @@ Students with 504
 <div class="archive-text">SBA Median Skip-Year SGPs by Prior Achievement: Grade 7
 &amp; 8 ELA
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
@@ -524,7 +451,7 @@ Students with 504
 <div class="archive-text">SBA Median Skip-Year SGPs by Prior Achievement: Grade
 11 ELA
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
@@ -532,13 +459,13 @@ Students with 504
 ```{=html}
 <div class="archive-text">Discussion of Growth by Prior Achievement Results
 • Except in Grades 5 and 6 ELA, a fairly consistent pattern is that
- higher achieving students demonstrate lower growth (have
- greater academic impact) than lower achieving students.
+higher achieving students demonstrate lower growth (have
+greater academic impact) than lower achieving students.
 • We seen this results in several states, though there are some
- where the impact is fairly uniform across prior achievement
- level.
+where the impact is fairly uniform across prior achievement
+level.
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/35.webp" background-size="contain" background-color="#14140f"}
@@ -546,15 +473,15 @@ Students with 504
 ```{=html}
 <div class="archive-text">Participation Rates and Interpretation
 • An issue impacting the interpretation of growth (and status) results in
- 2021 is participation in the state assessment.
+2021 is participation in the state assessment.
 • Low participation doesn’t impact calculation of cohort referenced
- growth norms nor use of baseline referenced growth norms.
+growth norms nor use of baseline referenced growth norms.
 • Low participation does impact comparisons of group level results with
- historical (e.g., 2019) results based upon higher participation rates.
+historical (e.g., 2019) results based upon higher participation rates.
 • For example, how should one compare growth and status results for
- school in 2019 and 2021 with very different rates of participation.
+school in 2019 and 2021 with very different rates of participation.
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/36.webp" background-size="contain" background-color="#14140f"}
@@ -562,17 +489,17 @@ Students with 504
 ```{=html}
 <div class="archive-text">Multiple Imputation
 • Given the rich historical data available for students missing in 2021,
- and the observed performance of comparable students from 2019
- to 2021, it is possible to simulate what we think their performance
- might have been.
+and the observed performance of comparable students from 2019
+to 2021, it is possible to simulate what we think their performance
+might have been.
 • Combining multiple simulations can inform us about potential bias
- in what we observed at state/district/school levels in 2021, as well
- as inform us about levels of uncertainty around them.
+in what we observed at state/district/school levels in 2021, as well
+as inform us about levels of uncertainty around them.
 • Multiple imputation (MI) of missing data is widely adopted and
- well-developed statistical analysis technique used in many fields to
- deal with missing data problems.
+well-developed statistical analysis technique used in many fields to
+deal with missing data problems.
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/37.webp" background-size="contain" background-color="#14140f"}
@@ -580,15 +507,15 @@ Students with 504
 ```{=html}
 <div class="archive-text">Multiple Imputation
 • MI uses information from the observed data to generate
- parameter estimates in three steps:
- • Imputation: A prediction model generates a set of plausible values
- for the missing observations, resulting in M imputed data sets.
- • Analysis: The analysis (e.g., baseline student growth percentiles) is
- conducted on each of the M data sets.
- • Pooling: Parameter and (more importantly) uncertainty estimates
- are constructed by pooling across the M analyses.
+parameter estimates in three steps:
+• Imputation: A prediction model generates a set of plausible values
+for the missing observations, resulting in M imputed data sets.
+• Analysis: The analysis (e.g., baseline student growth percentiles) is
+conducted on each of the M data sets.
+• Pooling: Parameter and (more importantly) uncertainty estimates
+are constructed by pooling across the M analyses.
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/38.webp" background-size="contain" background-color="#14140f"}
@@ -596,16 +523,16 @@ Students with 504
 ```{=html}
 <div class="archive-text">Multiple Imputation
 • In the context of COVID impact analyses, we use the multiple
- (plausible) parameter estimates to inform us about the
- uncertainty around what was observed. That is, we do not use
- MI to produce “corrected” parameter estimates, but rather to
- help determine whether we trust the statistics calculated from
- the observed (with missing) data.
+(plausible) parameter estimates to inform us about the
+uncertainty around what was observed. That is, we do not use
+MI to produce “corrected” parameter estimates, but rather to
+help determine whether we trust the statistics calculated from
+the observed (with missing) data.
 • Statistics of particular interest:
- • Mean/median scale scores
- • Mean/median baseline SGPs
- • Effect size estimates
- Hawaii SGP Calculations 2021</div>
+• Mean/median scale scores
+• Mean/median baseline SGPs
+• Effect size estimates
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/39.webp" background-size="contain" background-color="#14140f"}
@@ -613,17 +540,17 @@ Students with 504
 ```{=html}
 <div class="archive-text">Multiple Imputation
 • Before performing a MI analysis with SBA data, missing data
- patterns were investigated.
+patterns were investigated.
 • Patterns suggest some relationship to factors such as prior
- achievement and economic status.
+achievement and economic status.
 • These relationships suggest that missingness in SBA is non-
- ignorable, but does not preclude the use of MI.
- • Data can be considered “Missing-at-random” – relationships exist between
- missingness and the observed data (and so can not be considered “missing
- completely-at-random”) but the relationships are not systematic (e.g. all
- students below proficiency in 2019 were missing in 2021).
+ignorable, but does not preclude the use of MI.
+• Data can be considered “Missing-at-random” – relationships exist between
+missingness and the observed data (and so can not be considered “missing
+completely-at-random”) but the relationships are not systematic (e.g. all
+students below proficiency in 2019 were missing in 2021).
 
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/40.webp" background-size="contain" background-color="#14140f"}
@@ -631,16 +558,16 @@ Students with 504
 ```{=html}
 <div class="archive-text">SGP Analysis Plans post 2021 (2022 and beyond)
 • Spring 2021 represents an ideal time to get a snapshot of student
- attainment as we are presumably at or near the point of maximal
- impact on student attainment.
+attainment as we are presumably at or near the point of maximal
+impact on student attainment.
 • That is, recovery has not really begun for most students in
- earnest.
+earnest.
 • It’s impossible to talk about recovery sensibly without
- understanding how big the impact is.
+understanding how big the impact is.
 • Monitoring recovery will be at least as critical as monitoring the impact of
- the pandemic on student achievement.
+the pandemic on student achievement.
 • Beware the K-shaped recovery!
- Hawaii SGP Calculations 2021</div>
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/41.webp" background-size="contain" background-color="#14140f"}
@@ -648,16 +575,16 @@ Students with 504
 ```{=html}
 <div class="archive-text">Communication of Results in 2021
 • Technical challenges to the calculation of growth in 2021 are likely
- minor compared to communication challenges.
+minor compared to communication challenges.
 • State reporting is, in general, highly aligned with accountability.
 • Even though analyses outlined herein deal with status/growth, they
- don’t necessarily align with accountability narratives.
+don’t necessarily align with accountability narratives.
 • It is critical for leadership (at the highest level) to map out a
- communication plan and then build analytics and reporting to support
- that plan.
+communication plan and then build analytics and reporting to support
+that plan.
 • Without a well considered, disciplined and coordinated communication
- plan, accountability narratives are likely to take over.
- Hawaii SGP Calculations 2021</div>
+plan, accountability narratives are likely to take over.
+Hawaii SGP Calculations 2021</div>
 ```
 
 ## About this copy {.archive-about}

@@ -18,9 +18,9 @@ Damian Betebenner
 
 Illinois TAC Webinar
 January 21st, 2021
- This work is licensed under a
- Creative Commons Attribution 4.0
- International License.</div>
+This work is licensed under a
+Creative Commons Attribution 4.0
+International License.</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -30,14 +30,14 @@ January 21st, 2021
 With the 2021 assessment situation becoming (slightly)
 clearer here are current plans for 2021 growth:
 • Skip year (2019 to 2021) growth will be calculated at both the
- state and consortium level.
+state and consortium level.
 • Approximately 80,000 students in IL testing in 2020, growth
- from 2020 to 2021 will be calculated
+from 2020 to 2021 will be calculated
 • Both cohort (2019 to 2021) and baseline (using 2017 to 2019
- growth) referenced growth will be calculated for all students
- with suitable data.
+growth) referenced growth will be calculated for all students
+with suitable data.
 
- March 31-April 1: RILS 2020 Staff Sharing 2</div>
+March 31-April 1: RILS 2020 Staff Sharing 2</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -45,20 +45,20 @@ clearer here are current plans for 2021 growth:
 ```{=html}
 <div class="archive-text">Using Growth to Assess Learning Loss
 • Previous analyses comparing skip-year to annual growth were intended to
- inform use for traditional accountability purposes.
+inform use for traditional accountability purposes.
 • As mentioned in earlier presentations, there are other (better) uses of
- growth beyond traditional accountability in 2021.
+growth beyond traditional accountability in 2021.
 • Understanding student learning loss is one of those uses.
 • Baseline referenced growth will allow IL to investigate student learning loss.
- • Overall: Baseline referenced SGPs have a median of 50 for historical (i.e., 2019) results.
- Deviation (below) 50 in 2021 will allow IL to determine the extent of learning loss
- statewide, by district, school, and student group.
- • Differential impact: Differences between traditional demographic subgroups as well as
- COVID-19 subgroups (in person/hybrid/remote learning).
+• Overall: Baseline referenced SGPs have a median of 50 for historical (i.e., 2019) results.
+Deviation (below) 50 in 2021 will allow IL to determine the extent of learning loss
+statewide, by district, school, and student group.
+• Differential impact: Differences between traditional demographic subgroups as well as
+COVID-19 subgroups (in person/hybrid/remote learning).
 • Note that because both cohort and baseline SGPs will be produced both
- accountability (if it happens) and learning loss will be supported
+accountability (if it happens) and learning loss will be supported
 
- March 31-April 1: RILS 2020 Staff Sharing 3</div>
+March 31-April 1: RILS 2020 Staff Sharing 3</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -67,19 +67,18 @@ clearer here are current plans for 2021 growth:
 <div class="archive-text">Using Growth to Assess Learning Loss
 Precautions associated with learning loss interpretation
 • Use of baseline SGP imply that the 2021 results are on the same scale as the 2019
- results. Pearson will work hard to ensure that.
+results. Pearson will work hard to ensure that.
 • 2020 to 2021 growth results will help validate learning loss results for 2019 to
- 2021.
 • Participation rates will likely be lower than in previous years leaving “holes” in the
- data for some districts and schools.
+data for some districts and schools.
 • These holes will have less an impact on growth results than on status results
- because growth is uncorrelated with prior achievement.
+because growth is uncorrelated with prior achievement.
 • At present, we think learning loss for those districts/schools with “holes” can be
- estimated using whatever 2021 student growth data is available together with
- some technique like propensity score matching at the district/school level.
+estimated using whatever 2021 student growth data is available together with
+some technique like propensity score matching at the district/school level.
 • Again, this isn’t meant to be used for “big A” accountability
 
- March 31-April 1: RILS 2020 Staff Sharing 4</div>
+March 31-April 1: RILS 2020 Staff Sharing 4</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -88,16 +87,16 @@ Precautions associated with learning loss interpretation
 <div class="archive-text">Using Growth to Assess Learning Loss
 Current efforts
 • Our goal (working with Pearson) is to have all preliminary work on
- learning loss (e.g., baseline matrix construction) done prior to the
- arrival of data (preliminary data usually arrives in June).
+learning loss (e.g., baseline matrix construction) done prior to the
+arrival of data (preliminary data usually arrives in June).
 • Create learning loss reports for state in addition to traditional SGP
- reports.
+reports.
 • Turn around reports to states as fast as possible (hopefully 24 to 48
- hours) so that data is actionable for Fall 2021.
+hours) so that data is actionable for Fall 2021.
 • NOTE: IL being a WIDA-ACCESS state can also perform learning loss
- analyses with those data to support results derived from the IAR.
+analyses with those data to support results derived from the IAR.
 
- March 31-April 1: RILS 2020 Staff Sharing 5</div>
+March 31-April 1: RILS 2020 Staff Sharing 5</div>
 ```
 
 ## About this copy {.archive-about}

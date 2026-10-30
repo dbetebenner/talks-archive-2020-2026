@@ -17,18 +17,14 @@ format:
 Damian Betebenner &amp; Adam VanIwaarden
 Center for Assessment
 
-November 8th, 2023
-
- 1</div>
+November 8th, 2023</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Background
-Introductory Concepts and Terminology
-
- 2</div>
+Introductory Concepts and Terminology</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -36,14 +32,12 @@ Introductory Concepts and Terminology
 ```{=html}
 <div class="archive-text">Academic Recovery in 2023
 • The availability of 2023 RISE/UA+ data allows Utah to update
- COVID-19 recovery analyses.
+COVID-19 recovery analyses.
 • Spring 2023 marks the third year since the pandemic began
- and this allows for the third set of analyses to be presented:
- • Summer 2021: Academic Impact
- • Summer 2022: Academic Recovery Year 1
- • Summer 2023: Academic Recovery Year 2
-
- 3</div>
+and this allows for the third set of analyses to be presented:
+• Summer 2021: Academic Impact
+• Summer 2022: Academic Recovery Year 1
+• Summer 2023: Academic Recovery Year 2</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -51,18 +45,17 @@ Introductory Concepts and Terminology
 ```{=html}
 <div class="archive-text">Two Types of Recovery in 2023: System &amp; Student
 • We elaborate on the results from the previous recovery analyses in two ways:
- • System level recovery: Is the education system supporting rates of
- learning that are comparable to what it was prior to the pandemic?
- • Student level recovery: Are students achieving at levels that are
- comparable to what they were prior to the pandemic?
+• System level recovery: Is the education system supporting rates of
+learning that are comparable to what it was prior to the pandemic?
+• Student level recovery: Are students achieving at levels that are
+comparable to what they were prior to the pandemic?
 • Originally, we focused mostly on system-level recovery: examining rates of
- learning in 2021 and 2022 compared to those prior to the pandemic.
+learning in 2021 and 2022 compared to those prior to the pandemic.
 • We continue examining system level analyses but also focus on student-level
- recovery.
- • The reason for providing both is to counter a prevailing narrative that the
- education system continues to suffer because students lag behind their
- pre-pandemic levels of attainment.
- 4</div>
+recovery.
+• The reason for providing both is to counter a prevailing narrative that the
+education system continues to suffer because students lag behind their
+pre-pandemic levels of attainment.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -70,16 +63,14 @@ Introductory Concepts and Terminology
 ```{=html}
 <div class="archive-text">Two Types of Recovery: System &amp; Student
 • System-level recovery
- • Comparison of 2019 and 2023 same-grade student growth: We
- examined the change in baseline student growth (SGPs) for 2019
- students and 2023 students utilizing coefficient matrices derived
- from pre-pandemic cohorts of students.
+• Comparison of 2019 and 2023 same-grade student growth: We
+examined the change in baseline student growth (SGPs) for 2019
+students and 2023 students utilizing coefficient matrices derived
+from pre-pandemic cohorts of students.
 • Student-level recovery
- • Comparison of 2019 to 2023 same-grade achievement: We
- examine the equi-percentile change in achievement for 2019
- students and 2023 students at same-grade
-
- 5</div>
+• Comparison of 2019 to 2023 same-grade achievement: We
+examine the equi-percentile change in achievement for 2019
+students and 2023 students at same-grade</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -87,16 +78,14 @@ Introductory Concepts and Terminology
 ```{=html}
 <div class="archive-text">System-level recovery
 • It is better to understand the health of the education system via the
- rates of student learning that it supports rather than the level of
- student attainment that are evident.
+rates of student learning that it supports rather than the level of
+student attainment that are evident.
 • Because students’ rates of learning slowed so dramatically during the
- pandemic, rates of learning necessary to catch students up to where
- they would have been would have to be equally dramatic (in the
- opposite direction)
- • That is, the system could return to producing normal rates of
- learning without students recovering.
-
- 6</div>
+pandemic, rates of learning necessary to catch students up to where
+they would have been would have to be equally dramatic (in the
+opposite direction)
+• That is, the system could return to producing normal rates of
+learning without students recovering.</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -104,16 +93,14 @@ Introductory Concepts and Terminology
 ```{=html}
 <div class="archive-text">Student-level recovery
 • Student level recovery is the most common representation of recovery
- presented in the media: Where are students now compared to where
- they were in 2019.
+presented in the media: Where are students now compared to where
+they were in 2019.
 • Comparison to 2019 attainment levels is a “low bar” for comparison:
- • Attainment levels in 2023, had the pandemic not occurred, would
- almost certainly have been higher than 2019 levels (based on
- “typical” rates of yearly improvement)
+• Attainment levels in 2023, had the pandemic not occurred, would
+almost certainly have been higher than 2019 levels (based on
+“typical” rates of yearly improvement)
 • In the following we provide data indicating the extent to which student
- attainment is behind 2019 attainment levels.
-
- 7</div>
+attainment is behind 2019 attainment levels.</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -121,21 +108,19 @@ Introductory Concepts and Terminology
 ```{=html}
 <div class="archive-text">System Recovery: Cohort-Based Comparison (RISE)
 Compare observed versus expected attainment for a cohort of students
- 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023
 
- Grade 3
+Grade 3
 
- No Testing due to
- Grade 4
+No Testing due to
+Grade 4
 
- Grade 5
+Grade 5
 
- Grade 6 COVID-19 Pandemic
+Grade 6 COVID-19 Pandemic
 
- Grade 7
+Grade 7
 
- Grade 8
- 8</div>
+Grade 8</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -143,21 +128,19 @@ Compare observed versus expected attainment for a cohort of students
 ```{=html}
 <div class="archive-text">Student Recovery: Cross-Sectional Comparison (RISE)
 Compare same grade/content area attainment across different years
- 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023
 
- Grade 3
+Grade 3
 
- No Testing due to
- Grade 4
+No Testing due to
+Grade 4
 
- Grade 5
+Grade 5
 
- Grade 6 COVID-19 Pandemic
+Grade 6 COVID-19 Pandemic
 
- Grade 7
+Grade 7
 
- Grade 8
- 9</div>
+Grade 8</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -165,19 +148,17 @@ Compare same grade/content area attainment across different years
 ```{=html}
 <div class="archive-text">Why Baseline SGPs?
 • Why does one need to look at baseline referenced SGPs instead of, for example,
- scale score gains. There are several reasons.
- • SGPs are the growth metric that the state of Utah has been using for more
- than a decade.
- • SGPs are readily interpretable probabilistically whereas gain scores are not.
- • Quantile regression (on which SGPs are based) is invariant to mono-tone
- transformations of scale (equi-variant to mono-tone transformations of
- scale). OLS regression, for example, is not. See Koenker (2005, p. 38)
- • Gain scores (which can be calculated since RISE is vertically scaled) are
- dependent upon: Content area, grade, prior level of achievement.
- • Gain scores were largely discredited as an effective means of communicating
- change. For example, no state uses them as a growth model.
-
- 10</div>
+scale score gains. There are several reasons.
+• SGPs are the growth metric that the state of Utah has been using for more
+than a decade.
+• SGPs are readily interpretable probabilistically whereas gain scores are not.
+• Quantile regression (on which SGPs are based) is invariant to mono-tone
+transformations of scale (equi-variant to mono-tone transformations of
+scale). OLS regression, for example, is not. See Koenker (2005, p. 38)
+• Gain scores (which can be calculated since RISE is vertically scaled) are
+dependent upon: Content area, grade, prior level of achievement.
+• Gain scores were largely discredited as an effective means of communicating
+change. For example, no state uses them as a growth model.</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -193,98 +174,94 @@ RISE: Spring 2019 and Spring 2021 Assessments</div>
 ```{=html}
 <div class="archive-text">Impact Phase
 • Student growth (baseline referenced to pre-pandemic rates of
- learning) was examined by content area and grade as well as for the
- major student demographic subgroups.
+learning) was examined by content area and grade as well as for the
+major student demographic subgroups.
 • Impact was categorized as ranging from Severe to Modest to None.
 • For almost all content areas and grades, impact was categorized as
- moderate (-0.25 &lt;= effect size &lt;= -0.1/ -15 &lt;= median SGP decrease &lt;=
- -5.
-
- 12</div>
+moderate (-0.25 &lt;= effect size &lt;= -0.1/ -15 &lt;= median SGP decrease &lt;=</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">RISE ELA and Mathematics
- Utah 2019 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
- Impact Recovery
- −40 −25 −15 −5 5 20 Growth Change
+Utah 2019 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
+Impact Recovery
+−40 −25 −15 −5 5 20 Growth Change
 
- −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
+−0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change
 
- Modest
- Calculations suppressed
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+Modest
+Calculations suppressed
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- All Students Moderate Large Moderate Moderate Modest to None Moderate Moderate Moderate Moderate Moderate Moderate Moderate
+All Students Moderate Large Moderate Moderate Modest to None Moderate Moderate Moderate Moderate Moderate Moderate Moderate
 
- Economically Disadvantaged Students Large Large Moderate Moderate Modest to None Moderate Moderate Moderate Large Large Moderate Moderate
+Economically Disadvantaged Students Large Large Moderate Moderate Modest to None Moderate Moderate Moderate Large Large Moderate Moderate
 
 Non−Economically Disadvantaged Students Moderate Large Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate
 
- Special Education Students Large Large Moderate Moderate Modest to None Moderate Moderate Moderate Moderate Moderate Moderate Moderate
+Special Education Students Large Large Moderate Moderate Modest to None Moderate Moderate Moderate Moderate Moderate Moderate Moderate
 
- African American Students Moderate Large Moderate Moderate Modest to None Moderate Moderate Moderate Large Large Large Large
+African American Students Moderate Large Moderate Moderate Modest to None Moderate Moderate Moderate Large Large Large Large
 
- Asian Students Moderate Moderate Moderate Moderate Moderate Modest to None Moderate Moderate Large Large Moderate Large
+Asian Students Moderate Moderate Moderate Moderate Moderate Modest to None Moderate Moderate Large Large Moderate Large
 
- White Students Moderate Large Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate
+White Students Moderate Large Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate
 
- Hispanic Students Large Large Moderate Moderate Modest to None Modest to None Moderate Moderate Large Large Moderate Moderate
+Hispanic Students Large Large Moderate Moderate Modest to None Modest to None Moderate Moderate Large Large Moderate Moderate
 
- ELL Students Large Severe Moderate Moderate Modest to None Moderate Large Large Large Large Moderate Moderate
+ELL Students Large Severe Moderate Moderate Modest to None Moderate Large Large Large Large Moderate Moderate
 
- Female Students Moderate Large Modest to None Moderate Modest to None Modest to None Moderate Moderate Large Large Moderate Moderate
+Female Students Moderate Large Modest to None Moderate Modest to None Modest to None Moderate Moderate Large Large Moderate Moderate
 
- Male Students Moderate Large Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate</div>
+Male Students Moderate Large Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate Moderate</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">ELA And Mathematics
- Utah 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
- Impact Recovery
- −40 −25 −15 −5 5 20 Growth Change
- NOTE: Quintiles for each student
- −0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change subgroup are based upon quintile
- Modest
- Calculations suppressed
- cuts defined for All Students.
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50) Box width indicates group proportion.
+Utah 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
+Impact Recovery
+−40 −25 −15 −5 5 20 Growth Change
+NOTE: Quintiles for each student
+−0.55 −0.4 −0.25 −0.1 0.05 0.2 Status Change subgroup are based upon quintile
+Modest
+Calculations suppressed
+cuts defined for All Students.
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50) Box width indicates group proportion.
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged Students
+Economically Disadvantaged Students
 
 Non−Economically Disadvantaged Students
 
- Special Education Students
+Special Education Students
 
- African American Students
+African American Students
 
- Asian Students
+Asian Students
 
- White Students
+White Students
 
- Hispanic Students
+Hispanic Students
 
- ELL Students
+ELL Students
 
- Female Students
+Female Students
 
- Male Students</div>
+Male Students</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -300,17 +277,16 @@ RISE: Spring 2021 and Spring 2022 Assessments</div>
 ```{=html}
 <div class="archive-text">Recovery Phase Year 1
 • Student growth (baseline referenced to pre-pandemic rates of learning)
- was examined by content area and grade as well as for the major student
- demographic subgroups.
+was examined by content area and grade as well as for the major student
+demographic subgroups.
 • Achievement (Student Recovery) and Growth (System Recovery) were
- characterized in three ways:
- • Lagging: Behind pre-pandemic levels (attainment or growth)
- • On Par: About the same as pre-pandemic levels (attainment or growth)
- • Leading: Ahead of pre-pandemic levels (attainment or growth)
+characterized in three ways:
+• Lagging: Behind pre-pandemic levels (attainment or growth)
+• On Par: About the same as pre-pandemic levels (attainment or growth)
+• Leading: Ahead of pre-pandemic levels (attainment or growth)
 • Because learning slowed during the initial phase of the pandemic (2020 to
- 2021), to make up for those losses, learning must accelerate to rates
- above normal (i.e., leading)
- 16</div>
+2021), to make up for those losses, learning must accelerate to rates
+above normal (i.e., leading)</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -319,37 +295,37 @@ RISE: Spring 2021 and Spring 2022 Assessments</div>
 <div class="archive-text">RISE ELA and Mathematics
 Utah 2019 to 2022 COVID⌧19 Academic Student Recovery Grade &amp; Content Area
 Lagging Leading Student Recovery characterizes the extent
- Status Change
+Status Change
 −0.38 −0.09 0.12 0.38 to which student attainment has returned
- to pre−pandemic levels of attainment.
- Calculations suppressed
- Lagging On Par Leading
- due to small group N (&lt; 50)
+to pre−pandemic levels of attainment.
+Calculations suppressed
+Lagging On Par Leading
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5
 
- All Students Lagging Lagging On Par On Par On Par On Par On Par On Par Lagging
+All Students Lagging Lagging On Par On Par On Par On Par On Par On Par Lagging
 
- Economically Disadvantaged Lagging Lagging Lagging Lagging On Par Lagging Lagging Lagging Lagging
+Economically Disadvantaged Lagging Lagging Lagging Lagging On Par Lagging Lagging Lagging Lagging
 
- Non−Economically Disadvantaged Lagging Lagging On Par Lagging On Par Lagging On Par Lagging Lagging
+Non−Economically Disadvantaged Lagging Lagging On Par Lagging On Par Lagging On Par Lagging Lagging
 
- African American Lagging On Par On Par On Par On Par Lagging On Par On Par On Par
+African American Lagging On Par On Par On Par On Par Lagging On Par On Par On Par
 
- Asian On Par On Par On Par On Par On Par On Par On Par On Par On Par
+Asian On Par On Par On Par On Par On Par On Par On Par On Par On Par
 
- White On Par Lagging On Par On Par On Par On Par On Par On Par Lagging
+White On Par Lagging On Par On Par On Par On Par On Par On Par Lagging
 
- Hispanic Lagging Lagging Lagging On Par On Par Lagging Lagging Lagging Lagging
+Hispanic Lagging Lagging Lagging On Par On Par Lagging Lagging Lagging Lagging
 
- ELL Lagging Lagging Lagging Lagging On Par Lagging Lagging Lagging Lagging
+ELL Lagging Lagging Lagging Lagging On Par Lagging Lagging Lagging Lagging
 
- Special Education Lagging Lagging Lagging On Par On Par Lagging On Par Lagging On Par
+Special Education Lagging Lagging Lagging On Par On Par Lagging On Par Lagging On Par
 
- Female Lagging Lagging On Par On Par On Par On Par Lagging Lagging Lagging
+Female Lagging Lagging On Par On Par On Par On Par Lagging Lagging Lagging
 
- Male Lagging Lagging On Par On Par On Par On Par On Par On Par On Par</div>
+Male Lagging Lagging On Par On Par On Par On Par On Par On Par On Par</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
@@ -358,39 +334,37 @@ Lagging Leading Student Recovery characterizes the extent
 <div class="archive-text">RISE ELA and Mathematics
 Utah 2019 to 2022 COVID⌧19 Academic Student RecoveryGrade, Content Area &amp; Achievement Quintile
 Lagging Leading Student Recovery characterizes the extent
-−0.38 −0.09 0.12 0.38
- Status Change to which student attainment has returned
- to pre−pandemic levels of attainment.
- Calculations suppressed
- Lagging On Par Leading
- due to small group N (&lt; 50)
+Status Change to which student attainment has returned
+to pre−pandemic levels of attainment.
+Calculations suppressed
+Lagging On Par Leading
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
- Non−Economically Disadvantaged
+Non−Economically Disadvantaged
 
- African American
+African American
 
- Asian
+Asian
 
- White
+White
 
- Hispanic
+Hispanic
 
- ELL
+ELL
 
- Special Education
+Special Education
 
- Female
+Female
 
- Male</div>
+Male</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -399,37 +373,37 @@ Lagging Leading Student Recovery characterizes the extent
 <div class="archive-text">RISE ELA and Mathematics
 Utah 2021 to 2022 COVID⌧19 Academic System Recovery Grade &amp; Content Area
 Lagging Leading System Recovery characterizes the extent
- Growth Change
+Growth Change
 −30 −7 10 30 to which rates of student learning (i.e., growth)
- have returned to pre−pandemic rates of learning.
- Calculations suppressed
- Lagging On Par Leading
- due to small group N (&lt; 50)
+have returned to pre−pandemic rates of learning.
+Calculations suppressed
+Lagging On Par Leading
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- All Students On Par Leading Leading Leading On Par On Par On Par On Par Leading Leading Leading On Par
+All Students On Par Leading Leading Leading On Par On Par On Par On Par Leading Leading Leading On Par
 
- Economically Disadvantaged On Par On Par Leading Leading On Par On Par On Par On Par Leading Leading Leading On Par
+Economically Disadvantaged On Par On Par Leading Leading On Par On Par On Par On Par Leading Leading Leading On Par
 
- Non−Economically Disadvantaged On Par On Par Leading Leading On Par On Par On Par On Par Leading Leading Leading On Par
+Non−Economically Disadvantaged On Par On Par Leading Leading On Par On Par On Par On Par Leading Leading Leading On Par
 
- African American On Par Leading Leading Leading On Par On Par On Par Leading Leading Leading Leading Leading
+African American On Par Leading Leading Leading On Par On Par On Par Leading Leading Leading Leading Leading
 
- Asian On Par On Par Leading Leading On Par On Par Leading On Par Leading Leading Leading Leading
+Asian On Par On Par Leading Leading On Par On Par Leading On Par Leading Leading Leading Leading
 
- White On Par Leading Leading Leading Leading On Par On Par On Par Leading Leading Leading On Par
+White On Par Leading Leading Leading Leading On Par On Par On Par Leading Leading Leading On Par
 
- Hispanic On Par Leading Leading On Par On Par On Par On Par Leading Leading Leading Leading On Par
+Hispanic On Par Leading Leading On Par On Par On Par On Par Leading Leading Leading Leading On Par
 
- ELL On Par Leading Leading On Par On Par On Par On Par Leading Leading Leading On Par On Par
+ELL On Par Leading Leading On Par On Par On Par On Par Leading Leading Leading On Par On Par
 
- Special Education On Par On Par Leading On Par On Par On Par On Par On Par Leading On Par On Par On Par
+Special Education On Par On Par Leading On Par On Par On Par On Par On Par Leading On Par On Par On Par
 
- Female On Par Leading Leading On Par On Par On Par On Par On Par Leading Leading Leading Leading
+Female On Par Leading Leading On Par On Par On Par On Par On Par Leading Leading Leading Leading
 
- Male On Par Leading Leading Leading On Par On Par On Par On Par Leading Leading Leading On Par</div>
+Male On Par Leading Leading Leading On Par On Par On Par On Par Leading Leading Leading On Par</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
@@ -438,39 +412,38 @@ Lagging Leading System Recovery characterizes the extent
 <div class="archive-text">RISE ELA and Mathematics
 Utah 2021 to 2022 COVID⌧19 Academic System Recovery Grade, Content Area &amp; Achievement Quintile
 Lagging Leading System Recovery characterizes the extent
- Growth Change
- −30 −7 10 30 to which rates of student learning (i.e., growth)
- have returned to pre−pandemic rates of learning.
- Calculations suppressed
- Lagging On Par Leading
- due to small group N (&lt; 50)
+Growth Change
+−30 −7 10 30 to which rates of student learning (i.e., growth)
+have returned to pre−pandemic rates of learning.
+Calculations suppressed
+Lagging On Par Leading
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
- Non−Economically Disadvantaged
+Non−Economically Disadvantaged
 
- African American
+African American
 
- Asian
+Asian
 
- White
+White
 
- Hispanic
+Hispanic
 
- ELL
+ELL
 
- Special Education
+Special Education
 
- Female
+Female
 
- Male</div>
+Male</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
@@ -478,14 +451,14 @@ Lagging Leading System Recovery characterizes the extent
 ```{=html}
 <div class="archive-text">Recovery Year 1
 • Analysis of 2022 RISE data indicated several positive trends in Utah to be happy
- about.
+about.
 • In both ELA and mathematics, learning acceleration was at least as much to be
- considered stabilization and in many cases could be considered as genuine
- recovery.
+considered stabilization and in many cases could be considered as genuine
+recovery.
 • Compared to a dozen other states that the Center conducts these analyses, Utah
- comes out as the best in terms of pandemic recovery.
+comes out as the best in terms of pandemic recovery.
 • Despite a robust recovery, students remain slightly behind 2019 levels in ELA and
- more in mathematics.</div>
+more in mathematics.</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
@@ -493,9 +466,7 @@ Lagging Leading System Recovery characterizes the extent
 ```{=html}
 <div class="archive-text">Recovery Year 2
 From Fall 2022 to Summer 2023
-RISE: Spring 2022 and Spring 2023 Assessments
-
- 22</div>
+RISE: Spring 2022 and Spring 2023 Assessments</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
@@ -503,17 +474,16 @@ RISE: Spring 2022 and Spring 2023 Assessments
 ```{=html}
 <div class="archive-text">Recovery Phase Year 2
 • Student growth (baseline referenced to pre-pandemic rates of learning)
- was examined by content area and grade as well as for the major student
- demographic subgroups.
+was examined by content area and grade as well as for the major student
+demographic subgroups.
 • Achievement (Student Recovery) and Growth (System Recovery) were
- characterized in three ways:
- • Lagging: Behind pre-pandemic levels (attainment or growth)
- • On Par: About the same as pre-pandemic levels (attainment or growth)
- • Leading: Ahead of pre-pandemic levels (attainment or growth)
+characterized in three ways:
+• Lagging: Behind pre-pandemic levels (attainment or growth)
+• On Par: About the same as pre-pandemic levels (attainment or growth)
+• Leading: Ahead of pre-pandemic levels (attainment or growth)
 • Because learning slowed during the initial phase of the pandemic (2020 to
- 2021), to make up for those losses, learning must accelerate to rates
- above normal (i.e., leading)
- 23</div>
+2021), to make up for those losses, learning must accelerate to rates
+above normal (i.e., leading)</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
@@ -521,22 +491,10 @@ RISE: Spring 2022 and Spring 2023 Assessments
 ```{=html}
 <div class="archive-text">2023 Status Results
 • Percent Proficient/Standardized Score (pooled standard deviation)/Count
- for RISE:
+for RISE:
 
- ELA Mathematics
- Grade
- 2019 2023 2019 2023
-
- 3 46.8%/0.0/48,623 46.2%/-0.09/47,424 50.3%/0.0/48,568 49.1%/-0.04/46,752
- 4 47.3%/0.0/49,547 44.2%/-0.13/48,300 49.2%/0.0/49,407 50.1%/-0.05/47,544
- 5 47.9%/0.0/50,765 48.9%/-0.02/47,014 49.1%/0.0/50,599 45.4%/-0.10/46,212
- 6 48.8%/0.0/50,522 45.3%/-0.10/47,619 39.2%/0.0/50,382 35.5%/-0.09/46,745
- 7 44%/0.0/48,953 41.5%/-0.01/46,897 45.1%/0.0/46,396 45.8%/0.00/45,810
- 8 43.2%/0.0/46,838 42.0%/-0.07/46,666 42.9%/0.0/45,931 36.2%/-0.20/43,245
- 9 48.2%/0.0/44,867 44.0%/-0.11/45,514 43.5%/0.0/44,566 32.7%/-0.28/45,098
- 10 49.5%/0.0/42,269 45.3%/-0.09/42,450 36.3%/0.0/42,543 27.7%/-0.30/42,827
-
- 24</div>
+ELA Mathematics
+Grade</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
@@ -544,21 +502,10 @@ RISE: Spring 2022 and Spring 2023 Assessments
 ```{=html}
 <div class="archive-text">2023 SGP Results
 • Mean/Median/Count for baseline referenced SGPs in ELA and
- mathematics are as follows:
+mathematics are as follows:
 
- ELA Mathematics
- Grade
- 2019 2023 2019 2023
-
- 4 49.9/50.0/46,216 48.8/49.0/42,744 49.9/50.0/46,058 50.3/51.0/42,431
- 5 50.0/50.0/47,228 57.5/61.0/41,889 50.0/50.0/46,938 47.6/48.0/41,408
- 6 50.1/50.0/46,635 51.8/53.0/42,463 50.0/50.0/46,430 51.1/52.0/41,894
- 7 50.1/50.0/44,496 52.2/53.0/41,456 50.0/50.0/41,843 53.1/55.0/40,586
- 8 50.0/50.0/42,582 49.5/49.0/40,717 49.9/50.0/39,418 45.6/43.0/37,637
- 9 50.0/50.0/40,303 47.1/46.0/39,092 50.0/50.0/37,523 43.7/41.0/36,068
- 10 50.1/50.0/38,160 51.9/53.0/34,434 50.0/50.0/35,257 45.0/43.0/34,232
-
- 25</div>
+ELA Mathematics
+Grade</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
@@ -655,720 +602,439 @@ learning rates will have to</div>
 
 ```{=html}
 <div class="archive-text">UA+ ELA and Mathematics and Science
- Utah 2019 to 2023 COVID⌧19 Academic Student Recovery Grade &amp; Content Area
- Lagging Leading Student Recovery characterizes the extent
- Status Change
- −0.38 −0.09 0.12 0.38 to which student attainment has returned
- to pre−pandemic levels of attainment.
- Calculations suppressed
- Lagging On Par Leading
- due to small group N (&lt; 50)
+Utah 2019 to 2023 COVID⌧19 Academic Student Recovery Grade &amp; Content Area
+Lagging Leading Student Recovery characterizes the extent
+Status Change
+−0.38 −0.09 0.12 0.38 to which student attainment has returned
+to pre−pandemic levels of attainment.
+Calculations suppressed
+Lagging On Par Leading
+due to small group N (&lt; 50)
 
- ELA Mathematics Science
- Grade 3
- Grade 4
- Grade 5
- Grade 6
- Grade 7
- Grade 8
- Grade 9
- Grade 10 Grade 3
- Grade 4
- Grade 5
- Grade 6
- Grade 7
- Grade 8
- Grade 9
- Grade 10 Grade 6
- Grade 7
- Grade 8
- Grade 9
- Grade 10
+ELA Mathematics Science
+Grade 3
+Grade 4
+Grade 5
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Grade 10 Grade 3
+Grade 4
+Grade 5
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Grade 10 Grade 6
+Grade 7
+Grade 8
+Grade 9
+Grade 10
 
- All Students Lagging Lagging On Par Lagging On Par On Par On Par On Par On Par On Par Lagging Lagging On Par Lagging Lagging Lagging On Par On Par On Par Lagging Lagging
+All Students Lagging Lagging On Par Lagging On Par On Par On Par On Par On Par On Par Lagging Lagging On Par Lagging Lagging Lagging On Par On Par On Par Lagging Lagging
 
- Economically Disadvantaged Lagging Lagging Lagging Lagging On Par On Par On Par On Par Lagging Lagging Lagging Lagging On Par Lagging Lagging Lagging On Par On Par Lagging Lagging Lagging
+Economically Disadvantaged Lagging Lagging Lagging Lagging On Par On Par On Par On Par Lagging Lagging Lagging Lagging On Par Lagging Lagging Lagging On Par On Par Lagging Lagging Lagging
 
 Non−Economically Disadvantaged On Par Lagging On Par Lagging On Par On Par On Par On Par On Par On Par Lagging Lagging On Par Lagging Lagging Lagging On Par On Par On Par On Par Lagging
 
- African American Lagging Lagging On Par On Par On Par Lagging On Par On Par On Par On Par On Par Lagging Lagging Lagging Lagging Lagging On Par On Par Lagging Lagging Lagging
+African American Lagging Lagging On Par On Par On Par Lagging On Par On Par On Par On Par On Par Lagging Lagging Lagging Lagging Lagging On Par On Par Lagging Lagging Lagging
 
- Asian On Par Lagging On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par Leading Lagging On Par Lagging On Par On Par Lagging On Par Lagging
+Asian On Par Lagging On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par Leading Lagging On Par Lagging On Par On Par Lagging On Par Lagging
 
- White On Par Lagging On Par On Par On Par On Par On Par On Par On Par On Par Lagging On Par On Par Lagging Lagging Lagging On Par On Par On Par On Par Lagging
+White On Par Lagging On Par On Par On Par On Par On Par On Par On Par On Par Lagging On Par On Par Lagging Lagging Lagging On Par On Par On Par On Par Lagging
 
- Hispanic Lagging Lagging On Par Lagging On Par Lagging On Par On Par Lagging Lagging Lagging Lagging On Par Lagging Lagging Lagging On Par On Par Lagging Lagging Lagging
+Hispanic Lagging Lagging On Par Lagging On Par Lagging On Par On Par Lagging Lagging Lagging Lagging On Par Lagging Lagging Lagging On Par On Par Lagging Lagging Lagging
 
- ELL Lagging Lagging Lagging Lagging On Par Lagging On Par On Par Lagging Lagging Lagging Lagging On Par Lagging On Par On Par Lagging On Par Lagging Lagging Lagging
+ELL Lagging Lagging Lagging Lagging On Par Lagging On Par On Par Lagging Lagging Lagging Lagging On Par Lagging On Par On Par Lagging On Par Lagging Lagging Lagging
 
- Special Education Lagging Lagging Lagging On Par On Par Lagging On Par On Par On Par On Par On Par On Par On Par Lagging On Par Lagging On Par On Par Lagging Lagging Lagging
+Special Education Lagging Lagging Lagging On Par On Par Lagging On Par On Par On Par On Par On Par On Par On Par Lagging On Par Lagging On Par On Par Lagging Lagging Lagging
 
- Female Lagging Lagging On Par Lagging On Par On Par On Par On Par Lagging Lagging Lagging Lagging On Par On Par Lagging Lagging On Par On Par Lagging Lagging Lagging
+Female Lagging Lagging On Par Lagging On Par On Par On Par On Par Lagging Lagging Lagging Lagging On Par On Par Lagging Lagging On Par On Par Lagging Lagging Lagging
 
- Male On Par Lagging On Par On Par On Par On Par Lagging On Par On Par On Par On Par On Par On Par Lagging Lagging Lagging On Par On Par On Par On Par Lagging</div>
+Male On Par Lagging On Par On Par On Par On Par Lagging On Par On Par On Par On Par On Par On Par Lagging Lagging Lagging On Par On Par On Par On Par Lagging</div>
 ```
 
 ## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">UA+ ELA and Mathematics and Science
- Utah 2019 to 2023 COVID⌧19 Academic Student RecoveryGrade, Content Area &amp; Achievement Quintile
- Lagging Leading Student Recovery characterizes the extent
- Status Change
- −0.38 −0.09 0.12 0.38 to which student attainment has returned
- to pre−pandemic levels of attainment.
- Calculations suppressed
- Lagging On Par Leading
- due to small group N (&lt; 50)
+Utah 2019 to 2023 COVID⌧19 Academic Student RecoveryGrade, Content Area &amp; Achievement Quintile
+Lagging Leading Student Recovery characterizes the extent
+Status Change
+−0.38 −0.09 0.12 0.38 to which student attainment has returned
+to pre−pandemic levels of attainment.
+Calculations suppressed
+Lagging On Par Leading
+due to small group N (&lt; 50)
 
- ELA Mathematics Science
- Grade 3Grade 4Grade 5Grade 6Grade 7Grade 8Grade 9Grade 10 Grade 3Grade 4Grade 5Grade 6Grade 7Grade 8Grade 9Grade 10 Grade 6Grade 7Grade 8Grade 9Grade 10
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+ELA Mathematics Science
+Grade 3Grade 4Grade 5Grade 6Grade 7Grade 8Grade 9Grade 10 Grade 3Grade 4Grade 5Grade 6Grade 7Grade 8Grade 9Grade 10 Grade 6Grade 7Grade 8Grade 9Grade 10
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
 Non−Economically Disadvantaged
 
- African American
+African American
 
- Asian
+Asian
 
- White
+White
 
- Hispanic
+Hispanic
 
- ELL
+ELL
 
- Special Education
+Special Education
 
- Female
+Female
 
- Male</div>
+Male</div>
 ```
 
 ## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">RISE/UA+ ELA and Mathematics and Science
- Utah 2019 to 2023 COVID⌧19 Academic System Recovery Grade &amp; Content Area
- Lagging Leading System Recovery characterizes the extent
- Growth Change
- −30 −7 10 30 to which rates of student learning (i.e., growth)
- have returned to pre−pandemic rates of learning.
- Calculations suppressed
- Lagging On Par Leading
- due to small group N (&lt; 50)
+Utah 2019 to 2023 COVID⌧19 Academic System Recovery Grade &amp; Content Area
+Lagging Leading System Recovery characterizes the extent
+Growth Change
+−30 −7 10 30 to which rates of student learning (i.e., growth)
+have returned to pre−pandemic rates of learning.
+Calculations suppressed
+Lagging On Par Leading
+due to small group N (&lt; 50)
 
- ELA Mathematics Science
- Grade 4Grade 5Grade 6Grade 7Grade 8Grade 9
- Grade 10 Grade 4Grade 5Grade 6Grade 7Grade 8Grade 9
- Grade 10 Grade 7Grade 8Grade 9
- Grade 10
+ELA Mathematics Science
+Grade 4Grade 5Grade 6Grade 7Grade 8Grade 9
+Grade 10 Grade 4Grade 5Grade 6Grade 7Grade 8Grade 9
+Grade 10 Grade 7Grade 8Grade 9
+Grade 10
 
- All Students On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par Lagging Lagging Lagging On Par On Par Lagging Lagging
+All Students On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par Lagging Lagging Lagging On Par On Par Lagging Lagging
 
- Economically Disadvantaged On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par Lagging Lagging Lagging On Par Lagging Lagging Lagging
+Economically Disadvantaged On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par Lagging Lagging Lagging On Par Lagging Lagging Lagging
 
 Non−Economically Disadvantaged On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par Lagging Lagging Lagging On Par On Par On Par Lagging
 
- African American On Par Leading On Par On Par Lagging On Par On Par On Par On Par On Par Lagging Lagging Lagging Lagging On Par Lagging Lagging Lagging
+African American On Par Leading On Par On Par Lagging On Par On Par On Par On Par On Par Lagging Lagging Lagging Lagging On Par Lagging Lagging Lagging
 
- Asian On Par Leading On Par On Par On Par On Par On Par On Par On Par On Par Leading Lagging On Par Lagging On Par Lagging On Par Lagging
+Asian On Par Leading On Par On Par On Par On Par On Par On Par On Par On Par Leading Lagging On Par Lagging On Par Lagging On Par Lagging
 
- White On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par Lagging Lagging Lagging On Par On Par On Par Lagging
+White On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par Lagging Lagging Lagging On Par On Par On Par Lagging
 
- Hispanic Lagging On Par On Par On Par Lagging On Par On Par On Par On Par On Par On Par Lagging Lagging Lagging On Par Lagging Lagging Lagging
+Hispanic Lagging On Par On Par On Par Lagging On Par On Par On Par On Par On Par On Par Lagging Lagging Lagging On Par Lagging Lagging Lagging
 
- ELL Lagging On Par On Par On Par Lagging On Par On Par On Par On Par On Par On Par Lagging On Par On Par On Par Lagging Lagging Lagging
+ELL Lagging On Par On Par On Par Lagging On Par On Par On Par On Par On Par On Par Lagging On Par On Par On Par Lagging Lagging Lagging
 
- Special Education Lagging On Par On Par On Par Lagging On Par On Par On Par On Par On Par On Par Lagging On Par Lagging On Par Lagging Lagging Lagging
+Special Education Lagging On Par On Par On Par Lagging On Par On Par On Par On Par On Par On Par Lagging On Par Lagging On Par Lagging Lagging Lagging
 
- Female On Par Leading On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par Lagging Lagging On Par Lagging Lagging Lagging
+Female On Par Leading On Par On Par On Par On Par On Par On Par On Par On Par On Par On Par Lagging Lagging On Par Lagging Lagging Lagging
 
- Male On Par On Par On Par On Par On Par Lagging On Par On Par On Par On Par On Par Lagging Lagging Lagging On Par On Par On Par Lagging</div>
+Male On Par On Par On Par On Par On Par Lagging On Par On Par On Par On Par On Par Lagging Lagging Lagging On Par On Par On Par Lagging</div>
 ```
 
 ## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">RISE/UA+ ELA and Mathematics and Science
- Utah 2019 to 2023 COVID⌧19 Academic System Recovery Grade, Content Area &amp; Achievement Quintile
- Lagging Leading System Recovery characterizes the extent
- Growth Change
- −30 −7 10 30 to which rates of student learning (i.e., growth)
- have returned to pre−pandemic rates of learning.
- Calculations suppressed
- Lagging On Par Leading
- due to small group N (&lt; 50)
+Utah 2019 to 2023 COVID⌧19 Academic System Recovery Grade, Content Area &amp; Achievement Quintile
+Lagging Leading System Recovery characterizes the extent
+Growth Change
+−30 −7 10 30 to which rates of student learning (i.e., growth)
+have returned to pre−pandemic rates of learning.
+Calculations suppressed
+Lagging On Par Leading
+due to small group N (&lt; 50)
 
- ELA Mathematics Science
- Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 7 Grade 8 Grade 9 Grade 10
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics Science
+Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 7 Grade 8 Grade 9 Grade 10
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
 Non−Economically Disadvantaged
 
- African American
+African American
 
- Asian
+Asian
 
- White
+White
 
- Hispanic
+Hispanic
 
- ELL
+ELL
 
- Special Education
+Special Education
 
- Female
+Female
 
- Male</div>
+Male</div>
 ```
 
 ## {.archive-slide background-image="slides/35.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">UA+ Science Grade 10
- Utah 2019 to 2023 COVID⌧19 Academic Recovery All Students
- Growth: Grade 9/2018 to 10/2019 versus Grade 9/2022 to 10/2023 Status: Grade 10/2019 versus Grade 10/2023 Summary
+Utah 2019 to 2023 COVID⌧19 Academic Recovery All Students
+Growth: Grade 9/2018 to 10/2019 versus Grade 9/2022 to 10/2023 Status: Grade 10/2019 versus Grade 10/2023 Summary
 
- 2018 Grade 9 Scaled Score Decile Cuts 2019 Grade 10 Scaled Score
+2018 Grade 9 Scaled Score Decile Cuts 2019 Grade 10 Scaled Score
 
- Grade 10 Scaled/Standardized Score and Achievement Level Cuts
- 10 20 30 40 50 60 70 80 90 100 150 200 250300 Growth/Status Recovery Legend
- 300 300
- 2018 to 2019 Mean Conditional Status 2019 Percentiles (Observed) −30 −7 10 30
- 2022 to 2023 Mean Conditional Status (Observed) 3 2023 Percentiles (Observed)
+Grade 10 Scaled/Standardized Score and Achievement Level Cuts
+10 20 30 40 50 60 70 80 90 100 150 200 250300 Growth/Status Recovery Legend
+2018 to 2019 Mean Conditional Status 2019 Percentiles (Observed) −30 −7 10 30
+2022 to 2023 Mean Conditional Status (Observed) 3 2023 Percentiles (Observed)
 
- Observed + Imputed
- 2019 to 2023 Mean Conditional Status (+ Imputed) 2023 Percentiles (+ Imputed) −0.38 −0.09 0.12 0.38
- 275 2019 to 2023 Growth Impact 275 2019 to 2023 Status Impact
- 2.5
+Observed + Imputed
+2019 to 2023 Mean Conditional Status (+ Imputed) 2023 Percentiles (+ Imputed) −0.38 −0.09 0.12 0.38
+275 2019 to 2023 Growth Impact 275 2019 to 2023 Status Impact
 
- 2019 Grade 10 Scaled Score Decile Cuts
- 2019 and 2023 Mean Scaled Scores
+2019 Grade 10 Scaled Score Decile Cuts
+2019 and 2023 Mean Scaled Scores
 
- Observed
- 2 Lagging On Par Leading
+Observed
+2 Lagging On Par Leading
 
- 2019 Grade 10 Scaled Score
- 1.5
+2019 Grade 10 Scaled Score
 
- 90 1
- 225 225 Calculations suppressed
- 80
- 70
- 0.5 due to small group N (&lt; 50)
- 60
- 200 200 0 0.00
- 50
- −0.25
- 40
- −0.5
- 30
- 175 175
- 20
- −1 Participation
- −1.5 Total Status Growth
- 10
- −2 2019: 33.0% Proficient 2019 42,847 42,847 (100.0%) 34,461 (80.4%)
- 125 125 −2.5
- 2023: 32.2% Proficient 2023 43,171 43,171 (100.0%) 35,170 (81.5%)
- −3
+225 225 Calculations suppressed
+0.5 due to small group N (&lt; 50)
+−1 Participation
+−1.5 Total Status Growth
+−2 2019: 33.0% Proficient 2019 42,847 42,847 (100.0%) 34,461 (80.4%)
+2023: 32.2% Proficient 2023 43,171 43,171 (100.0%) 35,170 (81.5%)
 
- 100 100
- 100 125 175 200 225 275 300
- 0 10 20 30 40 50 60 70 80 90 100
- 2018 Grade 9 Scaled Score with Achievement Level Cuts Grade 10 Overall Percentile Ranks
- Growth Recovery: Overall and by Quintile
- Overall
- 2019 &amp; 2023 Grade 10 Median SGPs by Quintile 2019 &amp; 2023 Grade 10 Mean Scaled (Standardized) Scores by Quintile
- Lagging
- Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
- 2019 Grade 10 Students 50.0 50.0 50.0 50.0 50.0 50.0 2019 Grade 10 Students 158 (−1.42) 185 (−0.49) 201 ( 0.04) 215 ( 0.52) 238 ( 1.32) 199 (0.00) Q1 Q2 Q3 Q4 Q5
- 2023 Grade 10 Students 29.0 26.0 32.0 39.0 53.0 36.0 2023 Grade 10 Students 138 (−2.09) 179 (−0.69) 197 (−0.09) 211 ( 0.40) 235 ( 1.23) 192 (−0.25)
- Lagging Lagging Lagging Lagging On Par
- Academic Impact (Observed) −21.0 −24.0 −18.0 −11.0 3.0 −14.0 Change (Observed) −20 (−0.67) −6 (−0.20) −4 (−0.13) −4 (−0.12) −3 (−0.09) −7 (−0.25)
- Academic Impact (+ Imputed) −24.0 −26.0 −20.0 −11.5 3.0 −17.0 Change (+ Imputed) −20 ( 0.10) −6 (−0.63) −4 (−1.09) −4 (−1.51) −3 (−2.19) −7 (−0.25)
- Count Observed 2019 6,927 6,789 7,043 6,843 6,859 34,461 Count Observed 2019 8,328 8,877 8,404 8,694 8,544 42,847
- Count Observed 2023 6,942 7,082 6,974 6,994 7,178 35,170 Count Observed 2023 8,492 9,036 8,099 8,998 8,546 43,171
- Status Recovery: Overall and by Quintile
+2018 Grade 9 Scaled Score with Achievement Level Cuts Grade 10 Overall Percentile Ranks
+Growth Recovery: Overall and by Quintile
+Overall
+2019 &amp; 2023 Grade 10 Median SGPs by Quintile 2019 &amp; 2023 Grade 10 Mean Scaled (Standardized) Scores by Quintile
+Lagging
+Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+2019 Grade 10 Students 50.0 50.0 50.0 50.0 50.0 50.0 2019 Grade 10 Students 158 (−1.42) 185 (−0.49) 201 ( 0.04) 215 ( 0.52) 238 ( 1.32) 199 (0.00) Q1 Q2 Q3 Q4 Q5
+2023 Grade 10 Students 29.0 26.0 32.0 39.0 53.0 36.0 2023 Grade 10 Students 138 (−2.09) 179 (−0.69) 197 (−0.09) 211 ( 0.40) 235 ( 1.23) 192 (−0.25)
+Lagging Lagging Lagging Lagging On Par
+Academic Impact (Observed) −21.0 −24.0 −18.0 −11.0 3.0 −14.0 Change (Observed) −20 (−0.67) −6 (−0.20) −4 (−0.13) −4 (−0.12) −3 (−0.09) −7 (−0.25)
+Academic Impact (+ Imputed) −24.0 −26.0 −20.0 −11.5 3.0 −17.0 Change (+ Imputed) −20 ( 0.10) −6 (−0.63) −4 (−1.09) −4 (−1.51) −3 (−2.19) −7 (−0.25)
+Count Observed 2019 6,927 6,789 7,043 6,843 6,859 34,461 Count Observed 2019 8,328 8,877 8,404 8,694 8,544 42,847
+Count Observed 2023 6,942 7,082 6,974 6,994 7,178 35,170 Count Observed 2023 8,492 9,036 8,099 8,998 8,546 43,171
+Status Recovery: Overall and by Quintile
 
- 2023 to 2019 Scaled/Standardized Score Difference
- 35 35
- 2023 to 2019 SGP Difference (Observed)
- 1.15
- 1.10 2023 to 2019 Grade 10 Status Change (Observed) Overall
- 30 30 1.05 2023 to 2019 Grade 10 Status Change (+ Imputed)
- 2023 to 2019 SGP Difference (+ Imputed) 1.00
- 0.95 0.39: Correlation SGP and Status Percentile Change Lagging
+2023 to 2019 Scaled/Standardized Score Difference
+2023 to 2019 SGP Difference (Observed)
+1.10 2023 to 2019 Grade 10 Status Change (Observed) Overall
+30 30 1.05 2023 to 2019 Grade 10 Status Change (+ Imputed)
+2023 to 2019 SGP Difference (+ Imputed) 1.00
+0.95 0.39: Correlation SGP and Status Percentile Change Lagging
 
- Conditional Status/Growth Change
- 2023 to 2019 Conditional Status Difference (Observed) 0.90
- 25 25 0.85
- 0.36: Correlation SGP and Conditional Status Difference 0.80
- 0.75
- 20 20 0.70
- 0.65
- 0.60
- Q1 Q2 Q3 Q4 Q5
- 0.55
- 15 15 0.50 Lagging Lagging Lagging Lagging Lagging
- 0.45
- 0.40
- 10 10 0.35
+Conditional Status/Growth Change
+2023 to 2019 Conditional Status Difference (Observed) 0.90
+0.36: Correlation SGP and Conditional Status Difference 0.80
+15 15 0.50 Lagging Lagging Lagging Lagging Lagging
 
 2019 to 2023
- 0.30
- 0.25
- 5 5 0.20
- 0.15
- 0.10
- 0.05
- 0 0 0.00
- −0.05
- −0.10
- −5 −5 −0.15
- −0.20
- −0.25 −0.25
- −0.30
- −10 −10 −0.35
- −0.40
- −0.45
- −15 −15 −0.50
- −0.55
- −0.60
- −20 −20 −0.65
- −0.70
- −0.75
- −0.80
- −25 −25 −0.85
- −0.90
- −0.95
- −30 −30 −1.00
- −1.05
- −1.10
- −1.15
- −35 −35
- 10 20 30 40 50 60 70 80 90 100 150 200 250300
 
- 100 125 175 200 225 275 300 0 10 20 30 40 50 60 70 80 90 100
-
- 2018 Grade 9 Scaled Score with Decile &amp; Achievement Level Cuts Grade 10 Percentile Ranks and Scaled Scores (2019 Norm)</div>
+2018 Grade 9 Scaled Score with Decile &amp; Achievement Level Cuts Grade 10 Percentile Ranks and Scaled Scores (2019 Norm)</div>
 ```
 
 ## {.archive-slide background-image="slides/36.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">RISE ELA Grade 4
- Utah 2019 to 2023 COVID⌧19 Academic Recovery ELL Students
- Growth: Grade 3/2018 to 4/2019 versus Grade 3/2022 to 4/2023 Status: Grade 4/2019 versus Grade 4/2023 Summary
- 2018 Grade 3 Scaled Score Decile Cuts
- All Students
- 10 20 30 40 50 60 70 80 90 2019 Grade 4 Scaled Score
+Utah 2019 to 2023 COVID⌧19 Academic Recovery ELL Students
+Growth: Grade 3/2018 to 4/2019 versus Grade 3/2022 to 4/2023 Status: Grade 4/2019 versus Grade 4/2023 Summary
+2018 Grade 3 Scaled Score Decile Cuts
+All Students
+10 20 30 40 50 60 70 80 90 2019 Grade 4 Scaled Score
 
- Grade 4 Scaled/Standardized Score and Achievement Level Cuts
- ELL Students
- 10 20 30 40 50 60 70 80 90
- 125 300 400 500 675 Growth/Status Recovery Legend
- 675 675
- 2018 to 2019 Mean Conditional Status 2019 Percentiles (Observed) −30 −7 10 30
- 2022 to 2023 Mean Conditional Status (Observed) 3.5 2023 Percentiles (Observed)
- 2019 to 2023 Mean Conditional Status (+ Imputed) 2023 Percentiles (+ Imputed) −0.38 −0.09 0.12 0.38
+Grade 4 Scaled/Standardized Score and Achievement Level Cuts
+ELL Students
+125 300 400 500 675 Growth/Status Recovery Legend
+2018 to 2019 Mean Conditional Status 2019 Percentiles (Observed) −30 −7 10 30
+2022 to 2023 Mean Conditional Status (Observed) 3.5 2023 Percentiles (Observed)
+2019 to 2023 Mean Conditional Status (+ Imputed) 2023 Percentiles (+ Imputed) −0.38 −0.09 0.12 0.38
 
- Observed + Imputed
- 2019 to 2023 Growth Impact 3 2019 to 2023 Status Impact
- 600 600
- 2019 and 2023 Mean Scaled Scores
- 2.5 Lagging On Par Leading
+Observed + Imputed
+2019 to 2023 Growth Impact 3 2019 to 2023 Status Impact
+2019 and 2023 Mean Scaled Scores
+2.5 Lagging On Par Leading
 
- 2019 Grade 4 Scaled Score Decile Cuts
- Observed
+2019 Grade 4 Scaled Score Decile Cuts
+Observed
 
- 2019 Grade 4 Scaled Score
- 2
- 500 500
- 1.5
- 90 Calculations suppressed
- 1
- 80 due to small group N (&lt; 50)
- 70 0.5
- 400 400
- 60
- 50 0
+2019 Grade 4 Scaled Score
+90 Calculations suppressed
+80 due to small group N (&lt; 50)
 
- 40
- −0.5
- 30 −0.67 Participation
- 300 300
- −1
- 20 −1.09
- Total Status Growth
- −1.5
- 10 2019: 19.9% Proficient 2019 6,379 6,379 (100.0%) 5,912 (92.7%)
- −2
- 200 200
- −2.5 2023: 12.4% Proficient 2023 5,599 5,599 (100.0%) 4,277 (76.4%)
+30 −0.67 Participation
+Total Status Growth
+10 2019: 19.9% Proficient 2019 6,379 6,379 (100.0%) 5,912 (92.7%)
+−2.5 2023: 12.4% Proficient 2023 5,599 5,599 (100.0%) 4,277 (76.4%)
 
- −3
- 125 125 10 20 30 40 50 60 70 80 90
- 125 200 300 400 500 600 675
- 0 10 20 30 40 50 60 70 80 90 100
- 2018 Grade 3 Scaled Score with Achievement Level Cuts Grade 4 Overall and Subgroup Percentile Ranks
- Growth Recovery: Overall and by Quintile
- Overall
- 2019 &amp; 2023 Grade 4 Median SGPs by Quintile 2019 &amp; 2023 Grade 4 Mean Scaled (Standardized) Scores by Quintile
- Lagging
- Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
- 2019 Grade 4 Students 43.0 39.0 41.0 39.0 45.0 41.0 2019 Grade 4 Students 256 (−0.67) 325 (−0.67) 369 (−0.67) 411 (−0.67) 470 (−0.67) 318 (−0.67) Q1 Q2 Q3 Q4 Q5
- 2023 Grade 4 Students 35.0 37.0 33.0 31.0 34.0 35.0 2023 Grade 4 Students 223 (−1.09) 312 (−1.09) 363 (−1.09) 407 (−1.09) 461 (−1.09) 285 (−1.09)
- Lagging On Par Lagging Lagging Lagging
+2018 Grade 3 Scaled Score with Achievement Level Cuts Grade 4 Overall and Subgroup Percentile Ranks
+Growth Recovery: Overall and by Quintile
+Overall
+2019 &amp; 2023 Grade 4 Median SGPs by Quintile 2019 &amp; 2023 Grade 4 Mean Scaled (Standardized) Scores by Quintile
+Lagging
+Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+2019 Grade 4 Students 43.0 39.0 41.0 39.0 45.0 41.0 2019 Grade 4 Students 256 (−0.67) 325 (−0.67) 369 (−0.67) 411 (−0.67) 470 (−0.67) 318 (−0.67) Q1 Q2 Q3 Q4 Q5
+2023 Grade 4 Students 35.0 37.0 33.0 31.0 34.0 35.0 2023 Grade 4 Students 223 (−1.09) 312 (−1.09) 363 (−1.09) 407 (−1.09) 461 (−1.09) 285 (−1.09)
+Lagging On Par Lagging Lagging Lagging
 Academic Impact (Observed) −8.0 −2.0 −8.0 −8.0 −11.0 −6.0 Change (Observed) −32 (−0.42) −13 (−0.17) −6 (−0.08) −4 (−0.06) −9 (−0.12) −33 (−0.42)
 Academic Impact (+ Imputed) −8.0 −2.0 −8.0 −8.0 −11.0 −10.0 Change (+ Imputed) −32 (−0.49) −13 (−0.36) −6 (−0.34) −4 (−0.37) −9 (−0.51) −33 (−0.42)
- Count Observed 2019 2,469 1,524 1,054 554 311 5,912 Count Observed 2019 2,793 1,588 1,052 595 351 6,379
- Count Observed 2023 1,938 1,148 691 391 109 4,277 Count Observed 2023 2,828 1,440 763 413 155 5,599
- Status Recovery: Overall and by Quintile
+Count Observed 2019 2,469 1,524 1,054 554 311 5,912 Count Observed 2019 2,793 1,588 1,052 595 351 6,379
+Count Observed 2023 1,938 1,148 691 391 109 4,277 Count Observed 2023 2,828 1,440 763 413 155 5,599
+Status Recovery: Overall and by Quintile
 
- 2023 to 2019 Scaled/Standardized Score Difference
- 35 35 0.45
- 2023 to 2019 SGP Difference (Observed)
- 0.40
- 2023 to 2019 Grade 4 Status Change (Observed) Overall
- 30 2023 to 2019 SGP Difference (+ Imputed) 30 2023 to 2019 Grade 4 Status Change (+ Imputed)
- 0.35 0.88: Correlation SGP and Status Percentile Change Lagging
+2023 to 2019 Scaled/Standardized Score Difference
+2023 to 2019 SGP Difference (Observed)
+2023 to 2019 Grade 4 Status Change (Observed) Overall
+30 2023 to 2019 SGP Difference (+ Imputed) 30 2023 to 2019 Grade 4 Status Change (+ Imputed)
+0.35 0.88: Correlation SGP and Status Percentile Change Lagging
 
- Conditional Status/Growth Change
- 2023 to 2019 Conditional Status Difference (Observed)
- 25 25
- 0.99: Correlation SGP and Conditional Status Difference 0.30
- 20 20 0.25 Q1 Q2 Q3 Q4 Q5
- 15 15 0.20 Lagging Lagging Lagging Lagging Lagging
- 0.15
- 10 10
+Conditional Status/Growth Change
+2023 to 2019 Conditional Status Difference (Observed)
+0.99: Correlation SGP and Conditional Status Difference 0.30
+15 15 0.20 Lagging Lagging Lagging Lagging Lagging
 
- 2019 to 2023
- 0.10
- 5 5
- 0.05
- 0 0 0.00
- −0.05
- −5 −5
- −0.10
- −10 −10
- −0.15
- −15 −15 −0.20
+2019 to 2023
 
- −20 −20 −0.25
- −0.30
- −25 −25
- −0.35
- −30 −30 −0.40
- −0.42
- −35 −35 −0.45
- 10 20 30 40 50 60 70 80 90 125 300 400 500 675
-
- 125 200 300 400 500 600 675 0 10 20 30 40 50 60 70 80 90 100
-
- 2018 Grade 3 Scaled Score with Decile &amp; Achievement Level Cuts Grade 4 Percentile Ranks and Scaled Scores (2019 Norm)</div>
+2018 Grade 3 Scaled Score with Decile &amp; Achievement Level Cuts Grade 4 Percentile Ranks and Scaled Scores (2019 Norm)</div>
 ```
 
 ## {.archive-slide background-image="slides/37.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">UA+ ELA Grade 9
- Utah 2019 to 2023 COVID⌧19 Academic Recovery Female Students
- Growth: Grade 8/2018 to 9/2019 versus Grade 8/2022 to 9/2023 Status: Grade 9/2019 versus Grade 9/2023 Summary
- 2018 Grade 8 Scaled Score Decile Cuts
- All Students
- 10 20 30 40 50 60 70 80 90 2019 Grade 9 Scaled Score
+Utah 2019 to 2023 COVID⌧19 Academic Recovery Female Students
+Growth: Grade 8/2018 to 9/2019 versus Grade 8/2022 to 9/2023 Status: Grade 9/2019 versus Grade 9/2023 Summary
+2018 Grade 8 Scaled Score Decile Cuts
+All Students
+10 20 30 40 50 60 70 80 90 2019 Grade 9 Scaled Score
 
- Grade 9 Scaled/Standardized Score and Achievement Level Cuts
- Female Students
- 10 20 30 40 50 60 70 80 90
- 125 400
- 500
- 675
- 300 Growth/Status Recovery Legend
- 300 300
- 2018 to 2019 Mean Conditional Status 3.5 2019 Percentiles (Observed) −30 −7 10 30
- 2022 to 2023 Mean Conditional Status (Observed) 2023 Percentiles (Observed)
+Grade 9 Scaled/Standardized Score and Achievement Level Cuts
+Female Students
+300 Growth/Status Recovery Legend
+2018 to 2019 Mean Conditional Status 3.5 2019 Percentiles (Observed) −30 −7 10 30
+2022 to 2023 Mean Conditional Status (Observed) 2023 Percentiles (Observed)
 
- Observed + Imputed
- 2019 to 2023 Mean Conditional Status (+ Imputed) 2023 Percentiles (+ Imputed) −0.38 −0.09 0.12 0.38
- 3
- 275 2019 to 2023 Growth Impact 275 2019 to 2023 Status Impact
+Observed + Imputed
+2019 to 2023 Mean Conditional Status (+ Imputed) 2023 Percentiles (+ Imputed) −0.38 −0.09 0.12 0.38
+275 2019 to 2023 Growth Impact 275 2019 to 2023 Status Impact
 
- 2019 Grade 9 Scaled Score Decile Cuts
- 2019 and 2023 Mean Scaled Scores
- 2.5
+2019 Grade 9 Scaled Score Decile Cuts
+2019 and 2023 Mean Scaled Scores
 
- Observed
- Lagging On Par Leading
- 2
+Observed
+Lagging On Par Leading
 
- 2019 Grade 9 Scaled Score
- 1.5
- 90
- 225 225 1 Calculations suppressed
- 80
- 70 0.5 due to small group N (&lt; 50)
- 60 0.16
- 200 50 200 0 0.02
- 40
- −0.5
- 30
- 175 175
- 20 −1
- Participation
- 10 −1.5
- Total Status Growth
- −2
- 2019: 53.9% Proficient 2019 21,787 21,787 (100.0%) 19,671 (90.3%)
- −2.5
- 125 125
- −3 2023: 48.4% Proficient 2023 21,713 21,713 (100.0%) 18,437 (84.9%)
+2019 Grade 9 Scaled Score
+225 225 1 Calculations suppressed
+70 0.5 due to small group N (&lt; 50)
+Participation
+Total Status Growth
+2019: 53.9% Proficient 2019 21,787 21,787 (100.0%) 19,671 (90.3%)
+−3 2023: 48.4% Proficient 2023 21,713 21,713 (100.0%) 18,437 (84.9%)
 
- −3.5
- 100 100 10 20 30 40 50 60 70 80 90
- 125 200 300 400 500 600 675
- 0 10 20 30 40 50 60 70 80 90 100
- 2018 Grade 8 Scaled Score with Achievement Level Cuts Grade 9 Overall and Subgroup Percentile Ranks
- Growth Recovery: Overall and by Quintile
- Overall
- 2019 &amp; 2023 Grade 9 Median SGPs by Quintile 2019 &amp; 2023 Grade 9 Mean Scaled (Standardized) Scores by Quintile
- On Par
- Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
- 2019 Grade 9 Students 51.0 50.0 48.0 47.0 49.0 49.0 2019 Grade 9 Students 163 (0.16) 187 (0.16) 201 (0.16) 214 (0.16) 235 (0.16) 204 (0.16) Q1 Q2 Q3 Q4 Q5
- 2023 Grade 9 Students 55.0 47.0 46.0 45.0 46.0 48.0 2023 Grade 9 Students 159 (0.02) 183 (0.02) 199 (0.02) 212 (0.02) 233 (0.02) 200 (0.02)
- On Par On Par On Par On Par On Par
- Academic Impact (Observed) 4.0 −3.0 −2.0 −2.0 −3.0 −1.0 Change (Observed) −4 (−0.16) −4 (−0.16) −3 (−0.10) −2 (−0.07) −2 (−0.07) −3 (−0.13)
- Academic Impact (+ Imputed) 4.0 −3.0 −2.0 −1.6 −3.0 −2.0 Change (+ Imputed) −4 ( 0.16) −4 (−0.64) −3 (−1.09) −2 (−1.52) −2 (−2.23) −3 (−0.13)
- Count Observed 2019 2,743 3,670 4,216 4,346 4,696 19,671 Count Observed 2019 3,190 4,061 4,688 4,766 5,082 21,787
- Count Observed 2023 2,836 3,514 3,885 3,977 4,225 18,437 Count Observed 2023 3,385 4,311 4,465 4,483 5,069 21,713
- Status Recovery: Overall and by Quintile
+2018 Grade 8 Scaled Score with Achievement Level Cuts Grade 9 Overall and Subgroup Percentile Ranks
+Growth Recovery: Overall and by Quintile
+Overall
+2019 &amp; 2023 Grade 9 Median SGPs by Quintile 2019 &amp; 2023 Grade 9 Mean Scaled (Standardized) Scores by Quintile
+On Par
+Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+2019 Grade 9 Students 51.0 50.0 48.0 47.0 49.0 49.0 2019 Grade 9 Students 163 (0.16) 187 (0.16) 201 (0.16) 214 (0.16) 235 (0.16) 204 (0.16) Q1 Q2 Q3 Q4 Q5
+2023 Grade 9 Students 55.0 47.0 46.0 45.0 46.0 48.0 2023 Grade 9 Students 159 (0.02) 183 (0.02) 199 (0.02) 212 (0.02) 233 (0.02) 200 (0.02)
+On Par On Par On Par On Par On Par
+Academic Impact (Observed) 4.0 −3.0 −2.0 −2.0 −3.0 −1.0 Change (Observed) −4 (−0.16) −4 (−0.16) −3 (−0.10) −2 (−0.07) −2 (−0.07) −3 (−0.13)
+Academic Impact (+ Imputed) 4.0 −3.0 −2.0 −1.6 −3.0 −2.0 Change (+ Imputed) −4 ( 0.16) −4 (−0.64) −3 (−1.09) −2 (−1.52) −2 (−2.23) −3 (−0.13)
+Count Observed 2019 2,743 3,670 4,216 4,346 4,696 19,671 Count Observed 2019 3,190 4,061 4,688 4,766 5,082 21,787
+Count Observed 2023 2,836 3,514 3,885 3,977 4,225 18,437 Count Observed 2023 3,385 4,311 4,465 4,483 5,069 21,713
+Status Recovery: Overall and by Quintile
 
- 2023 to 2019 Scaled/Standardized Score Difference
- 35 35
- 2023 to 2019 SGP Difference (Observed)
- 1.30
- 1.25
- 1.20 2023 to 2019 Grade 9 Status Change (Observed) Overall
- 30 2023 to 2019 SGP Difference (+ Imputed) 30 1.15 2023 to 2019 Grade 9 Status Change (+ Imputed)
- 1.10
- 1.05 −0.25: Correlation SGP and Status Percentile Change Lagging
+2023 to 2019 Scaled/Standardized Score Difference
+2023 to 2019 SGP Difference (Observed)
+1.20 2023 to 2019 Grade 9 Status Change (Observed) Overall
+30 2023 to 2019 SGP Difference (+ Imputed) 30 1.15 2023 to 2019 Grade 9 Status Change (+ Imputed)
+1.05 −0.25: Correlation SGP and Status Percentile Change Lagging
 
- Conditional Status/Growth Change
- 2023 to 2019 Conditional Status Difference (Observed) 1.00
- 25 25 0.95
- 0.97: Correlation SGP and Conditional Status Difference 0.90
- 0.85
- 0.80
- 20 20 0.75
- 0.70 Q1 Q2 Q3 Q4 Q5
- 0.65
- 15 15 0.60 Lagging Lagging Lagging On Par On Par
- 0.55
- 0.50
- 0.45
- 10 10 0.40
+Conditional Status/Growth Change
+2023 to 2019 Conditional Status Difference (Observed) 1.00
+0.97: Correlation SGP and Conditional Status Difference 0.90
+15 15 0.60 Lagging Lagging Lagging On Par On Par
 
 2019 to 2023
- 0.35
- 0.30
- 0.25
- 5 5 0.20
- 0.15
- 0.10
- 0.05
- 0 0 0.00
- −0.05
- −0.10 −0.13
- −5 −5 −0.15
- −0.20
- −0.25
- −0.30
- −10 −10 −0.35
- −0.40
- −0.45
- −0.50
- −15 −15 −0.55
- −0.60
- −0.65
- −0.70
- −20 −20 −0.75
- −0.80
- −0.85
- −0.90
- −25 −25 −0.95
- −1.00
- −1.05
- −30 −30 −1.10
- −1.15
- −1.20
- −1.25
- −35 −35 −1.30
- 10 20 30 40 50 60 70 80 90 125 675
- 500
- 300
- 400
 
- 125 200 300 400 500 600 675 0 10 20 30 40 50 60 70 80 90 100
-
- 2018 Grade 8 Scaled Score with Decile &amp; Achievement Level Cuts Grade 9 Percentile Ranks and Scaled Scores (2019 Norm)</div>
+2018 Grade 8 Scaled Score with Decile &amp; Achievement Level Cuts Grade 9 Percentile Ranks and Scaled Scores (2019 Norm)</div>
 ```
 
 ## {.archive-slide background-image="slides/38.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">UA+ ELA Grade 9
- Utah 2019 to 2023 COVID⌧19 Academic Recovery Male Students
- Growth: Grade 8/2018 to 9/2019 versus Grade 8/2022 to 9/2023 Status: Grade 9/2019 versus Grade 9/2023 Summary
- 2018 Grade 8 Scaled Score Decile Cuts
- All Students
- 10 20 30 40 50 60 70 80 90 2019 Grade 9 Scaled Score
+Utah 2019 to 2023 COVID⌧19 Academic Recovery Male Students
+Growth: Grade 8/2018 to 9/2019 versus Grade 8/2022 to 9/2023 Status: Grade 9/2019 versus Grade 9/2023 Summary
+2018 Grade 8 Scaled Score Decile Cuts
+All Students
+10 20 30 40 50 60 70 80 90 2019 Grade 9 Scaled Score
 
- Grade 9 Scaled/Standardized Score and Achievement Level Cuts
- Male Students
- 10 20 30 40 50 60 70 80 90
- 125 500
- 675
- 400
- 300 Growth/Status Recovery Legend
- 300 300
- 2018 to 2019 Mean Conditional Status 3.5 2019 Percentiles (Observed) −30 −7 10 30
- 2022 to 2023 Mean Conditional Status (Observed) 2023 Percentiles (Observed)
+Grade 9 Scaled/Standardized Score and Achievement Level Cuts
+Male Students
+300 Growth/Status Recovery Legend
+2018 to 2019 Mean Conditional Status 3.5 2019 Percentiles (Observed) −30 −7 10 30
+2022 to 2023 Mean Conditional Status (Observed) 2023 Percentiles (Observed)
 
- Observed + Imputed
- 2019 to 2023 Mean Conditional Status (+ Imputed) 2023 Percentiles (+ Imputed) −0.38 −0.09 0.12 0.38
- 3
- 275 2019 to 2023 Growth Impact 275 2019 to 2023 Status Impact
+Observed + Imputed
+2019 to 2023 Mean Conditional Status (+ Imputed) 2023 Percentiles (+ Imputed) −0.38 −0.09 0.12 0.38
+275 2019 to 2023 Growth Impact 275 2019 to 2023 Status Impact
 
- 2019 Grade 9 Scaled Score Decile Cuts
- 2019 and 2023 Mean Scaled Scores
- 2.5
+2019 Grade 9 Scaled Score Decile Cuts
+2019 and 2023 Mean Scaled Scores
 
- Observed
- Lagging On Par Leading
- 2
+Observed
+Lagging On Par Leading
 
- 2019 Grade 9 Scaled Score
- 1.5
- 90
- 225 225 1 Calculations suppressed
- 80
- 70 0.5 due to small group N (&lt; 50)
- 60
- 200 50 200 0
- −0.14
- −0.23
- 40
- −0.5
- 30
- 175 175
- 20 −1
- Participation
- 10 −1.5
- Total Status Growth
- −2
- 2019: 43.1% Proficient 2019 22,554 22,554 (100.0%) 20,600 (91.3%)
- −2.5
- 125 125
- −3 2023: 39.9% Proficient 2023 23,793 23,793 (100.0%) 20,650 (86.8%)
+2019 Grade 9 Scaled Score
+225 225 1 Calculations suppressed
+70 0.5 due to small group N (&lt; 50)
+Participation
+Total Status Growth
+2019: 43.1% Proficient 2019 22,554 22,554 (100.0%) 20,600 (91.3%)
+−3 2023: 39.9% Proficient 2023 23,793 23,793 (100.0%) 20,650 (86.8%)
 
- −3.5
- 100 100 10 20 30 40 50 60 70 80 90
- 125 200 300 400 500 600 675
- 0 10 20 30 40 50 60 70 80 90 100
- 2018 Grade 8 Scaled Score with Achievement Level Cuts Grade 9 Overall and Subgroup Percentile Ranks
- Growth Recovery: Overall and by Quintile
- Overall
- 2019 &amp; 2023 Grade 9 Median SGPs by Quintile 2019 &amp; 2023 Grade 9 Mean Scaled (Standardized) Scores by Quintile
- Lagging
- Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
- 2019 Grade 9 Students 50.0 50.0 52.0 53.0 51.0 51.0 2019 Grade 9 Students 160 (−0.14) 187 (−0.14) 201 (−0.14) 214 (−0.14) 234 (−0.14) 196 (−0.14) Q1 Q2 Q3 Q4 Q5
- 2023 Grade 9 Students 50.0 44.0 43.0 42.0 44.0 45.0 2023 Grade 9 Students 157 (−0.23) 183 (−0.23) 199 (−0.23) 212 (−0.23) 232 (−0.23) 194 (−0.23)
- On Par On Par Lagging Lagging Lagging
- Academic Impact (Observed) 0.0 −6.0 −9.0 −11.0 −7.0 −6.0 Change (Observed) −3 (−0.12) −4 (−0.15) −2 (−0.09) −2 (−0.07) −2 (−0.08) −2 (−0.09)
- Academic Impact (+ Imputed) 0.0 −6.0 −9.0 −11.0 −7.0 −7.0 Change (+ Imputed) −3 ( 0.27) −4 (−0.62) −2 (−1.09) −2 (−1.52) −2 (−2.20) −2 (−0.09)
- Count Observed 2019 5,309 4,356 3,858 3,741 3,336 20,600 Count Observed 2019 5,723 4,444 4,367 4,169 3,851 22,554
- Count Observed 2023 4,973 4,269 4,014 3,801 3,593 20,650 Count Observed 2023 5,805 4,888 4,602 4,233 4,265 23,793
- Status Recovery: Overall and by Quintile
+2018 Grade 8 Scaled Score with Achievement Level Cuts Grade 9 Overall and Subgroup Percentile Ranks
+Growth Recovery: Overall and by Quintile
+Overall
+2019 &amp; 2023 Grade 9 Median SGPs by Quintile 2019 &amp; 2023 Grade 9 Mean Scaled (Standardized) Scores by Quintile
+Lagging
+Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+2019 Grade 9 Students 50.0 50.0 52.0 53.0 51.0 51.0 2019 Grade 9 Students 160 (−0.14) 187 (−0.14) 201 (−0.14) 214 (−0.14) 234 (−0.14) 196 (−0.14) Q1 Q2 Q3 Q4 Q5
+2023 Grade 9 Students 50.0 44.0 43.0 42.0 44.0 45.0 2023 Grade 9 Students 157 (−0.23) 183 (−0.23) 199 (−0.23) 212 (−0.23) 232 (−0.23) 194 (−0.23)
+On Par On Par Lagging Lagging Lagging
+Academic Impact (Observed) 0.0 −6.0 −9.0 −11.0 −7.0 −6.0 Change (Observed) −3 (−0.12) −4 (−0.15) −2 (−0.09) −2 (−0.07) −2 (−0.08) −2 (−0.09)
+Academic Impact (+ Imputed) 0.0 −6.0 −9.0 −11.0 −7.0 −7.0 Change (+ Imputed) −3 ( 0.27) −4 (−0.62) −2 (−1.09) −2 (−1.52) −2 (−2.20) −2 (−0.09)
+Count Observed 2019 5,309 4,356 3,858 3,741 3,336 20,600 Count Observed 2019 5,723 4,444 4,367 4,169 3,851 22,554
+Count Observed 2023 4,973 4,269 4,014 3,801 3,593 20,650 Count Observed 2023 5,805 4,888 4,602 4,233 4,265 23,793
+Status Recovery: Overall and by Quintile
 
- 2023 to 2019 Scaled/Standardized Score Difference
- 35 35
- 2023 to 2019 SGP Difference (Observed)
- 1.30
- 1.25
- 1.20 2023 to 2019 Grade 9 Status Change (Observed) Overall
- 30 2023 to 2019 SGP Difference (+ Imputed) 30 1.15 2023 to 2019 Grade 9 Status Change (+ Imputed)
- 1.10
- 1.05 −0.65: Correlation SGP and Status Percentile Change On Par
+2023 to 2019 Scaled/Standardized Score Difference
+2023 to 2019 SGP Difference (Observed)
+1.20 2023 to 2019 Grade 9 Status Change (Observed) Overall
+30 2023 to 2019 SGP Difference (+ Imputed) 30 1.15 2023 to 2019 Grade 9 Status Change (+ Imputed)
+1.05 −0.65: Correlation SGP and Status Percentile Change On Par
 
- Conditional Status/Growth Change
- 2023 to 2019 Conditional Status Difference (Observed) 1.00
- 25 25 0.95
- 0.99: Correlation SGP and Conditional Status Difference 0.90
- 0.85
- 0.80
- 20 20 0.75
- 0.70 Q1 Q2 Q3 Q4 Q5
- 0.65
- 15 15 0.60 Lagging Lagging On Par On Par On Par
- 0.55
- 0.50
- 0.45
- 10 10 0.40
+Conditional Status/Growth Change
+2023 to 2019 Conditional Status Difference (Observed) 1.00
+0.99: Correlation SGP and Conditional Status Difference 0.90
+15 15 0.60 Lagging Lagging On Par On Par On Par
 
 2019 to 2023
- 0.35
- 0.30
- 0.25
- 5 5 0.20
- 0.15
- 0.10
- 0.05
- 0 0 0.00
- −0.05 −0.09
- −0.10
- −5 −5 −0.15
- −0.20
- −0.25
- −0.30
- −10 −10 −0.35
- −0.40
- −0.45
- −0.50
- −15 −15 −0.55
- −0.60
- −0.65
- −0.70
- −20 −20 −0.75
- −0.80
- −0.85
- −0.90
- −25 −25 −0.95
- −1.00
- −1.05
- −30 −30 −1.10
- −1.15
- −1.20
- −1.25
- −35 −35 −1.30
- 10 20 30 40 50 60 70 80 90 125 675
- 500
- 400
- 300
 
- 125 200 300 400 500 600 675 0 10 20 30 40 50 60 70 80 90 100
-
- 2018 Grade 8 Scaled Score with Decile &amp; Achievement Level Cuts Grade 9 Percentile Ranks and Scaled Scores (2019 Norm)</div>
+2018 Grade 8 Scaled Score with Decile &amp; Achievement Level Cuts Grade 9 Percentile Ranks and Scaled Scores (2019 Norm)</div>
 ```
 
 ## {.archive-slide background-image="slides/39.webp" background-size="contain" background-color="#14140f"}
@@ -1376,23 +1042,19 @@ Academic Impact (+ Imputed) −8.0 −2.0 −8.0 −8.0 −11.0 −10.0 Change (
 ```{=html}
 <div class="archive-text">Recovery Year 2
 • Analysis of 2023 RISE data indicates two things:
- • Rates of learning, on average, are slightly exceeding or at pre-pandemic rates of
- growth. That is, the system has recovered, and then some.
- • Student attainment, on average, is still lagging behind because rates of learning have
- not accelerated enough to catch students up. That is, students have not fully
- “recovered” but levels are, in most grades, close to pre-pandemic levels.
+• Rates of learning, on average, are slightly exceeding or at pre-pandemic rates of
+growth. That is, the system has recovered, and then some.
+• Student attainment, on average, is still lagging behind because rates of learning have
+not accelerated enough to catch students up. That is, students have not fully
+“recovered” but levels are, in most grades, close to pre-pandemic levels.
 • In both ELA and mathematics, learning acceleration from the lows of the pandemic would
- be considered, on average. That is, the system has stabilized.
-
- 39</div>
+be considered, on average. That is, the system has stabilized.</div>
 ```
 
 ## {.archive-slide background-image="slides/40.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">Questions
-
- 40</div>
+<div class="archive-text">Questions</div>
 ```
 
 ## About this copy {.archive-about}

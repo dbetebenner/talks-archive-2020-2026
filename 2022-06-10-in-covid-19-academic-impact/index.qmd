@@ -19,47 +19,27 @@ The National Center for the Improvement of Educational Assessment
 May 20th, 2022
 IDOE Weekly Update
 
- This work is licensed under a
- Creative Commons Attribution 4.0
- International License.</div>
+This work is licensed under a
+Creative Commons Attribution 4.0
+International License.</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">NWEA MAP ELA Fall to Fall Median SGPs
- Grade Fall 2018-2019 Fall 2019-2020 Fall 2020-2021
- 1 53 (22,833) 39 (22,812) 44 (24,401)
- 2 46 (30,114) 22 (25,709) 40 (14,944)
- 3 46 (39,641) 40 (33,787) 40 (29,102)
- 4 51 (50,440) 49 (37,601) 47 (36,171)
- 5 46 (50,804) 45 (39,324) 51 (42,768)
- 6 48 (54,710) 49 (36,951) 44 (43,269)
- 7 48 (53,395) 51 (39,279) 45 (43,076)
- 8 48 (51,896) 51 (38,955) 45 (42,396)
- 9 49 (23,023) 53 (14,612) 42 (15,919)
- 10 48 (20,371) 57 (13,739) 40 (14,944)
+Grade Fall 2018-2019 Fall 2019-2020 Fall 2020-2021
 
- www.nciea.org 2</div>
+www.nciea.org 2</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">NWEA MAP Math Fall to Fall Median SGPs
- Grade Fall 2018-2019 Fall 2019-2020 Fall 2020-2021
- 1 55 (23,067) 53 (23,524) 37 (24,773)
- 2 54 (30,182) 28 (26,704) 38 (29,993)
- 3 48 (31,390) 29 (28,238) 47 (30,815)
- 4 54 (35,309) 32 (28,631) 54 (33,225)
- 5 46 (34,943) 26 (29,809) 52 (33,545)
- 6 48 (36,760) 33 (27,193) 53 (33,344)
- 7 52 (35,736) 34 (28,626) 46 (32,433)
- 8 51 (35,596) 30 (27,652) 41 (30,589)
- 9 53 (16,695) 37 (7,363) 44 (8,727)
- 10 53 (14,965) 42 (7,198) 42 (7,059)
+Grade Fall 2018-2019 Fall 2019-2020 Fall 2020-2021
 
- www.nciea.org 3</div>
+www.nciea.org 3</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -67,19 +47,9 @@ IDOE Weekly Update
 ```{=html}
 <div class="archive-text">NWEA MAP ELA Winter to Winter Median SGPs
 
- Grade Winter 2018-2019 Winter 2019-2020 Winter 2020-2021
- 1 56 (26,149) 32 (23,941) 44 (27,297)
- 2 55 (28,883) 28 (26,210) 52 (31,051)
- 3 48 (38,612) 40 (32,908) 52 (37,119)
- 4 52 (47,272) 45 (38,130) 50 (42,713)
- 5 51 (48,351) 45 (38,556) 45 (42,717)
- 6 53 (48,908) 50 (34,592) 47 (41,181)
- 7 51 (46,936) 45 (34,252) 41 (37,800)
- 8 54 (45,140) 48 (33,300) 42 (36,613)
- 9 50 (18,990) 48 (11,406) 36 (13,980)
- 10 50 (16,881) 51 (11,278) 35 (11,811)
+Grade Winter 2018-2019 Winter 2019-2020 Winter 2020-2021
 
- www.nciea.org 4</div>
+www.nciea.org 4</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -87,38 +57,18 @@ IDOE Weekly Update
 ```{=html}
 <div class="archive-text">NWEA MAP Math Winter to Winter Median SGPs
 
- Grade Winter 2018-2019 Winter 2019-2020 Winter 2020-2021
- 1 62 (26,121) 47 (25,846) 46 (28,746)
- 2 40 (28,758) 14 (27,441) 40 (31,592)
- 3 42 (30,882) 30 (29,028) 56 (32,287)
- 4 44 (34,257) 28 (30,009) 54 (34,072)
- 5 49 (34,056) 31 (30,362) 58 (33,828)
- 6 46 (34,180) 38 (26,989) 56 (32,784)
- 7 52 (32,482) 33 (26,084) 49 (29,506)
- 8 53 (32,388) 35 (24,737) 45 (27,893)
- 9 55 (14,297) 39 (5,181) 40 (7,599)
- 10 52 (12,742) 45 (5,190) 40 (4,780)
+Grade Winter 2018-2019 Winter 2019-2020 Winter 2020-2021
 
- www.nciea.org 5</div>
+www.nciea.org 5</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">NWEA MAP ELA Fall to Winter Median SGPs
- Grade Winter 2019-2020 Winter 2020-2021 Winter 2021-2022
- 1 45 (34,403) 44 (29,857) 41 (38,998)
- 2 47 (45,352) 45 (36,200) 48 (48,975)
- 3 50 (52,181) 47 (43,268) 49 (55,160)
- 4 47 (55,452) 44 (44,341) 44 (56,999)
- 5 51 (56,033) 47 (44,211) 46 (56,959)
- 6 52 (58,926) 47 (41,419) 47 (56,957)
- 7 52 (54,550) 47 (36,104) 47 (53,096)
- 8 55 (51,569) 49 (34,812) 49 (52,212)
- 9 50 (22,133) 46 (13,415) 46 (20,825)
- 10 53 (20,497) 43 (12,038) 44 (17,844)
+Grade Winter 2019-2020 Winter 2020-2021 Winter 2021-2022
 
- www.nciea.org 6</div>
+www.nciea.org 6</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -126,18 +76,8 @@ IDOE Weekly Update
 ```{=html}
 <div class="archive-text">NWEA MAP Math Fall to Winter Median SGPs
 Grade Winter 2019-2020 Winter 2020-2021 Winter 2021-2022
-1 54 (35,316) 47 (30,693) 49 (39,053)
-2 43 (36,970) 44 (31,737) 52 (40,479)
-3 46 (37,780) 49 (33,958) 57 (42,649)
-4 38 (38,642) 44 (34,191) 49 (43,635)
-5 45 (38,864) 48 (34,368) 54 (43,264)
-6 50 (40,021) 51 (30,822) 50 (42,853)
-7 48 (37,329) 47 (27,479) 47 (39,940)
-8 47 (36,834) 48 (24,905) 48 (37,801)
-9 47 (17,002) 48 (6,028) 45 (9,966)
-10 51 (14,804) 47 (5,227) 44 (8,354)
 
- www.nciea.org 7</div>
+www.nciea.org 7</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -145,7 +85,7 @@ Grade Winter 2019-2020 Winter 2020-2021 Winter 2021-2022
 ```{=html}
 <div class="archive-text">Preliminary ILEARN Results (status over time)
 
- www.nciea.org 8</div>
+www.nciea.org 8</div>
 ```
 
 ## About this copy {.archive-about}

@@ -25,9 +25,9 @@ Components
 • Identify state &amp; federal expectations
 • Acknowledge “pre-existing” conditions
 • Indicate purpose/s of study
- • Understand academic impact of COVID-19 to provide intentional supports &amp;
- resources
- • NOT accountability</div>
+• Understand academic impact of COVID-19 to provide intentional supports &amp;
+resources
+• NOT accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -35,18 +35,18 @@ Components
 ```{=html}
 <div class="archive-text">Research Questions
 • Question #1: Who are the students in Indiana?
- • Overall description of student population.
- • Overall description of students for whom assessment data has been collected. Who do we
- not have data?
+• Overall description of student population.
+• Overall description of students for whom assessment data has been collected. Who do we
+not have data?
 
 • Question #2: To what extent did COVID-19 disruptions impact student
- academic performance &amp; learning outcomes?
- • Overall academic impact
- • Disparities in academic impact
- • Content area academic impact (E/La &amp; math; English language proficiency)
+academic performance &amp; learning outcomes?
+• Overall academic impact
+• Disparities in academic impact
+• Content area academic impact (E/La &amp; math; English language proficiency)
 
 • Question #3: What is the anticipated academic recovery time based on
- the experienced COVID-19 disruptions?</div>
+the experienced COVID-19 disruptions?</div>
 ```
 
 ::: notes
@@ -83,14 +83,14 @@ Are there areas not included here that leadership would like to consider?
 <div class="archive-text">Data Sources
 Components
 • Assessment data
- • ILEARN for E/La &amp; math (grades 3-8)
- • WIDA ACCESS 2.0 for English learners (K-12)
- • NWEA MAP interim for E/La &amp; math (grades 1-10)
+• ILEARN for E/La &amp; math (grades 3-8)
+• WIDA ACCESS 2.0 for English learners (K-12)
+• NWEA MAP interim for E/La &amp; math (grades 1-10)
 • Population data
- • Ed-Fi Attendance &amp; Student Demographic data
- • Poverty index data
+• Ed-Fi Attendance &amp; Student Demographic data
+• Poverty index data
 • Technology data
- • Annual technology plan</div>
+• Annual technology plan</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -99,16 +99,15 @@ Components
 <div class="archive-text">Data Sources
 Notes on NWEA MAP data
 • Received data from Fall 2020-2021 and Winter 2020-2021 administration
- windows
+windows
 • Data consisted primarily of language arts and mathematics data for Grades
- K-10
 • Statewide participation approached/exceeded 40% in all grades except 9 &amp; 10
 
 Notes on High School data
 • Limited interim assessment data makes it difficult to conduct sufficient
- analysis of grades 9-12
+analysis of grades 9-12
 • Changes in ISTEP+ 10 administration introduce problems for comparison of
- status &amp; growth.</div>
+status &amp; growth.</div>
 ```
 
 ::: notes
@@ -121,19 +120,8 @@ NOTE: data limitations at high school level
 
 ```{=html}
 <div class="archive-text">NWEA Statewide Participation
- Grade E/La Math E/La Math
- Level Fall 2020 Fall 2020 Winter 2020 Winter 2020
-K 35.96% 36.70% 39.09% 41.19%
-1 40.28% 41.77% 42.22% 43.23%
-2 43.06% 43.88% 44.83% 45.28%
-3 46.95% 46.00% 48.14% 47.19%
-4 47.38% 46.31% 48.54% 47.65%
-5 47.25% 46.29% 47.97% 46.90%
-6 43.75% 43.24% 42.32% 41.74%
-7 40.46% 40.11% 37.62% 36.92%
-8 40.22% 39.78% 37.00% 36.37%
-9 20.88% 19.07% 16.49% 15.46%
-10 18.40% 17.01% 15.30% 13.87%
+Grade E/La Math E/La Math
+Level Fall 2020 Fall 2020 Winter 2020 Winter 2020
 State 38.38% 38.03% 37.91% 37.58%</div>
 ```
 
@@ -144,13 +132,13 @@ State 38.38% 38.03% 37.91% 37.58%</div>
 Components
 • Consultation with Indiana Technical Advisory Committee
 • Measurement of academic impact
- • Status: comparison of proficiency level from year to year
- • Growth: comparison of growth (cohort referenced and baseline) from year to year
+• Status: comparison of proficiency level from year to year
+• Growth: comparison of growth (cohort referenced and baseline) from year to year
 • Measurement of recovery time
- • No Impact
- • Minor Impact
- • Moderate Impact
- • Significant Impact</div>
+• No Impact
+• Minor Impact
+• Moderate Impact
+• Significant Impact</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -160,12 +148,12 @@ Components
 Measurement of Academic Impact – NWEA Interim
 Assessment
 • Consider status &amp; growth comparisons of the following:
- • Fall 19/20 to Fall 20/21
- • Fall 20/21 to Winter 20/21
- • Winter 19/20 to Winter 20/21
- • Fall 20/21 to Spring 20/21
- • Winter 20/21 to Spring 20/21
- • Spring 18/19 to Spring 20/21</div>
+• Fall 19/20 to Fall 20/21
+• Fall 20/21 to Winter 20/21
+• Winter 19/20 to Winter 20/21
+• Fall 20/21 to Spring 20/21
+• Winter 20/21 to Spring 20/21
+• Spring 18/19 to Spring 20/21</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -175,12 +163,12 @@ Assessment
 Measurement of Academic Impact – Summative
 Assessment
 • Consider status &amp; growth comparisons of the following:
- • Spring 2019 to Spring 2021
+• Spring 2019 to Spring 2021
 
 Measurement of Academic Impact – WIDA ACCESS 2.0
 Assessment
 • Consider status &amp; growth comparisons of the following:
- • Winter 2020 to Winter 2021</div>
+• Winter 2020 to Winter 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -189,7 +177,7 @@ Assessment
 <div class="archive-text">Findings
 Components
 • Enrollment, attendance, and mode of instruction, broken out by sub-
- topics
+topics
 • Experienced learning loss, broken out by sub-topics
 • Disparities in learning loss, broken out by sub-topics
 • Content area learning loss, broken out by sub-topics
@@ -203,12 +191,12 @@ Components
 Components
 • Summary of COVID-19 academic impact
 • Policy &amp; support interventions
- • Theory of action—identify purpose/priorities/goals for accelerating
- learning
- • Divide into short-term/immediate need &amp; long-term strategy based
- on establishment of “baseline” and current “impact” category
- • Ensure equity considerations of “pre-existing conditions” are
- considered in any strategic planning</div>
+• Theory of action—identify purpose/priorities/goals for accelerating
+learning
+• Divide into short-term/immediate need &amp; long-term strategy based
+on establishment of “baseline” and current “impact” category
+• Ensure equity considerations of “pre-existing conditions” are
+considered in any strategic planning</div>
 ```
 
 ::: notes
@@ -224,14 +212,14 @@ While we will have the ability to look at data at the corporation level, we stro
 <div class="archive-text">Timeline
 Components
 • May/June 2021
- • Receive summative assessment &amp; WIDA ACCESS 2.0 assessment results in May/June
- • Conduct status &amp; growth analyses on summative and EL proficiency assessment results
+• Receive summative assessment &amp; WIDA ACCESS 2.0 assessment results in May/June
+• Conduct status &amp; growth analyses on summative and EL proficiency assessment results
 • June/July 2021
- • Finalize report &amp; share findings with DOE leadership &amp; relevant DOE teams to align
- findings with DOE supports and guidance
+• Finalize report &amp; share findings with DOE leadership &amp; relevant DOE teams to align
+findings with DOE supports and guidance
 • August 2021
- • Share report with policymakers/stakeholders
- • Publish report &amp; present findings/DOE’s strategic response</div>
+• Share report with policymakers/stakeholders
+• Publish report &amp; present findings/DOE’s strategic response</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -240,13 +228,13 @@ Components
 <div class="archive-text">Communication
 Questions
 • Does this research plan align with the goals and priorities
- held by leadership for the “learning loss” study?
+held by leadership for the “learning loss” study?
 • Are there any areas of concern with this research plan? Are
- there any areas that are missing from this research plan?
+there any areas that are missing from this research plan?
 • How does this study fit into the overall mission of
- leadership?
+leadership?
 • Which divisions/directors need to be included in review of
- findings &amp; development of strategic response plan</div>
+findings &amp; development of strategic response plan</div>
 ```
 
 ## About this copy {.archive-about}

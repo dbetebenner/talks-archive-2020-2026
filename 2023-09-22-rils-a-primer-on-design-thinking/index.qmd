@@ -31,13 +31,13 @@ September 24th, 2023</div>
 ```{=html}
 <div class="archive-text">Design Innovation in Assessment
 • In response to the pandemic, the Center pivoted to host the
- RILS conference virtually in 2021.
+RILS conference virtually in 2021.
 • Spearheaded by Jeri Thompson (now retired) and myself, the
- conference centered on the pivotal concept of &quot;Design
- Innovation&quot; in educational assessment.
+conference centered on the pivotal concept of &quot;Design
+Innovation&quot; in educational assessment.
 • The aim was to capitalize on the extensive momentum in
- design innovation, exploring its applicability to modernizing
- and enhancing assessment development.</div>
+design innovation, exploring its applicability to modernizing
+and enhancing assessment development.</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -45,14 +45,14 @@ September 24th, 2023</div>
 ```{=html}
 <div class="archive-text">First Exposure to Design Thinking
 • My introduction to Design Thinking originated in the early
- 2010s through my involvement in software development for
- the SchoolView data visualization platform.
+2010s through my involvement in software development for
+the SchoolView data visualization platform.
 • Concepts such as &quot;Agile Development,&quot; &quot;Scrums,&quot; &quot;Personas,&quot;
- and &quot;Prototyping&quot; became integral to our development
- dialogue.
+and &quot;Prototyping&quot; became integral to our development
+dialogue.
 • At that time, I began to ponder the potential for these design
- methodologies to enhance the Center's work in educational
- assessment and accountability system design.</div>
+methodologies to enhance the Center's work in educational
+assessment and accountability system design.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -60,49 +60,42 @@ September 24th, 2023</div>
 ```{=html}
 <div class="archive-text">DESIGN INNOVATION PROCESS
 
- DERSTANDIN R O TOTYPIN
- G SCALING
+DERSTANDIN R O TOTYPIN
+G SCALING
 UN T H E
- G P
- ALUATE
- O
- YP
- S TE S T
- H
- IZ EV
- E
+ALUATE
+YP
+S TE S T
+IZ EV
 
- ER
- CRE
- ST
+ER
+CRE
+ST
 PLA OV JU PIL NE
- C AT E
- O T FI
- RE
- N
- D I S D
- A
+C AT E
+O T FI
+RE
 
 • Identify and engage a range • Design assessments for • Set up and run the
- of diverse stakeholders user needs assessment system with
- pilot group(s)
+of diverse stakeholders user needs assessment system with
+pilot group(s)
 • Identify problem • Administration with a
- statement(s) small sample • Collect data and evaluate
- applying evaluation criteria
+statement(s) small sample • Collect data and evaluate
+applying evaluation criteria
 • Engage in root cause • Collect data and review
- analysis applying pre-established • Gather insights needed to
- criteria redefine or revise
+analysis applying pre-established • Gather insights needed to
+criteria redefine or revise
 • Create a Theory of Action
- underlying the assessment • Prioritize user needs • Improve user satisfaction
- system design
- • Redesign, refine and revise • Repeat to make revisions
+underlying the assessment • Prioritize user needs • Improve user satisfaction
+system design
+• Redesign, refine and revise • Repeat to make revisions
 • Clarify, analyze, and assessments based on for large-scale use
- synthesize learning formative evaluation and
- user feedback • Share the findings broadly
+synthesize learning formative evaluation and
+user feedback • Share the findings broadly
 • Repeat and review process
- to ensure understanding • Repeat with multiple rounds
- and issues of equity of iterations at multiple
- levels</div>
+to ensure understanding • Repeat with multiple rounds
+and issues of equity of iterations at multiple
+levels</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -116,16 +109,16 @@ PLA OV JU PIL NE
 ```{=html}
 <div class="archive-text">What is Design Thinking?
 • Definition: Design Thinking is a human-centered approach to problem-solving that
- focuses on understanding user needs, ideation, prototyping, and iteration.
+focuses on understanding user needs, ideation, prototyping, and iteration.
 • Core Phases:
- • Empathize
- • Define
- • Ideate
- • Prototype
- • Test
+• Empathize
+• Define
+• Ideate
+• Prototype
+• Test
 • Importance: Allows for creative solutions to complex problems by integrating the
- needs of people, the possibilities of technology, and the requirements for program
- success.</div>
+needs of people, the possibilities of technology, and the requirements for program
+success.</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -213,7 +206,7 @@ indicators.</div>
 ```{=html}
 <div class="archive-text">Understanding
 Aligning DesignUsers
- Thinking with Educational
+Thinking with Educational
 Objective: Identify the needs, motivations, and challenges of
 all stakeholders involved in educational accountability.
 Who are the Users: Parents, Teachers, Students, Policy Makers,
@@ -229,7 +222,7 @@ needs, shaping the direction of accountability system design.</div>
 ```{=html}
 <div class="archive-text">Defining Design
 Aligning Problems
- Thinking with Educational
+Thinking with Educational
 Objective: Clearly state the issues and challenges that existing
 accountability systems face.
 Examples of Problems: Lack of fairness, inequality, inadequate
@@ -246,7 +239,7 @@ solutions.</div>
 ```{=html}
 <div class="archive-text">Ideation Design
 Aligning &amp; Prototyping
- Thinking with Educational
+Thinking with Educational
 Objective: Develop creative and effective indicators and
 dissemination strategies for educational accountability
 systems.
@@ -269,7 +262,7 @@ Accountability Systems</div>
 ```{=html}
 <div class="archive-text">Transformative
 Aligning Design Outcomes
- Thinking with Educational
+Thinking with Educational
 Enhanced Stakeholder Engagement: Active involvement of all
 parties in the design and implementation stages.
 Dynamic Indicators: Allows for the creation of more
@@ -283,7 +276,7 @@ ongoing refinement of accountability systems.</div>
 ```{=html}
 <div class="archive-text">Enhanced Stakeholder
 Aligning Design Engagement
- Thinking with Educational
+Thinking with Educational
 Objective: Involve all stakeholders in the process of design and
 implementation, ensuring their needs and perspectives are
 integrated.
@@ -332,11 +325,11 @@ ensuring the system remains effective and relevant over time.</div>
 ```{=html}
 <div class="archive-text">Getting
 AligningOur of Our
- Design Own Way
- Thinking with Educational
+Design Own Way
+Thinking with Educational
 Jargon/Terminology: Our field is a MESS with terminology
- • Words are used incorrectly
- • Words are used inconsistently
+• Words are used incorrectly
+• Words are used inconsistently
 
 We need to get our house in order if we want to
 MEANINGFULLY engage non-technical stakeholders in this

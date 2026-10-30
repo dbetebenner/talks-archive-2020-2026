@@ -19,75 +19,75 @@ Damian Betebenner, Center for Assessment
 
 February 18, 2021
 
- This work is licensed under a
- Creative Commons Attribution 4.0
- International License.</div>
+This work is licensed under a
+Creative Commons Attribution 4.0
+International License.</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">COVID-19 Pandemic
- • Now a year into the pandemic, there is strong evidence
- that the pandemic is having a negative impact on children
- nationwide.
- • Negative impacts extend beyond academic impact and
- include social-emotional and physical impact.
+• Now a year into the pandemic, there is strong evidence
+that the pandemic is having a negative impact on children
+nationwide.
+• Negative impacts extend beyond academic impact and
+include social-emotional and physical impact.
 
- UT TAC Accountability Discussion</div>
+UT TAC Accountability Discussion</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">COVID-19 Pandemic: Academic Impact
- • Academic impact of the pandemic is often referred to as
- learning loss.
- • As Indiana formulates policy to help students recovery
- academically from the pandemic related learning loss, there is a
- need for data on:
- • Who: Who is experiencing or has experienced learning loss?
- • What: What have students experienced learning loss in?
- • How Much: How much learning loss have students experienced?
- • Answers to these questions will be critical in helping to
- understand how to help? For example, if learning loss is
- substantial for some groups, recovery will not be immediate
- and will require many months if not years to ameliorate.
- UT TAC Accountability Discussion</div>
+• Academic impact of the pandemic is often referred to as
+learning loss.
+• As Indiana formulates policy to help students recovery
+academically from the pandemic related learning loss, there is a
+need for data on:
+• Who: Who is experiencing or has experienced learning loss?
+• What: What have students experienced learning loss in?
+• How Much: How much learning loss have students experienced?
+• Answers to these questions will be critical in helping to
+understand how to help? For example, if learning loss is
+substantial for some groups, recovery will not be immediate
+and will require many months if not years to ameliorate.
+UT TAC Accountability Discussion</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">COVID-19 Pandemic: Data
- • Data are necessary to answer Who?, What? and How much?
- • Indiana has extensive academic data available to determine
- learning loss for students:
- • ILEARN state summative assessment data
- • ACCESS English Language Proficiency data (ELL students)
- • Interim assessment data from assessment approved vendors.
- • Multiple sources of data allow for:
- • Investigation of student groups not contained in some data sets (e.g.,
- ELL students)
- • Triangulation of results across multiple data sets.
- UT TAC Accountability Discussion</div>
+• Data are necessary to answer Who?, What? and How much?
+• Indiana has extensive academic data available to determine
+learning loss for students:
+• ILEARN state summative assessment data
+• ACCESS English Language Proficiency data (ELL students)
+• Interim assessment data from assessment approved vendors.
+• Multiple sources of data allow for:
+• Investigation of student groups not contained in some data sets (e.g.,
+ELL students)
+• Triangulation of results across multiple data sets.
+UT TAC Accountability Discussion</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">COVID-19 Pandemic: Monitoring Recovery
- • With a comprehensive understanding of the impact of the
- pandemic, attention quickly turns to recovery.
- • The magnitude of the impact (how much?) will indicate the
- magnitude of the recovery.
- • Early evidence from interim assessments suggest that in
- elementary school mathematics, students in some states have lost
- more than 12 weeks of learning.
- • Learning loss in ELA is more modest for these interim assessments.
- • Learning recovery will take on many forms (V-, U-, L-shaped
- recoveries)
- UT TAC Accountability Discussion</div>
+• With a comprehensive understanding of the impact of the
+pandemic, attention quickly turns to recovery.
+• The magnitude of the impact (how much?) will indicate the
+magnitude of the recovery.
+• Early evidence from interim assessments suggest that in
+elementary school mathematics, students in some states have lost
+more than 12 weeks of learning.
+• Learning loss in ELA is more modest for these interim assessments.
+• Learning recovery will take on many forms (V-, U-, L-shaped
+recoveries)
+UT TAC Accountability Discussion</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -105,16 +105,16 @@ UT TAC Accountability Discussion</div>
 
 ```{=html}
 <div class="archive-text">COVID-19 Pandemic: Project Goals
- • Provide a comprehensive report to Indiana DOE of the
- academic impact of the pandemic on students across the
- state.
- • Because time is of the essence, deliver final report by
- mid-July with interim updates as soon as data becomes
- available for analysis.
- • Based upon policies designed to help recovery from
- learning loss, conduct analyses in a timely fashion to
- monitor recovery from learning loss.
- UT TAC Accountability Discussion</div>
+• Provide a comprehensive report to Indiana DOE of the
+academic impact of the pandemic on students across the
+state.
+• Because time is of the essence, deliver final report by
+mid-July with interim updates as soon as data becomes
+available for analysis.
+• Based upon policies designed to help recovery from
+learning loss, conduct analyses in a timely fashion to
+monitor recovery from learning loss.
+UT TAC Accountability Discussion</div>
 ```
 
 ## About this copy {.archive-about}

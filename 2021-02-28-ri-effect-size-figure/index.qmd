@@ -14,38 +14,38 @@ format:
 ```{=html}
 <div class="archive-text">E ect Size -0.6 -0.45 -0.3 -0.15 0.15
 
- +/- 3 Weeks +/- 3 Weeks
- 12+ Weeks 8-11 Weeks 4-7 Weeks
- Behind/ Behind/
- Behind Behind Behind
- Ahead Ahead
++/- 3 Weeks +/- 3 Weeks
+12+ Weeks 8-11 Weeks 4-7 Weeks
+Behind/ Behind/
+Behind Behind Behind
+Ahead Ahead
 
- Grade 2 Mathematics Reading
+Grade 2 Mathematics Reading
 
- Grade 3 Mathematics Reading
+Grade 3 Mathematics Reading
 
- Grade 4 Mathematics Reading
+Grade 4 Mathematics Reading
 
- Grade 5 Mathematics Reading
+Grade 5 Mathematics Reading
 
- Grade 6 Mathematics Reading
+Grade 6 Mathematics Reading
 
- Grade 7 Mathematics Reading
+Grade 7 Mathematics Reading
 
- Grade 8 Mathematics
- Reading
+Grade 8 Mathematics
+Reading
 
- Grade 9 Mathematics
- Reading
+Grade 9 Mathematics
+Reading
 
- Grade 10 Mathematics
- Reading
+Grade 10 Mathematics
+Reading
 
- Grade 11 Mathematics
- Reading
+Grade 11 Mathematics
+Reading
 
- Grade 12 Mathematics
- Reading
+Grade 12 Mathematics
+Reading
 ff</div>
 ```
 
@@ -54,27 +54,27 @@ ff</div>
 ```{=html}
 <div class="archive-text">E ect Size -0.6 -0.45 -0.3 -0.15 0.15
 
- 12+ Weeks 8-11 Weeks 4-7 Weeks -3 weeks behind to 3 weeks
- Behind Behind Behind ahead
+12+ Weeks 8-11 Weeks 4-7 Weeks -3 weeks behind to 3 weeks
+Behind Behind Behind ahead
 
- Overall Mathematics Reading
+Overall Mathematics Reading
 
- LEP Mathematics Reading
+LEP Mathematics Reading
 
- IEP Mathematics Reading
+IEP Mathematics Reading
 
- Female Mathematics Reading
+Female Mathematics Reading
 
- Male Mathematics Reading
+Male Mathematics Reading
 
- African American
- Mathematics Reading
+African American
+Mathematics Reading
 
- Asian Mathematics Reading
+Asian Mathematics Reading
 
- Hispanic Mathematics Reading
+Hispanic Mathematics Reading
 
- White Mathematics Reading
+White Mathematics Reading
 ff</div>
 ```
 

@@ -21,9 +21,9 @@ The National Center for the Improvement of Educational Assessment
 Dates: September 2021
 Location: Virtual
 
- This work is licensed under a
- Creative Commons Attribution 4.0
- International License.</div>
+This work is licensed under a
+Creative Commons Attribution 4.0
+International License.</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -32,10 +32,10 @@ Location: Virtual
 <div class="archive-text">March-April 2021 Staff Meeting
 What we hope to accomplish today:
 • Get confirmation of staff participation for the RILS sessions
- outlined herein.
+outlined herein.
 • Establish dates and times for the RILS sessions outline herein.
 
- RILS 2021: Innovation in Educational Assessment Systems 2</div>
+RILS 2021: Innovation in Educational Assessment Systems 2</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -45,11 +45,11 @@ What we hope to accomplish today:
 Design and innovation in the creation of education assessment systems
 
 • Damian and Jeri to organize and lead
- • Charlie: What is innovation
- • Scott: Introduction and Discussion of what a system of assessments is.
- • Will: Q&amp;A/closure
+• Charlie: What is innovation
+• Scott: Introduction and Discussion of what a system of assessments is.
+• Will: Q&amp;A/closure
 
- RILS 2021: Innovation in Educational Assessment Systems 3</div>
+RILS 2021: Innovation in Educational Assessment Systems 3</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -59,11 +59,11 @@ Design and innovation in the creation of education assessment systems
 Defining the Problem Root Cause Analysis
 
 • Jeri and Damian organize and lead
- • Jeri and Damian: Welcome &amp; Introduction
- • Juan and Chris B.: Root Cause Analysis
- • Brian: Q&amp;A/closure
+• Jeri and Damian: Welcome &amp; Introduction
+• Juan and Chris B.: Root Cause Analysis
+• Brian: Q&amp;A/closure
 
- RILS 2021: Innovation in Educational Assessment Systems 4</div>
+RILS 2021: Innovation in Educational Assessment Systems 4</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -73,11 +73,11 @@ Defining the Problem Root Cause Analysis
 Engaging Stakeholders
 
 • Damian &amp; Jeri to organize and lead
- • Damian &amp; Jeri: Welcome and Introduction
- • Carla: Introduction and Discussion of what a system of assessments is.
- • Nathan: Q&amp;A/closure
+• Damian &amp; Jeri: Welcome and Introduction
+• Carla: Introduction and Discussion of what a system of assessments is.
+• Nathan: Q&amp;A/closure
 
- RILS 2021: Innovation in Educational Assessment Systems 5</div>
+RILS 2021: Innovation in Educational Assessment Systems 5</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -87,11 +87,11 @@ Engaging Stakeholders
 Creating a Theory of Action
 
 • Damian &amp; Jeri to organize and lead
- • Damian &amp; Jeri: Welcome and Introduction
- • Carla: Introduction and Discussion of what a system of assessments is.
- • Nathan: Q&amp;A/closure
+• Damian &amp; Jeri: Welcome and Introduction
+• Carla: Introduction and Discussion of what a system of assessments is.
+• Nathan: Q&amp;A/closure
 
- RILS 2021: Innovation in Educational Assessment Systems 6</div>
+RILS 2021: Innovation in Educational Assessment Systems 6</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -101,11 +101,11 @@ Creating a Theory of Action
 Iterating Toward a Better Assessment System
 
 • Damian &amp; Jeri to organize and lead
- • Damian &amp; Jeri: Welcome and Introduction
- • Brian: Are rapid design iterations possible in assessment system design?
- • Chris D.: Q&amp;A/closure
+• Damian &amp; Jeri: Welcome and Introduction
+• Brian: Are rapid design iterations possible in assessment system design?
+• Chris D.: Q&amp;A/closure
 
- RILS 2021: Innovation in Educational Assessment Systems 7</div>
+RILS 2021: Innovation in Educational Assessment Systems 7</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -115,11 +115,11 @@ Iterating Toward a Better Assessment System
 Opportunity and Challenges based upon IADA Innovation Efforts
 
 • Damian &amp; Jeri to organize and lead
- • Damian &amp; Jeri: Welcome and Introduction
- • Scott: IADA efforts in states (e.g., NH, HI, …)
- • Leslie: Q&amp;A/closure
+• Damian &amp; Jeri: Welcome and Introduction
+• Scott: IADA efforts in states (e.g., NH, HI, …)
+• Leslie: Q&amp;A/closure
 
- RILS 2021: Innovation in Educational Assessment Systems 8</div>
+RILS 2021: Innovation in Educational Assessment Systems 8</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -127,22 +127,22 @@ Opportunity and Challenges based upon IADA Innovation Efforts
 ```{=html}
 <div class="archive-text">RILS 2021: Sessions, Dates, &amp; Times
 
- Wednesday Thursday Friday Monday Tuesday Thursday Friday
- Sept 15 Sept 16 Sept 17 Sept 20 Sept 21 Sept 22 Sept 23
+Wednesday Thursday Friday Monday Tuesday Thursday Friday
+Sept 15 Sept 16 Sept 17 Sept 20 Sept 21 Sept 22 Sept 23
 
- Session 1
+Session 1
 
- Session 2
+Session 2
 
- Session 3
+Session 3
 
- Session 4
+Session 4
 
- Session 5
+Session 5
 
- Session 6
+Session 6
 
- RILS 2021: Innovation in Educational Assessment Systems 9</div>
+RILS 2021: Innovation in Educational Assessment Systems 9</div>
 ```
 
 ## About this copy {.archive-about}

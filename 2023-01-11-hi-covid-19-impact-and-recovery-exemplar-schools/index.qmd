@@ -26,15 +26,15 @@ December 14th, 2022</div>
 ```{=html}
 <div class="archive-text">Exemplar Schools: Impact &amp; Recovery
 • The goal of the project is to utilize results from Hawaii SBA assessment to find
- outlier schools that we think have a high probability of being able to teach us
- something about beneficial and not-to-beneficial activities associated with impact
- and recovery.
+outlier schools that we think have a high probability of being able to teach us
+something about beneficial and not-to-beneficial activities associated with impact
+and recovery.
 • We focus on identifying three types of schools:
- • Large Impact/Large Recovery
- • Large Impact/Poor Recovery
- • Minimal Impact/Large Recovery
+• Large Impact/Large Recovery
+• Large Impact/Poor Recovery
+• Minimal Impact/Large Recovery
 • We show an original figure and an updated figure after we revised the
- methodology on what SGP to use in 2022 to calculate academic recovery.
+methodology on what SGP to use in 2022 to calculate academic recovery.
 • The relationship between impact and recovery at the school level is negligible.</div>
 ```
 
@@ -68,8 +68,8 @@ value somewhat leading to lower SGPs.</div>
 ```{=html}
 <div class="archive-text">Exemplar Schools: Impact &amp; Recovery
 • The modifications showed a substantial decrease in the relationship between
- impact and recovery. Previously, high impact schools showed bigger recovery
- (suggesting a regression effect at play)
+impact and recovery. Previously, high impact schools showed bigger recovery
+(suggesting a regression effect at play)
 • The pattern in middle schools is not the same</div>
 ```
 
@@ -133,12 +133,12 @@ curriculum.</div>
 <div class="archive-text">Exemplar Schools: Impact &amp; Recovery
 • As can be seen, Hawaii and its schools experienced a largely positive 2021-2022
 • We’ve created Excel spreadsheets with the identified schools to help to sort
- through the many potential criteria to use to select exemplar schools
+through the many potential criteria to use to select exemplar schools
 • As we discussed in Portsmouth, there was some concern that of low motivation
- leading to poor results. To examine we filtered on students with very low to very
- high and very high to very low growth.
- • Filtering out these students led to non-appreciable changes to the impact-
- recovery examinations of schools.</div>
+leading to poor results. To examine we filtered on students with very low to very
+high and very high to very low growth.
+• Filtering out these students led to non-appreciable changes to the impact-
+recovery examinations of schools.</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}

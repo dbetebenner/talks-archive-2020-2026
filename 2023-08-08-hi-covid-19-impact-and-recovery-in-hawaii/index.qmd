@@ -32,14 +32,12 @@ Introductory Concepts and Terminology</div>
 ```{=html}
 <div class="archive-text">Academic Recovery in 2023
 • The availability of 2023 SBA data allows Hawai’i to update
- COVID-19 recovery analyses.
+COVID-19 recovery analyses.
 • Spring 2023 marks the third year since the pandemic began
- and this will be the third report:
- • Summer 2021: Academic Impact
- • Summer 2022: Academic Recovery Year 1
- • Summer 2023: Academic Recovery Year 2
-
- 3</div>
+and this will be the third report:
+• Summer 2021: Academic Impact
+• Summer 2022: Academic Recovery Year 1
+• Summer 2023: Academic Recovery Year 2</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -47,17 +45,15 @@ Introductory Concepts and Terminology</div>
 ```{=html}
 <div class="archive-text">Two Types of Recovery: System &amp; Student
 • In 2023 we elaborate on the results from the recovery analyses in two
- ways:
- • System level recovery: Is the education system supporting rates of
- learning that are comparable to what it was prior to the pandemic?
- • Student level recovery: Are student attaining at levels that are
- comparable to what they were prior to the pandemic.
+ways:
+• System level recovery: Is the education system supporting rates of
+learning that are comparable to what it was prior to the pandemic?
+• Student level recovery: Are student attaining at levels that are
+comparable to what they were prior to the pandemic.
 • Previously, we focused mostly on system level recovery: examining rates
- of learning in 2021 and 2022 compared to those prior to the pandemic.
+of learning in 2021 and 2022 compared to those prior to the pandemic.
 • We continue system level analyses but also focus in on student level
- recovery.
-
- 4</div>
+recovery.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -65,12 +61,12 @@ Introductory Concepts and Terminology</div>
 ```{=html}
 <div class="archive-text">Two Types of Recovery: System &amp; Student
 • System level recovery
- • Comparison of 2019 and 2023 same grade student growth: We examine
- change in baseline student growth (SGPs) for 2019 students and 2023 students
- utilizing coefficient matrices derived from pre-pandemic cohorts of students.
+• Comparison of 2019 and 2023 same grade student growth: We examine
+change in baseline student growth (SGPs) for 2019 students and 2023 students
+utilizing coefficient matrices derived from pre-pandemic cohorts of students.
 • Student level recovery
- • Comparison of 2019 to 2023 same grade attainment: We examine equi-
- percentile change in attainment for 2019 students and 2023 students.</div>
+• Comparison of 2019 to 2023 same grade attainment: We examine equi-
+percentile change in attainment for 2019 students and 2023 students.</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -78,20 +74,19 @@ Introductory Concepts and Terminology</div>
 ```{=html}
 <div class="archive-text">System Recovery: Cohort-Based Comparison (SBA)
 Compare observed versus expected attainment for a cohort of students
- 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023
 
- Grade 3
+Grade 3
 
- No Testing due to
- Grade 4
+No Testing due to
+Grade 4
 
- Grade 5
+Grade 5
 
- Grade 6 COVID-19 Pandemic
+Grade 6 COVID-19 Pandemic
 
- Grade 7
+Grade 7
 
- Grade 8</div>
+Grade 8</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -99,21 +94,20 @@ Compare observed versus expected attainment for a cohort of students
 ```{=html}
 <div class="archive-text">Student Recovery: Cross-Sectional Comparison (SBA)
 Compare same grade/content area attainment across di erent years
- 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023
 
- Grade 3
+Grade 3
 
- No Testing due to
- Grade 4
+No Testing due to
+Grade 4
 
- Grade 5
+Grade 5
 
- Grade 6 COVID-19 Pandemic
+Grade 6 COVID-19 Pandemic
 
- Grade 7
+Grade 7
 
- Grade 8
- ff</div>
+Grade 8
+ff</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -129,15 +123,15 @@ SBA: Spring 2021 and Spring 2022 Assessments</div>
 ```{=html}
 <div class="archive-text">Recovery Phase Year 1
 • Student growth (baseline referenced to pre-pandemic rates of learning) was
- examined by content area and grade as well as for the major student demographic
- subgroups.
+examined by content area and grade as well as for the major student demographic
+subgroups.
 • Growth was characterized in three ways:
- • Deterioration: Growth less than pre-pandemic rates of learning
- • Stabilization: Growth the same as pre-pandemic rates of learning
- • Recovery: Growth exceeding pre-pandemic rates of learning
+• Deterioration: Growth less than pre-pandemic rates of learning
+• Stabilization: Growth the same as pre-pandemic rates of learning
+• Recovery: Growth exceeding pre-pandemic rates of learning
 • Because learning slowed during the initial phase of the pandemic, to make up for
- those losses, learning must accelerate to rates above normal in order to catch-up
- for those loses (recovery).</div>
+those losses, learning must accelerate to rates above normal in order to catch-up
+for those loses (recovery).</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -150,34 +144,34 @@ Deterioration Recovery
 
 −0.38 −0.09 0.12 0.38 Status Change
 
- Calculations suppressed
- Deterioration Stabilization Recovery
- due to small group N (&lt; 50)
+Calculations suppressed
+Deterioration Stabilization Recovery
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- All Students Recovery Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Stabilization Stabilization
+All Students Recovery Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Stabilization Stabilization
 
- Economically Disadvantaged Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Stabilization Stabilization
+Economically Disadvantaged Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Stabilization Stabilization
 
- Non−Economically Disadvantaged Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Stabilization Stabilization
+Non−Economically Disadvantaged Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Stabilization Stabilization
 
- Special Education Stabilization Stabilization Deterioration Deterioration Stabilization Deterioration Recovery Stabilization Stabilization Stabilization Stabilization Stabilization
+Special Education Stabilization Stabilization Deterioration Deterioration Stabilization Deterioration Recovery Stabilization Stabilization Stabilization Stabilization Stabilization
 
- Asian Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
+Asian Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Recovery Stabilization
 
- White Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Stabilization Stabilization Stabilization Stabilization
+White Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Stabilization Stabilization Stabilization Stabilization
 
- Hispanic Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Stabilization Stabilization
+Hispanic Stabilization Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Stabilization Stabilization
 
- Native Hawaiian Stabilization Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Stabilization Stabilization Stabilization Stabilization
+Native Hawaiian Stabilization Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Stabilization Stabilization Stabilization Stabilization
 
- ELL Stabilization Stabilization Deterioration Stabilization Stabilization Deterioration Recovery Recovery Stabilization Stabilization Stabilization Deterioration
+ELL Stabilization Stabilization Deterioration Stabilization Stabilization Deterioration Recovery Recovery Stabilization Stabilization Stabilization Deterioration
 
- Female Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Stabilization Stabilization
+Female Recovery Recovery Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Stabilization Stabilization
 
- Male Recovery Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Stabilization Stabilization</div>
+Male Recovery Stabilization Stabilization Stabilization Stabilization Stabilization Recovery Recovery Recovery Stabilization Stabilization Stabilization</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -185,14 +179,14 @@ Deterioration Recovery
 ```{=html}
 <div class="archive-text">Recovery Year 1
 • Analysis of 2022 SBA data indicated several positive trends in Hawai’i to be happy
- about.
+about.
 • In both ELA and mathematics, learning acceleration was at least as much to be
- considered stabilization and in many cases could be considered as genuine
- recovery.
+considered stabilization and in many cases could be considered as genuine
+recovery.
 • Compared to a dozen other states that the Center conducts these analyses,
- Hawai’i comes out as the best in terms of pandemic recovery.
+Hawai’i comes out as the best in terms of pandemic recovery.
 • Results from 2023 data will be critical to assess whether these exemplary rates of
- learning (beyond what the state experience pre-COVID) are being maintained.</div>
+learning (beyond what the state experience pre-COVID) are being maintained.</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -202,39 +196,35 @@ Deterioration Recovery
 
 Impact &amp; Recovery 20
 
- HI5
- Mathematics
- ELA
- 15
+HI5
+Mathematics
+ELA
 Hawaii showed large impacts
- HI4
- HI6
- 10 HI5
+HI4
+HI6
+10 HI5
 
 and recovery Recovery
- HI8
- HI4
- 5 HI7
- HI8
- HI6
+HI8
+HI4
+5 HI7
+HI8
+HI6
 
 Hawaii’s academic recovery 0 HI3
- HI3
- HI7
+HI3
+HI7
 
 results are the best I have seen
- Academic Recovery
- −5
+Academic Recovery
 
 nationally −10
-
- −15
 
 A critical “test” of this recovery −20
 
 will be the 2023 results. If rates −25
 
- Deterioration
+Deterioration
 of learning in 2023 extend those −30
 
 of 2022, then Hawaii will have −35
@@ -242,7 +232,7 @@ of 2022, then Hawaii will have −35
 come out of the pandemic −40
 
 better than before it started −40 −35 −30 −25 −20 −15 −10 −5 0 5 10 15 20
- Large Impact Academic Impact Improvement</div>
+Large Impact Academic Impact Improvement</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -258,14 +248,14 @@ SBA: Spring 2022 and Spring 2023 Assessments</div>
 ```{=html}
 <div class="archive-text">Recovery Phase Year 2
 • As mentioned previously, we distinguish between student level recovery and
- system level recovery this year.
+system level recovery this year.
 • Because student level recovery utilizes status comparisons between 2019 and
- 2023 and system level recovery utilizes growth comparisons between 2019 and
- 2023, status and growth was characterized in three ways:
- • Below: Attainment/Growth of students is less in 2023 than in 2019
- • Comparable: Attainment/Growth of students is approximately the same in
- 2023 as in 2019.
- • Above: Attainment/Growth of students is greater in 2023 than in 2019</div>
+2023 and system level recovery utilizes growth comparisons between 2019 and
+2023, status and growth was characterized in three ways:
+• Below: Attainment/Growth of students is less in 2023 than in 2019
+• Comparable: Attainment/Growth of students is approximately the same in
+2023 as in 2019.
+• Above: Attainment/Growth of students is greater in 2023 than in 2019</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -274,37 +264,36 @@ SBA: Spring 2022 and Spring 2023 Assessments</div>
 <div class="archive-text">SBA ELA and Mathematics
 Hawaii 2022 to 2023 COVID⌧19 Academic System Recovery Grade &amp; Content Area
 Behind Ahead System Recovery characterizes the extent
-−0.38 −0.09 0.12 0.38
- Status Change to which rates of student learning (i.e., growth)
- have returned to pre−pandemic rates of learning.
- Calculations suppressed
- Behind Comparable Ahead
- due to small group N (&lt; 50)
+Status Change to which rates of student learning (i.e., growth)
+have returned to pre−pandemic rates of learning.
+Calculations suppressed
+Behind Comparable Ahead
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- All Students Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+All Students Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Economically Disadvantaged Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Economically Disadvantaged Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Non−Economically Disadvantaged Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Non−Economically Disadvantaged Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Special Education Comparable Comparable Comparable Comparable Comparable Behind Comparable Comparable Comparable Comparable Comparable Comparable
+Special Education Comparable Comparable Comparable Comparable Comparable Behind Comparable Comparable Comparable Comparable Comparable Comparable
 
- Asian Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Asian Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- White Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+White Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Hispanic Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Hispanic Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Native Hawaiian Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Native Hawaiian Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- ELL Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+ELL Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Female Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Female Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Male Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable</div>
+Male Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -312,34 +301,33 @@ Behind Ahead System Recovery characterizes the extent
 ```{=html}
 <div class="archive-text">SBA ELA and Mathematics
 Hawaii 2022 to 2023 COVID⌧19 Academic System Recovery
- Grade, Content Area &amp; Achievement Quintile
+Grade, Content Area &amp; Achievement Quintile
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
- Non−Economically Disadvantaged
+Non−Economically Disadvantaged
 
- Special Education
+Special Education
 
- Asian
+Asian
 
- White
+White
 
- Hispanic
+Hispanic
 
- Native Hawaiian
+Native Hawaiian
 
- ELL
+ELL
 
- Female
+Female
 
- Male</div>
+Male</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -347,34 +335,33 @@ Hawaii 2022 to 2023 COVID⌧19 Academic System Recovery
 ```{=html}
 <div class="archive-text">SBA ELA and Mathematics
 Hawaii 2022 to 2023 COVID⌧19 Academic System Recovery
- Grade, Content Area &amp; Achievement Quintile
+Grade, Content Area &amp; Achievement Quintile
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
- Non−Economically Disadvantaged
+Non−Economically Disadvantaged
 
- Special Education
+Special Education
 
- Asian
+Asian
 
- White
+White
 
- Hispanic
+Hispanic
 
- Native Hawaiian
+Native Hawaiian
 
- ELL
+ELL
 
- Female
+Female
 
- Male</div>
+Male</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
@@ -382,14 +369,14 @@ Hawaii 2022 to 2023 COVID⌧19 Academic System Recovery
 ```{=html}
 <div class="archive-text">Student level recovery
 • It is critical to understand that recovery of the system does not imply student level
- recovery
+recovery
 • Because students rates of learning slowed so dramatically during the pandemic,
- rates of learning necessary to catch students up to where they would have been
- would have to be equally dramatic (in the positive direction)
+rates of learning necessary to catch students up to where they would have been
+would have to be equally dramatic (in the positive direction)
 • The following figures illustrate the extent to which student attainment is behind
- 2019 attainment levels.
+2019 attainment levels.
 • Comparison to 2019 levels is a “low bar” as attainment levels in 2023 had the
- pandemic not occurred would almost certainly have been higher than 2019 levels.</div>
+pandemic not occurred would almost certainly have been higher than 2019 levels.</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -398,37 +385,36 @@ Hawaii 2022 to 2023 COVID⌧19 Academic System Recovery
 <div class="archive-text">SBA ELA and Mathematics
 Hawaii 2019 to 2023 COVID⌧19 Academic Student Recovery Grade &amp; Content Area
 Behind Ahead Student Recovery characterizes the extent
-−0.38 −0.09 0.12 0.38
- Status Change to which student attainment has returned
- to pre−pandemic levels of attainment.
- Calculations suppressed
- Behind Comparable Ahead
- due to small group N (&lt; 50)
+Status Change to which student attainment has returned
+to pre−pandemic levels of attainment.
+Calculations suppressed
+Behind Comparable Ahead
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- All Students Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Behind Behind
+All Students Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Behind Behind
 
- Economically Disadvantaged Behind Comparable Comparable Comparable Comparable Comparable Behind Comparable Behind Behind Behind Behind
+Economically Disadvantaged Behind Comparable Comparable Comparable Comparable Comparable Behind Comparable Behind Behind Behind Behind
 
- Non−Economically Disadvantaged Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Behind Behind
+Non−Economically Disadvantaged Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Behind Behind
 
- Special Education Behind Comparable Comparable Behind Behind Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Special Education Behind Comparable Comparable Behind Behind Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Asian Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Asian Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- White Comparable Comparable Behind Comparable Behind Comparable Comparable Comparable Comparable Comparable Comparable Behind
+White Comparable Comparable Behind Comparable Behind Comparable Comparable Comparable Comparable Comparable Comparable Behind
 
- Hispanic Behind Comparable Comparable Behind Behind Comparable Behind Comparable Comparable Behind Behind Behind
+Hispanic Behind Comparable Comparable Behind Behind Comparable Behind Comparable Comparable Behind Behind Behind
 
- Native Hawaiian Behind Comparable Comparable Comparable Comparable Behind Behind Comparable Behind Comparable Behind Behind
+Native Hawaiian Behind Comparable Comparable Comparable Comparable Behind Behind Comparable Behind Comparable Behind Behind
 
- ELL Comparable Comparable Comparable Ahead Ahead Ahead Comparable Comparable Comparable Comparable Comparable Comparable
+ELL Comparable Comparable Comparable Ahead Ahead Ahead Comparable Comparable Comparable Comparable Comparable Comparable
 
- Female Comparable Comparable Comparable Comparable Behind Behind Comparable Comparable Comparable Behind Behind Behind
+Female Comparable Comparable Comparable Comparable Behind Behind Comparable Comparable Comparable Behind Behind Behind
 
- Male Behind Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable</div>
+Male Behind Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
@@ -436,41 +422,39 @@ Behind Ahead Student Recovery characterizes the extent
 ```{=html}
 <div class="archive-text">SBA ELA and Mathematics
 Hawaii 2019 to 2023 COVID⌧19 Academic Student Recovery
- Grade, Content Area &amp; Achievement Quintile
+Grade, Content Area &amp; Achievement Quintile
 Behind Ahead Student Recovery characterizes the extent
-−0.38 −0.09 0.12 0.38
- Status Change to which student attainment has returned
- to pre−pandemic levels of attainment.
- Calculations suppressed
- Behind Comparable Ahead
- due to small group N (&lt; 50)
+Status Change to which student attainment has returned
+to pre−pandemic levels of attainment.
+Calculations suppressed
+Behind Comparable Ahead
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
- Non−Economically Disadvantaged
+Non−Economically Disadvantaged
 
- Special Education
+Special Education
 
- Asian
+Asian
 
- White
+White
 
- Hispanic
+Hispanic
 
- Native Hawaiian
+Native Hawaiian
 
- ELL
+ELL
 
- Female
+Female
 
- Male</div>
+Male</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
@@ -478,41 +462,39 @@ Behind Ahead Student Recovery characterizes the extent
 ```{=html}
 <div class="archive-text">SBA ELA and Mathematics
 Hawaii 2019 to 2023 COVID⌧19 Academic Student Recovery
- Grade, Content Area &amp; Achievement Quintile
+Grade, Content Area &amp; Achievement Quintile
 Behind Ahead Student Recovery characterizes the extent
-−0.38 −0.09 0.12 0.38
- Status Change to which student attainment has returned
- to pre−pandemic levels of attainment.
- Calculations suppressed
- Behind Comparable Ahead
- due to small group N (&lt; 50)
+Status Change to which student attainment has returned
+to pre−pandemic levels of attainment.
+Calculations suppressed
+Behind Comparable Ahead
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
- Non−Economically Disadvantaged
+Non−Economically Disadvantaged
 
- Special Education
+Special Education
 
- Asian
+Asian
 
- White
+White
 
- Hispanic
+Hispanic
 
- Native Hawaiian
+Native Hawaiian
 
- ELL
+ELL
 
- Female
+Female
 
- Male</div>
+Male</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
@@ -520,9 +502,9 @@ Behind Ahead Student Recovery characterizes the extent
 ```{=html}
 <div class="archive-text">Recovery Year 2
 • In some grades and content areas, student are well behind where their 2019
- counterparts were.
+counterparts were.
 • This shows that even though Hawaii’s education system has bounced back well,
- large deficits remain to be overcome for thousands of students
+large deficits remain to be overcome for thousands of students
 • Of particular concern is middle school math, especially for females.</div>
 ```
 

@@ -15,11 +15,11 @@ format:
 <div class="archive-text">• Damian Betebenner
 • Joined Center for Assessment in 2007
 • Developed Student Growth Percentiles
- (SGPs) and work with states on
- implementing models of student growth
+(SGPs) and work with states on
+implementing models of student growth
 • Live in Boston Area
 • Enthusiast of hiking and time travel
- movies.</div>
+movies.</div>
 ```
 
 ## About this copy {.archive-about}

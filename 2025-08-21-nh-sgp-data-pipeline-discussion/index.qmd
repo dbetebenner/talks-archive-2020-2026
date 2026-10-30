@@ -18,9 +18,7 @@ NHSAS and ACCESS
 Damian Betebenner
 Center for Assessment
 
-August 21st, 2025
-
- 1</div>
+August 21st, 2025</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -28,29 +26,25 @@ August 21st, 2025
 ```{=html}
 <div class="archive-text">SGP Analysis Data Workflow
 • Receive annual text (currently pipe “|”) delimited file from New Hampshire Department of Education
- (both SAS and ACCESS)
- • Lauren sends highly consistent layouts every year so she knows the extraction process from the
- NHDOE side.
+(both SAS and ACCESS)
+• Lauren sends highly consistent layouts every year so she knows the extraction process from the
+NHDOE side.
 • Clean/Prepare data followed by SGP analysis
- • Cleaning/preparing involves making at most minor modifications to labels (e.g., ethnicity labels),
- checking for duplicate records, etc. and saving the clean results in an .Rdata format.
- • With clean data in .Rdata format run SGP analysis using R software environment and the SGP
- package. Analysis calculates SGPs (cohort and baseline referenced), straight and lagged projections
- (cohort and baseline referenced), and exports of files that combine initial data with SGP data.
- • All source code for data prep and analysis (no data) are located on the Center’s GitHub repo for
- New Hampshire
+• Cleaning/preparing involves making at most minor modifications to labels (e.g., ethnicity labels),
+checking for duplicate records, etc. and saving the clean results in an .Rdata format.
+• With clean data in .Rdata format run SGP analysis using R software environment and the SGP
+package. Analysis calculates SGPs (cohort and baseline referenced), straight and lagged projections
+(cohort and baseline referenced), and exports of files that combine initial data with SGP data.
+• All source code for data prep and analysis (no data) are located on the Center’s GitHub repo for
+New Hampshire
 • Export results as pipe delimited files and upload to the Center’s secure share file site for transfer back to
- New Hampshire DOE
-
- 2</div>
+New Hampshire DOE</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">Questions
-
- 3</div>
+<div class="archive-text">Questions</div>
 ```
 
 ## About this copy {.archive-about}

@@ -15,9 +15,9 @@ format:
 <div class="archive-text">How Student Growth Percentiles Transform
 ERB Data into Actionable Insights
 
- Damian W Betebenner
- National Center for the Improvement of Educational Assessment
- Austin, TX April 4th, 2025</div>
+Damian W Betebenner
+National Center for the Improvement of Educational Assessment
+Austin, TX April 4th, 2025</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -27,11 +27,11 @@ ERB Data into Actionable Insights
 • Recovering Academic
 • At the Center for Assessment since 2007
 • Developed student growth percentile (SGP) methodology
- that is currently used by approximately with 25 state
- assessments as well as ERB and with several other
- educational assessments.
+that is currently used by approximately with 25 state
+assessments as well as ERB and with several other
+educational assessments.
 • Currently live just outside of Boston, Massachusetts with
- wife, daughter, and dog.</div>
+wife, daughter, and dog.</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -39,7 +39,7 @@ ERB Data into Actionable Insights
 ```{=html}
 <div class="archive-text">Topics
 • What is student growth and why is it critical to pay attention
- to?
+to?
 • What is a student growth percentile (SGP)?
 • How to turn SGPs into actionable insights?</div>
 ```
@@ -47,9 +47,7 @@ ERB Data into Actionable Insights
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">What is student growth?
-
- 4</div>
+<div class="archive-text">What is student growth?</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -57,14 +55,14 @@ ERB Data into Actionable Insights
 ```{=html}
 <div class="archive-text">Terminology
 • Achievement: A point in time measure/indication of what a student
- knows and can do. Also referred to as status, attainment. Reported as
- a scaled score, percentile
+knows and can do. Also referred to as status, attainment. Reported as
+a scaled score, percentile
 • Growth: The “change” in the level of achievement associated with an
- individual student measure at least two points in time.
+individual student measure at least two points in time.
 • Improvement: The “change” in the level of achievement associated
- with two groups of students formed by school or demographic
- groups (e.g., 2024 versus 2025 outcomes for Grade 4 students in a
- given school). This is the most common metric of change.
+with two groups of students formed by school or demographic
+groups (e.g., 2024 versus 2025 outcomes for Grade 4 students in a
+given school). This is the most common metric of change.
 • Not all change is “growth”. There are different types of changes and</div>
 ```
 
@@ -72,37 +70,34 @@ ERB Data into Actionable Insights
 
 ```{=html}
 <div class="archive-text">Why Student Growth?
- If you care about student achievement,
- then you care about student growth.
+If you care about student achievement,
+then you care about student growth.
 
 • Where you are is a function of where
- you started and how quickly you’ve
- travelled since.
+you started and how quickly you’ve
+travelled since.
 • Student growth and student
- attainment/achievement are related
- in this way.
+attainment/achievement are related
+in this way.
 • Distance=Rate x Time
 • Those who start behind tend to
- stay behind and those that start
- ahead tend to stay ahead.</div>
+stay behind and those that start
+ahead tend to stay ahead.</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth Introductory Concepts
- A Math Story Problem
+A Math Story Problem
 
- • Whose high jump changed
- more? Explain your answer.
- • Whose high jump change is
- more remarkable? Explain your
- answer.
- • Which high jumper improved
- more? Explain your answer.
-
- 7
- •</div>
+• Whose high jump changed
+more? Explain your answer.
+• Whose high jump change is
+more remarkable? Explain your
+answer.
+• Which high jumper improved
+more? Explain your answer.</div>
 ```
 
 ::: notes
@@ -116,10 +111,10 @@ See agenda handout
 ```{=html}
 <div class="archive-text">Student Growth: Introductory Concepts
 • There are 3 general approaches of calculating student
- growth:
- • Growth as an amount of change (i.e., gain).
- • Growth as a norm/peer referenced quantity.
- • Growth as a criterion referenced quantity.</div>
+growth:
+• Growth as an amount of change (i.e., gain).
+• Growth as a norm/peer referenced quantity.
+• Growth as a criterion referenced quantity.</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -127,14 +122,13 @@ See agenda handout
 ```{=html}
 <div class="archive-text">Student Growth: Introductory Concepts
 • Growth as an amount of change:
- • What could be more simple?
- • Like height or weight just calculate the amount of change.
- • Requires a vertical scale (which ERB has)
- • Growth = Score Time 2 - Score Time 1
+• What could be more simple?
+• Like height or weight just calculate the amount of change.
+• Requires a vertical scale (which ERB has)
+• Growth = Score Time 2 - Score Time 1
 • Not as simple as it seems:
- • Comparisons between students often leads to wrong conclusions
- • Interpreting change requires context.
- 9</div>
+• Comparisons between students often leads to wrong conclusions
+• Interpreting change requires context.</div>
 ```
 
 ::: notes
@@ -147,23 +141,23 @@ See agenda handout
 
 ```{=html}
 <div class="archive-text">Student Growth: Introductory Concepts
- Back to the story problem!</div>
+Back to the story problem!</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth: Introductory Concepts
- • Which high jumper improved more:
- ▪ Judy improved 2 inches.
- ▪ Anna improved 6 inches.
- ▪ An inch is an inch!!!
- ▪ But is an inch really
- an inch???
- ▪ 2 inches for an elite
- jumper is far more
- remarkable than 6
- inches for a novice.</div>
+• Which high jumper improved more:
+▪ Judy improved 2 inches.
+▪ Anna improved 6 inches.
+▪ An inch is an inch!!!
+▪ But is an inch really
+an inch???
+▪ 2 inches for an elite
+jumper is far more
+remarkable than 6
+inches for a novice.</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -173,16 +167,16 @@ See agenda handout
 •This is analogous to height/weight measures for infants.
 •Growth amounts are tricky to interpret and require context.
 •Peer based comparisons used by growth analyses are a way to
- acquire that context.
- An infant male toddler is measured at 2 and 3 years of age and is
- shown to have grown 4 inches. The magnitude of increase—4
- inches—is a well understood quantity that any parent can grasp
- and calculate at home using a simple yardstick. However, parents
- leaving their pediatrician’s office knowing only how much their
- child has grown would likely be wanting for more information:
- Parents are not interested in an absolute magnitude of growth, but
- instead in a norm-referenced quantity locating that 4 inch increase
- alongside the height increases of similar children. 12</div>
+acquire that context.
+An infant male toddler is measured at 2 and 3 years of age and is
+shown to have grown 4 inches. The magnitude of increase—4
+inches—is a well understood quantity that any parent can grasp
+and calculate at home using a simple yardstick. However, parents
+leaving their pediatrician’s office knowing only how much their
+child has grown would likely be wanting for more information:
+Parents are not interested in an absolute magnitude of growth, but
+instead in a norm-referenced quantity locating that 4 inch increase
+alongside the height increases of similar children. 12</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -191,25 +185,22 @@ See agenda handout
 <div class="archive-text">Student Growth: Introductory Concepts
 • Peer-based analyses are also called norm-referenced analyses.
 • Like with infant height/weight charts, peers are children/student with similar
- characteristics.
+characteristics.
 • For growth analyses using large scale assessments, peers are students with (at
- least) the same scale score history on the same tests.
+least) the same scale score history on the same tests.
 • Peer based norms are invaluable in providing context for stakeholders to
- understand student growth.
+understand student growth.
 • The ERB SGP Model creates growth norms for all students using regression (i.e.,
- peer-based) analyses.
+peer-based) analyses.
 • These norms allow stakeholders to understand what an ambitious yet
- reasonable expectation is for each student.
- 13</div>
+reasonable expectation is for each student.</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">What is a student growth percentile
-(SGP)?
-
- 14</div>
+(SGP)?</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -218,16 +209,15 @@ See agenda handout
 <div class="archive-text">Student Growth Percentiles
 • Research on the SGP model began in 2007.
 • Based upon work in Colorado, the norm-referenced model was extended
- to include a criterion-referenced component.
+to include a criterion-referenced component.
 • Work in other states incorporating the model into state reporting and
- accountability systems occurred in subsequent years and student growth
- became more common across state assessment systems.
+accountability systems occurred in subsequent years and student growth
+became more common across state assessment systems.
 • Goal or the model is to create an individual level growth metric that is
- informative to different stakeholders ranging from parents to policy
- makers.
+informative to different stakeholders ranging from parents to policy
+makers.
 • Currently, more than two dozen states and several assessment
- organizations use SGPs for diagnostic and accountability purposes.
- 15</div>
+organizations use SGPs for diagnostic and accountability purposes.</div>
 ```
 
 ::: notes
@@ -244,14 +234,13 @@ See agenda handout
 • Different stakeholder groups ask different questions.
 • Parents are most concerned about how their child is doing.
 • To effectively engage parents and communities in a productive conversation
- about student learning (i.e. growth), a growth model should describe:
- • What is? How much are students learning/growing.
- • What should be? How much would we like students to grow/learn.
- • What is reasonable? How much is it reasonable to expect students to grow/
- learn.
+about student learning (i.e. growth), a growth model should describe:
+• What is? How much are students learning/growing.
+• What should be? How much would we like students to grow/learn.
+• What is reasonable? How much is it reasonable to expect students to grow/
+learn.
 • Most other growth models do not provide a student level metric. They provide a
- school summary used for accountability purposes.
- 16</div>
+school summary used for accountability purposes.</div>
 ```
 
 ::: notes
@@ -265,15 +254,13 @@ See agenda handout
 ```{=html}
 <div class="archive-text">Student Growth Percentiles
 • The calculation of SGPs requires the use of data to derive
- growth norms.
+growth norms.
 • The production of growth norms utilizes large scale
- assessment results together with quantile regression
- analyses to identify growth across 99 levels conditional
- upon prior achievement.
+assessment results together with quantile regression
+analyses to identify growth across 99 levels conditional
+upon prior achievement.
 • These established growth norms are then used to produce
- individual student growth percentiles.
-
- 17</div>
+individual student growth percentiles.</div>
 ```
 
 ::: notes
@@ -287,14 +274,12 @@ See agenda handout
 ```{=html}
 <div class="archive-text">Growth Model: Other Options
 • Almost all current growth model use large amounts of data to
- create “norms” against which student growth is judged.
+create “norms” against which student growth is judged.
 • Growth models utilize various forms of regression to adjust
- for initial student achievement (and, in some instances) other
- demographic characteristics.
+for initial student achievement (and, in some instances) other
+demographic characteristics.
 • Other growth models include value-added models, value-
- table models
-
- 18</div>
+table models</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -305,9 +290,9 @@ See agenda handout
 • Worked with Dr. Adrienne Hu to refine the methodology to ERB assessment.
 • ERB began utilizing SGP data in 2024.
 • ERB creates separate growth norms utilizing historical assessment data for each
- grade, content area and time-span across which growth is reported.
+grade, content area and time-span across which growth is reported.
 • These historical growth norms are utilized to calculate SGPs in real-time and new
- assessment data is collected.</div>
+assessment data is collected.</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
@@ -316,28 +301,26 @@ See agenda handout
 <div class="archive-text">Properties of SGPs
 • An SGP is an individual indicator of student growth (i.e., learning)
 • An SGP is an integer ranging from 1 to 99 where an SGP of 1 indicate very low growth and an SGP of 99
- indicates very high growth.
+indicates very high growth.
 • All students regardless of starting place can have high or low growth — growth is uncorrelated with prior
- achievement.
+achievement.
 • Growth is uncorrelated from year-to-year. High growth one year doesn’t indicate growth in the following year.
 • In the baseline year, SGPs are uniformly distributed between 1 and 99 a mean/median of 50. Groups with
- mean/median SGPs above 50 demonstrate, on average, higher growth than the baseline cohort and mean/
- median SGPs below 50 demonstrate, on average, lower growth than the baseline cohort.
+mean/median SGPs above 50 demonstrate, on average, higher growth than the baseline cohort and mean/
+median SGPs below 50 demonstrate, on average, lower growth than the baseline cohort.
 • Growth analyses do not include demographic adjustments. Growth differs for different demographic subgroups.
- • Growth by ethnicity ranges from a median SGP of low 40s to high 50s (depending upon grade and
- content area)
- • Economically disadvantaged students have median SGP in mid to low 40s (depending upon grade and
- content area)
- • Special needs students have median SGP in low 40s (depending upon grade and content area)</div>
+• Growth by ethnicity ranges from a median SGP of low 40s to high 50s (depending upon grade and
+content area)
+• Economically disadvantaged students have median SGP in mid to low 40s (depending upon grade and
+content area)
+• Special needs students have median SGP in low 40s (depending upon grade and content area)</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">How to turn SGPs into actionable
-insights?
-
- 21</div>
+insights?</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
@@ -345,13 +328,13 @@ insights?
 ```{=html}
 <div class="archive-text">Turning Data into Information
 • SGPs are just another piece of data given to people who are
- drowning in data.
+drowning in data.
 • The key: How to turn this data into information that transforms
- educational processes/practices that improves learning for students.
+educational processes/practices that improves learning for students.
 • If student learning/growth improves, then achievement/attainment
- results will follow.
+results will follow.
 • Growth is the leading indicator, achievement/status is the lagging
- indicator.
+indicator.
 • It’s all about growth!</div>
 ```
 
@@ -360,15 +343,15 @@ insights?
 ```{=html}
 <div class="archive-text">Student Level Insights
 • Like all data derived from assessments, care must be taken with interpretation
- — especially with individual student level data — and triangulated with other
- evidence including classroom observation and other assessment results.
+— especially with individual student level data — and triangulated with other
+evidence including classroom observation and other assessment results.
 • Broadly, an SGP for a student will tell one whether the student learned a lot or
- little over the previous year.
+little over the previous year.
 • Depending upon the vocabulary used to described student growth, one can
- answer the question:
- • Did the student make significantly less than a year’s worth of learning.
- • Did the student make about a year’s worth of learning.
- • Did the student make significantly more than a year’s worth of learning.</div>
+answer the question:
+• Did the student make significantly less than a year’s worth of learning.
+• Did the student make about a year’s worth of learning.
+• Did the student make significantly more than a year’s worth of learning.</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
@@ -376,43 +359,42 @@ insights?
 ```{=html}
 <div class="archive-text">Student Level Insights
 
- Advanced Reading
- Achievement
- DEMO Reading
- Scale Score
+Advanced Reading
+Achievement
+DEMO Reading
+Scale Score
 
- Catch Up
- Target Growth
- Proficient Catch Up
- Target Level Percentiles
+Catch Up
+Target Growth
+Proficient Catch Up
+Target Level Percentiles
 
- Very High 81st − 99th
+Very High 81st − 99th
 
- High 61st − 80th
+High 61st − 80th
 
- Part Proficient Typical 40th − 60th
+Part Proficient Typical 40th − 60th
 
- Low 20th − 39th
+Low 20th − 39th
 
- Unsatisfactory Very Low 1st − 19th
+Unsatisfactory Very Low 1st − 19th
 
- Grade 3 Grade 4 Grade 5 Grade 6
- 2022−2023 2023−2024 2024−2025 2025−2026
+Grade 3 Grade 4 Grade 5 Grade 6
 
- Scale Score 476 542 574
- Achievement Level
- Achievement Target
- Part Proficient Part Proficient
- Proficient (572)
- Part Proficient
- Proficient (599)
- Achievement
- Growth Percentile 62 72
- Growth Level
- Growth Target
- High High
- Catch Up (70) Catch Up (69)
- Growth</div>
+Scale Score 476 542 574
+Achievement Level
+Achievement Target
+Part Proficient Part Proficient
+Proficient (572)
+Part Proficient
+Proficient (599)
+Achievement
+Growth Percentile 62 72
+Growth Level
+Growth Target
+High High
+Catch Up (70) Catch Up (69)
+Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
@@ -420,43 +402,42 @@ insights?
 ```{=html}
 <div class="archive-text">Student Level Insights
 
- Mathematics
- Advanced
- Move Up Achievement
- Target
- DEMO Mathematics
- Catch Up
- Keep Up Target Scale Score
- Target
+Mathematics
+Advanced
+Move Up Achievement
+Target
+DEMO Mathematics
+Catch Up
+Keep Up Target Scale Score
+Target
 
- Growth
- Proficient Level Percentiles
+Growth
+Proficient Level Percentiles
 
- Very High 81st − 99th
+Very High 81st − 99th
 
- High 61st − 80th
- Part Proficient
- Typical 40th − 60th
+High 61st − 80th
+Part Proficient
+Typical 40th − 60th
 
- Low 20th − 39th
+Low 20th − 39th
 
- Unsatisfactory Very Low 1st − 19th
+Unsatisfactory Very Low 1st − 19th
 
- Grade 3 Grade 4 Grade 5 Grade 6
- 2022−2023 2023−2024 2024−2025 2025−2026
+Grade 3 Grade 4 Grade 5 Grade 6
 
- Scale Score 469 500 470
- Achievement Level
- Achievement Target
- Proficient Proficient Part Proficient
- Proficient (523)/Advanced (544) Proficient (519)
- Achievement
- Growth Percentile 54 5
- Growth Level
- Growth Target
- Typical Very Low
- Keep Up (48)/Move Up (75) Catch Up (70)
- Growth</div>
+Scale Score 469 500 470
+Achievement Level
+Achievement Target
+Proficient Proficient Part Proficient
+Proficient (523)/Advanced (544) Proficient (519)
+Achievement
+Growth Percentile 54 5
+Growth Level
+Growth Target
+Typical Very Low
+Keep Up (48)/Move Up (75) Catch Up (70)
+Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
@@ -464,12 +445,12 @@ insights?
 ```{=html}
 <div class="archive-text">Group Level Insights
 • SGPs were designed to be an individual level metric that can be
- aggregated to examine average student growth for any relevant subgroup:
- • Grades within school
- • Classes within school
- • Relevant demographic subgroups
- • Groups receiving targeted intervention (e.g., curricular intervention
- designed in improve their learning).
+aggregated to examine average student growth for any relevant subgroup:
+• Grades within school
+• Classes within school
+• Relevant demographic subgroups
+• Groups receiving targeted intervention (e.g., curricular intervention
+designed in improve their learning).
 
 • Mean/median SGPs below 50</div>
 ```
@@ -478,40 +459,25 @@ insights?
 
 ```{=html}
 <div class="archive-text">Indiana School Performance
- ILEARN Growth
+ILEARN Growth
 Group Level Insights&amp; Prior Achievement Reading2024 ILEARN ELA
- Higher Achievement Higher Achievement School Size
- 90
+Higher Achievement Higher Achievement School Size
 
- Lower Growth Higher Growth
+Lower Growth Higher Growth
 
- 2023 Prior Percent at/above Proficient
- 50 Students
- 100 Students
- 80
- 250 Students
- 500 Students
- 70
+2023 Prior Percent at/above Proficient
+50 Students
+100 Students
+250 Students
+500 Students
 
- 60
+Achievement
 
- 50
+Lower Growth Higher Growth Summary Statistics
+Correlation: 0.34
+Lower Achievement Lower Achievement Correlation (N ≥ 10): 0.34
 
- 40
-
- 30
-
- Achievement
- 20
-
- 10
- Lower Growth Higher Growth Summary Statistics
- Correlation: 0.34
- Lower Achievement Lower Achievement Correlation (N ≥ 10): 0.34
-
- 0 10 20 30 40 50 60 70 80 90 100
-
- Growth 2024 Median Student Growth Percentile</div>
+Growth 2024 Median Student Growth Percentile</div>
 ```
 
 ## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
@@ -521,12 +487,12 @@ Group Level Insights&amp; Prior Achievement Reading2024 ILEARN ELA
 • Growth is everything in that it is what we purport to have some control over.
 • However, achievement is the coin of the realm
 • Achievement trend data is almost exclusively used as an indicator of
- educational quality:
- • Is achievement (e.g., median achievement percentile, percent proficient,
- …) consistently high.
- • Is achievement increasing (improvement).
+educational quality:
+• Is achievement (e.g., median achievement percentile, percent proficient,
+…) consistently high.
+• Is achievement increasing (improvement).
 • Achievement trends are NOT the right tool for performance management
- vis-a-vis educational quality.</div>
+vis-a-vis educational quality.</div>
 ```
 
 ## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
@@ -534,19 +500,19 @@ Group Level Insights&amp; Prior Achievement Reading2024 ILEARN ELA
 ```{=html}
 <div class="archive-text">Outcomes, outcomes, outcomes!
 
- • I want to be successful.
- • I want to be thin.
- • I want to be admired.
- We live in a society • I want to be powerful.
+• I want to be successful.
+• I want to be thin.
+• I want to be admired.
+We live in a society • I want to be powerful.
 
- obsessed with ends • I want to be famous.
- • I want to have a million followers.
- • I want to be the best.
- • I want to be liked.
- • I want to have it all.
- • I want to be the fastest.
- • I want to have the perfect family.
- • I want to win.</div>
+obsessed with ends • I want to be famous.
+• I want to have a million followers.
+• I want to be the best.
+• I want to be liked.
+• I want to have it all.
+• I want to be the fastest.
+• I want to have the perfect family.
+• I want to win.</div>
 ```
 
 ## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
@@ -555,37 +521,37 @@ Group Level Insights&amp; Prior Achievement Reading2024 ILEARN ELA
 <div class="archive-text">A Focus on Outcomes
 (at the expense of a focus on process)
 
- Process vs. Product
+Process vs. Product
 
- Means vs. Ends
+Means vs. Ends
 
- Journey vs. Destination
+Journey vs. Destination
 
- Development vs. Result
+Development vs. Result
 
- Learning vs. Attainment
+Learning vs. Attainment
 
- Growth vs. Achievement</div>
+Growth vs. Achievement</div>
 ```
 
 ## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Processes, Impacts, and Outcomes
- Assessment Indicators
- Proximal-Leading Distal-Lagging
+Assessment Indicators
+Proximal-Leading Distal-Lagging
 
- Growth/Learning Achievement/Status
+Growth/Learning Achievement/Status
 
- lead to lead to
- Processes Impacts Outcomes
- The diverse set of factors and
- activities including
- instructional practices,
- professional climate, and
- student experiences, that are
- implemented or cultivated to
- support student learning.</div>
+lead to lead to
+Processes Impacts Outcomes
+The diverse set of factors and
+activities including
+instructional practices,
+professional climate, and
+student experiences, that are
+implemented or cultivated to
+support student learning.</div>
 ```
 
 ## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
@@ -594,11 +560,9 @@ Group Level Insights&amp; Prior Achievement Reading2024 ILEARN ELA
 <div class="archive-text">Two Axioms
 
 1. Achievement and Growth (i.e., learning) are different but are
- connected: Learning precedes achievement. Learning is a proximal
- indicator whereas achievement is distal.
-2. Students enter and exit the education system.
-
- 32</div>
+connected: Learning precedes achievement. Learning is a proximal
+indicator whereas achievement is distal.
+2. Students enter and exit the education system.</div>
 ```
 
 ## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
@@ -607,7 +571,7 @@ Group Level Insights&amp; Prior Achievement Reading2024 ILEARN ELA
 <div class="archive-text">Know what you want to accomplish
 and focus on the process rather
 than the outcome.
- Nick Saban</div>
+Nick Saban</div>
 ```
 
 ## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
@@ -616,16 +580,14 @@ than the outcome.
 <div class="archive-text">An illustration
 
 • Achievement is to water
- temperature as growth is to the
- heat supplied.
+temperature as growth is to the
+heat supplied.
 • Status based accountability
- systems judge the systems
- based upon “water
- temperature.”
+systems judge the systems
+based upon “water
+temperature.”
 • What the school provides is the
- heat!
-
- 34</div>
+heat!</div>
 ```
 
 ## {.archive-slide background-image="slides/35.webp" background-size="contain" background-color="#14140f"}
@@ -634,17 +596,16 @@ than the outcome.
 <div class="archive-text">An illustration
 
 • These systems will reach a state
- of thermal equilibrium.
+of thermal equilibrium.
 • This is similar to schools: If the
- achievement level of students
- entering the school and the
- rates of learning remain
- constant over time, achievement
- will reach equilibrium.
+achievement level of students
+entering the school and the
+rates of learning remain
+constant over time, achievement
+will reach equilibrium.
 • This is why examining
- achievement trend data is
- potentially misleading.
- 35</div>
+achievement trend data is
+potentially misleading.</div>
 ```
 
 ## {.archive-slide background-image="slides/36.webp" background-size="contain" background-color="#14140f"}
@@ -653,7 +614,7 @@ than the outcome.
 <div class="archive-text">Education is not the filling of a pail,
 but the lighting of a fire.
 
- William Butler Yeats</div>
+William Butler Yeats</div>
 ```
 
 ## {.archive-slide background-image="slides/37.webp" background-size="contain" background-color="#14140f"}

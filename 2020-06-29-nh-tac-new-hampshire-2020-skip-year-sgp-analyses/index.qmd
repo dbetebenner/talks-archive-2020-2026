@@ -13,16 +13,16 @@ format:
 
 ```{=html}
 <div class="archive-text">New Hampshire 2020 Skip-Year SGP
- Analyses
+Analyses
 
- Damian Betebenner
- National Center for the Improvement of
- Educational Assessment
+Damian Betebenner
+National Center for the Improvement of
+Educational Assessment
 
- New Hampshire Assessment and Accountability
- Technical Advisory Committee (TAC)
+New Hampshire Assessment and Accountability
+Technical Advisory Committee (TAC)
 
- June 29, 2020</div>
+June 29, 2020</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -32,18 +32,18 @@ format:
 
 • Oh what a difference a couple of months make.
 • Most Spring 2020 tests have been cancelled:
- – State assessments in ELA/Math have been cancelled
- – Many ELP assessments (WIDA/ACCESS) were completed (e.g., in New Hampshire)
+– State assessments in ELA/Math have been cancelled
+– Many ELP assessments (WIDA/ACCESS) were completed (e.g., in New Hampshire)
 • States, including New Hampshire, have been given assessment and
- accountability waivers by ED for 2020.
+accountability waivers by ED for 2020.
 • Because student academic growth as measured by state summative
- assessments utilizes prior assessment data in its calculation, the impacts of the
- 2020 pandemic will have ripple effects in 2021.
+assessments utilizes prior assessment data in its calculation, the impacts of the
+2020 pandemic will have ripple effects in 2021.
 • My colleague Adam VanIwaarden and I wrote a blog post on this topic in April
- which can be found here: https://www.nciea.org/blog/sgp/issues-and-
- considerations-covid-19-pandemic-presents-measuring-student-growth
+which can be found here: https://www.nciea.org/blog/sgp/issues-and-
+considerations-covid-19-pandemic-presents-measuring-student-growth
 
- [Presentation Title - Footer] 2</div>
+[Presentation Title - Footer] 2</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -52,22 +52,21 @@ format:
 <div class="archive-text">2021 SGP Calculation
 
 • I have discussed whether growth can be calculated in 2021 and whether it can
- be used for accountability (e.g., school or teacher) with more than two-dozen
- states.
+be used for accountability (e.g., school or teacher) with more than two-dozen
+states.
 • Simple answer: Yes, SGPs can be calculated using 2019 (and earlier data) as
- priors.
- – Several states have been calculating two-year growth for years when there is not annual
- sequence of tests. For example, 8th to 10th grade growth in ELA or Mathematics or End of
- Course testing.
- – Growth projections which yield Adequate Growth Percentiles (AGPs) will also be calculable in
- 2021.
+priors.
+– Several states have been calculating two-year growth for years when there is not annual
+sequence of tests. For example, 8th to 10th grade growth in ELA or Mathematics or End of
+Course testing.
+– Growth projections which yield Adequate Growth Percentiles (AGPs) will also be calculable in
 • The harder question is whether these SGPs can/should be used as part of state
- accountability.
- – Are two-year SGPs valid as indicators of annual growth?
- – Beyond technical viability, is it tenable (e.g., politically) to use two-year SGPs as a substitute for
- one-year SGPs?
+accountability.
+– Are two-year SGPs valid as indicators of annual growth?
+– Beyond technical viability, is it tenable (e.g., politically) to use two-year SGPs as a substitute for
+one-year SGPs?
 
- [Presentation Title - Footer] 3</div>
+[Presentation Title - Footer] 3</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -76,16 +75,16 @@ format:
 <div class="archive-text">2021 SGP Calculation
 
 • Are two-year SGPs valid as indicators of annual
- growth?
- – The paper on which this presentation is based shares some
- findings and will be discussed hereafter.
+growth?
+– The paper on which this presentation is based shares some
+findings and will be discussed hereafter.
 • Is it tenable (e.g., politically) to use two-year SGPs as
- a substitute for one-year SGPs?
- – A much harder question that likely differs from state to state.
- – Answering it well requires technical due diligence which,
- hopefully, this report/presentation begins to address.
+a substitute for one-year SGPs?
+– A much harder question that likely differs from state to state.
+– Answering it well requires technical due diligence which,
+hopefully, this report/presentation begins to address.
 
- [Presentation Title - Footer] 4</div>
+[Presentation Title - Footer] 4</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -94,13 +93,13 @@ format:
 <div class="archive-text">New Hampshire SGP Calculation
 
 • New Hampshire has had SGPs calculated for a decade,
- going back to the NECAP assessment system.
+going back to the NECAP assessment system.
 • New Hampshire assesses students in ELA and
- Mathematics in grade 3, 4, 5, 6, 7 and 8.
+Mathematics in grade 3, 4, 5, 6, 7 and 8.
 • As mentioned previously, there is no summative data
- in 2020 due to the COVID-19.
+in 2020 due to the COVID-19.
 
- [Presentation Title - Footer] 5</div>
+[Presentation Title - Footer] 5</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -109,20 +108,20 @@ format:
 <div class="archive-text">Possible 2020 New Hampshire SGP Work
 
 • If New Hampshire is interested in calculating/using SGPs in
- 2021, part of due diligence would include:
+2021, part of due diligence would include:
 • Using historical data from 2016 to 2019, two-year SGPs from
- 2017 to 2019 were calculated using 2019 as the dependent
- variable and 2016 and 2017 as the independent variables
- (i.e., order 1 and 2 SGPs)
- – Two-year SGPs are calculated for grades 5, 6, 7, 8 in ELA and
- Mathematics.
- – SGPs are calculated separately for each norm-group.
+2017 to 2019 were calculated using 2019 as the dependent
+variable and 2016 and 2017 as the independent variables
+(i.e., order 1 and 2 SGPs)
+– Two-year SGPs are calculated for grades 5, 6, 7, 8 in ELA and
+Mathematics.
+– SGPs are calculated separately for each norm-group.
 • One-year SGPs from 2018-2019 were available from
- previous SGP analyses.
- – One-year SGPs are calculated for grades 4, 5, 6, 7, and 8.
- – SGPs are calculated separately for each norm-group.
+previous SGP analyses.
+– One-year SGPs are calculated for grades 4, 5, 6, 7, and 8.
+– SGPs are calculated separately for each norm-group.
 
- [Presentation Title - Footer] 6</div>
+[Presentation Title - Footer] 6</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -131,17 +130,17 @@ format:
 <div class="archive-text">Summary
 
 • SGP calculations can occur in 2021 but will be different than
- previously done (they span 2 years).
+previously done (they span 2 years).
 • Whether those calculations can be used for accountability
- encompasses two dimensions:
- – How closely (historically) has two-year growth (skip-year) aligned with
- the traditional one-year growth that has been calculated.
- – Even if it is technically tenable to use two-year in lieu in one-year
- growth, is it practically tenable.
+encompasses two dimensions:
+– How closely (historically) has two-year growth (skip-year) aligned with
+the traditional one-year growth that has been calculated.
+– Even if it is technically tenable to use two-year in lieu in one-year
+growth, is it practically tenable.
 • Running due diligence analyses on historical data is a first
- step toward this 2021 issue.
+step toward this 2021 issue.
 
- [Presentation Title - Footer] 7</div>
+[Presentation Title - Footer] 7</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}

@@ -14,11 +14,11 @@ format:
 ```{=html}
 <div class="archive-text">COVID-19 Academic Impact in Rhode Island
 
- Damian Betebenner &amp; Adam Van Iwaarden
- Center for Assessment
+Damian Betebenner &amp; Adam Van Iwaarden
+Center for Assessment
 
- Rhode Island Weekly Call
- February 17th, 2022</div>
+Rhode Island Weekly Call
+February 17th, 2022</div>
 ```
 
 ::: notes
@@ -33,15 +33,15 @@ Scott
 <div class="archive-text">Update on Academic Impact Analysis and Report
 • We last met in Fall, 2021 and discussed findings.
 • The results from RICAS and WIDA-ACCESS in 2021 indicated overall academic
- impact was moderate/large in ELA and large in mathematics.
+impact was moderate/large in ELA and large in mathematics.
 • Both status-based analyses as well as growth-based analyses support these
- findings.
+findings.
 • Since then we have finalized results associated with:
- • RICAS spring 2021 summative assessment
- • WIDA-ACCESS 2021 summative assessment
+• RICAS spring 2021 summative assessment
+• WIDA-ACCESS 2021 summative assessment
 • Today we want to share results associated with the analyses.
 
- Pandemic Related Academic Impact in Rhode Island 2</div>
+Pandemic Related Academic Impact in Rhode Island 2</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -49,19 +49,19 @@ Scott
 ```{=html}
 <div class="archive-text">How do we quantify academic impact using test data
 • The pandemic was like a “headwind” that (presumably) slowed down the learning of
- students due to a variety of factors.
+students due to a variety of factors.
 • We can use test data in two ways to quantify the impact of this headwind:
- • Best way: Quantify how much the rate of learning (i.e., growth) slowed:
- • RICAS: Use historical skip-year growth norms to quantify growth and compare to pre-COVID growth.
- • ACCESS: Use historical consecutive-year growth norms and compare to pre-COVID growth
- • Next best way: Look at how much 2021 status changed:
- • RICAS: Use 2019 status (or some adjustment thereof) as a proxy.
- • ACCESS: Use 2020 status (or some adjustment thereof) as a proxy.
- • Adjustments include (potentially) imputation for missing data.
+• Best way: Quantify how much the rate of learning (i.e., growth) slowed:
+• RICAS: Use historical skip-year growth norms to quantify growth and compare to pre-COVID growth.
+• ACCESS: Use historical consecutive-year growth norms and compare to pre-COVID growth
+• Next best way: Look at how much 2021 status changed:
+• RICAS: Use 2019 status (or some adjustment thereof) as a proxy.
+• ACCESS: Use 2020 status (or some adjustment thereof) as a proxy.
+• Adjustments include (potentially) imputation for missing data.
 • Growth is to Speedometer as Status is to Odometer
- • Growth deceleration/acceleration will show up as status decreases/increases and vice-versa
+• Growth deceleration/acceleration will show up as status decreases/increases and vice-versa
 
- Pandemic Related Academic Impact in Rhode Island 3</div>
+Pandemic Related Academic Impact in Rhode Island 3</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -69,171 +69,92 @@ Scott
 ```{=html}
 <div class="archive-text">How do we quantify academic impact using test data
 • Status (odometer) comparisons are the most prevalent way of quantifying academic impact:
- • Usually looking at decrease in percent proficient (e.g., grade 3 ELA 2019 to grade 3 ELA 2021)
- • This isn’t wrong conceptually, just not the most refined metric to use.
- • Strength: Status comparisons can be calculated for all grades and content areas and groups.
- • Weakness: Status comparisons look at two distinct groups of students and don’t take account of system
- improvement.
+• Usually looking at decrease in percent proficient (e.g., grade 3 ELA 2019 to grade 3 ELA 2021)
+• This isn’t wrong conceptually, just not the most refined metric to use.
+• Strength: Status comparisons can be calculated for all grades and content areas and groups.
+• Weakness: Status comparisons look at two distinct groups of students and don’t take account of system
+improvement.
 • Growth (speedometer) comparisons are less prevalent way of quantifying academic impact:
- • Historical consecutive and skip-year growth norms were created for RICAS and ACCESS in May, 2021 for
- use with 2021 RICAS and ACCESS data.
- • Strength: Better accuracy as it only looks at one cohort of students.
- • Weakness: Not available for all students since it requires a prior score.
+• Historical consecutive and skip-year growth norms were created for RICAS and ACCESS in May, 2021 for
+use with 2021 RICAS and ACCESS data.
+• Strength: Better accuracy as it only looks at one cohort of students.
+• Weakness: Not available for all students since it requires a prior score.
 • Rhode Island participation rates were below normal, with participation in elementary grades near 90%
- decreasing to 80% in middle school grades.
- • Participation (as we’ll see) has a bigger impact upon status comparisons than growth.
- Pandemic Related Academic Impact in Rhode Island 4</div>
+decreasing to 80% in middle school grades.
+• Participation (as we’ll see) has a bigger impact upon status comparisons than growth.
+Pandemic Related Academic Impact in Rhode Island 4</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">RICAS Mathematics Grade 6
- Rhode Island 2019 to 2021 COVID⌧19 Academic Impact All Students
- Growth: Grade 4 2019 to Grade 6 2021 Status: Grade 6 2019 to Grade 6 2021 Summary
+Rhode Island 2019 to 2021 COVID⌧19 Academic Impact All Students
+Growth: Grade 4 2019 to Grade 6 2021 Status: Grade 6 2019 to Grade 6 2021 Summary
 
- 2019 Grade 4 Scaled Score Decile Cuts 2019 Grade 6 Scaled Score
- Academic Impact: Overall and by Quintile
+2019 Grade 4 Scaled Score Decile Cuts 2019 Grade 6 Scaled Score
+Academic Impact: Overall and by Quintile
 
- Grade 6 Scaled/Standardized Score and Achievement Level Cuts
- 10 20 30 40 50 60 70 80 90 425 475 500 525 550
- 550
- 2017 to 2019 Mean Conditional Status
- 550
- 2019 Percentiles (Observed)
- Overall
- 2019 to 2021 Mean Conditional Status (Observed) 2021 Percentiles (Observed)
+Grade 6 Scaled/Standardized Score and Achievement Level Cuts
+2017 to 2019 Mean Conditional Status
+2019 Percentiles (Observed)
+Overall
+2019 to 2021 Mean Conditional Status (Observed) 2021 Percentiles (Observed)
 
- Observed + Imputed
- 2019 to 2021 Mean Conditional Status (+ Imputed)
- 2.5
- 2021 Percentiles (+ Imputed) Severe
- 2019 to 2021 Academic Impact 2019 to 2021 Academic Impact
- 2 2019 and 2021 Mean Scaled Scores
- Q1 Q2 Q3 Q4 Q5
- Observed
- 525 525
+Observed + Imputed
+2019 to 2021 Mean Conditional Status (+ Imputed)
+2021 Percentiles (+ Imputed) Severe
+2019 to 2021 Academic Impact 2019 to 2021 Academic Impact
+2 2019 and 2021 Mean Scaled Scores
+Observed
 
- 2021 Grade 6 Scaled Score Decile Cuts
- Large Severe Severe Severe Severe
- 1.5
+2021 Grade 6 Scaled Score Decile Cuts
+Large Severe Severe Severe Severe
 
- 2021 Grade 6 Scaled Score
- 90 1
- 90
+2021 Grade 6 Scaled Score
 
- 500
- 80 80
- 500
- 0.5 Participation
- 70 70
- 60
- 0 0.00 Total Status Growth
- 60
- −0.32
- 50 50
- 475 475
- −0.5 2019 11,203 10,912 (97.4%) 9,887 (88.3%)
- 40 40
- 30 30
- −1 2021 10,305 8,936 (86.7%) 8,280 (80.3%)
- 20 20
+0.5 Participation
+0 0.00 Total Status Growth
 
- 10 −1.5
- 10
- 450 450 2019: 27.9% Proficient
- −2
+450 450 2019: 27.9% Proficient
 
- −2.5
- 2021: 17.8% Proficient
- Growth/Status Change Legend
- 425 425
- 425 450 475 500 525 550 −40 −25 −15 −5 5 20
- 0 10 20 30 40 50 60 70 80 90 100
- 2019 Grade 4 Scaled Score with Achievement Level Cuts Grade 6 Overall Deciles (2019 Norm)
- −0.55 −0.4 −0.25 −0.1 0.05 0.2
+2021: 17.8% Proficient
+Growth/Status Change Legend
+2019 Grade 4 Scaled Score with Achievement Level Cuts Grade 6 Overall Deciles (2019 Norm)
 
- Modest
- Severe Large Moderate to Improvement
- 2019 &amp; 2021 Grade 6 Median SGPs by Quintile 2019 &amp; 2021 Grade 6 Mean Scaled (Standardized) Scores by Quintile None
- Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
- 2019 Grade 6 Students 50.0 49.0 51.0 50.0 50.0 50.0 2019 Grade 6 Students 459 (−1.35) 478 (−0.48) 488 ( 0.03) 499 ( 0.53) 518 ( 1.42) 488 (0.00)
- 2021 Grade 6 Students 26.5 15.0 14.0 17.0 22.0 19.0 2021 Grade 6 Students 456 (−1.52) 470 (−0.86) 480 (−0.36) 492 ( 0.22) 512 ( 1.13) 481 (−0.32) Calculations suppressed
- Academic Impact (Observed) −23.5 −34.0 −37.0 −33.0 −28.0 −31.0 Change (Observed) −4 (−0.17) −8 (−0.38) −8 (−0.39) −6 (−0.31) −6 (−0.29) −7 (0.32)
- Academic Impact (+ Imputed) −23.0 −30.0 −32.7 −31.0 −28.0 −28.9 Change (+ Imputed) −4 ( 0.06) −8 (−0.20) −8 (−0.25) −7 (−0.22) −6 (−0.28) −7 (0.35)
- due to small group N (&lt; 50)
- Count Observed 2019 2,059 2,184 1,945 1,592 1,733 9,513 Count Observed 2019 2,395 2,020 2,354 1,992 2,151 10,912
- Count Observed 2021 1,548 1,628 1,814 1,550 1,740 8,280 Count Observed 2021 2,069 1,544 1,960 1,628 1,735 8,936
+Modest
+Severe Large Moderate to Improvement
+2019 &amp; 2021 Grade 6 Median SGPs by Quintile 2019 &amp; 2021 Grade 6 Mean Scaled (Standardized) Scores by Quintile None
+Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+2019 Grade 6 Students 50.0 49.0 51.0 50.0 50.0 50.0 2019 Grade 6 Students 459 (−1.35) 478 (−0.48) 488 ( 0.03) 499 ( 0.53) 518 ( 1.42) 488 (0.00)
+2021 Grade 6 Students 26.5 15.0 14.0 17.0 22.0 19.0 2021 Grade 6 Students 456 (−1.52) 470 (−0.86) 480 (−0.36) 492 ( 0.22) 512 ( 1.13) 481 (−0.32) Calculations suppressed
+Academic Impact (Observed) −23.5 −34.0 −37.0 −33.0 −28.0 −31.0 Change (Observed) −4 (−0.17) −8 (−0.38) −8 (−0.39) −6 (−0.31) −6 (−0.29) −7 (0.32)
+Academic Impact (+ Imputed) −23.0 −30.0 −32.7 −31.0 −28.0 −28.9 Change (+ Imputed) −4 ( 0.06) −8 (−0.20) −8 (−0.25) −7 (−0.22) −6 (−0.28) −7 (0.35)
+due to small group N (&lt; 50)
+Count Observed 2019 2,059 2,184 1,945 1,592 1,733 9,513 Count Observed 2019 2,395 2,020 2,354 1,992 2,151 10,912
+Count Observed 2021 1,548 1,628 1,814 1,550 1,740 8,280 Count Observed 2021 2,069 1,544 1,960 1,628 1,735 8,936
 
- 2021 to 2019 Scaled/Standardized Score Difference
- 35 15 0.70
- 2021 to 2019 SGP Difference (Observed) 0.65 2021 to 2019 Grade 6 Status Change (Observed)
- 30 2021 to 2019 SGP Difference (+ Imputed) 0.60 2021 to 2019 Grade 6 Status Change (+ Imputed)
- 0.55 0.84: Correlation SGP and Status Percentile Change
+2021 to 2019 Scaled/Standardized Score Difference
+2021 to 2019 SGP Difference (Observed) 0.65 2021 to 2019 Grade 6 Status Change (Observed)
+30 2021 to 2019 SGP Difference (+ Imputed) 0.60 2021 to 2019 Grade 6 Status Change (+ Imputed)
+0.55 0.84: Correlation SGP and Status Percentile Change
 
- Conditional Status/Growth Change
- 2021 to 2019 Conditional Status Difference (Observed)
- 25 0.50
- 0.94: Correlation SGP and Conditional Status Difference 10
- 0.45
- 20 0.40
- 0.35
- 15 0.30
- 5 0.25
- 10 0.20
+Conditional Status/Growth Change
+2021 to 2019 Conditional Status Difference (Observed)
+0.94: Correlation SGP and Conditional Status Difference 10
 
 2019 to 2021
- 0.15
- 5 0.10
- 0.05
- 0 0 0.00
- −0.05
- −5 −0.10
- −0.15
- −10 −0.20
- −5 −0.25
- −15 −0.30 −0.32
- −0.35
- −20 −0.40
- −0.45
- −10
- −25 −0.50
- −0.55
- −30 −0.60
- −0.65
- −35 −15 −0.70
- 10 20 30 40 50 60 70 80 90 425 475 500 525 550
 
- 425 450 475 500 525 550 0 10 20 30 40 50 60 70 80 90 100
-
- 2019 Grade 4 Scaled Score with Decile &amp; Achievement Level Cuts Grade 6 Percentile Rank and Scaled Scores (2019 Norm)
-
- 5</div>
+2019 Grade 4 Scaled Score with Decile &amp; Achievement Level Cuts Grade 6 Percentile Rank and Scaled Scores (2019 Norm)</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
-```{=html}
-<div class="archive-text">6</div>
-```
-
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
-
-```{=html}
-<div class="archive-text">7</div>
-```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
 
-```{=html}
-<div class="archive-text">8</div>
-```
-
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
-
-```{=html}
-<div class="archive-text">9</div>
-```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
 
@@ -242,91 +163,85 @@ Scott
 To help summarize the vast quantity of results for stakeholders, we created
 categories of academic impact based upon both effect size standards.
 
- Pandemic Related Academic Impact in Rhode Island 10</div>
+Pandemic Related Academic Impact in Rhode Island 10</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">RICAS ELA and Mathematics
- Rhode Island 2019 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
- Growth/Status Change Legend
- −40 −25 −15 −5 5 20
+Rhode Island 2019 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
+Growth/Status Change Legend
 
- −0.55 −0.4 −0.25 −0.1 0.05 0.2
+Modest
+Calculations suppressed
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- Modest
- Calculations suppressed
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+All Students Moderate Moderate Large Moderate Moderate Large Large Large Large Severe Large Severe
 
- All Students Moderate Moderate Large Moderate Moderate Large Large Large Large Severe Large Severe
-
- Economically Disadvantaged Large Moderate Large Large Moderate Moderate Severe Severe Large Severe Large Severe
+Economically Disadvantaged Large Moderate Large Large Moderate Moderate Severe Severe Large Severe Large Severe
 
 Non−Economically Disadvantaged Large Moderate Large Moderate Moderate Large Large Large Large Severe Large Severe
 
- African American Students Moderate Moderate Moderate Large Moderate Moderate Severe Severe Large Large Large Severe
+African American Students Moderate Moderate Moderate Large Moderate Moderate Severe Severe Large Large Large Severe
 
- Asian Students Moderate Modest to None Large Moderate Moderate Large Large Large Large Severe Large Severe
+Asian Students Moderate Modest to None Large Moderate Moderate Large Large Large Large Severe Large Severe
 
- White Students Moderate Moderate Large Moderate Moderate Large Large Large Large Severe Large Severe
+White Students Moderate Moderate Large Moderate Moderate Large Large Large Large Severe Large Severe
 
- Hispanic Students Large Moderate Large Large Moderate Moderate Severe Severe Large Severe Large Severe
+Hispanic Students Large Moderate Large Large Moderate Moderate Severe Severe Large Severe Large Severe
 
- ELL Students Moderate Moderate Large Large Moderate Moderate Large Large Large Large Large Severe
+ELL Students Moderate Moderate Large Large Moderate Moderate Large Large Large Large Large Severe
 
- Special Education Students Modest to None Modest to None Moderate Large Moderate Moderate Moderate Moderate Moderate Large Large Large
+Special Education Students Modest to None Modest to None Moderate Large Moderate Moderate Moderate Moderate Moderate Large Large Large
 
- Female Students Large Moderate Large Large Moderate Large Large Large Large Severe Large Severe
+Female Students Large Moderate Large Large Moderate Large Large Large Large Severe Large Severe
 
- Male Students Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Severe Large Severe 11</div>
+Male Students Moderate Moderate Moderate Moderate Moderate Moderate Large Large Large Severe Large Severe 11</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">ELA And Mathematics
- Rhode Island 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
- Growth/Status Change Legend
- −40 −25 −15 −5 5 20
- NOTE: Quintiles for each student
- −0.55 −0.4 −0.25 −0.1 0.05 0.2
- subgroup are based upon quintile
- Modest
- Calculations suppressed cuts defined for All Students.
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+Rhode Island 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
+Growth/Status Change Legend
+NOTE: Quintiles for each student
+subgroup are based upon quintile
+Modest
+Calculations suppressed cuts defined for All Students.
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
 Non−Economically Disadvantaged
 
- African American Students
+African American Students
 
- Asian Students
+Asian Students
 
- White Students
+White Students
 
- Hispanic Students
+Hispanic Students
 
- ELL Students
+ELL Students
 
- Special Education Students
+Special Education Students
 
- Female Students
+Female Students
 
- Male Students 12</div>
+Male Students 12</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -334,15 +249,15 @@ Non−Economically Disadvantaged
 ```{=html}
 <div class="archive-text">Review of results: RICAS
 • Academic impacts in mathematics were larger than those in ELA,
- though impacts were large in both content areas.
+though impacts were large in both content areas.
 • Academic impacts were larger in middle school grades than
- elementary school grades.
+elementary school grades.
 • Across demographic subgroups, academic impacts were generally
- large to severe.
+large to severe.
 • When impacts for subgroups are small, questions about pre-pandemic
- rates of learning come under suspicion.
+rates of learning come under suspicion.
 
- Pandemic Related Academic Impact in Rhode Island 13</div>
+Pandemic Related Academic Impact in Rhode Island 13</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -350,21 +265,16 @@ Non−Economically Disadvantaged
 ```{=html}
 <div class="archive-text">WIDA ACCESS Composite
 WIDA RI 2020 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
- Growth/Status Change Legend
-−40 −25 −15 −5 5 20
+Growth/Status Change Legend
 
-−0.55 −0.4 −0.25 −0.1 0.05 0.2
+Modest
+Severe Large Moderate to Improvement
+None
 
- Modest
- Severe Large Moderate to Improvement
- None
+Composite
+Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
 
- Composite
- Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
-
- All Students Moderate Moderate Moderate Large Large Large Large Moderate Large Moderate Moderate Modest to None Modest to None
-
- 14</div>
+All Students Moderate Moderate Moderate Large Large Large Large Moderate Large Moderate Moderate Modest to None Modest to None</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -372,23 +282,17 @@ WIDA RI 2020 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
 ```{=html}
 <div class="archive-text">Composite
 WIDA RI 2020 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
- Growth/Status Change Legend
-−40 −25 −15 −5 5 20
+Growth/Status Change Legend
 
-−0.55 −0.4 −0.25 −0.1 0.05 0.2
+Modest
+Severe Large Moderate to Improvement
+None
 
- Modest
- Severe Large Moderate to Improvement
- None
+Composite
+Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- Composite
- Grade 0 Grade 1 Grade 2 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 Grade 12
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
-
- All Students
-
- 15</div>
+All Students</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -397,13 +301,13 @@ WIDA RI 2020 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achiev
 <div class="archive-text">Review of results: WIDA-ACCESS
 • For English Language Learners taking the WIDA-ACCESS English
 • Academic impacts were moderate to large for students in the
- elementary and middle school grades.
+elementary and middle school grades.
 • Academic impacts were modest to none for students in the high
- school grades.
+school grades.
 • These results are fairly consistent with the seven other WIDA states
- we examine.
+we examine.
 
- Pandemic Related Academic Impact in Rhode Island 16</div>
+Pandemic Related Academic Impact in Rhode Island 16</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -411,14 +315,14 @@ WIDA RI 2020 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achiev
 ```{=html}
 <div class="archive-text">RICAS results for larger districts
 • Like with demographic subgroups earlier, we can examine academic
- impact by district.
+impact by district.
 • The following plots show academic impact results for several larger
- districts.
+districts.
 • Given the large size of the academic impact overall, most districts
- experienced large to severe impacts.
+experienced large to severe impacts.
 • There is, however, variability to be seen in the results.
 
- Pandemic Related Academic Impact in Rhode Island 17</div>
+Pandemic Related Academic Impact in Rhode Island 17</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
@@ -426,39 +330,35 @@ WIDA RI 2020 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achiev
 ```{=html}
 <div class="archive-text">RICAS ELA and Mathematics
 Rhode Island 2019 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
- Growth/Status Change Legend
-−40 −25 −15 −5 5 20
+Growth/Status Change Legend
 
-−0.55 −0.4 −0.25 −0.1 0.05 0.2
+Modest
+Calculations suppressed
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- Modest
- Calculations suppressed
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+All Students Moderate Moderate Large Moderate Moderate Large Large Large Large Severe Large Severe
 
- All Students Moderate Moderate Large Moderate Moderate Large Large Large Large Severe Large Severe
+District 01 Moderate Improvement Modest to None Moderate Large Large Moderate Modest to None Moderate Large Moderate Severe
 
- District 01 Moderate Improvement Modest to None Moderate Large Large Moderate Modest to None Moderate Large Moderate Severe
+District 06 Large Modest to None Moderate Moderate Large Severe Moderate Moderate Moderate Severe Large Severe
 
- District 06 Large Modest to None Moderate Moderate Large Severe Moderate Moderate Moderate Severe Large Severe
+District 07 Large Moderate Large Large Moderate Large Severe Severe Severe Severe Large Severe
 
- District 07 Large Moderate Large Large Moderate Large Severe Severe Severe Severe Large Severe
+District 08 Modest to None Moderate Moderate Large Large Severe Large Large Large Severe Severe Severe
 
- District 08 Modest to None Moderate Moderate Large Large Severe Large Large Large Severe Severe Severe
+District 10 Large Moderate Large Large Moderate Large Severe Severe Large Severe Large Severe
 
- District 10 Large Moderate Large Large Moderate Large Severe Severe Large Severe Large Severe
+District 26 Large Modest to None Moderate Large Moderate Large Severe Severe Severe Severe Moderate Severe
 
- District 26 Large Modest to None Moderate Large Moderate Large Severe Severe Severe Severe Moderate Severe
+District 28 Moderate Moderate Large Moderate Moderate Moderate Severe Large Large Large Moderate Severe
 
- District 28 Moderate Moderate Large Moderate Moderate Moderate Severe Large Large Large Moderate Severe
+District 35 Moderate Modest to None Large Large Large Modest to None Large Large Large Severe Severe Large
 
- District 35 Moderate Modest to None Large Large Large Modest to None Large Large Large Severe Severe Large
-
- District 39 Moderate Moderate Moderate Moderate Modest to None Moderate Severe Severe Large Severe Moderate Large
- 18</div>
+District 39 Moderate Moderate Moderate Moderate Modest to None Moderate Severe Severe Large Severe Moderate Large</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -466,40 +366,37 @@ Rhode Island 2019 to 2021 COVID⌧19 Academic Impact Grade &amp; Content Area
 ```{=html}
 <div class="archive-text">ELA And Mathematics
 Rhode Island 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; Achievement Quintile
- Growth/Status Change Legend
-−40 −25 −15 −5 5 20
- NOTE: Quintiles for each student
-−0.55 −0.4 −0.25 −0.1 0.05 0.2
- subgroup are based upon quintile
- Modest
- Calculations suppressed cuts defined for All Students.
- Severe Large Moderate to Improvement
- None due to small group N (&lt; 50)
+Growth/Status Change Legend
+NOTE: Quintiles for each student
+subgroup are based upon quintile
+Modest
+Calculations suppressed cuts defined for All Students.
+Severe Large Moderate to Improvement
+None due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- District 01
+District 01
 
- District 06
+District 06
 
- District 07
+District 07
 
- District 08
+District 08
 
- District 10
+District 10
 
- District 26
+District 26
 
- District 28
+District 28
 
- District 35
+District 35
 
- District 39 19</div>
+District 39 19</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
@@ -508,29 +405,23 @@ Rhode Island 2019 to 2021 COVID⌧19 Academic Impact Grade, Content Area &amp; A
 <div class="archive-text">Baseline SGP: What is Recovery
 
 • Given the negative pandemic impacts, any recovery implies learning
- acceleration.
+acceleration.
 
 • However, not all acceleration can be considered recovery
- 99
- 90
- 80
- V-Shaped Recovery (&gt; 60)
- 70
- 60 U-Shaped Recovery (50 to 60)
+V-Shaped Recovery (&gt; 60)
+60 U-Shaped Recovery (50 to 60)
 
- Median 2021 Baseline SGP 50 Median 2022 Baseline SGP
- L-Shaped “Recovery” (40 to 50)
- 40
+Median 2021 Baseline SGP 50 Median 2022 Baseline SGP
+L-Shaped “Recovery” (40 to 50)
 
- 30 30
- Downward Spiral (&lt; 40)
- Note: Any median SGP above 30
- 20 in 2022 would be considered
- 10 acceleration. But only values
- 1 above 50 would be su cient to
- catch up.
+Downward Spiral (&lt; 40)
+Note: Any median SGP above 30
+20 in 2022 would be considered
+10 acceleration. But only values
+1 above 50 would be su cient to
+catch up.
 
- ffi</div>
+ffi</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}

@@ -14,11 +14,11 @@ format:
 ```{=html}
 <div class="archive-text">Multiple Imputation Approaches to Missing
 Data with 2021 RICAS Data
- Adam Van Iwaarden &amp; Damian Betebenner
- Center for Assessment
+Adam Van Iwaarden &amp; Damian Betebenner
+Center for Assessment
 
- Rhode Island Department of Education
- August 11th, 2021</div>
+Rhode Island Department of Education
+August 11th, 2021</div>
 ```
 
 ::: notes
@@ -32,19 +32,19 @@ Scott
 ```{=html}
 <div class="archive-text">Missing Data and Inferences about School Summaries
 • Suboptimal participation rates on the RICAS have led to concerns about the reporting
- of summary statistics (e.g., percent proficient, median SGP, …) for schools.
+of summary statistics (e.g., percent proficient, median SGP, …) for schools.
 • How would summary statistics at the school look if all (or at least 95%) of the
- students participated.
+students participated.
 • Related to this: Is there a participation rate below which the summary statistics
- cannot be trusted to be representative of all students?
+cannot be trusted to be representative of all students?
 • An answer to either question clearly rests on an understanding of the missing data.
 • Clearly, if the data are missing completely at random, then even a small percentage of
- student testing yields an unbiased estimate of the entire school.
+student testing yields an unbiased estimate of the entire school.
 • Thus, an answer to the 2nd question is not likely to yield a single number without a
- uniform mechanism causing missingness across all schools.
+uniform mechanism causing missingness across all schools.
 • However, number that works in most cases might be possible.
 
- Multiple Imputation Approaches to Missing RICAS Data 2</div>
+Multiple Imputation Approaches to Missing RICAS Data 2</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -52,16 +52,16 @@ Scott
 ```{=html}
 <div class="archive-text">Missing Data and Inferences about School Summaries
 • The simplest brute force approach to understanding what impact
- missing data could have is presented by in the paper where:
- • Missing data are replaced with the LOSS/LOT (lowest obtainable scale score/
- lowest obtainable theta)
- • Missing data re replaced with the HOSS/HOT (highest obtainable scale score/
- highest obtainable theta)
+missing data could have is presented by in the paper where:
+• Missing data are replaced with the LOSS/LOT (lowest obtainable scale score/
+lowest obtainable theta)
+• Missing data re replaced with the HOSS/HOT (highest obtainable scale score/
+highest obtainable theta)
 • Summary statistics for each school can be calculated based upon the
- worst-case and best-case scenario, respectively.
+worst-case and best-case scenario, respectively.
 • Not surprisingly, this approach leads to substantial changes in
- observed values with even modest missing data.
- Multiple Imputation Approaches to Missing RICAS Data 3</div>
+observed values with even modest missing data.
+Multiple Imputation Approaches to Missing RICAS Data 3</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -69,16 +69,16 @@ Scott
 ```{=html}
 <div class="archive-text">Multiple Imputation
 • A more sophisticated approach is to utilize modern approaches to
- characterizing and imputing missing data.
+characterizing and imputing missing data.
 • Multiple imputation is a widely used technique to infer missing data,
- especially in longitudinal studies.
+especially in longitudinal studies.
 • NOTE: Our goal for these techniques is NOT to replace the observed
- data with a “better” estimate.
+data with a “better” estimate.
 • The goal is to calculate the better estimate and its standard error/
- confidence band. If the observed score lies outside of this confidence
- band (at a designated significance level), then the missing data is
- believed to be a biased estimate.
- Multiple Imputation Approaches to Missing RICAS Data 4</div>
+confidence band. If the observed score lies outside of this confidence
+band (at a designated significance level), then the missing data is
+believed to be a biased estimate.
+Multiple Imputation Approaches to Missing RICAS Data 4</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -86,7 +86,7 @@ Scott
 ```{=html}
 <div class="archive-text">Summary of Results: Mean SGP for ELA and Mathematics
 
- Multiple Imputation Approaches to Missing RICAS Data 5</div>
+Multiple Imputation Approaches to Missing RICAS Data 5</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -95,7 +95,7 @@ Scott
 <div class="archive-text">Summary of Results: Mean Scale Score for ELA and
 Mathematics
 
- Multiple Imputation Approaches to Missing RICAS Data 6</div>
+Multiple Imputation Approaches to Missing RICAS Data 6</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -103,7 +103,7 @@ Mathematics
 ```{=html}
 <div class="archive-text">Significance by Percent Missing
 
- Multiple Imputation Approaches to Missing RICAS Data 7</div>
+Multiple Imputation Approaches to Missing RICAS Data 7</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -111,7 +111,7 @@ Mathematics
 ```{=html}
 <div class="archive-text">Investigation of Who’s Missing
 
- Multiple Imputation Approaches to Missing RICAS Data 8</div>
+Multiple Imputation Approaches to Missing RICAS Data 8</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -119,7 +119,7 @@ Mathematics
 ```{=html}
 <div class="archive-text">Investigation of Who’s Missing
 
- Multiple Imputation Approaches to Missing RICAS Data 9</div>
+Multiple Imputation Approaches to Missing RICAS Data 9</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -127,7 +127,7 @@ Mathematics
 ```{=html}
 <div class="archive-text">Investigation of Who’s Missing
 
- Multiple Imputation Approaches to Missing RICAS Data 10</div>
+Multiple Imputation Approaches to Missing RICAS Data 10</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -135,7 +135,7 @@ Mathematics
 ```{=html}
 <div class="archive-text">Investigation of Who’s Missing
 
- Multiple Imputation Approaches to Missing RICAS Data 11</div>
+Multiple Imputation Approaches to Missing RICAS Data 11</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -143,7 +143,7 @@ Mathematics
 ```{=html}
 <div class="archive-text">Investigation of Who’s Missing
 
- Multiple Imputation Approaches to Missing RICAS Data 12</div>
+Multiple Imputation Approaches to Missing RICAS Data 12</div>
 ```
 
 ## About this copy {.archive-about}

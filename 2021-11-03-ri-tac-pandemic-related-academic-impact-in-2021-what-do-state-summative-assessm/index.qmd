@@ -34,16 +34,16 @@ Scott
 ```{=html}
 <div class="archive-text">Conceptualizing Academic Impact
 • The pandemic and all the ensuing disruptions functioned/
- functions as an “academic headwind”, impeding (in general) the
- academic progress of students.
+functions as an “academic headwind”, impeding (in general) the
+academic progress of students.
 • Headwinds impede progress in two ways:
- • They slow one’s rate of progress
- • And by slowing one’s rate of progress they lead to less distance being
- travelled.
+• They slow one’s rate of progress
+• And by slowing one’s rate of progress they lead to less distance being
+travelled.
 • In education these two impediments manifest as:
- • Decrease in student growth.
- • Decrease in student attainment.
- RI Academic Impact Discussion 2021</div>
+• Decrease in student growth.
+• Decrease in student attainment.
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -51,17 +51,17 @@ Scott
 ```{=html}
 <div class="archive-text">RICAS SGP Operational Considerations in 2021
 • Due to no RICAS testing in Spring 2020, RICAS growth analyses will be
- skip-year/gap year growth from 2019 to 2021.
+skip-year/gap year growth from 2019 to 2021.
 • Two types of SGP analyses were conducted for RICAS data:
- • Cohort referenced analyses: These analyses create growth norms from the
- 2019 to 2021 students. These growth norms yield cohort means/median
- SGPs of 50 and obscure COVID-19 academic impact.
- • Baseline referenced analyses: Historical growth norms were created using
- 2019 and prior data. These growth growth analyses don’t have mean/median
- SGPs of 50 and can be used to investigate overall COVID-19 academic impact
+• Cohort referenced analyses: These analyses create growth norms from the
+2019 to 2021 students. These growth norms yield cohort means/median
+SGPs of 50 and obscure COVID-19 academic impact.
+• Baseline referenced analyses: Historical growth norms were created using
+2019 and prior data. These growth growth analyses don’t have mean/median
+SGPs of 50 and can be used to investigate overall COVID-19 academic impact
 • Projections (lagged and straight) were calculated for 2021 data using
- baseline growth norms in case they were needed.
- RI Academic Impact Discussion 2021</div>
+baseline growth norms in case they were needed.
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -69,17 +69,17 @@ Scott
 ```{=html}
 <div class="archive-text">WIDA-ACCESS SGP Operational Considerations in 2021
 • Two types of SGP analyses were conducted for WIDA-ACCESS data:
- • Cohort referenced analyses: These analyses create growth norms from the
- 2020 to 2021 students. These growth norms yield cohort mean/median SGPs
- of 50 and obscure COVID-19 academic impact.
- • Baseline referenced analyses: Historical growth norms were created using
- 2020 and prior data. These growth growth analyses don’t have mean/median
- SGPs of 50 and can be used to investigate overall COVID-19 academic impact.
+• Cohort referenced analyses: These analyses create growth norms from the
+2020 to 2021 students. These growth norms yield cohort mean/median SGPs
+of 50 and obscure COVID-19 academic impact.
+• Baseline referenced analyses: Historical growth norms were created using
+2020 and prior data. These growth growth analyses don’t have mean/median
+SGPs of 50 and can be used to investigate overall COVID-19 academic impact.
 • Use composite score from WIDA-ACCESS data. No analyses performed
- using sub-scores.
+using sub-scores.
 • Projections (lagged and straight) were calculated for 2021 data using
- both cohort and baseline growth norms in case they were needed.
- RI Academic Impact Discussion 2021</div>
+both cohort and baseline growth norms in case they were needed.
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -87,20 +87,20 @@ Scott
 ```{=html}
 <div class="archive-text">SGP Summary of Cohort versus Baseline Referenced
 • Cohort referenced SGPs
- • Growth norms created from the current cohort of students.
- • Mean/median will by 50 for all grade x content area analyses
- • Cannot investigate overall impact of the pandemic on students.
- • Can investigate differential impact of the pandemic on students.
- • Does not require scale stability across years.
+• Growth norms created from the current cohort of students.
+• Mean/median will by 50 for all grade x content area analyses
+• Cannot investigate overall impact of the pandemic on students.
+• Can investigate differential impact of the pandemic on students.
+• Does not require scale stability across years.
 • Baseline referenced SGPs.
- • Growth norms created from historical (i.e., pre-COVID) cohorts of students.
- • Mean/median 50 for historical cohort, not necessarily 50 for current cohort.
- • Extent of deviation from (i.e. below) 50 is indicative of less learning/pandemic related
- academic impact.
- • Mean SGP deviation of 5 corresponds to an effect size of 0.18.
- • Can investigate BOTH overall impact and differential impact
- • Requires scale stability across years.
- RI Academic Impact Discussion 2021</div>
+• Growth norms created from historical (i.e., pre-COVID) cohorts of students.
+• Mean/median 50 for historical cohort, not necessarily 50 for current cohort.
+• Extent of deviation from (i.e. below) 50 is indicative of less learning/pandemic related
+academic impact.
+• Mean SGP deviation of 5 corresponds to an effect size of 0.18.
+• Can investigate BOTH overall impact and differential impact
+• Requires scale stability across years.
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -108,67 +108,40 @@ Scott
 ```{=html}
 <div class="archive-text">SGP Assumptions
 • SGP analyses presume valid scale scores
- • Students forming the growth norm group are presumed to have taken the same (or
- equivalent) test at the same time. Scores have to mean the same thing.
- • SGPs, however, are often used as a post-hoc check of scale score validity/
- comparability via Reductio ad absurdum
- • In 2021, check form comparability and mode-of-administration comparability.
- • RIDE has extensive experience (e.g., PARCC paper/pencil versus online) investigating
- and accommodating mode-effects.
- • If scores are not comparable then we either attempt to make them comparable or
- run separate analyses.
+• Students forming the growth norm group are presumed to have taken the same (or
+equivalent) test at the same time. Scores have to mean the same thing.
+• SGPs, however, are often used as a post-hoc check of scale score validity/
+comparability via Reductio ad absurdum
+• In 2021, check form comparability and mode-of-administration comparability.
+• RIDE has extensive experience (e.g., PARCC paper/pencil versus online) investigating
+and accommodating mode-effects.
+• If scores are not comparable then we either attempt to make them comparable or
+run separate analyses.
 • We assume something close to population invariance with respect to IRT
- scaling.
+scaling.
 • The population of students tested in 2021 and differences to 2019 is a concern
- so we begin with data on the population of students tested.
- RI Academic Impact Discussion 2021</div>
+so we begin with data on the population of students tested.
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">RICAS Participation
- ELA Mathematics
- Grade
- 2019 2021 2019 2021
+ELA Mathematics
+Grade
 
- 3 96.7% (10,532) 90.3% (10,041) 98.0% (10,532) 90.3% (10,041)
-
- 4 96.7% (10,760) 90.4% (10,228) 97.8% (10,760) 90.5% (10,228)
-
- 5 96.6% (11,071) 90.8% (10,408) 97.6% (11,071) 90.6% (10,408)
-
- 6 96.3% (11,203) 85.9% (10,470) 97.4% (11,203) 85.3% (10,470)
-
- 7 95.4% (11,147) 84.3% (10,881) 96.3% (11,147) 83.3% (10,881)
-
- 8 95.3% (11,007) 82.0% (11,102) 96.4% (11,007) 80.9% (11,102)
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">WIDA-ACCESS Participation
- Overall Overall
- Grade Grade
- 2020 2021 2020 2021
+Overall Overall
+Grade Grade
 
- K 99.6% (1,458) 92.6% (1,238) 6 98.8% (1,127) 91.0% (1,060)
-
- 1 99.2% (1,367) 90.2% (1,463) 7 99.6% (1,063) 91.1% (1,129)
-
- 2 98.3% (1,429) 90.6% (1,371) 8 99.0% (960) 90.4% (1,047)
-
- 3 98.9% (1,484) 90.2% (1,384) 9 97.3% (1,240) 85.3% (1,024)
-
- 4 99.5% (1,551) 88.8% (1,370) 10 97.9% (1,071) 83.0% (1,112)
-
- 5 99.4% (1,291) 91.8% (1,280) 11 97.9% (892) 83.2% (919)
-
- 12 97.9% (808) 78.3% (852)
-
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -176,84 +149,51 @@ Scott
 ```{=html}
 <div class="archive-text">SGP Analyses for 2021
 • With comparable results we can quantify pandemic related
- academic impact:
- • At the state level
- • Demographic subgroups including ethnicity, poverty
- • Academic subgroups (special education, low/high achievers)
- • By region/district/school
- • By mode of education (remote/hybrid/in-person).
- • Attendance
- • English Language Learner impact can be evaluated using WIDA-ACCESS
- results.
- RI Academic Impact Discussion 2021</div>
+academic impact:
+• At the state level
+• Demographic subgroups including ethnicity, poverty
+• Academic subgroups (special education, low/high achievers)
+• By region/district/school
+• By mode of education (remote/hybrid/in-person).
+• Attendance
+• English Language Learner impact can be evaluated using WIDA-ACCESS
+results.
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">RICAS Percent Proficient by Grade
- ELA Mathematics
- Grade
- 2019 2021 2019 2021
+ELA Mathematics
+Grade
 
- 3 47.9% (10,188) 40.4% (9,068) 36.1% (10,321) 25.1% (9,065)
-
- 4 37.2% (10,410) 35.5% (9,248) 32.6% (10,520) 20.8% (9,253)
-
- 5 39.1% (10,694) 33.4% (9,448) 30.1% (10,807) 20.3% (9,434)
-
- 6 39.1% (10,792) 32.6% (8,994) 27.9% (10,912) 17.8% (8,936)
-
- 7 31.6% (10,630) 28.7% (9,168) 27.7% (10,735) 20.3% (9,067)
-
- 8 36.3% (10,491) 28.8% (9,109) 24.5% (10,610) 16.0% (8,985)
-
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">RICAS Percent Proficient by Grade
- ELA Mathematics
+ELA Mathematics
 Grade
- 2019 2021 Difference Effect-Size 2019 2021 Difference Effect-Size
+2019 2021 Difference Effect-Size 2019 2021 Difference Effect-Size
 
- 3 47.9% (10,188) 40.4% (9,068) 7.5% -0.2490803 36.1% (10,321) 25.1% (9,065) 11.0% -0.390093
-
- 4 37.2% (10,410) 35.5% (9,248) 2.2% -0.1381891 32.6% (10,520) 20.8% (9,253) 11.8% -0.3795485
-
- 5 39.1% (10,694) 33.4% (9,448) 5.7% -0.1970356 30.1% (10,807) 20.3% (9,434) 9.8% -0.3020973
-
- 6 39.1% (10,792) 32.6% (8,994) 6.5% -0.1932214 27.9% (10,912) 17.8% (8,936) 10.1% -0.3546097
-
- 7 31.6% (10,630) 28.7% (9,168) 2.9% -0.1335923 27.7% (10,735) 20.3% (9,067) 7.4% -0.1932998
-
- 8 36.3% (10,491) 28.8% (9,109) 7.5% -0.1687032 24.5% (10,610) 16.0% (8,985) 8.5% -0.3700976
-
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">RICAS Median/Mean Skip-Year SGPs by Grade
- ELA Mathematics
- Grade
- 2019 2021 2019 2021
+ELA Mathematics
+Grade
 
- 3 NA NA NA NA
+3 NA NA NA NA
 
- 4 NA NA NA NA
+4 NA NA NA NA
 
- 5 50.0/50.0 (9,708) 34.0/37.8 (8.672) 50.0/50.1 (9,833) 28.0/34.9 (8,739)
-
- 6 50.0/50.0 (9,781) 36.0/40.6 (8,277) 50.0/50.1 (9,887) 19.0/27.4 (8,280)
-
- 7 50.0/50.0 (9,557) 38.0/41.4 (8,387) 50.0/50.0 (9,643) 32.0/36.4 (8,344)
-
- 8 50.0/50.0 (9,538) 35.0/39.5 (8,443) 50.0/50.0 (9,622) 22.0/30.0 (8,394)
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -261,44 +201,31 @@ Grade
 ```{=html}
 <div class="archive-text">Discussion
 • Median baseline SGPs in ELA were in the mid 30s and median baseline SGPs in
- mathematics were lower (upper teens to lower 30s).
+mathematics were lower (upper teens to lower 30s).
 • Deviation from normal growth (i.e., 50) represents the extent to which
- academic growth slowed down from 2019 to 2021, that is, academic impact.
+academic growth slowed down from 2019 to 2021, that is, academic impact.
 • Larger academic impact in ELA than mathematics.
 • Academic impact is fairly uniform across grades.
 • Academic impact is very large likely requiring multiple years and additional
- educational supports/interventions to recover.
- • Recovery implies getting back (at a minimum) to where 50th percentile growth would
- have led to.
- • Median/mean growth below 50 must be averaged out with median/mean growth
- above 50 going forward. E.g. A mean two-year SGP of 35 would need to be followed
- by mean two-year SGP of 65 in order to get an average of 50.
- RI Academic Impact Discussion 2021</div>
+educational supports/interventions to recover.
+• Recovery implies getting back (at a minimum) to where 50th percentile growth would
+have led to.
+• Median/mean growth below 50 must be averaged out with median/mean growth
+above 50 going forward. E.g. A mean two-year SGP of 35 would need to be followed
+by mean two-year SGP of 65 in order to get an average of 50.
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">WIDA-ACCESS Median/Mean SGPs by Grade
- Overall Overall
- Grade Grade
- 2020 2021 2020 2021
+Overall Overall
+Grade Grade
 
- K NA NA 6 50.0/50.2 32.0/38.4 (887)
+K NA NA 6 50.0/50.2 32.0/38.4 (887)
 
- 1 50.0/49.6 40.0/41.8 (1,180) 7 50.0/49.6 37.0/40.3 (941)
-
- 2 50.0/49.9 41.0/44.2 (1,120) 8 49.0/49.1 30.0/38.1 (883)
-
- 3 50.0/49.6 32.0/38.5 (1,145) 9 50.0/49.9 40.0/44.1 (741)
-
- 4 50.0/49.9 28.0/35.9 (1,132) 10 47.0/48.1 42.0/43.1 (817)
-
- 5 50.0/50.1 26.0/35.1 (1,094) 11 48.5/48.6 47.0/48.3 (681)
-
- 12 49.5/49.5 46.0/44.2 (601)
-
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -306,35 +233,34 @@ Grade
 ```{=html}
 <div class="archive-text">Discussion of Grade Level Results
 • Median baseline SGPs are low in elementary school grades and
- are close to 50 in the high school grades.
+are close to 50 in the high school grades.
 • Deviation from normal growth (i.e., 50) represents the extent to
- which academic growth slowed down from 2020 to 2021, that is,
- academic impact.
+which academic growth slowed down from 2020 to 2021, that is,
+academic impact.
 • Academic impact is very large in elementary and middle school
- and close to non-existent in high school.
+and close to non-existent in high school.
 • Lack of impact is consistent with:
- • Great academic support for the group during the pandemic.
- • Impoverished learning conditions prior to the pandemic such that the pandemic
- didn’t alter the status quo.
- RI Academic Impact Discussion 2021</div>
+• Great academic support for the group during the pandemic.
+• Impoverished learning conditions prior to the pandemic such that the pandemic
+didn’t alter the status quo.
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">RICAS Median/Mean Skip-Year SGPs by Ethnicity
- ELA Mathematics
- Ethnicity
- 2019 2021 2019 2021
+ELA Mathematics
+Ethnicity
 Am. In./AL Native 44.0/44.3 (259) 29.5/35.2 (218) 43.0/45.3 (263) 18.0/26.2 (221)
- Asian 54.0/53.5 (1,175) 41.0/44.6 (1,081) 56.0/55.0 (1,204) 33.0/39.1 (1,095)
- African American 41.0/43.6 (3,145) 31.0/35.8 (2,890) 42.0/45.1 (3,202) 20.0/27.0 (2,901)
- Hispanic or Lat. 46.0/46.8 (9,875) 31.0/36.2 (9,001) 44.0/46.1 (10,136) 20.0/27.5 (9,116)
+Asian 54.0/53.5 (1,175) 41.0/44.6 (1,081) 56.0/55.0 (1,204) 33.0/39.1 (1,095)
+African American 41.0/43.6 (3,145) 31.0/35.8 (2,890) 42.0/45.1 (3,202) 20.0/27.0 (2,901)
+Hispanic or Lat. 46.0/46.8 (9,875) 31.0/36.2 (9,001) 44.0/46.1 (10,136) 20.0/27.5 (9,116)
 Multiple Ethnicities 47.0/47.8 (1,755) 34.0/37.3 (1,675) 47.0/47.9 (1,763) 23.0/30.6 (1,651)
- Native HI/PI 46.0/46.5 (51) 33.0/35.3 (49) 53.0/50.4 (53) 24.0/30.7 (47)
+Native HI/PI 46.0/46.5 (51) 33.0/35.3 (49) 53.0/50.4 (53) 24.0/30.7 (47)
 No Race reported 47.0/45.9 (8) 28.5/33.4 (132) 46.5/41.7 (6) 14.0/21.3 (128)
- White 53.0/52.4 (22,316) 39.0/42.3 (18,733) 54.0/52.6 (22,358) 29.0/35.2 (18,598)
- RI Academic Impact Discussion 2021</div>
+White 53.0/52.4 (22,316) 39.0/42.3 (18,733) 54.0/52.6 (22,358) 29.0/35.2 (18,598)
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -342,14 +268,14 @@ No Race reported 47.0/45.9 (8) 28.5/33.4 (132) 46.5/41.7 (6) 14.0/21.3 (128)
 ```{=html}
 <div class="archive-text">Discussion of Ethnicity Results
 • Broken out by ethnicity, 2021 baseline SGP results show similar
- rank ordering (i.e., growth gaps) as seen in normal years.
+rank ordering (i.e., growth gaps) as seen in normal years.
 • Student academic growth is lower in mathematics than in ELA
- for all ethnic subgroups.
+for all ethnic subgroups.
 • Even though growth is lower for ethnic minorities, academic
- impacts (growth difference with 2019) are uniform across
- ethnicity subgroups.
+impacts (growth difference with 2019) are uniform across
+ethnicity subgroups.
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
@@ -358,16 +284,15 @@ No Race reported 47.0/45.9 (8) 28.5/33.4 (132) 46.5/41.7 (6) 14.0/21.3 (128)
 <div class="archive-text">RICAS Median/Mean Skip-Year SGPs by Free/Reduced
 Lunch Status
 
- ELA Mathematics
+ELA Mathematics
 Free/Reduced Lunch
- Status
- 2019 2021 2019 2021
+Status
 
- FRL Yes 44.0/45.9 (18,477) 30.0/35.0 (14,479) 45.0/46.4 (18,820) 20.0/27.2 (14,541)
+FRL Yes 44.0/45.9 (18,477) 30.0/35.0 (14,479) 45.0/46.4 (18,820) 20.0/27.2 (14,541)
 
- FRL No 55.0/53.7 (20,107) 41.0/43.4 (19,300) 55.0/53.6 (20,165) 30.0/36.0 (19,216)
+FRL No 55.0/53.7 (20,107) 41.0/43.4 (19,300) 55.0/53.6 (20,165) 30.0/36.0 (19,216)
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -375,11 +300,11 @@ Free/Reduced Lunch
 ```{=html}
 <div class="archive-text">Discussion of Free/Reduced Lunch Results
 • Baseline SGP results show similar growth gaps in 2021 (students
- indicated as receiving free/reduced lunch have lower SGPs than
- students indicated as not receiving free/reduced lunch.
+indicated as receiving free/reduced lunch have lower SGPs than
+students indicated as not receiving free/reduced lunch.
 • Academic impacts are uniform across the subgroups.
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
@@ -387,17 +312,16 @@ Free/Reduced Lunch
 ```{=html}
 <div class="archive-text">RICAS Median/Mean Skip-Year SGPs by IEP Status
 
- ELA Mathematics
- IEP Status
- 2019 2021 2019 2021
+ELA Mathematics
+IEP Status
 
- Non-IEP 51.0/50.9 (31,158) 37.0/40.8 (26,913) 51.0/50.8 (31,552) 25.0/32.3 (26,939)
+Non-IEP 51.0/50.9 (31,158) 37.0/40.8 (26,913) 51.0/50.8 (31,552) 25.0/32.3 (26,939)
 
- IEP 42.0/44.3 (5,398) 29.0/35.0 (4,802) 43.0/45.0 (5,408) 25.0/31.3 (4,780)
+IEP 42.0/44.3 (5,398) 29.0/35.0 (4,802) 43.0/45.0 (5,408) 25.0/31.3 (4,780)
 
 Students with 504 52.0/50.8 (2,028) 35.0/39.2 (2,064) 53.0/52.0 (2,025) 25.0/32.4 (2,038)
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
@@ -405,13 +329,13 @@ Students with 504 52.0/50.8 (2,028) 35.0/39.2 (2,064) 53.0/52.0 (2,025) 25.0/32.
 ```{=html}
 <div class="archive-text">Discussion of IEP Results
 • Baseline SGP results show similar growth gaps in 2021 (students
- indicated as receiving free/reduced lunch have lower SGPs than
- students indicated as not receiving free/reduced lunch.
+indicated as receiving free/reduced lunch have lower SGPs than
+students indicated as not receiving free/reduced lunch.
 • Academic impacts are, in general, uniform across the subgroups:
- • Academic impact for IEP group in mathematics is smaller than the
- other two groups.
+• Academic impact for IEP group in mathematics is smaller than the
+other two groups.
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
@@ -419,15 +343,14 @@ Students with 504 52.0/50.8 (2,028) 35.0/39.2 (2,064) 53.0/52.0 (2,025) 25.0/32.
 ```{=html}
 <div class="archive-text">RICAS Median/Mean Skip-Year SGPs by ELL Status
 
- ELA Mathematics
- ELL Status
- 2019 2021 2019 2021
+ELA Mathematics
+ELL Status
 
- ELL No 51.0/50.3 (36,261) 36.0/40.3 (30,942) 51.0/50.4 (36,249) 25.0/32.5 (30,607)
+ELL No 51.0/50.3 (36,261) 36.0/40.3 (30,942) 51.0/50.4 (36,249) 25.0/32.5 (30,607)
 
- ELL Yes 42.0/44.7 (2,323) 30.0/34.9 (2,837) 43.0/45.5 (2,736) 23.0/28.8 (3,150)
+ELL Yes 42.0/44.7 (2,323) 30.0/34.9 (2,837) 43.0/45.5 (2,736) 23.0/28.8 (3,150)
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
@@ -435,12 +358,12 @@ Students with 504 52.0/50.8 (2,028) 35.0/39.2 (2,064) 53.0/52.0 (2,025) 25.0/32.
 ```{=html}
 <div class="archive-text">Discussion of ELL Results
 • Baseline SGP results show somewhat similar growth gaps for ELA
- subgroups between 2019 and 2021.
+subgroups between 2019 and 2021.
 • The results for both ELA and mathematics show slightly less of
- an impact for ELL students than for their non-ELL counterparts,
- though the difference is practically insignificant.
+an impact for ELL students than for their non-ELL counterparts,
+though the difference is practically insignificant.
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
@@ -448,17 +371,16 @@ Students with 504 52.0/50.8 (2,028) 35.0/39.2 (2,064) 53.0/52.0 (2,025) 25.0/32.
 ```{=html}
 <div class="archive-text">RICAS Median/Mean Skip-Year SGPs by Gender
 
- ELA Mathematics
- Gender
- 2019 2021 2019 2021
+ELA Mathematics
+Gender
 
- Female 54.0/53.0 (18,917) 38.0/41.4 (16,438) 51.0/50.6 (19,137) 25.0/32.5 (16,375)
+Female 54.0/53.0 (18,917) 38.0/41.4 (16,438) 51.0/50.6 (19,137) 25.0/32.5 (16,375)
 
- Male 46.0/47.1 (19,659) 34.0/38.4 (17,167) 49.0/49.5 (19,842) 25.0/32.0 (17,205)
+Male 46.0/47.1 (19,659) 34.0/38.4 (17,167) 49.0/49.5 (19,842) 25.0/32.0 (17,205)
 
- Other --- 32.5/38.1 (42) --- 16.0/18.1 (49)
+Other --- 32.5/38.1 (42) --- 16.0/18.1 (49)
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
@@ -466,14 +388,14 @@ Students with 504 52.0/50.8 (2,028) 35.0/39.2 (2,064) 53.0/52.0 (2,025) 25.0/32.
 ```{=html}
 <div class="archive-text">Discussion of Gender Results
 • Growth gender gaps historically exist (favoring females) in both
- ELA and mathematics.
+ELA and mathematics.
 • Growth gender gaps are historically larger in ELA than
- mathematics.
+mathematics.
 • Gaps are smaller in 2021 between males and females suggesting
- the females might have been slightly more academically
- impacted than males
+the females might have been slightly more academically
+impacted than males
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
@@ -482,7 +404,7 @@ Students with 504 52.0/50.8 (2,028) 35.0/39.2 (2,064) 53.0/52.0 (2,025) 25.0/32.
 <div class="archive-text">RICAS Median/Mean Skip-Year SGPs by Prior Achievement:
 Grade 5 ELA
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
@@ -491,7 +413,7 @@ Grade 5 ELA
 <div class="archive-text">RICAS Median/Mean Skip-Year SGPs by Prior Achievement:
 Grade 6 ELA
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
@@ -500,7 +422,7 @@ Grade 6 ELA
 <div class="archive-text">RICAS Median/Mean Skip-Year SGPs by Prior Achievement:
 Grade 7 ELA
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
@@ -509,7 +431,7 @@ Grade 7 ELA
 <div class="archive-text">RICAS Median/Mean Skip-Year SGPs by Prior Achievement:
 Grade 8 ELA
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
@@ -518,7 +440,7 @@ Grade 8 ELA
 <div class="archive-text">RICAS Median/Mean Skip-Year SGPs by Prior Achievement:
 Grade 5 Mathematics
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
@@ -527,7 +449,7 @@ Grade 5 Mathematics
 <div class="archive-text">RICAS Median/Mean Skip-Year SGPs by Prior Achievement:
 Grade 6 Mathematics
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
@@ -536,7 +458,7 @@ Grade 6 Mathematics
 <div class="archive-text">RICAS Median/Mean Skip-Year SGPs by Prior Achievement:
 Grade 7 Mathematics
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
@@ -545,7 +467,7 @@ Grade 7 Mathematics
 <div class="archive-text">RICAS Median/Mean Skip-Year SGPs by Prior Achievement:
 Grade 8 Mathematics
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
@@ -553,16 +475,16 @@ Grade 8 Mathematics
 ```{=html}
 <div class="archive-text">Discussion of Growth by Prior Achievement Results
 • In some grades and content areas median SGP baselines vary by the
- prior achievement level of students, sometimes substantially.
+prior achievement level of students, sometimes substantially.
 • For example, in Grade 6 ELA lower achieving students had much lower
- baseline SGPs than higher achieving students. This implies that those
- students had much greater academic impact.
+baseline SGPs than higher achieving students. This implies that those
+students had much greater academic impact.
 • In Grade 7 mathematics higher achieving students had lower baseline
- SGPs than lower achieving students implying that higher achieving
- students were more impacted.
+SGPs than lower achieving students implying that higher achieving
+students were more impacted.
 • In general, there is a fairly uniform impact by prior achievement level.
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/35.webp" background-size="contain" background-color="#14140f"}
@@ -570,15 +492,15 @@ Grade 8 Mathematics
 ```{=html}
 <div class="archive-text">Participation Rates and Interpretation
 • An issue impacting the interpretation of growth (and status) results in
- 2021 is participation in the state assessment.
+2021 is participation in the state assessment.
 • Low participation doesn’t impact calculation of cohort referenced
- growth norms nor use of baseline referenced growth norms.
+growth norms nor use of baseline referenced growth norms.
 • Low participation does impact comparisons of group level results with
- historical (e.g., 2019) results based upon higher participation rates.
+historical (e.g., 2019) results based upon higher participation rates.
 • For example, how should one compare growth and status results for
- school in 2019 and 2021 with very different rates of participation.
+school in 2019 and 2021 with very different rates of participation.
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/36.webp" background-size="contain" background-color="#14140f"}
@@ -586,42 +508,28 @@ Grade 8 Mathematics
 ```{=html}
 <div class="archive-text">School Level Results
 • Due to larger fluctuations in participation rates a the school level, growth
- comparisons between 2019 and 2021 must be approached more cautiously.
+comparisons between 2019 and 2021 must be approached more cautiously.
 • In general we have found via multiple imputation that comparisons of status
- and growth results from 2019 to 2021 are defensible.
+and growth results from 2019 to 2021 are defensible.
 • Whether a school’s results support cross-year comparison depends more on
- the size of the school than on the participation rate/enrollment change.
+the size of the school than on the participation rate/enrollment change.
 • The following are academic impact results at the school level:
- • For grades 3 and 4, academic impact was determined via status change analyses.
- • For grades 5, 6, 7, and 8 academic impact was determined via growth change.
- • Summarization across grades within a school was done by averaging ordinal levels of
- impact (Severe 5, Large 4, Moderate 3, Modest to None 2, and Improvement 1)
+• For grades 3 and 4, academic impact was determined via status change analyses.
+• For grades 5, 6, 7, and 8 academic impact was determined via growth change.
+• Summarization across grades within a school was done by averaging ordinal levels of
+impact (Severe 5, Large 4, Moderate 3, Modest to None 2, and Improvement 1)
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/37.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Academic Impact by 2018-2019 Star Rating: ELA/Count
- Severe Large Moderate Modest/None Improvement
+Severe Large Moderate Modest/None Improvement
 
- 6
-
- 27
-
- 37
-
- 6
- 11 6
- 33
- 14
- 2 2
- 6 27 5 6
- 5 3
- 9 10 5 7
- 1 Star 2 Star 3 Star 4 Star 5 Star
- RI Academic Impact Discussion 2021</div>
+1 Star 2 Star 3 Star 4 Star 5 Star
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/38.webp" background-size="contain" background-color="#14140f"}
@@ -629,31 +537,11 @@ Grade 8 Mathematics
 ```{=html}
 <div class="archive-text">Academic Impact by 2018-2019 Star Rating: ELA/
 Percentage
- Severe Large Moderate Modest/None Improvement
+Severe Large Moderate Modest/None Improvement
 
- 5.3
- 11.8 13.6 11.1
- 17.1
+1 Star 2 Star 3 Star 4 Star 5 Star
 
- 23.9
-
- 25 33.3
- 35.3
- 40
-
- 32.7
- 16.7
-
- 14.3
- 61.4
- 52.9
- 29.2 14.3 38.9
-
- 14
- 9
- 1 Star 2 Star 3 Star 4 Star 5 Star
-
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/39.webp" background-size="contain" background-color="#14140f"}
@@ -662,27 +550,12 @@ Percentage
 <div class="archive-text">Academic Impact by 2018-2019 Star Rating: Mathematics/
 Count
 
- Severe Large
- Chart Title
- Moderate Modest/None Improvement
+Severe Large
+Chart Title
+Moderate Modest/None Improvement
 
- 3
- 4
-
- 16
-
- 50
-
- 4
- 4
- 17
- 9
- 1 40 6 4
- 8 23 10 7
- 2
- 7 6 5
- 1 Star 2 Star 3 Star 4 Star 5 Star
- RI Academic Impact Discussion 2021</div>
+1 Star 2 Star 3 Star 4 Star 5 Star
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/40.webp" background-size="contain" background-color="#14140f"}
@@ -691,30 +564,12 @@ Count
 <div class="archive-text">Academic Impact by 2018-2019 Star Rating: Mathematics/
 Percentage
 
- Severe Large
- Chart Title
- Moderate Modest/None Improvement
+Severe Large
+Chart Title
+Moderate Modest/None Improvement
 
- 3
- 5.9 9.1 3.5
- 5.9 11
- 14.2 22.2
-
- 25.7
- 38.6
- 47.1
- 44.2 38.9
- 17.1
-
- 28.6 11.1
- 52.3
- 41.2
- 35.4
- 27.8
- 17.1
-
- 1 Star 2 Star 3 Star 4 Star 5 Star
- RI Academic Impact Discussion 2021</div>
+1 Star 2 Star 3 Star 4 Star 5 Star
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/41.webp" background-size="contain" background-color="#14140f"}
@@ -722,16 +577,16 @@ Percentage
 ```{=html}
 <div class="archive-text">SGP Analysis Plans post 2021 (2022 and beyond)
 • Spring 2021 represents an ideal time to get a snapshot of student
- attainment as we are hopefully/presumably at or near the point
- of maximal impact on student attainment.
+attainment as we are hopefully/presumably at or near the point
+of maximal impact on student attainment.
 • That is, recovery has not really begun for most students in
- earnest.
+earnest.
 • It’s impossible to talk about recovery sensibly without
- understanding how big the impact is.
+understanding how big the impact is.
 • Monitoring recovery will be at least as critical as monitoring the impact of
- the pandemic on student achievement.
+the pandemic on student achievement.
 • Beware the K-shaped recovery!
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/42.webp" background-size="contain" background-color="#14140f"}
@@ -739,18 +594,18 @@ Percentage
 ```{=html}
 <div class="archive-text">Summary of Findings
 • Academic impact analyses were successfully conducted for both RICAS and
- WIDA-ACCESS.
+WIDA-ACCESS.
 • Results of the analyses suggest large academic impacts on students due to
- the pandemic.
+the pandemic.
 • Results are larger in math and in ELA
 • Results are uniformly large across most demographic subgroups.
 • Results show variation across academic subgroups (e.g., high versus low
- achievers in some content areas).
+achievers in some content areas).
 • Academic impact varied greatly by schools and also varied by 2018-2019 STAR
- Rating.
+Rating.
 • Recovery from impacts this large will likely take multiple years and require
- additional supports beyond that provided by normal schooling.
- RI Academic Impact Discussion 2021</div>
+additional supports beyond that provided by normal schooling.
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/43.webp" background-size="contain" background-color="#14140f"}
@@ -758,7 +613,7 @@ Percentage
 ```{=html}
 <div class="archive-text">SGP Goodness of Fit Plots: RICAS ELA
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/44.webp" background-size="contain" background-color="#14140f"}
@@ -766,7 +621,7 @@ Percentage
 ```{=html}
 <div class="archive-text">SGP Goodness of Fit Plots: RICAS ELA
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/45.webp" background-size="contain" background-color="#14140f"}
@@ -774,7 +629,7 @@ Percentage
 ```{=html}
 <div class="archive-text">SGP Goodness of Fit Plots: RICAS Mathematics
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## {.archive-slide background-image="slides/46.webp" background-size="contain" background-color="#14140f"}
@@ -782,7 +637,7 @@ Percentage
 ```{=html}
 <div class="archive-text">SGP Goodness of Fit Plots: RICAS Mathematics
 
- RI Academic Impact Discussion 2021</div>
+RI Academic Impact Discussion 2021</div>
 ```
 
 ## About this copy {.archive-about}

@@ -13,7 +13,7 @@ format:
 
 ```{=html}
 <div class="archive-text">COVID-19 Academic Impact
- Analysis</div>
+Analysis</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -34,79 +34,79 @@ Agenda
 
 ```{=html}
 <div class="archive-text">Summary of Findings: Three Major
- Takeaways
+Takeaways
 How Much - To what extent were students impacted
 academically by the COVID-19 pandemic?
 • The academic impacts of the pandemic were substantial, ranging from
- moderate to very large.
+moderate to very large.
 • 2021 ILEARN data indicates substantial academic impact across grades 3
- to 8 in both ELA and Mathematics.
+to 8 in both ELA and Mathematics.
 • 2021 WIDA-ACCESS data confirms large academic impacts for most
- English Language Learners.
+English Language Learners.
 • In the isolated contexts where modest to no impacts were observed,
- questions about the efficacy of education pre-COVID are a concern.</div>
+questions about the efficacy of education pre-COVID are a concern.</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Summary of Findings: Three Major
- Takeaways
+Takeaways
 In What - In which content areas were students
 academically impacted?
 • ILEARN Indiana students experienced large to very large academic
- impacts in math and moderate to large academic impacts in English
- Language Arts.
+impacts in math and moderate to large academic impacts in English
+Language Arts.
 • WIDA-ACCESS Most Indiana English Language Learners
- experienced large to very large academic impacts in English
- Language Proficiency.</div>
+experienced large to very large academic impacts in English
+Language Proficiency.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Summary of Findings: Three Major
- Takeaways
+Takeaways
 Who - Which demographic/academic student groups
 experienced academic impact?
 • In Grades 3 to 8, academic impacts were of comparable size within content area.
 • Student demographic subgroups (e.g., ethnicity) experienced comparable impact
- by grade and content area.
+by grade and content area.
 • Student academic subgroups experienced different amounts of academic impact.
- English Language Learners experienced different amounts of impact depending
- upon grade.
+English Language Learners experienced different amounts of impact depending
+upon grade.
 • Corporation and school impacts were highly variable with most corporations and
- schools experiencing substantial academic impacts.</div>
+schools experiencing substantial academic impacts.</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Academic Impact &amp; Recovery Time
- How Much? Size of impact is commensurate
- with length of recovery &amp; academic support
- • Recovery is defined as getting back to where students or
- groups of students would be under normal learning
- conditions.
- • Recovery does not imply getting back to proficiency.
- Getting to proficiency would be a higher bar than recovery
- for pre-pandemic, non-proficient students to meet.</div>
+How Much? Size of impact is commensurate
+with length of recovery &amp; academic support
+• Recovery is defined as getting back to where students or
+groups of students would be under normal learning
+conditions.
+• Recovery does not imply getting back to proficiency.
+Getting to proficiency would be a higher bar than recovery
+for pre-pandemic, non-proficient students to meet.</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Academic Impact &amp; Recovery Time
- How Much? Three Categories
- • “Large” academic impact implies academic recovery exceeding one-
- year and likely requiring supplemental academic support.
+How Much? Three Categories
+• “Large” academic impact implies academic recovery exceeding one-
+year and likely requiring supplemental academic support.
 
- • “Moderate” academic impact implies academic recovery of up to one-
- year and likely requiring some supplemental academic support.
+• “Moderate” academic impact implies academic recovery of up to one-
+year and likely requiring some supplemental academic support.
 
- • “Modest or no” academic impact implies little deviation from what
- was observed historically. Caution in interpreting this group should
- be exercised (discussed later).</div>
+• “Modest or no” academic impact implies little deviation from what
+was observed historically. Caution in interpreting this group should
+be exercised (discussed later).</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -115,57 +115,57 @@ experienced academic impact?
 <div class="archive-text">Data Sources
 Three sources of data used to assess academic impact:
 • ILEARN: ELA and Mathematics using both student academic growth and
- student attainment.
+student attainment.
 • WIDA-ACCESS: English Language Proficiency exam using both
- academic growth and student attainment.
+academic growth and student attainment.
 • NWEA-MAP: ELA and Mathematics assessments with less recent data
- for Fall 2020 and Winter 2021 (Grades 1 to 10)
+for Fall 2020 and Winter 2021 (Grades 1 to 10)
 • Currently no data for high school students or student data in other content
- areas.</div>
+areas.</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">ILEARN Academic Impact Results
- Academic Impact
- Grade
- ELA Mathematics
+Academic Impact
+Grade
+ELA Mathematics
 
- 3 Moderate/Large Large
+3 Moderate/Large Large
 
- 4 Moderate/Large Large
+4 Moderate/Large Large
 
- 5 Moderate/Large Large
+5 Moderate/Large Large
 
- 6 Moderate/Large Large
+6 Moderate/Large Large
 
- 7 Moderate/Large Large
+7 Moderate/Large Large
 
- 8 Moderate/Large Large</div>
+8 Moderate/Large Large</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">ILEARN Academic Impact Results
- Academic Impact
- Ethnicity
- ELA Mathematics
+Academic Impact
+Ethnicity
+ELA Mathematics
 
- American Indian Moderate/Large Large
+American Indian Moderate/Large Large
 
- Asian Large Large
+Asian Large Large
 
- Black Large Large
+Black Large Large
 
- Hispanic Large Large
+Hispanic Large Large
 
- Multiracial Moderate/Large Large
+Multiracial Moderate/Large Large
 
- Native Hawaiian or PI Moderate/Large Large
+Native Hawaiian or PI Moderate/Large Large
 
- White Moderate/Large Large</div>
+White Moderate/Large Large</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -173,14 +173,14 @@ Three sources of data used to assess academic impact:
 ```{=html}
 <div class="archive-text">ILEARN Academic Impact Results
 
- Academic Impact
- English Learner
- Status ELA Mathematics
+Academic Impact
+English Learner
+Status ELA Mathematics
 
- English Learner Large Large
- Not an English
- Moderate/Large Large
- Learner</div>
+English Learner Large Large
+Not an English
+Moderate/Large Large
+Learner</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -188,13 +188,13 @@ Three sources of data used to assess academic impact:
 ```{=html}
 <div class="archive-text">ILEARN Academic Impact Results
 
- Academic Impact
- Special Education
- Status ELA Mathematics
+Academic Impact
+Special Education
+Status ELA Mathematics
 
- General Education Moderate/Large Large
+General Education Moderate/Large Large
 
- Special Education Moderate/Large Moderate</div>
+Special Education Moderate/Large Moderate</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
@@ -202,13 +202,13 @@ Three sources of data used to assess academic impact:
 ```{=html}
 <div class="archive-text">ILEARN Academic Impact Results
 
- Academic Impact
- Gender
- ELA Mathematics
+Academic Impact
+Gender
+ELA Mathematics
 
- Female Moderate/Large Large
+Female Moderate/Large Large
 
- Male Moderate/Large Large</div>
+Male Moderate/Large Large</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -216,42 +216,42 @@ Three sources of data used to assess academic impact:
 ```{=html}
 <div class="archive-text">ILEARN Academic Impact Results
 
- Academic Impact
- Socio-economic
- Status ELA Mathematics
+Academic Impact
+Socio-economic
+Status ELA Mathematics
 
- No Free/Reduced
- Moderate/Large Large
- Price Lunch
- Free/Reduced Price
- Large Large
- Lunch</div>
+No Free/Reduced
+Moderate/Large Large
+Price Lunch
+Free/Reduced Price
+Large Large
+Lunch</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">WIDA-ACCESS Academic Impact Results
- Academic Impact
- Grade
- Composite
- 1 Large
- 2 Large
- 3 Large
- 4 Large
- 5 Moderate
- 6 Moderate/Large
- 7 Moderate
+Academic Impact
+Grade
+Composite
+1 Large
+2 Large
+3 Large
+4 Large
+5 Moderate
+6 Moderate/Large
+7 Moderate
 
- 8 Moderate
+8 Moderate
 
- 9 Modest or none
+9 Modest or none
 
- 10 Modest or none
+10 Modest or none
 
- 11 Modest or none
+11 Modest or none
 
- 12 Modest or none</div>
+12 Modest or none</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -260,13 +260,13 @@ Three sources of data used to assess academic impact:
 <div class="archive-text">Specific Areas of Concern
 Type 1: Issues due to COVID-19
 • Academic impact in mathematics is consistently large and across all
- grades.
+grades.
 • Academic impacts in ELA, though not as large as math, are
- considerable.
+considerable.
 • These impacts likely extending across all K-12 grades and to other
- content areas.
+content areas.
 • Rates of learning required for recovery are unprecedented at the
- scale required.</div>
+scale required.</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -275,13 +275,13 @@ Type 1: Issues due to COVID-19
 <div class="archive-text">Specific Areas of Concern
 Type 2: Pre-existing issues identified due to COVID
 • There are some large groups of students demonstrating little to no
- academic impact.
+academic impact.
 • Little to no academic impact for large groups likely brings to light
- ineffectual pre-pandemic performance.
- • High school WIDA-ACCESS growth shows no decline during
- the pandemic.
- • Lowest achievers in some grades and content areas showed
- very little decline during the pandemic.</div>
+ineffectual pre-pandemic performance.
+• High school WIDA-ACCESS growth shows no decline during
+the pandemic.
+• Lowest achievers in some grades and content areas showed
+very little decline during the pandemic.</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
@@ -290,12 +290,12 @@ Type 2: Pre-existing issues identified due to COVID
 <div class="archive-text">IDOE Response &amp; Action Plan
 Multi-Year Recovery Effort
 • Roles &amp; Responsibilities of IDOE staff
- • Supports
- • Interventions
+• Supports
+• Interventions
 
 • Summary of Action Plan
- • What currently exists?
- • What needs to be created?</div>
+• What currently exists?
+• What needs to be created?</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
@@ -310,23 +310,10 @@ Multi-Year Recovery Effort
 <div class="archive-text">Appendix: Detailed Results
 ILEARN 2019 to 2021: Grade by Content Area
 Attainment - Percent Proficient
- ELA Mathematics
- Grade
- Percent Percent Difference Percent Percent Difference
- Proficient Proficient 2019 to Proficient Proficient 2019 to
- 2019 2021 2021 2019 2021 2021
-
-3 46.3% 38.7% -7.6% 58.7% 48.7% -10.0%
-
-4 45.8% 39.6% -6.2% 54.0% 43.7% -10.3%
-
-5 47.5% 39.5% -8.0% 47.8% 38.6% -9.2%
-
-6 47.8% 39.9% -7.9% 46.4% 33.0% -13.4%
-
-7 49.7% 41.1% -8.6% 42.0% 30.5% -11.5%
-
-8 50.7% 43.9% -6.8% 38.0% 27.8% -10.2%</div>
+ELA Mathematics
+Grade
+Percent Percent Difference Percent Percent Difference
+Proficient Proficient 2019 to Proficient Proficient 2019 to</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
@@ -335,23 +322,10 @@ Attainment - Percent Proficient
 <div class="archive-text">Appendix: Detailed Results
 ILEARN: 2019 to 2021: Grade by Content Area
 Growth - Median SGP
- ELA Mathematics
- Grade
- Median Median Difference Median Median Difference
- SGP SGP 2019 to SGP SGP 2019 to
- 2019 2021 2021 2019 2021 2021
-
-3 --- --- --- --- --- ---
-
-4 --- --- --- --- --- ---
-
-5 50 39 -11 50 31 -19
-
-6 50 39 -11 50 28 -22
-
-7 50 39 -11 50 32 -18
-
-8 50 40 -10 50 32 -18</div>
+ELA Mathematics
+Grade
+Median Median Difference Median Median Difference
+SGP SGP 2019 to SGP SGP 2019 to</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
@@ -360,11 +334,10 @@ Growth - Median SGP
 <div class="archive-text">Appendix: Detailed Results
 ILEARN 2019 to 2021: Ethnicity by Content Area
 Attainment - Percent Proficient
- ELA Mathematics
- Ethnicity
- Percent Percent Difference Percent Percent Difference
- Proficient Proficient 2019 to Proficient Proficient 2019 to
- 2019 2021 2021 2019 2021 2021
+ELA Mathematics
+Ethnicity
+Percent Percent Difference Percent Percent Difference
+Proficient Proficient 2019 to Proficient Proficient 2019 to
 
 American 44% 37.3% -6.7% 42.9% 31.3% -11.6%
 Indian
@@ -390,11 +363,10 @@ White 54.2% 47.1% -7.1% 54.6% 44.4% -12.2%</div>
 <div class="archive-text">Appendix: Detailed Results
 ILEARN 2019 to 2021: Ethnicity by Content Area
 Growth - Median SGP
- ELA Mathematics
- Ethnicity
- Median Median Difference Median Median Difference
- SGP SGP 2019 to SGP SGP 2019 to
- 2019 2021 2021 2019 2021 2021
+ELA Mathematics
+Ethnicity
+Median Median Difference Median Median Difference
+SGP SGP 2019 to SGP SGP 2019 to
 
 American 49.5 40.0 -9.5 49.0 30.0 -19.0
 Indian
@@ -421,11 +393,10 @@ White 51.0 41.0 -10.0 51.0 33.0 -18.0</div>
 
 ILEARN 2019 to 2021: Free/Reduced Lunch Status by Content Area
 Attainment - Percent Proficient
- ELA Mathematics
+ELA Mathematics
 Socio-
 Economic Percent Percent Difference Percent Percent Difference
 Status Proficient Proficient 2019 to Proficient Proficient 2019 to
- 2019 2021 2021 2019 2021 2021
 
 Paid Lunch 61.9% 54.0% -7.9% 61.7% 50.9% -10.8%
 
@@ -442,11 +413,10 @@ Lunch</div>
 
 ILEARN 2019 to 2021: Free/Reduced Lunch Status by Content Area
 Growth - Median SGP
- ELA Mathematics
+ELA Mathematics
 Socio-
 Economic Median Median Difference Median Median Difference
 Status SGP SGP 2019 to SGP SGP 2019 to
- 2019 2021 2021 2019 2021 2021
 
 Paid Lunch 54 45 -9 54 35 -19
 
@@ -463,11 +433,10 @@ Lunch</div>
 
 ILEARN 2019 to 2021: Special Education Status by Content Area
 Attainment - Percent Proficient
- ELA Mathematics
+ELA Mathematics
 Special
 Education Percent Percent Difference Percent Percent Difference
 Status Proficient Proficient 2019 to Proficient Proficient 2019 to
- 2019 2021 2021 2019 2021 2021
 
 General 53.8% 45.6% -8.2% 53.1% 41.1% -12.0%
 Education
@@ -483,11 +452,10 @@ Education</div>
 
 ILEARN 2019 to 2021: Special Education Status by Content Area
 Growth - Median SGP
- ELA Mathematics
+ELA Mathematics
 Special
 Education Median Median Difference Median Median Difference
 Status SGP SGP 2019 to SGP SGP 2019 to
- 2019 2021 2021 2019 2021 2021
 
 General 52.0 41.0 -11.0 52.0 31.0 -21.0
 Education
@@ -503,11 +471,10 @@ Education</div>
 
 ILEARN 2019 to 2021: English Learner Status by Content Area
 Attainment - Percent Proficient
- ELA Mathematics
+ELA Mathematics
 English
 Learner Percent Percent Difference Percent Percent Difference
 Status Proficient Proficient 2019 to Proficient Proficient 2019 to
- 2019 2021 2021 2019 2021 2021
 
 English 16.3% 11.7% -4.6% 23.2% 14.2% -9.0%
 Learner
@@ -524,11 +491,10 @@ Learner</div>
 
 ILEARN 2019 to 2021: English Learner Status by Content Area
 Growth - Median SGP
- ELA Mathematics
+ELA Mathematics
 English
 Learner Median Median Difference Median Median Difference
 Status SGP SGP 2019 to SGP SGP 2019 to
- 2019 2021 2021 2019 2021 2021
 
 English 49.0 35.0 -14.0 49.0 30.0 -19.0
 Learner
@@ -545,11 +511,10 @@ Learner</div>
 
 ILEARN 2019 to 2021: Gender by Content Area
 Attainment - Percent Proficient
- ELA Mathematics
+ELA Mathematics
 Gender
- Percent Percent Difference Percent Percent Difference
- Proficient Proficient 2019 to Proficient Proficient 2019 to
- 2019 2021 2021 2019 2021 2021
+Percent Percent Difference Percent Percent Difference
+Proficient Proficient 2019 to Proficient Proficient 2019 to
 
 Female 52.9% 44.8% -8.1% 47.2% 35.0% -12.2%
 
@@ -563,11 +528,10 @@ Male 43.2% 36.3% -6.9% 48.4% 38.8% -9.6%</div>
 
 ILEARN 2019 to 2021: Gender by Content Area
 Growth - Median SGP
- ELA Mathematics
+ELA Mathematics
 Gender
- Median Median Difference Median Median Difference
- SGP SGP 2019 to SGP SGP 2019 to
- 2019 2021 2021 2019 2021 2021
+Median Median Difference Median Median Difference
+SGP SGP 2019 to SGP SGP 2019 to
 
 Female 52 42 -10 53 31 -22
 

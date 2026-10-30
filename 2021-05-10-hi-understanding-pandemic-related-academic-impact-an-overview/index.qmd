@@ -14,11 +14,11 @@ format:
 ```{=html}
 <div class="archive-text">Understanding Pandemic Related Academic
 Impact: An Overview
- Damian Betebenner &amp; Adam Van Iwaarden
- Center for Assessment
+Damian Betebenner &amp; Adam Van Iwaarden
+Center for Assessment
 
- Prepared for the Hawaii DOE
- May 10, 2021</div>
+Prepared for the Hawaii DOE
+May 10, 2021</div>
 ```
 
 ::: notes
@@ -34,15 +34,15 @@ Scott
 Secondary School Emergency Relief Fund
 • Describing the State’s Current Status and Needs (p. 4)
 • #3: “Identifying Needs of Underserved Students: Describe your State’s
- 2-3 highest priority academic, social, emotional, and/or mental
- health needs for the remainder of the 2020-2021 school year (if
- applicable) and for the 2021-2022 school year related to the impact
- of the COVID-19 pandemic on each of the following student groups:”
+2-3 highest priority academic, social, emotional, and/or mental
+health needs for the remainder of the 2020-2021 school year (if
+applicable) and for the 2021-2022 school year related to the impact
+of the COVID-19 pandemic on each of the following student groups:”
 • “To the extent possible, this description should include data on
- indicators such as estimates of the academic impact of lost
- instructional time (i.e., “learning loss”) chronic absenteeism, student
- engagement, and social-emotional well-being.”
- Understanding Pandemic Related Academic Impact</div>
+indicators such as estimates of the academic impact of lost
+instructional time (i.e., “learning loss”) chronic absenteeism, student
+engagement, and social-emotional well-being.”
+Understanding Pandemic Related Academic Impact</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -50,18 +50,18 @@ Secondary School Emergency Relief Fund
 ```{=html}
 <div class="archive-text">Understanding pandemic related academic impact
 • With the data Hawaii has from its state assessments, they are well
- positioned to investigate and address the academic impact of COVID-19.
+positioned to investigate and address the academic impact of COVID-19.
 • We are currently working with several states (including Hawaii, AZ, MA,
- RI, GA, CO) to support inferences from state assessments about the
- academic impact of the pandemic on students.
+RI, GA, CO) to support inferences from state assessments about the
+academic impact of the pandemic on students.
 • Indiana, for example, passed legislation was passed requiring the DOE
- to produce annual reports that include analyses regarding pandemic
- related academic impact and recovery.
+to produce annual reports that include analyses regarding pandemic
+related academic impact and recovery.
 • Their ESSER state plan response details the learning loss report as
- evidence of compliance.
+evidence of compliance.
 • A focal point of Center work over the last 6 months is to support such
- inferences.
- Understanding Pandemic Related Academic Impact</div>
+inferences.
+Understanding Pandemic Related Academic Impact</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -69,17 +69,17 @@ Secondary School Emergency Relief Fund
 ```{=html}
 <div class="archive-text">Understanding pandemic related academic impact
 • Hawaii is well positioned with it current assessments (SBAC and ACCESS) to
- derive academic impact data from those assessments.
+derive academic impact data from those assessments.
 • See the attached learning loss paper for more details.
 • For example, Indiana will use its state summative test (ILEARN) and WIDA-
- ACCESS results to determine academic impact.
+ACCESS results to determine academic impact.
 • The question is not so much how or if but whether Hawaii wants to pursue
- that direction.
+that direction.
 • Potential Problems:
- • Low participation rates (&lt; 50%) might cause issues with infernces.
- • Leadership not wanting to report/emphasize academic impact
- • Public reporting of data won’t align with academic impact use.
- Understanding Pandemic Related Academic Impact</div>
+• Low participation rates (&lt; 50%) might cause issues with infernces.
+• Leadership not wanting to report/emphasize academic impact
+• Public reporting of data won’t align with academic impact use.
+Understanding Pandemic Related Academic Impact</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -87,7 +87,7 @@ Secondary School Emergency Relief Fund
 ```{=html}
 <div class="archive-text">Questions
 
- Understanding Pandemic Related Academic Impact</div>
+Understanding Pandemic Related Academic Impact</div>
 ```
 
 ## About this copy {.archive-about}

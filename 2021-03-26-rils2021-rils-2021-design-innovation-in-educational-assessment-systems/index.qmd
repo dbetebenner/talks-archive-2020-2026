@@ -20,21 +20,21 @@ The National Center for the Improvement of Educational Assessment
 
 September 2021
 
- This work is licensed under a
- Creative Commons Attribution 4.0
- International License.</div>
+This work is licensed under a
+Creative Commons Attribution 4.0
+International License.</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Welcome to RILS 2021
- Executive Director Scott Marion of the
- National Center for the Improvement of Educational
- Assessment
- introduces participant to RILS 2021
+Executive Director Scott Marion of the
+National Center for the Improvement of Educational
+Assessment
+introduces participant to RILS 2021
 
- RILS 2021: Innovation in Educational Assessment Systems 2</div>
+RILS 2021: Innovation in Educational Assessment Systems 2</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -43,22 +43,22 @@ September 2021
 <div class="archive-text">Introduction to RILS
 • Identify overall focus for RILS 2021 and intended outcomes
 • Introduce structure of the five sessions including focus and
- outcomes for each session
+outcomes for each session
 • Explain that each session stands alone but they are intended
- to support a larger agenda
+to support a larger agenda
 
- RILS 2021: Innovation in Educational Assessment Systems 3</div>
+RILS 2021: Innovation in Educational Assessment Systems 3</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Welcome to RILS 2021: Session 1
- Session 1: Introduction to Design Innovation
- Design &amp; Innovation in the creation of education
- assessment systems
+Session 1: Introduction to Design Innovation
+Design &amp; Innovation in the creation of education
+assessment systems
 
- RILS 2021: Innovation in Educational Assessment Systems 4</div>
+RILS 2021: Innovation in Educational Assessment Systems 4</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -66,18 +66,18 @@ September 2021
 ```{=html}
 <div class="archive-text">Why focus on Innovation in an Assessment Systems?
 • Assessment systems are often seen as burdensome and of little use by
- stakeholders.
+stakeholders.
 • Assessment is considered an essential lynchpin for effective education.
 • Social and economic pressures to raise student educational attainment
 • Ensure greater equity of educational outcomes for all students
 • Assessment is essential component to effectively educating students
 • Assessment (it is believed) has not yet fulfilled its promise
- • Rapidly advancing technologies can allow for use of simulations, interactivity, and
- collaboration
- • Need to motivate and engage students
- • Signal changes for curriculum and instruction, such as inclusion of 21st century skills
+• Rapidly advancing technologies can allow for use of simulations, interactivity, and
+collaboration
+• Need to motivate and engage students
+• Signal changes for curriculum and instruction, such as inclusion of 21st century skills
 
- RILS 2021: Innovation in Educational Assessment Systems 5</div>
+RILS 2021: Innovation in Educational Assessment Systems 5</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -89,12 +89,12 @@ these words…
 
 Poll Everywhere (??) Structure TBD
 • Identify the first 3 words that you associate with the word:
- Innovation.
+Innovation.
 • Identify the first 3 words that you associate with the word:
- Design.
+Design.
 • Do they mean the same thing?
 • How are the two related?
- RILS 2021: Innovation in Educational Assessment Systems 6</div>
+RILS 2021: Innovation in Educational Assessment Systems 6</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -104,13 +104,13 @@ Poll Everywhere (??) Structure TBD
 Innovation: Make changes in something established, especially by
 introducing new methods, ideas, or products.
 
- Is making
- changes
- enough to
- be
- innovative?
+Is making
+changes
+enough to
+be
+innovative?
 
- RILS 2021: Innovation in Educational Assessment Systems 7</div>
+RILS 2021: Innovation in Educational Assessment Systems 7</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -122,12 +122,12 @@ Design: A plan for arranging elements in such a way as
 best to accomplish a particular purpose that achieves value
 for all stakeholders.
 
- Is making
- changes How is value
- enough to be determined?
- innovative?
+Is making
+changes How is value
+enough to be determined?
+innovative?
 
- RILS 2021: Innovation in Educational Assessment Systems 8</div>
+RILS 2021: Innovation in Educational Assessment Systems 8</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -140,32 +140,32 @@ other important stakeholders at the center of the design, innovation,
 and implementation process by encouraging different perspectives
 and approaches in viewing and solving problems.
 
- Is making How do you
- changes How is value plan for
- enough to be determined? design
- innovative? innovation?
+Is making How do you
+changes How is value plan for
+enough to be determined? design
+innovative? innovation?
 
- RILS 2021: Innovation in Educational Assessment Systems 9</div>
+RILS 2021: Innovation in Educational Assessment Systems 9</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Design Innovation
- Innovation includes:
- Desirability - the quality of being
- wanted;
- Feasibility - the possibility, capability, or
- likelihood of something being done or
- accomplished, and viability; and
- Viability – ability to work as intended
- and succeed.
+Innovation includes:
+Desirability - the quality of being
+wanted;
+Feasibility - the possibility, capability, or
+likelihood of something being done or
+accomplished, and viability; and
+Viability – ability to work as intended
+and succeed.
 
- In other words, Design innovation is a
- process that leads to innovation.
+In other words, Design innovation is a
+process that leads to innovation.
 
- There is no one process for innovating.
- RILS 2021: Innovation in Educational Assessment Systems 10</div>
+There is no one process for innovating.
+RILS 2021: Innovation in Educational Assessment Systems 10</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -178,34 +178,34 @@ What does this mean?
 First, we need to be sure we have a common understanding of
 what constitutes an assessment system
 
- Definition of an assessment system:
- Scott
+Definition of an assessment system:
+Scott
 
- RILS 2021: Innovation in Educational Assessment Systems 11</div>
+RILS 2021: Innovation in Educational Assessment Systems 11</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Model for Design Innovation:
- Human Centered Design
+Human Centered Design
 
- RILS 2021: Innovation in Educational Assessment Systems 12</div>
+RILS 2021: Innovation in Educational Assessment Systems 12</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Design Innovation: Human Centered Design
- Planning: Understand opportunity area, organizational capacity,
- and feasibility.
+Planning: Understand opportunity area, organizational capacity,
+and feasibility.
 Why engage in Design Innovation for an assessment system?
 • What are you trying to accomplish?
 • How is this change valued by those who use the end product?
 • How will you know that a change is an improvement?
 • What change can be made that will result in improvement?
 
- RILS 2021: Innovation in Educational Assessment Systems 13</div>
+RILS 2021: Innovation in Educational Assessment Systems 13</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -213,23 +213,23 @@ Why engage in Design Innovation for an assessment system?
 ```{=html}
 <div class="archive-text">Closure – Session 1
 • Takeaways from session:
- • What is innovation?
- • What is design thinking and design innovation?
- • Why is design innovation important is the construction of innovative
- assessment systems.
+• What is innovation?
+• What is design thinking and design innovation?
+• Why is design innovation important is the construction of innovative
+assessment systems.
 
- RILS 2021: Innovation in Educational Assessment Systems 14</div>
+RILS 2021: Innovation in Educational Assessment Systems 14</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Welcome to RILS 2021: Session 2
- Design Innovation -- Planning:
- Understanding the Problem – Root Cause Analysis
- Identify agenda and outcomes
+Design Innovation -- Planning:
+Understanding the Problem – Root Cause Analysis
+Identify agenda and outcomes
 
- RILS 2021: Innovation in Educational Assessment Systems 15</div>
+RILS 2021: Innovation in Educational Assessment Systems 15</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
@@ -238,25 +238,25 @@ Why engage in Design Innovation for an assessment system?
 <div class="archive-text">Design Innovation: Human Centered Design
 Design Innovation of an assessment system assumes:
 • A basic knowledge of the characteristics of the system, including:
- • Areas of strength
- • Areas of need
- • Culture of individuals in the system
+• Areas of strength
+• Areas of need
+• Culture of individuals in the system
 • A profound knowledge of the system, including:
- • Build shared ownership of improvement
- • Detect and learn from variations in practice
- • Build and share knowledge among practitioners
- • Motivate users and innovators
+• Build shared ownership of improvement
+• Detect and learn from variations in practice
+• Build and share knowledge among practitioners
+• Motivate users and innovators
 
- RILS 2021: Innovation in Educational Assessment Systems 16</div>
+RILS 2021: Innovation in Educational Assessment Systems 16</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Model for Design Innovation:
- Human Centered Design
+Human Centered Design
 
- RILS 2021: Innovation in Educational Assessment Systems 17</div>
+RILS 2021: Innovation in Educational Assessment Systems 17</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
@@ -264,10 +264,10 @@ Design Innovation of an assessment system assumes:
 ```{=html}
 <div class="archive-text">Design Innovation: Human Centered Design
 The planning process includes root cause analysis; in other words:
- Why engage in Design Innovation for an assessment system?
+Why engage in Design Innovation for an assessment system?
 Problem Analysis requires:
 • identifying the important elements of a problem situation by analyzing relevant
- information,
+information,
 • framing problems,
 • identifying possible causes,
 • seeking additional needed information,
@@ -275,25 +275,25 @@ Problem Analysis requires:
 • exhibiting conceptual flexibility,
 • assisting others to form reasoned opinions about problems and issues
 
- RILS 2021: Innovation in Educational Assessment Systems 18</div>
+RILS 2021: Innovation in Educational Assessment Systems 18</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Root Cause Analysis
- What is it?
- How do you engage in the process to determine the gap between what is and
- what is desired?
- Juan D’Brot
- Chris Brandt
- (25 minutes)
+What is it?
+How do you engage in the process to determine the gap between what is and
+what is desired?
+Juan D’Brot
+Chris Brandt
+(25 minutes)
 
- Individuals from organizations to discuss their successes with Root Cause
- Analysis
- (20 minutes)
+Individuals from organizations to discuss their successes with Root Cause
+Analysis
+(20 minutes)
 
- RILS 2021: Innovation in Educational Assessment Systems 19</div>
+RILS 2021: Innovation in Educational Assessment Systems 19</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
@@ -301,52 +301,52 @@ Problem Analysis requires:
 ```{=html}
 <div class="archive-text">Closure – Session 2
 • Takeaways from session:
- • What does the planning phase include?
- • What is a root cause analysis?
- • How does root cause analysis fit into design innovation?
+• What does the planning phase include?
+• What is a root cause analysis?
+• How does root cause analysis fit into design innovation?
 
- RILS 2021: Innovation in Educational Assessment Systems 20</div>
+RILS 2021: Innovation in Educational Assessment Systems 20</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Welcome to RILS 2021: Session 3
- Design Innovation: Engaging stakeholders in the design
- process
- Identify agenda and outcomes
+Design Innovation: Engaging stakeholders in the design
+process
+Identify agenda and outcomes
 
- RILS 2021: Innovation in Educational Assessment Systems 21</div>
+RILS 2021: Innovation in Educational Assessment Systems 21</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Learning
- “Innovation is not a lightbulb moment of genius. It calls for
- deep understanding and rigorous discernment.”
+“Innovation is not a lightbulb moment of genius. It calls for
+deep understanding and rigorous discernment.”
 
- RILS 2021: Innovation in Educational Assessment Systems 22</div>
+RILS 2021: Innovation in Educational Assessment Systems 22</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Welcome to RILS 2021: Session 4
- Design Innovation: Creating a Theory of Action
- Identify agenda and outcomes
+Design Innovation: Creating a Theory of Action
+Identify agenda and outcomes
 
- RILS 2021: Innovation in Educational Assessment Systems 23</div>
+RILS 2021: Innovation in Educational Assessment Systems 23</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Learning
- “Innovation is not a lightbulb moment of genius. It calls for
- deep understanding and rigorous discernment.”
+“Innovation is not a lightbulb moment of genius. It calls for
+deep understanding and rigorous discernment.”
 
- RILS 2021: Innovation in Educational Assessment Systems 24</div>
+RILS 2021: Innovation in Educational Assessment Systems 24</div>
 ```
 
 ## About this copy {.archive-about}

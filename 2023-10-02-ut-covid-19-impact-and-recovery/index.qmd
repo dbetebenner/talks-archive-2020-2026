@@ -32,18 +32,18 @@ Introductory Concepts and Terminology</div>
 ```{=html}
 <div class="archive-text">COVID-19 Pandemic
 • The COVID-19 Pandemic led to, arguably, the largest educational disruption in
- the history of the United States.
+the history of the United States.
 • Two-and-a-half years into the pandemic and the impacts of the pandemic are still
- being felt.
+being felt.
 • The pandemic impacted students academically, emotionally, physically, and
- financially.
+financially.
 • In this overview, we focus address three things:
- • Academic Impact: What is it and what was happened to students in Utah?
- • Academic Recovery: What is it and what is happening to students in Utah
- currently?
- • Now What?: How can impact and recovery data be leveraged to help
- students going forward? ROI and other evidence-based investigations of
- what is working.</div>
+• Academic Impact: What is it and what was happened to students in Utah?
+• Academic Recovery: What is it and what is happening to students in Utah
+currently?
+• Now What?: How can impact and recovery data be leveraged to help
+students going forward? ROI and other evidence-based investigations of
+what is working.</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -51,16 +51,14 @@ Introductory Concepts and Terminology</div>
 ```{=html}
 <div class="archive-text">What is Academic Impact?
 • The pandemic and all the ensuing disruptions functioned/
- functions as an “academic headwind”, impeding (in general)
- the academic progress of students.
+functions as an “academic headwind”, impeding (in general)
+the academic progress of students.
 • Headwinds impede progress in two ways:
- ▪ They slow one’s rate of progress (speedometer)
- ▪ And by slowing one’s rate of progress, less distance is traveled (odometer).
+▪ They slow one’s rate of progress (speedometer)
+▪ And by slowing one’s rate of progress, less distance is traveled (odometer).
 • In education, these two impediments manifest as:
- ▪ Decrease in student growth (i.e., decrease in velocity = deceleration).
- ▪ Decrease in student attainment.
-
- 4</div>
+▪ Decrease in student growth (i.e., decrease in velocity = deceleration).
+▪ Decrease in student attainment.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -68,18 +66,16 @@ Introductory Concepts and Terminology</div>
 ```{=html}
 <div class="archive-text">Learning acceleration/deceleration
 • Summarization of assessment data (either for diagnostic or
- accountability purposes) emphasizes two types of data results: Status
- (i.e., student attainment) and Growth (i.e., student academic progress)
+accountability purposes) emphasizes two types of data results: Status
+(i.e., student attainment) and Growth (i.e., student academic progress)
 • With the pandemic, the emphasis has changed to look at the
- academic impact
+academic impact
 • Impact is synonymous with declaration
 • Recovery is synonymous with acceleration
- ▪ Deceleration, by definition, is the change in velocity (i.e., a decrease in growth)
- ▪ Acceleration, by definition, is the change in velocity (i.e., increase in growth
+▪ Deceleration, by definition, is the change in velocity (i.e., a decrease in growth)
+▪ Acceleration, by definition, is the change in velocity (i.e., increase in growth
 ▪ To understand whether and the extent to which recovery is occurring,
- one must understand the magnitude of impact.
-
- 5</div>
+one must understand the magnitude of impact.</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -87,17 +83,14 @@ Introductory Concepts and Terminology</div>
 ```{=html}
 <div class="archive-text">Assessment Data
 • We investigated the impacts of the pandemic across two time frames:
- • Impact: Spring 2020 through Summer 2021
- • Recovery Year 1: Fall 2021 through Summer 2022
- • Recovery Year 2: Fall 2022 through Summer 2023
+• Impact: Spring 2020 through Summer 2021
+• Recovery Year 1: Fall 2021 through Summer 2022
+• Recovery Year 2: Fall 2022 through Summer 2023
 • To investigate the impact &amp; recovery, we utilized RISE State Summative
- Assessment Data
- • Impact: RISE Spring 2019 to Spring 2021 (RISE testing canceled in
- 2020)
- • Recovery Year 1: RISE Spring 2021 to Spring 2022
- • Recovery Year 2: RISE Spring 2022 to Spring 2023
-
- 6</div>
+Assessment Data
+• Impact: RISE Spring 2019 to Spring 2021 (RISE testing canceled in
+• Recovery Year 1: RISE Spring 2021 to Spring 2022
+• Recovery Year 2: RISE Spring 2022 to Spring 2023</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -105,14 +98,12 @@ Introductory Concepts and Terminology</div>
 ```{=html}
 <div class="archive-text">Assessment Data
 • We investigated academic impact by using two complementary
- analyses:
- • Change in attainment (odometer): Equi-percentile scale score
- change (all grades)
- • Change in growth (speedometer): Baseline referenced student
- growth percentile (SGP) change (grades for which growth is
- calculated)
-
- 7</div>
+analyses:
+• Change in attainment (odometer): Equi-percentile scale score
+change (all grades)
+• Change in growth (speedometer): Baseline referenced student
+growth percentile (SGP) change (grades for which growth is
+calculated)</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -128,11 +119,11 @@ RISE: Spring 2019 and Spring 2021 Assessments</div>
 ```{=html}
 <div class="archive-text">Impact Phase
 • During the 2020-2021 academic year, schooling was not normal for a large percentage of
- students.
+students.
 • Impacts to schooling in Utah were less than observed in many other parts of the United
- States.
+States.
 • The expectation is that education disruptions impacted instruction which in turn impacted
- (slowed down) student learning.
+(slowed down) student learning.
 • RISE assessment data spring 2019 and 2021 was utilized to examine impact.
 • We examine impact along a continuum from severe to none:</div>
 ```
@@ -184,7 +175,6 @@ students than lower-achieving students.</div>
 <div class="archive-text">Growth Impact
 Black Line: (pre-covid) conditional scaled-score
 distribution — Grade 8/2019 conditioned on Grade
-6/2017
 Red line: conditional scaled-score distribution — Grade
 8/2021 conditioned on Grade 6/2019
 The impact of the pandemic on student achievement
@@ -225,7 +215,6 @@ overall and by achievement quintile
 For Grade 8 mathematics, the overall
 academic impact for students was large (z
 decrease = -0.15 and median SGP decrease
-= -14)
 Academic impact was not uniform across
 students. For this grade/content area,
 higher-achieving students were more
@@ -238,18 +227,18 @@ students.</div>
 ```{=html}
 <div class="archive-text">Overall Impact
 • ELA
- • Decreases in the percent proficient ranged from upper single digits in lower grades to
- lower single digits in higher grades.
- • Median (baseline) SGPs ranged from lower 40s (lower grades) to mid 40s (higher grades)
- • Impacts were categorized as moderate
+• Decreases in the percent proficient ranged from upper single digits in lower grades to
+lower single digits in higher grades.
+• Median (baseline) SGPs ranged from lower 40s (lower grades) to mid 40s (higher grades)
+• Impacts were categorized as moderate
 • Mathematics
- • Decreases in percent proficient were in mid to upper single digits.
- • Median (baseline) SGP decreases ranged from the upper single digits to lower double
- digits.
- • Impacts were categorized as moderate to large.
+• Decreases in percent proficient were in mid to upper single digits.
+• Median (baseline) SGP decreases ranged from the upper single digits to lower double
+digits.
+• Impacts were categorized as moderate to large.
 • Moderate impacts, under ideal circumstances can be made up in a year whereas large to
- severe impacts likely require multiple years of above-average (pre-pandemic) growth to
- recover to where students would have been had the pandemic not occurred.</div>
+severe impacts likely require multiple years of above-average (pre-pandemic) growth to
+recover to where students would have been had the pandemic not occurred.</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
@@ -271,14 +260,14 @@ RISE: Spring 2021 and Spring 2022 Assessments</div>
 ```{=html}
 <div class="archive-text">Recovery Phase
 • During the 2021-2022 academic year, schooling returned to normal for most
- students.
+students.
 • The hope was that a return to normal would lead to recovery of the academic
- losses incurred by students.
+losses incurred by students.
 • Because learning slowed during the initial phase of the pandemic, to make up for
- those losses, learning must accelerate to rates above normal in order to catch up
- for those losses.
+those losses, learning must accelerate to rates above normal in order to catch up
+for those losses.
 • Data from two sources was utilized to examine whether recovery is occurring:
- • RISE data from 2021 and 2022
+• RISE data from 2021 and 2022
 • We try to distinguish between: Recovery, Stabilization, Continued Deterioration</div>
 ```
 
@@ -287,16 +276,15 @@ RISE: Spring 2021 and Spring 2022 Assessments</div>
 ```{=html}
 <div class="archive-text">Two Types of Recovery: System &amp; Student
 • We elaborate on the results from the recovery analyses in two ways:
- • System level recovery: Is the education system supporting rates
- of learning that are comparable to what it was prior to the
- pandemic?
- • Student level recovery: Are student attaining at levels that are
- comparable to what they were prior to the pandemic.
+• System level recovery: Is the education system supporting rates
+of learning that are comparable to what it was prior to the
+pandemic?
+• Student level recovery: Are student attaining at levels that are
+comparable to what they were prior to the pandemic.
 • Previously, we focused mostly on system level impact: examining
- rates of learning in 2021 compared to those prior to the pandemic.
+rates of learning in 2021 compared to those prior to the pandemic.
 • We continue system level analyses but add additional focus in on
- student level recovery.
- 22</div>
+student level recovery.</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
@@ -304,12 +292,12 @@ RISE: Spring 2021 and Spring 2022 Assessments</div>
 ```{=html}
 <div class="archive-text">Two Types of Recovery: System &amp; Student
 • System level recovery
- • Comparison of 2019 and 2022 same grade student growth: We examine
- change in baseline student growth (SGPs) for 2019 students and 2023 students
- utilizing coefficient matrices derived from pre-pandemic cohorts of students.
+• Comparison of 2019 and 2022 same grade student growth: We examine
+change in baseline student growth (SGPs) for 2019 students and 2023 students
+utilizing coefficient matrices derived from pre-pandemic cohorts of students.
 • Student level recovery
- • Comparison of 2019 to 2022 same grade attainment: We examine equi-
- percentile change in attainment for 2019 students and 2023 students.</div>
+• Comparison of 2019 to 2022 same grade attainment: We examine equi-
+percentile change in attainment for 2019 students and 2023 students.</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
@@ -317,20 +305,19 @@ RISE: Spring 2021 and Spring 2022 Assessments</div>
 ```{=html}
 <div class="archive-text">System Recovery: Cohort-Based Comparison (RISE)
 Compare observed versus expected attainment for a cohort of students
- 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023
 
- Grade 3
+Grade 3
 
- No Testing due to
- Grade 4
+No Testing due to
+Grade 4
 
- Grade 5
+Grade 5
 
- Grade 6 COVID-19 Pandemic
+Grade 6 COVID-19 Pandemic
 
- Grade 7
+Grade 7
 
- Grade 8</div>
+Grade 8</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
@@ -338,21 +325,20 @@ Compare observed versus expected attainment for a cohort of students
 ```{=html}
 <div class="archive-text">Student Recovery: Cross-Sectional Comparison (RISE)
 Compare same grade/content area attainment across di erent years
- 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023
 
- Grade 3
+Grade 3
 
- No Testing due to
- Grade 4
+No Testing due to
+Grade 4
 
- Grade 5
+Grade 5
 
- Grade 6 COVID-19 Pandemic
+Grade 6 COVID-19 Pandemic
 
- Grade 7
+Grade 7
 
- Grade 8
- ff</div>
+Grade 8
+ff</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
@@ -370,29 +356,21 @@ No-recovery</div>
 ```{=html}
 <div class="archive-text">Baseline SGP: What is Recovery?
 • Given the negative pandemic impacts, any recovery implies learning
- acceleration.
+acceleration.
 • However, not all acceleration can be considered recovery
 • Acceleration versus 2021 versus acceleration versus 2019
- 99
- 90
- 80
- V-Shaped Recovery (&gt; 60)
- 70
- 60 U-Shaped Recovery (50 to 60)
+V-Shaped Recovery (&gt; 60)
+60 U-Shaped Recovery (50 to 60)
 
- Median 2021 Baseline SGP 50 Median 2022 Baseline SGP
- L-Shaped “Recovery” (40 to 50)
- 40
- Note: Any median SGP above 30
- 30 30
- Downward Spiral (&lt; 40) in 2022 would be considered
- 20 acceleration. But only values
- 10
- above 50 would be sufficient to
- begin catching students up to
- 1
- where they would have been
- absent the pandemic.</div>
+Median 2021 Baseline SGP 50 Median 2022 Baseline SGP
+L-Shaped “Recovery” (40 to 50)
+Note: Any median SGP above 30
+Downward Spiral (&lt; 40) in 2022 would be considered
+20 acceleration. But only values
+above 50 would be sufficient to
+begin catching students up to
+where they would have been
+absent the pandemic.</div>
 ```
 
 ## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
@@ -400,14 +378,14 @@ No-recovery</div>
 ```{=html}
 <div class="archive-text">Recovery Phase Year 1
 • As mentioned previously, we distinguish between student level recovery and
- system level recovery this year.
+system level recovery this year.
 • Because student level recovery utilizes status comparisons between 2019 and
- 2022 and system level recovery utilizes growth comparisons between 2019 and
- 2022, status and growth was characterized in three ways:
- • Below: Attainment/Growth of students is less in 2022 than in 2019
- • Comparable: Attainment/Growth of students is approximately the same in
- 2022 as in 2019.
- • Above: Attainment/Growth of students is greater in 2022 than in 2019</div>
+2022 and system level recovery utilizes growth comparisons between 2019 and
+2022, status and growth was characterized in three ways:
+• Below: Attainment/Growth of students is less in 2022 than in 2019
+• Comparable: Attainment/Growth of students is approximately the same in
+2022 as in 2019.
+• Above: Attainment/Growth of students is greater in 2022 than in 2019</div>
 ```
 
 ## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
@@ -504,114 +482,57 @@ students.</div>
 
 ```{=html}
 <div class="archive-text">SBA ELA Grade 8
- Hawaii 2021 to 2022 COVID⌧19 Academic Recovery Special Education Students
- Growth: Grade 6 2019 to Grade 8 2022 Status: Grade 8 2021 to Grade 8 2022 Summary
- 2021 Grade 6 Scaled Score Decile Cuts
- 2021 Grade 8 Scaled Score
- Observed
- 10 20 30 40 50 60 70 80 90
- All Students
- Academic Impact: Overall and by Quintile
+Hawaii 2021 to 2022 COVID⌧19 Academic Recovery Special Education Students
+Growth: Grade 6 2019 to Grade 8 2022 Status: Grade 8 2021 to Grade 8 2022 Summary
+2021 Grade 6 Scaled Score Decile Cuts
+2021 Grade 8 Scaled Score
+Observed
+All Students
+Academic Impact: Overall and by Quintile
 
- 2022 Grade 8 Scaled Score Decile Cuts
+2022 Grade 8 Scaled Score Decile Cuts
 
- Grade 8 Scaled/Standardized Score and Achievement Level Cuts
- Special Education Students
- 10 20 30 40 50 60 70 80 90
- 2200 2400 2500 2700
- 2700
- 2018 to 2019 Mean Conditional Status
- 90 2700
- 2021 Percentiles (Observed)
- Overall
- 2021 to 2022 Mean Conditional Status (Observed) 1 2022 Percentiles (Observed)
- 2021 to 2022 Growth Impact 80 2021 to 2022 Status Impact Deterioration
- 2021 and 2022 Mean Scaled Scores
- 70
- 0.5 Q1 Q2 Q3 Q4 Q5
- 2600 60 2600
- Deterioration Deterioration Deterioration Small N Small N
+Grade 8 Scaled/Standardized Score and Achievement Level Cuts
+Special Education Students
+2018 to 2019 Mean Conditional Status
+2021 Percentiles (Observed)
+Overall
+2021 to 2022 Mean Conditional Status (Observed) 1 2022 Percentiles (Observed)
+2021 to 2022 Growth Impact 80 2021 to 2022 Status Impact Deterioration
+2021 and 2022 Mean Scaled Scores
+Deterioration Deterioration Deterioration Small N Small N
 
- 2022 Grade 8 Scaled Score
- 50 0
+2022 Grade 8 Scaled Score
 
- 40
+Participation
+Total Status Growth
 
- −0.5
- 30
- 2500 2500
- Participation
- 20
- −1
- −1.13
- −1.22
- Total Status Growth
- 10
- 2400 2400
- −1.5 2021 1,251 1,251 (100.0%) 1,153 (92.2%)
+2300 2300 2021: 8.1% Proficient
 
- 2022 1,221 1,221 (100.0%) 957 (78.4%)
- −2
+2022: 8.0% Proficient
+Growth/Status Change Legend
+2021 Grade 6 Scaled Score with Achievement Level Cuts Grade 8 Overall and Subgroup Percentile Ranks
 
- −2.5
- 2300 2300 2021: 8.1% Proficient
+Deterioration Stabilization Recovery
+2019 &amp; 2022 Grade 8 Median SGPs by Quintile 2021 &amp; 2022 Grade 8 Mean Scaled (Standardized) Scores by Quintile
+Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
+2019 Grade 8 Students 42.0 46.0 43.5 48.5 63.0 44.0 2021 Grade 8 Students 2400 (−1.13) 2504 (−1.13) 2568 (−1.13) 2627 (−1.13) 2691 (−1.13) 2448 (−1.13)
+2022 Grade 8 Students 34.5 33.0 34.0 39.0 68.0 34.0 2022 Grade 8 Students 2389 (−1.22) 2498 (−1.22) 2561 (−1.22) 2623 (−1.22) 2690 (−1.22) 2438 (−1.22) Calculations suppressed
+Academic Impact (Observed) −7.5 −13.0 −9.5 −9.5 5.0 −10.0 Change (Observed) −10 (−0.10) −6 (−0.06) −8 (−0.07) −4 (−0.03) −1 (−0.01) −10 (−0.09)
+Count Observed 2019 777 255 96 18 7 1,153 Count Observed 2021 665 250 87 28 12 1,042
+due to small group N (&lt; 50)
+Count Observed 2022 662 202 59 29 5 957 Count Observed 2022 809 247 104 46 15 1,221
 
- −3
- 2022: 8.0% Proficient
- Growth/Status Change Legend
- 2200 2200 −3.5
- 10 20 30 40 50 60 70 80 90
- 2200 2300 2400 2500 2700 −30 −7 10 30
- 0 10 20 30 40 50 60 70 80 90 100
- 2021 Grade 6 Scaled Score with Achievement Level Cuts Grade 8 Overall and Subgroup Percentile Ranks
- −0.55 −0.07 0.1 0.2
+2022 to 2021 Scaled/Standardized Score Difference
+2022 to 2021 SGP Difference (Observed) 2022 to 2021 Grade 8 Status Change (Observed)
+2022 to 2021 Conditional Status Difference (Observed) −0.51: Correlation SGP and Status Percentile Change
 
- Deterioration Stabilization Recovery
- 2019 &amp; 2022 Grade 8 Median SGPs by Quintile 2021 &amp; 2022 Grade 8 Mean Scaled (Standardized) Scores by Quintile
- Q1 Q2 Q3 Q4 Q5 Overall Q1 Q2 Q3 Q4 Q5 Overall
- 2019 Grade 8 Students 42.0 46.0 43.5 48.5 63.0 44.0 2021 Grade 8 Students 2400 (−1.13) 2504 (−1.13) 2568 (−1.13) 2627 (−1.13) 2691 (−1.13) 2448 (−1.13)
- 2022 Grade 8 Students 34.5 33.0 34.0 39.0 68.0 34.0 2022 Grade 8 Students 2389 (−1.22) 2498 (−1.22) 2561 (−1.22) 2623 (−1.22) 2690 (−1.22) 2438 (−1.22) Calculations suppressed
- Academic Impact (Observed) −7.5 −13.0 −9.5 −9.5 5.0 −10.0 Change (Observed) −10 (−0.10) −6 (−0.06) −8 (−0.07) −4 (−0.03) −1 (−0.01) −10 (−0.09)
- Count Observed 2019 777 255 96 18 7 1,153 Count Observed 2021 665 250 87 28 12 1,042
- due to small group N (&lt; 50)
- Count Observed 2022 662 202 59 29 5 957 Count Observed 2022 809 247 104 46 15 1,221
-
- 2022 to 2021 Scaled/Standardized Score Difference
- 35 35
- 2022 to 2021 SGP Difference (Observed) 2022 to 2021 Grade 8 Status Change (Observed)
- 30 30 0.30
- 2022 to 2021 Conditional Status Difference (Observed) −0.51: Correlation SGP and Status Percentile Change
-
- Conditional Status/Growth Change
- 25 0.55: Correlation SGP and Conditional Status Difference 25 0.25
-
- 20 20 0.20
-
- 15 15 0.15
-
- 10 10 0.10
+Conditional Status/Growth Change
+25 0.55: Correlation SGP and Conditional Status Difference 25 0.25
 
 2021 to 2022
- 5 5 0.05
 
- 0 0 0.00
-
- −5 −5 −0.05
-
- −10 −10 −0.10 −0.09
-
- −15 −15 −0.15
-
- −20 −20 −0.20
-
- −25 −25 −0.25
- −30 −30 −0.30
- −35 −35
- 10 20 30 40 50 60 70 80 90 2200 2400 2500 2700
-
- 2200 2300 2400 2500 2700 0 10 20 30 40 50 60 70 80 90 100
-
- 2021 Grade 6 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2021 Norm)</div>
+2021 Grade 6 Scaled Score with Decile &amp; Achievement Level Cuts Grade 8 Percentile Ranks and Scaled Scores (2021 Norm)</div>
 ```
 
 ## {.archive-slide background-image="slides/37.webp" background-size="contain" background-color="#14140f"}
@@ -619,15 +540,15 @@ students.</div>
 ```{=html}
 <div class="archive-text">Overall Recovery
 • Analysis of 2022 RISE and ACCESS data indicates many trends in Utah
- to be happy about.
+to be happy about.
 • In both ELA and mathematics, learning acceleration was at least at the
- level of stabilization and, in many cases, could be considered genuine
- recovery.
+level of stabilization and, in many cases, could be considered genuine
+recovery.
 • Compared to a dozen other states where the Center conducted these
- analyses, Utah comes out as the best in terms of pandemic recovery.
+analyses, Utah comes out as the best in terms of pandemic recovery.
 • Results from the 2023 data will be critical to assess whether these
- exemplary rates of learning (beyond what the state experience pre-
- COVID) are being maintained.</div>
+exemplary rates of learning (beyond what the state experience pre-
+COVID) are being maintained.</div>
 ```
 
 ## {.archive-slide background-image="slides/38.webp" background-size="contain" background-color="#14140f"}
@@ -643,14 +564,14 @@ SBA: Spring 2022 and Spring 2023 Assessments</div>
 ```{=html}
 <div class="archive-text">Recovery Phase Year 2
 • As mentioned previously, we distinguish between student level recovery and
- system level recovery this year.
+system level recovery this year.
 • Because student level recovery utilizes status comparisons between 2019 and
- 2023 and system level recovery utilizes growth comparisons between 2019 and
- 2023, status and growth was characterized in three ways:
- • Below: Attainment/Growth of students is less in 2023 than in 2019
- • Comparable: Attainment/Growth of students is approximately the same in
- 2023 as in 2019.
- • Above: Attainment/Growth of students is greater in 2023 than in 2019</div>
+2023 and system level recovery utilizes growth comparisons between 2019 and
+2023, status and growth was characterized in three ways:
+• Below: Attainment/Growth of students is less in 2023 than in 2019
+• Comparable: Attainment/Growth of students is approximately the same in
+2023 as in 2019.
+• Above: Attainment/Growth of students is greater in 2023 than in 2019</div>
 ```
 
 ## {.archive-slide background-image="slides/40.webp" background-size="contain" background-color="#14140f"}
@@ -659,37 +580,36 @@ SBA: Spring 2022 and Spring 2023 Assessments</div>
 <div class="archive-text">SBA ELA and Mathematics
 Hawaii 2022 to 2023 COVID⌧19 Academic System Recovery Grade &amp; Content Area
 Behind Ahead System Recovery characterizes the extent
-−0.38 −0.09 0.12 0.38
- Status Change to which rates of student learning (i.e., growth)
- have returned to pre−pandemic rates of learning.
- Calculations suppressed
- Behind Comparable Ahead
- due to small group N (&lt; 50)
+Status Change to which rates of student learning (i.e., growth)
+have returned to pre−pandemic rates of learning.
+Calculations suppressed
+Behind Comparable Ahead
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- All Students Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+All Students Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Economically Disadvantaged Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Economically Disadvantaged Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Non−Economically Disadvantaged Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Non−Economically Disadvantaged Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Special Education Comparable Comparable Comparable Comparable Comparable Behind Comparable Comparable Comparable Comparable Comparable Comparable
+Special Education Comparable Comparable Comparable Comparable Comparable Behind Comparable Comparable Comparable Comparable Comparable Comparable
 
- Asian Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Asian Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- White Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+White Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Hispanic Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Hispanic Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Native Hawaiian Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Native Hawaiian Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- ELL Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+ELL Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Female Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Female Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Male Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable</div>
+Male Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable</div>
 ```
 
 ## {.archive-slide background-image="slides/41.webp" background-size="contain" background-color="#14140f"}
@@ -697,34 +617,33 @@ Behind Ahead System Recovery characterizes the extent
 ```{=html}
 <div class="archive-text">SBA ELA and Mathematics
 Hawaii 2022 to 2023 COVID⌧19 Academic System Recovery
- Grade, Content Area &amp; Achievement Quintile
+Grade, Content Area &amp; Achievement Quintile
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
- Non−Economically Disadvantaged
+Non−Economically Disadvantaged
 
- Special Education
+Special Education
 
- Asian
+Asian
 
- White
+White
 
- Hispanic
+Hispanic
 
- Native Hawaiian
+Native Hawaiian
 
- ELL
+ELL
 
- Female
+Female
 
- Male</div>
+Male</div>
 ```
 
 ## {.archive-slide background-image="slides/42.webp" background-size="contain" background-color="#14140f"}
@@ -732,34 +651,33 @@ Hawaii 2022 to 2023 COVID⌧19 Academic System Recovery
 ```{=html}
 <div class="archive-text">SBA ELA and Mathematics
 Hawaii 2022 to 2023 COVID⌧19 Academic System Recovery
- Grade, Content Area &amp; Achievement Quintile
+Grade, Content Area &amp; Achievement Quintile
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
- Non−Economically Disadvantaged
+Non−Economically Disadvantaged
 
- Special Education
+Special Education
 
- Asian
+Asian
 
- White
+White
 
- Hispanic
+Hispanic
 
- Native Hawaiian
+Native Hawaiian
 
- ELL
+ELL
 
- Female
+Female
 
- Male</div>
+Male</div>
 ```
 
 ## {.archive-slide background-image="slides/43.webp" background-size="contain" background-color="#14140f"}
@@ -767,8 +685,7 @@ Hawaii 2022 to 2023 COVID⌧19 Academic System Recovery
 ```{=html}
 <div class="archive-text">Recovery Phase Year 2
 • Though student growth was not as high in 2023 as in 2022, results in Hawai’i
- remained above pre-pandemic rates, particularly in Mathematics
-•</div>
+remained above pre-pandemic rates, particularly in Mathematics</div>
 ```
 
 ## {.archive-slide background-image="slides/44.webp" background-size="contain" background-color="#14140f"}
@@ -776,14 +693,14 @@ Hawaii 2022 to 2023 COVID⌧19 Academic System Recovery
 ```{=html}
 <div class="archive-text">Student level recovery
 • It is critical to understand that recovery of the system does not imply student level
- recovery
+recovery
 • Because students rates of learning slowed so dramatically during the pandemic,
- rates of learning necessary to catch students up to where they would have been
- would have to be equally dramatic (in the positive direction)
+rates of learning necessary to catch students up to where they would have been
+would have to be equally dramatic (in the positive direction)
 • The following figures illustrate the extent to which student attainment is behind
- 2019 attainment levels.
+2019 attainment levels.
 • Comparison to 2019 levels is a “low bar” as attainment levels in 2023 had the
- pandemic not occurred would almost certainly have been higher than 2019 levels.</div>
+pandemic not occurred would almost certainly have been higher than 2019 levels.</div>
 ```
 
 ## {.archive-slide background-image="slides/45.webp" background-size="contain" background-color="#14140f"}
@@ -792,37 +709,36 @@ Hawaii 2022 to 2023 COVID⌧19 Academic System Recovery
 <div class="archive-text">SBA ELA and Mathematics
 Hawaii 2019 to 2023 COVID⌧19 Academic Student Recovery Grade &amp; Content Area
 Behind Ahead Student Recovery characterizes the extent
-−0.38 −0.09 0.12 0.38
- Status Change to which student attainment has returned
- to pre−pandemic levels of attainment.
- Calculations suppressed
- Behind Comparable Ahead
- due to small group N (&lt; 50)
+Status Change to which student attainment has returned
+to pre−pandemic levels of attainment.
+Calculations suppressed
+Behind Comparable Ahead
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
 
- All Students Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Behind Behind
+All Students Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Behind Behind
 
- Economically Disadvantaged Behind Comparable Comparable Comparable Comparable Comparable Behind Comparable Behind Behind Behind Behind
+Economically Disadvantaged Behind Comparable Comparable Comparable Comparable Comparable Behind Comparable Behind Behind Behind Behind
 
- Non−Economically Disadvantaged Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Behind Behind
+Non−Economically Disadvantaged Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Behind Behind
 
- Special Education Behind Comparable Comparable Behind Behind Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Special Education Behind Comparable Comparable Behind Behind Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- Asian Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
+Asian Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable
 
- White Comparable Comparable Behind Comparable Behind Comparable Comparable Comparable Comparable Comparable Comparable Behind
+White Comparable Comparable Behind Comparable Behind Comparable Comparable Comparable Comparable Comparable Comparable Behind
 
- Hispanic Behind Comparable Comparable Behind Behind Comparable Behind Comparable Comparable Behind Behind Behind
+Hispanic Behind Comparable Comparable Behind Behind Comparable Behind Comparable Comparable Behind Behind Behind
 
- Native Hawaiian Behind Comparable Comparable Comparable Comparable Behind Behind Comparable Behind Comparable Behind Behind
+Native Hawaiian Behind Comparable Comparable Comparable Comparable Behind Behind Comparable Behind Comparable Behind Behind
 
- ELL Comparable Comparable Comparable Ahead Ahead Ahead Comparable Comparable Comparable Comparable Comparable Comparable
+ELL Comparable Comparable Comparable Ahead Ahead Ahead Comparable Comparable Comparable Comparable Comparable Comparable
 
- Female Comparable Comparable Comparable Comparable Behind Behind Comparable Comparable Comparable Behind Behind Behind
+Female Comparable Comparable Comparable Comparable Behind Behind Comparable Comparable Comparable Behind Behind Behind
 
- Male Behind Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable</div>
+Male Behind Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable Comparable</div>
 ```
 
 ## {.archive-slide background-image="slides/46.webp" background-size="contain" background-color="#14140f"}
@@ -830,41 +746,39 @@ Behind Ahead Student Recovery characterizes the extent
 ```{=html}
 <div class="archive-text">SBA ELA and Mathematics
 Hawaii 2019 to 2023 COVID⌧19 Academic Student Recovery
- Grade, Content Area &amp; Achievement Quintile
+Grade, Content Area &amp; Achievement Quintile
 Behind Ahead Student Recovery characterizes the extent
-−0.38 −0.09 0.12 0.38
- Status Change to which student attainment has returned
- to pre−pandemic levels of attainment.
- Calculations suppressed
- Behind Comparable Ahead
- due to small group N (&lt; 50)
+Status Change to which student attainment has returned
+to pre−pandemic levels of attainment.
+Calculations suppressed
+Behind Comparable Ahead
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
- Non−Economically Disadvantaged
+Non−Economically Disadvantaged
 
- Special Education
+Special Education
 
- Asian
+Asian
 
- White
+White
 
- Hispanic
+Hispanic
 
- Native Hawaiian
+Native Hawaiian
 
- ELL
+ELL
 
- Female
+Female
 
- Male</div>
+Male</div>
 ```
 
 ## {.archive-slide background-image="slides/47.webp" background-size="contain" background-color="#14140f"}
@@ -872,41 +786,39 @@ Behind Ahead Student Recovery characterizes the extent
 ```{=html}
 <div class="archive-text">SBA ELA and Mathematics
 Hawaii 2019 to 2023 COVID⌧19 Academic Student Recovery
- Grade, Content Area &amp; Achievement Quintile
+Grade, Content Area &amp; Achievement Quintile
 Behind Ahead Student Recovery characterizes the extent
-−0.38 −0.09 0.12 0.38
- Status Change to which student attainment has returned
- to pre−pandemic levels of attainment.
- Calculations suppressed
- Behind Comparable Ahead
- due to small group N (&lt; 50)
+Status Change to which student attainment has returned
+to pre−pandemic levels of attainment.
+Calculations suppressed
+Behind Comparable Ahead
+due to small group N (&lt; 50)
 
- ELA Mathematics
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
- Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
- 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+ELA Mathematics
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8
+Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile Quintile
 
- All Students
+All Students
 
- Economically Disadvantaged
+Economically Disadvantaged
 
- Non−Economically Disadvantaged
+Non−Economically Disadvantaged
 
- Special Education
+Special Education
 
- Asian
+Asian
 
- White
+White
 
- Hispanic
+Hispanic
 
- Native Hawaiian
+Native Hawaiian
 
- ELL
+ELL
 
- Female
+Female
 
- Male</div>
+Male</div>
 ```
 
 ## {.archive-slide background-image="slides/48.webp" background-size="contain" background-color="#14140f"}
@@ -914,9 +826,9 @@ Behind Ahead Student Recovery characterizes the extent
 ```{=html}
 <div class="archive-text">Recovery Year 2
 • In some grades and content areas, student are well behind where their 2019
- counterparts were.
+counterparts were.
 • This shows that even though Hawaii’s education system has bounced back well,
- large deficits remain to be overcome for thousands of students
+large deficits remain to be overcome for thousands of students
 • Of particular concern is middle school math, especially for females.</div>
 ```
 
@@ -926,48 +838,44 @@ Behind Ahead Student Recovery characterizes the extent
 <div class="archive-text">Academic Impact/Recovery Across 6 States
 
 Impact &amp; Recovery
- 20
- Mathematics
- HI4 ELA
- 15 HI6
- HI5
+Mathematics
+HI4 ELA
+15 HI6
+HI5
 
 Utah showed large impacts and 10
- HI8
- HI7
+HI8
+HI7
 
- Recovery
- HI4
+Recovery
+HI4
 
 recovery 5
- HI3
- HI5
- HI6
- HI8
+HI3
+HI5
+HI6
+HI8
 
- HI7
+HI7
 
 Utah’s academic recovery results 0 HI3
 
- Academic Recovery
+Academic Recovery
 are the best I have seen −5
 
 nationally −10
-
- −15
 
 A critical “test” of this recovery −20
 
 will be the 2023 results. If rates −25
 
- Deterioration
+Deterioration
 of learning in 2023 extend those −30
 
 of 2022, then Utah will have −35
 come out of the pandemic −40
 better than before it started
- −40 −35 −30 −25 −20 −15 −10 −5 0 5 10 15 20
- Large Impact Academic Impact Improvement</div>
+Large Impact Academic Impact Improvement</div>
 ```
 
 ## {.archive-slide background-image="slides/50.webp" background-size="contain" background-color="#14140f"}
@@ -982,17 +890,17 @@ Leveraging Assessment Data to Help Students Overcome COVID-19 Academic Impacts</
 ```{=html}
 <div class="archive-text">Exemplar Schools: Impact &amp; Recovery
 • Original discussions about examining ROI were redirected to examine Return on
- Activities:
- • Identify outlier schools in terms of impact/recovery.
- • Investigate whether activities (or lack thereof) could potentially be responsible
- for the school’s outlier status.
- • For schools with plausible activities leading to exemplary recovery, investigate
- links to relevant investment/funding.
+Activities:
+• Identify outlier schools in terms of impact/recovery.
+• Investigate whether activities (or lack thereof) could potentially be responsible
+for the school’s outlier status.
+• For schools with plausible activities leading to exemplary recovery, investigate
+links to relevant investment/funding.
 • Step 1 is to find these outlier schools.
 • We investigated schools along two dimensions:
- • Academic Impact (2019 to 2021 decrease in student learning)
- • Academic Recovery (2021 to 2022 increase in student learning relative to pre-
- pandemic 2018-2019 learning)</div>
+• Academic Impact (2019 to 2021 decrease in student learning)
+• Academic Recovery (2021 to 2022 increase in student learning relative to pre-
+pandemic 2018-2019 learning)</div>
 ```
 
 ## {.archive-slide background-image="slides/52.webp" background-size="contain" background-color="#14140f"}
@@ -1007,12 +915,12 @@ Leveraging Assessment Data to Help Students Overcome COVID-19 Academic Impacts</
 <div class="archive-text">Exemplar Schools: Impact &amp; Recovery
 • As can be seen, Utah and its schools experienced a largely positive 2021-2022
 • We’ve created Excel spreadsheets with the identified schools to help to sort
- through the many potential criteria to use to select exemplar schools
+through the many potential criteria to use to select exemplar schools
 • As we discussed in Portsmouth, there was some concern that of low motivation
- leading to poor results. To examine we filtered on students with very low to very
- high and very high to very low growth.
- • Filtering out these students led to non-appreciable changes to the impact-
- recovery examinations of schools.</div>
+leading to poor results. To examine we filtered on students with very low to very
+high and very high to very low growth.
+• Filtering out these students led to non-appreciable changes to the impact-
+recovery examinations of schools.</div>
 ```
 
 ## {.archive-slide background-image="slides/56.webp" background-size="contain" background-color="#14140f"}
